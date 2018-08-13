@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2831</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3145</ID>
+      <DefaultText>The liquid within this flask froths and ripples of its own accord. When swallowed, the elixir twists and morphs the face, transforming it into a nightmarish mask of rotting, insect-infested flesh, and all things horrible, provoking nearby foes to become &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Terrified"&gt;&lt;#30d3d5&gt;Terrified&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#30d3d5&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Terrified"&gt;&lt;#30d3d5&gt;Terrified&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; and &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sickened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#f7b733&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sickened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3154</ID>
+      <DefaultText>Invigorates the body, warding off the effects of &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;&lt;/link&gt;, reducing their potency.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3156</ID>
+      <DefaultText>This potion clears distraction and fear from the mind, reducing the effectiveness of &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;&lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3394</ID>
+      <DefaultText>A call for divine favor that grants the &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Insightful&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#ca58ff&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Insightful&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; Inspiration to allies in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3398</ID>
+      <DefaultText>Calls down a shaft of intense sunlight, burning and potentially &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Blinded"&gt;&lt;#ca58ff&gt;Blinded&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#ca58ff&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Blinded"&gt;&lt;#ca58ff&gt;Blinding&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; those caught in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3403</ID>
+      <DefaultText>A prayer missal that grants a target ally the &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#f7b733&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; Inspiration for an extended duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3409</ID>
+      <DefaultText>A prayer missal that grants the target ally the &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Smart&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#00a4ff&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Smart&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; Inspiration for an extended duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3414</ID>
+      <DefaultText>Creates a beam of crushing force, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Staggered&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#ff4800&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Staggering&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; the target and anyone caught in the beam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3419</ID>
+      <DefaultText>A trio of stone claws erupt from the ground, turning flesh to stone, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralyzed&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#72da26&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralyzing&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; and inflicting Slash damage on everyone caught in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3422</ID>
+      <DefaultText>Summons an enormous infestation of venomous insects, dealing Raw damage over time, reducing Concentration and &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sickened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#f7b733&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sickening&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; anyone in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3435</ID>
+      <DefaultText>A parching wind blows across the battlefield, inflicting Raw damage on anyone in the area and leaving them &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;Weakened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#f7b733&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;Weakened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3648</ID>
+      <DefaultText>While Algol is following you around any &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Constitution Afflictions&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt; applied to you wear off more quickly, and party members regain some Health when they kill an enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3693</ID>
+      <DefaultText>While Eviee is following you around, you gain a bonus to Resolve and &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Resolve Affliction&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt; Resistance. Also, the duration of &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Resolve Afflictions&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt; applied to your party is reduced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3830</ID>
+      <DefaultText>A handful of sharpened brambles coated with a debilitating venom. When thrown at a target, they stick to fabric, skin, and leather, delivering their painful dose over a brief time. &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Hobbled"&gt;&lt;#72da26&gt;Hobbled&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;"&gt;&lt;#72da26&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Hobbled"&gt;&lt;#72da26&gt;Hobbles&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; opponents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4282</ID>
+      <DefaultText>While the wisp is following you around, &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellect Afflictions&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt; applied to you have a reduced duration and all party members are more accurate in their attacks against Spirits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4485</ID>
+      <DefaultText>While Bark String is following you around any &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity Afflictions&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt; applied to you wear off more quickly, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>Apply {0} &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;&lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity Afflictions&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
