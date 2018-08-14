@@ -1,14 +1,14 @@
 ## CHANGELOG
-### 1.2.3
+### Version 1.2.3
 - Added cyclopedia entires for the following keywords: `Glasvahl` and `White Void`.
 - Added missing entries from the BoW DLC.
 - Changed the color of the Raw icon slighly.
 - Changed the font for all rank 1 afflictions/inspirations.
 - Changed the space between rank 1 and the `Fit` Inspirations icon.
 - Added missing entries containing the keyword `Defenses`.
-- The {0} value tag will no longer be colorized and will instead use the default UI color.
+- The `{0}` value tag will no longer be colorized and will instead use the default UI color.
 
-### 1.2.2
+### Version 1.2.2
 - Fixed a problem that could prevent any other mods than EnhUI to load properly.
 
 ### Version 1.2.1
