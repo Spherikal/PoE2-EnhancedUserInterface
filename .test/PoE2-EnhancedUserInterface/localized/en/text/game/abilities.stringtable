@@ -3674,6 +3674,7 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
     <Entry>
       <ID>4774</ID>
       <DefaultText>&lt;line-height=100%&gt;Gain the &lt;link="glossary://GlossaryEntry_Aware"&gt;&lt;#ca58ff&gt;Aware&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Inspiration whenever a nearby ally scores a killing blow.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4775</ID>
