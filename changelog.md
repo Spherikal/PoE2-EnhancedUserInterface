@@ -7,6 +7,8 @@
 - Reduced the space between the rank indicator and the icon for the `Fit` inspiration.
 - Added missing entries containing the keyword `Defenses`.
 - The `{0}` value tag will no longer be colorized and will instead use the default UI color.
+- Changed all custom entry ID's to something less likely to cause conflicts with other mods.
+- Changed the description of statuseffect ID `595` to something that's easier to comprehend.
 - Lots and lots of bugfixes.
 
 ### Version 1.2.2
