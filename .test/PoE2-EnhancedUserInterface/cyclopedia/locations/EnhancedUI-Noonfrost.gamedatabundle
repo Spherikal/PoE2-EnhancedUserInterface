@@ -1,0 +1,22 @@
+{
+	"GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Noonfrost",
+		"ID": "0b3714dc-49e6-4f38-bb76-a8b3d980ae8e",
+		"Components": [
+			{
+				"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+				"TermCyclopedia": 322386019,
+				"TermGui": -1,
+				"DescriptionCyclopedia": 322386020,
+				"DescriptionGui": -1,
+				"CategoryID": "8ef8a1d9-427b-4cb8-91fe-fb48ddec9cc1",
+				"ShowInJournal": "true",
+				"CaseSensitive": "false",
+				"AutomaticallyAddLinks": "true",
+				"LinkedEntriesIDs": ["565f1f8c-d768-49c5-9de3-91edd2d8fcbe", "f15e5300-1f96-4340-b58e-1f3a662f058c"],
+				"ParentObjectID": "3aedbd36-5c11-4dc5-9add-3db865a9b92e"
+			}
+		]
+	}]
+}

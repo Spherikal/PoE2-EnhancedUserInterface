@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Biawac",
+    "ID": "7a2a1fe9-d716-4cfc-9a00-44c22ae2d270",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 259,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 260,
+        "DescriptionGui": -1,
+        "CategoryID": "17c70722-fbee-4148-970f-766606e044f9",
+        "ShowInJournal": "true",
+        "CaseSensitive": "true",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": [],
+        "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+    }]
+}]
+}

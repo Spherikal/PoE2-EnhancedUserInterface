@@ -1,0 +1,20 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "glossaryentry_Languages_Ordhoma_Subcat",
+        "ID": "4d63d589-a8a6-4983-87f6-86add9590247",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 972,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 1054,
+            "DescriptionGui": -1,
+            "CategoryID": "96ed7dd0-942d-40d7-afff-c9bfbc739571",
+            "ShowInJournal": "true",
+            "CaseSensitive": "true",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }]
+}

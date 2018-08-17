@@ -1,0 +1,20 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Cultures_Huana_Subcat",
+        "ID": "57a7dedc-c427-468d-af58-3a523900c7a8",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": -1,
+            "TermGui": 3125,
+            "DescriptionCyclopedia": 621,
+            "DescriptionGui": -1,
+            "CategoryID": "db939b5f-b777-437e-92af-10328ba4bb1f",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }]
+}

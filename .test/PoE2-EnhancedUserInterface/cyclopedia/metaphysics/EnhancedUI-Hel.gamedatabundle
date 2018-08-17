@@ -1,0 +1,20 @@
+{
+	"GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Hel",
+		"ID": "dd9f983b-60bb-41c3-8050-04b7167d7694",
+		"Components": [{
+			"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+			"TermCyclopedia": 984,
+			"TermGui": -1,
+			"DescriptionCyclopedia": 985,
+			"DescriptionGui": -1,
+			"CategoryID": "17c70722-fbee-4148-970f-766606e044f9",
+			"ShowInJournal": "true",
+			"CaseSensitive": "false",
+			"AutomaticallyAddLinks": "true",
+			"LinkedEntriesIDs": ["30dd45b1-97e5-4d29-8a20-734a96df1feb"],
+			"ParentObjectID": "00000000-0000-0000-0000-000000000000"
+		}]
+	}]
+}

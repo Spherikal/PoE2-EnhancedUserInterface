@@ -1,0 +1,12 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryCategoryGameData, Assembly-CSharp",
+    "DebugName": "EUI_People",
+    "ID": "5dd04f73-1899-4df9-b598-b3e0b5cf05dc",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryCategoryComponent, Assembly-CSharp",
+        "DisplayName": 322386013,
+        "MetaCategory": "1"
+    }]
+}]
+}

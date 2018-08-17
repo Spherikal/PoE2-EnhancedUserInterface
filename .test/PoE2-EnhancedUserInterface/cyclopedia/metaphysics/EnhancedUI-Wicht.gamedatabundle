@@ -1,0 +1,20 @@
+{
+	"GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Wicht",
+		"ID": "f20ca8dc-29d2-47ef-9f53-1363588d5315",
+		"Components": [{
+			"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+			"TermCyclopedia": 277,
+			"TermGui": -1,
+			"DescriptionCyclopedia": 278,
+			"DescriptionGui": -1,
+            "CategoryID": "db939b5f-b777-437e-92af-10328ba4bb1f",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+		}]
+	}]
+}

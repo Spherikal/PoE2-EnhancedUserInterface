@@ -1,0 +1,22 @@
+{
+	"GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Iovara",
+		"ID": "0763a637-4672-4b5a-8b06-1c40e9b51a8e",
+		"Components": [
+			{
+				"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+				"TermCyclopedia": -1,
+				"TermGui": 4947,
+				"DescriptionCyclopedia": 1056,
+				"DescriptionGui": -1,
+				"CategoryID": "5dd04f73-1899-4df9-b598-b3e0b5cf05dc",
+				"ShowInJournal": "true",
+				"CaseSensitive": "false",
+				"AutomaticallyAddLinks": "true",
+				"LinkedEntriesIDs": [],
+				"ParentObjectID": "00000000-0000-0000-0000-000000000000"
+			}
+		]
+	}]
+}

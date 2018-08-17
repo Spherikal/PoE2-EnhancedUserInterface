@@ -1,0 +1,20 @@
+{
+	"GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Arkemyr",
+		"ID": "a3287ded-2fb0-4a98-bc4a-798367834eff",
+		"Components": [{
+			"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+			"TermCyclopedia": 340,
+			"TermGui": -1,
+			"DescriptionCyclopedia": 341,
+			"DescriptionGui": -1,
+			"CategoryID": "5dd04f73-1899-4df9-b598-b3e0b5cf05dc",
+			"ShowInJournal": "true",
+			"CaseSensitive": "true",
+			"AutomaticallyAddLinks": "true",
+			"LinkedEntriesIDs": [],
+			"ParentObjectID": "00000000-0000-0000-0000-000000000000"
+		}]
+	}]
+}

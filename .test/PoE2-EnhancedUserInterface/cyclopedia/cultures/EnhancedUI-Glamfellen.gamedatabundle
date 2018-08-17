@@ -1,0 +1,20 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Cultures_Glamfellen_Subcat",
+        "ID": "75199e57-5586-477e-8b95-fc783525a935",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 1050,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 1052,
+            "DescriptionGui": -1,
+            "CategoryID": "db939b5f-b777-437e-92af-10328ba4bb1f",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }]
+}
