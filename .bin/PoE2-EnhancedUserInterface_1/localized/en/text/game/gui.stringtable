@@ -791,25 +791,5 @@ Support classes include: Chanter, Paladin, and Priest.&lt;/line-height&gt;</Defa
 Crowd Control classes include: Barbarian, Chanter, Cipher, Druid, and Wizard.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
-    <Entry>
-      <ID>322386013</ID>
-      <DefaultText>People of Renown</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>322386014</ID>
-      <DefaultText>Cultures</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>322386015</ID>
-      <DefaultText>Languages</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>322386016</ID>
-      <DefaultText>Metaphysical Concepts</DefaultText>
-      <FemaleText />
-    </Entry>
   </Entries>
 </StringTableFile>
