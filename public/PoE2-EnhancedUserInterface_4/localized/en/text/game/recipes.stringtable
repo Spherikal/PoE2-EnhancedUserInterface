@@ -5,33 +5,8 @@
   <EntryCount>597</EntryCount>
   <Entries>
     <Entry>
-      <ID>423</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;space=0.7em&gt;Shock&lt;/link&gt;&lt;/nobr&gt; Shield</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>636</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;space=0.7em&gt;Burn&lt;/link&gt;&lt;/nobr&gt; Refraction</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>637</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Freeze&lt;/link&gt;&lt;/nobr&gt; Refraction</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>638</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;space=0.7em&gt;Corrode&lt;/link&gt;&lt;/nobr&gt; Refraction</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>639</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;space=0.7em&gt;Shock&lt;/link&gt;&lt;/nobr&gt; Refraction</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>767</ID>
-      <DefaultText>Tactical Withd&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;space=0.7em&gt;raw&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
+      <DefaultText>&lt;xg&gt;Tactical Withd&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;raw&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;&lt;/xg&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

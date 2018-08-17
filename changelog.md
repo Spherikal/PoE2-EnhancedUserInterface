@@ -11,6 +11,10 @@
 - Changed the description of statuseffect ID `595` to something that's easier to comprehend.
 - Lots and lots of bugfixes.
 
+### Version 1.2.4
+- Changed all custom entry ID's to something less likely to cause conflicts with other mods.
+- Updated the mod for game version 2.0.1.
+
 ### Version 1.2.2
 - Fixed a problem that could prevent any other mods than EnhUI to load properly.
 
