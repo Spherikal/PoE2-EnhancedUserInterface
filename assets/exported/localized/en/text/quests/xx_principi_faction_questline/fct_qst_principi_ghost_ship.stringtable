@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_ghost_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Dance with Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak the &lt;b&gt;Darcozzi Oath&lt;/b&gt; with &lt;b&gt;Engoliero do Espirs&lt;/b&gt; at sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Face &lt;b&gt;Lucia Rivan&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to &lt;b&gt;Dunnage&lt;/b&gt; with the &lt;b&gt;Floating Hangman&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sail with the Príncipi into &lt;b&gt;Ondra's Mortar&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Reclaim &lt;b&gt;Engoliero do Espirs&lt;/b&gt; from &lt;b&gt;Yseyr the Berathian&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak with the &lt;b&gt;Príncipi's leader&lt;/b&gt; in the &lt;b&gt;Balefire Beacon&lt;/b&gt; of Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Captain Furrante&lt;/b&gt; is convinced that the only way to &lt;b&gt;Ukaizo&lt;/b&gt; starts by gaining command of &lt;b&gt;Lucia Rivan's Floating Hangman&lt;/b&gt;. With the Engoliero do Espirs in my possession, I'm to sail to sea and draw the undead Darcozzi paladin to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lucia Rivan became a Death Guard because of her undying devotion to an oath she took to protect the Engoliero do Espirs. Aeldys discovered that speaking the dying &lt;b&gt;oath of the Darcozzi&lt;/b&gt; while wielding the sword activates an aura which acts as a beacon for Rivan.
+
+ I should take the weapon to the &lt;b&gt;sea&lt;/b&gt;, and speak those words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I spoke the oath and the sword emitted an energy like a burning flame. Its power has drawn the &lt;b&gt;Floating Hangman&lt;/b&gt;, and &lt;b&gt;Rivan&lt;/b&gt;, to me. The time to face her has finally come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have successfully acquired the Floating Hangman from Rivan. All that is left is to meet the &lt;b&gt;Príncipi's leader&lt;/b&gt; in &lt;b&gt;Dunnage&lt;/b&gt; to prepare the fleet for our journey to &lt;b&gt;Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The Príncipi fleet awaits my signal to set sail. 
+
+Once I am ready, the Príncipi are prepared to sail with me into the storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The only way to draw Rivan out into the open is by speaking the &lt;b&gt;Darcozzi oath&lt;/b&gt; before her old sword, &lt;b&gt;Engoliero do Espirs&lt;/b&gt;. The sword is currently guarded by &lt;b&gt;Yseyr the Berathian&lt;/b&gt; in the &lt;b&gt;Hanging Selpuchers&lt;/b&gt; beneath the Sacred Stair in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>If I'm to find a way to reach Ukaizo through my alliance with the Príncipi then I'm expected to meet its &lt;b&gt;leader&lt;/b&gt; in &lt;b&gt;Dunnage&lt;/b&gt;. It's time to take on &lt;b&gt;Rivan's Floating Hangman&lt;/b&gt;, the Fonferrus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I successfully braved Ondra's Mortar with the help of the Príncipi fleet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Someone critical to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; has asked me to meet in &lt;b&gt;Dunnage&lt;/b&gt;, from where she plans to organize the hunt for &lt;b&gt;Lucia Rivan's&lt;/b&gt; spectral ship, the &lt;b&gt;Floating Hangman&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; is convinced that the only way to &lt;b&gt;Ukaizo&lt;/b&gt; starts by gaining command of &lt;b&gt;Lucia Rivan's&lt;/b&gt; Floating Hangman. With the Engoliero do Espirs in my possession, I'm to sail to sea and draw the undead Darcozzi paladin to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc00_meet_rdc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Brass Empire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with the hazanui at the &lt;b&gt;Brass Citadel&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I met &lt;b&gt;Hazanui Karū&lt;/b&gt; of the Royal Deadfire Company at the palace. It might be worthwhile to follow up with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Hazanui Karū&lt;/b&gt; leads the Rauataian forces in the region. Through the Royal Deadfire Company, Rauatai has territories around the archipelago. That makes the hazanui - and her people - a power of note.
+
+It may be in my best interest to meet with her to see where our interests converge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Hazanui Karū's&lt;/b&gt; office is at the back of &lt;b&gt;Imperial Command&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've met with the hazanui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>The Royal Deadfire Company wants nothing more to do with me, so I won't be reporting back to them anytime soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_serafen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Sorcerer and a Gentleman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Help &lt;b&gt;Serafen&lt;/b&gt; uncover information on &lt;b&gt;Remaro&lt;/b&gt; at &lt;b&gt;Fort Deadlight&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Question &lt;b&gt;Udyne&lt;/b&gt; at the &lt;b&gt;Luminous Bathhouse&lt;/b&gt; in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Head to &lt;b&gt;Sayuka&lt;/b&gt; and search for any sign of &lt;b&gt;Remaro&lt;/b&gt; or where he's gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Claim the bounty on &lt;b&gt;Remaro&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Serafen&lt;/b&gt; wants me to help him track down an old pirate named &lt;b&gt;Remaro&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Serafen&lt;/b&gt; doesn't believe that &lt;b&gt;Remaro&lt;/b&gt;, a pirate hunted by the Príncipi for mutiny, could have committed the treachery they accuse him of. He asked me to help search &lt;b&gt;Fort Deadlight&lt;/b&gt; for information about Remaro's current whereabouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Remaro&lt;/b&gt; supposedly met someone named &lt;b&gt;Udyne&lt;/b&gt; at the &lt;b&gt;Luminous Bathhouse&lt;/b&gt; in Periki's Overlook in Neketaka. Perhaps she knows how to contact Remaro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Udyne claimed &lt;b&gt;Remaro&lt;/b&gt; intends to resupply at &lt;b&gt;Sayuka&lt;/b&gt; before leaving the Deadfire. &lt;b&gt;Serafen&lt;/b&gt; wants us to follow in search of the old pirate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The Príncipi placed a bounty on &lt;b&gt;Remaro&lt;/b&gt; and should pay for proof of his demise. I need to collect proof from his corpse and bring it to whatever pirate &lt;b&gt;at Dunnage&lt;/b&gt; is responsible for paying bounties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>A pirate captain named &lt;b&gt;Malnaj&lt;/b&gt; found me on the street. She also seeks &lt;b&gt;Remaro&lt;/b&gt; and asked if I had any information about the fugitive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I didn't reveal any information about &lt;b&gt;Udyne&lt;/b&gt; to &lt;b&gt;Malnaj&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I revealed &lt;b&gt;Udyne's&lt;/b&gt; location to &lt;b&gt;Malnaj&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I discovered &lt;b&gt;Udyne&lt;/b&gt;, a venerable elf warrior, in the &lt;b&gt;Luminous Bathhouse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Udyne told us that &lt;b&gt;Remaro&lt;/b&gt; traded his ship for hers. According to her, Remaro claimed he would abandon the Deadfire for the west. He intends to resupply at &lt;b&gt;Sayuka&lt;/b&gt; before setting forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I discovered &lt;b&gt;Remaro&lt;/b&gt; at the port of &lt;b&gt;Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Remaro revealed that his and Serafen's former captain, &lt;b&gt;Bastian&lt;/b&gt; of &lt;b&gt;The Sorcerer&lt;/b&gt;, had been selling the slaves they rescued.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>We found a chest that used to belong to &lt;b&gt;Remaro&lt;/b&gt; containing a letter to &lt;b&gt;Serafen&lt;/b&gt;. It mentioned someone named &lt;b&gt;Udyne&lt;/b&gt; at a place called &lt;b&gt;Magic Waters&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>I claimed &lt;b&gt;Remaro's head&lt;/b&gt; as proof of his death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>I surrendered &lt;b&gt;Remaro's head&lt;/b&gt; to the shiphunter &lt;b&gt;Malnaj&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Serafen&lt;/b&gt; noticed the &lt;b&gt;Misery's Delight&lt;/b&gt;, a ship captained by the Príncipi shiphunter &lt;b&gt;Malnaj&lt;/b&gt;, docked at &lt;b&gt;Queen's Berth&lt;/b&gt; in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Syri claimed that &lt;b&gt;Remaro&lt;/b&gt; has left &lt;b&gt;Fort Deadlight&lt;/b&gt;. While he was here, he stayed in the &lt;b&gt;room down the hall on the right&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>We found Remaro at Sayuka and chose to let him go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I provided Remaro's head to the Príncipi and collected their offered bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I gave Remaro's remains to Malnaj.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

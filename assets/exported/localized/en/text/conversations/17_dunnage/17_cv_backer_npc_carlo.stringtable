@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_carlo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A trim man in practical, well-crafted leathers watches you from the corner of his eyes. When he catches you looking his way, his hand drifts casually to the dagger at his hip and lingers for a moment.
+
+Then he smiles, the corners of his hazel eyes crinkling with genuine warmth, and waves you over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eccosi, traveler. Care to hear a tale?" He rubs thoughtfully at the stubble along his jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can you teach me what you learned in the Vailian Republics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Corès!" He lifts a hand in fond farewell and returns to his business.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ac, you listened to my tale. I suppose I can do that for you for, eh, three thousand copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He shows you a trick for lifting a man's coin purse from his belt. Between demonstrations, he also gives you tips for negotiating with even the most hard-headed of merchants.
+
+You thank him and turn away. Just as you're about to leave, he tosses a coin purse to you with a laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You are too quick a study!" He chuckles softly to himself, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I was born to a family of merchants on the Pearl Coast. I was a restless boy, and my feet took me to the Vailian Republics when I came of age."
+
+As Carlo speaks, his previously strong Vailian accent begins to fall away, and his voice takes on the characteristic twang of the Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ado! Back again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bon aimico! I trust you are taking care?"</DefaultText>
+      <FemaleText>"Bon aimica! I trust you are taking care?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Fair winds, traveler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You have learned all you can from me, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Why do you speak like a Vailian?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ah, it is good to blend in. All the better to observe the business of those around you, yes?" He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I learned of the power of geography and language at my father's knee, and those skills proved useful in the Republics.
+
+"I had many successful years as a merchant. And then I made a mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I joined up with a company based in Girrara that traded in beautiful weavings. But they were ill-gotten goods, forcibly produced by a weaver the company kidnapped named Bonisetta.
+
+"I didn't learn the truth until it was too late. And when our crime was uncovered, I was exiled from the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Serves you right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"That's a shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Indeed. And now I'm here, kicking my heels in the Deadfire, where no one knows my name and with few prospects before me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I would l like to make amends to Bonisetta personally, but it seems a... distant possibility.
+
+"Ah well. I learned my lesson. I won't be played for a fool again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Indeed, but I should have asked better questions of my employers. And now I'm here, kicking my heels in the Deadfire, where no one knows my name and with few prospects before me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He gives you a small smile and an easy shrug of his shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You nearly forgot something!"
+
+The coin purse he tossed you is your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well done." He smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"As you say. You should want for me, I will be here." He gives you a friendly nod and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Enhance Sleight of Hand and Diplomacy] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

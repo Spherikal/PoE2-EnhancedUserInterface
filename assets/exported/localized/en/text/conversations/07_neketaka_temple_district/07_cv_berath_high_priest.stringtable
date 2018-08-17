@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_berath_high_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>201</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An ailing aumaua priest regards your approach with curiosity. He coughs into a sleeve stained with a spatter of silvery flecks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Now one approaches, filled with divine curiosities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Coming along well, is it? It can be dangerous down there. So I read." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"All right. I will address your inquiries, best as I can. So ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll tell you what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>His eyes go large, and he stumbles a step forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Come closer to the altar. Come inside. The temple welcomes all to worship - most especially you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I ask only for no talking. Not until we pay our respects to Berath, to Rikuhu. Let us pray."
+
+He bows his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I've acquired the stone tablets containing Yseyr's eulogy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I have some questions about Yseyr and the catacombs beneath this temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'm looking for Yseyr's tomb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me about the writing on these tomes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Impressive altar. What else can this temple boast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Give them here." The priest's arms quiver from the weight of the stone-carved tablets. As he sets them down, his hands scan the grooved words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Truly, you are Berath's Champion. Yet you will not die soon. There is work ahead, for you.
+
+"I set these aside for you. Old keepsakes from another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Liturgies. Instructions for ritual preparations. When and how. Sermons. Some histories, too." His fingers trail carefully across stone as craggy as his skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"All of this - it's our knowledge as gleaned through centuries of service. Now, I've got to leave it all behind. For the next disciple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>His words catch in his throat and he curves forward in a spine-wracking fit, hacking until he's flush-faced. Fumbling a goat-skinned flask to his lips, he drinks until minnow-silver liquid dribbles over and slicks his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"They're the Hanging Sepulchers, burial place for ancient Huana chieftains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Draught's mercurial." He grins, teeth tinged gray. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The timing's getting tighter. And there is one thing... before the end. Something only one touched by Berath can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You covet something you can't get to, something you can't access because you lack Berath's chime." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Berath and I have a history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell me what you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"That's right. I've got no hope, but you do." He tugs at a chain about his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I know you do." He tugs at a chain about his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"There's a sacred text. The Eulogy to Yseyr. It's been buried in the catacombs beneath the temple for centuries, next to his champions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I need it. Of course, the tombs, they only open to the dead or those bearing Berath's chime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I prayed for decades, night to day and night again. Now here you are, just in time. Means Berath's sent you to see to my success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was Yseyr buried with the weapon he took from Lucia Rivan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What's the story with Yseyr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"How do I enter the catacombs under the temple?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'd like to know more about the Hanging Sepulchers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I've heard enough for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Don't know. Did hear he was slain with a coveted blade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The estoc was an affront to Berath, that I did read. Yseyr wanted to guard it. With his soul and his always."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"He's no Huana nor a death godlike, neither. But he was a high priest of Berath.
+
+"Yseyr was Aedyran, a hunter, chasing the undead two hundred years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Read somewhere, one tome. He sailed to the Deadfire for a weapon - abhorrent to Berath. Said the blade held a power most fearful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"It never was added to the tomes. But it holds the final clues - for my death. It's my best chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You've got to go outside, on the lower walkway. Door's sealed up tight though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Priests before me, all death godlikes, could open it. Door requires a coil, resonating with Berath's chime. But I haven't met a death godlike in my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The priest bobs his head. From beneath his shirt, he untucks a stone-carved circlet in the image of an eel. The pendant vibrates on the length of its chain, thrumming harder the closer he holds it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You're my best chance or only, maybe. Take the coil - it'll open the crypts.
+
+"Bring me Yseyr's eulogy, and I'll teach you all I know of Berath's arcana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"They're from the long forgotten time, when there was only Huana living in the mountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"They're well-guarded, because not all of Berath's dead like to rest in their graves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"All right. But there's something you've got to know, or I guess I've just got to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The priest bobs his head. From beneath his shirt, he untucks a stone-carved circlet in the image of an eel. The pendant vibrates on the length of its chain, thrumming harder the closer he holds it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You're my best chance or only, maybe. Take the coil - it'll open the crypts.
+
+"Bring me Yseyr's eulogy, and I'll teach you all I know of Berath's arcana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Do you even know what it takes to make it deep into the Hanging Sepulchers? To make it alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Berath holds you close. Perhaps in helping you..." 
+
+He trails off, leaving the thought unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Berath sends a messenger at long last. Finally, truly?"
+
+He sucks in a sharp breath and doubles over, coughing hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'm blessed this day." He chokes the words out, wheezing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Pallegina's golden eyes roll at the priest's fawning, but she holds her tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Bow your head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Cross your arms over your chest and watch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Deity of life and death, the endless devourer who encompasses all existence, hear this prayer, this voice, chiming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I beseech you, Kohopa and Tangaloa, to ready this shell for shucking. Purify my soul in preparation for the coming of the next cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Keep your head bowed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Tap your foot impatiently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>" - the before that came. Thanks be to Berath's guiding tract. May my messages ring true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The priest clears his throat and hurriedly ends his invocation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"From life to death to life again, blessed be. An end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Nodding fervently, he accepts your ending to the invocation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Thanks, but I'll pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The priest's head whips up. He gapes but nods - while murmuring a rushed prayer behind his stained sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What was that about preparing your soul for shucking...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"End of the turn - I'm nearing it. Been working hard, preparing for weeks. You know, to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I never went yet. But I will after I die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"But first, I've got to leave guidance for my apprentice. The next in the cycle, chosen to lead." He sweeps a hand toward the stone tomes piled across the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You're dying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Let's discuss something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Been wasting away for months. Can't say it's been easy, dying so soon. I thought about stopping a few times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"For you, I'll happily listen. Speak a bit, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Why would you want to die soon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You're killing yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Maybe you can see. I'm no death godlike. Berath bestowed not one in my generation with a chime. Not the next, neither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"A flawed messenger like me can't open the crypts. So my best chance is to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You mentioned something about undead in the catacombs...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The dead with their souls. They roam, still. The ones who were chosen by Berath."
+
+Kasu rubs at the pendant beneath his shirt. His thin lips peel back, trembling from a feeble snarl. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"This is a temple to Berath, right? So who's Rikuhu, Kohopa, and Tangaloa?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"The same. Your word, Berath. Our word, Rikuhu. We worship the twinned eel. The cyclic connection of the overworld and the underworld, life and death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Better." He wheezes, wiping a palm over his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What's in that liquid - what did you just consume?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"That's going to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"In that case, better have another sip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You covet something in the catacombs, the ones you can't access because you lack Berath's chime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'll get the eulogy for you, if you let me into the Hanging Sepulchers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Why do you need Yseyr's eulogy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ah. All right, I'll have a look for it then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I prayed for decades, night to day and night again. Now here you are, just in time. Means Berath's sent you to see to my success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Not everyone's born so blessed. Sometimes, instead, you've got to die for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Priests before me, all death godlikes, could open it. Door requires a coil, resonating with Berath's chime. But I haven't met a death godlike in my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Yseyr fought hard for it. Won the blade but suffered grievous wounds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>His words catch in his throat and he curves forward in a spine-wracking fit, hacking until he's flush-faced. Fumbling a goat-skinned flask to his lips, he drinks until minnow-silver liquid dribbles over and slicks his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Checking an hourglass, he uncorks the goat-skinned flask and chokes down half its silvery contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Want you to know you'll be welcome here, even when I'm gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The priest presses the palm of his hand to the front of his chest. He stares, scrutinizing your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He shakes his head, disappointed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The coil resonates, but it's weak. You could unseal the way. But you'd die inside, I think. My chance would be lost then. Lost with your remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I will not fail against adversity. I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Kith bearing Berath's chime are rare. This may be the only chance you get."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Stare him down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I can handle myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Maybe you're stronger than you look. Like me. That's a good sign, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"My time's waning fast. Right you are on that." He sighs. Wavers on his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>As the silence stretches, Kasu sighs wearily. He wavers on his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He releases his grip on the pendant with a feeble nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Life is Kohopa, and Tangaloa is death. Born starving, they devoured all living things, swelling larger each."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Now, all things pass through their entrails. The end of one enters the mouth of the next - from the underworld to the overworld and back. Again and again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I'd best not let this chance pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Did you know Yseyr had become a Death Guard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Had heard. But knew, no. 
+
+"It is true? Yseyr is a Death Guard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You want to become a Death Guard? That's why you're preparing a ritual to kill yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Was. Yseyr was a Death Guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"But he's... no longer? Don't tell me you killed him. Don't. Don't say it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Yes... The fate that awaits me. Then, I will walk within the catacombs beneath the temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"A priest turned Death Guard." The priest sighs dreamily, rubbing at the silvery stains on the end of his sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Finally, I'll be one of Berath's chosen. Blessed. For always."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"It's an ambitious plan, I'll give you that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Why do this? Surely, you're more valuable to Berath alive and leading the flock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Slanting you a feeble smile, the priest checks the remainder of a nearby hourglass. Then he uncorks his goat-skinned flask and chokes down a deep swig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Value and worth are not the same, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"The dead with their souls. They roam, still. The ones who were chosen by Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"All right, I won't say it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Lie] "No, I didn't kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Thank Tangaloa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Thank Tangaloa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You wanted the eulogy. He was standing in the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Kohopa have mercy. Had I but known..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Don't you want to know how I shattered him to bonespurs? How I tore his skull right from his knobby spine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The priest blanches. He sways on his feet, barely stifling a bereaved moan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"No, no. I don't. I can't think of this now. I have to focus on the days ahead. And preparing the ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"If you say so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>He takes several breaths to calm himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"We will speak again. After my acolyte has gouged my heart from my chest. The cutting and the chants will work."
+
+Head tipped back, he closes his eyes as if he can hear the chanting already.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You'll see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Silent prayer? Where are the songs, I say? Did you learn this from Vailians?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Again, I ask that you please fall silent for prayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ac, I practice extremely silent prayer. &lt;i&gt;Not&lt;/i&gt; praying. It works just as well and takes less time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Let's show a little respect, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Di verus? It would be funny if it weren't so pathetic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He blinks wide eyes back at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"We gotta get this fella to a brothel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Uh huh. Good luck with that. Hope I don't see you on the other side." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"To live for death is a contradiction that only the great eel could appreciate." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Call me fathom-headed, but why be sticking around if all the best bits and bobs fall off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"May your god have mercy on your soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I know the way, but - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I want access to Yseyr's tomb. You've got an eye on my chime..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"My eels - my infinity coil keeps rattling. Pendant's resonating with your chime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I'm thinking, we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Come closer to the altar. Come inside. The temple welcomes all to worship - most especially you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>The priest peers knowingly at the center of your chest, lips curving an ardent smile. Hands trembling, he touches a length of chain around his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Sweet cessations, is that a divine rarity that nears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"You think that's a good idea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>His eyes glint with a fervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I already have the Eulogy to Yseyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"The coil resonates, but it's weak. You could unseal the way. But you'd die inside, I think. My chance would be lost then. Lost with your remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Yet I've already traversed the Hanging Sepulchers. And here I stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Truly? You - " His voice hitches on a surprised breath, sending him into a coughing fit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I already have the Eulogy to Yseyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I've acquired the stone tablets containing Yseyr's eulogy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"You do?" He blinks, startled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>The priest's face flushes with fervency. His voice rises in volume as he speaks until his breath catches, and he doubles over into a hacking fit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Berath holds you close. Perhaps in helping you..." 
+
+He trails off, leaving the thought unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Checking an hourglass, he uncorks the goat-skinned flask and chokes down half its silvery contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Want you to know you'll be welcome here, even when I'm gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ritual preparations are coming along well. Won't be far longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"They got carved in even before the temple sprung up - before there was Neketaka or a queen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Under the temple, carved in the mountain's caverns lies an extraordinary maze of catacombs. So I've read."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"And Rikuhu, Berath, my god and goddess both, the eels that churn in ceaseless cycle. The new and the next and - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"So. Under the right... duress... it can be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"My eels - my infinity coil keeps rattling. Pendant's resonating with your chime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"My eels - my infinity coil keeps rattling. Pendant's resonating with your chime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"When they'd swallowed all of existence, they tried to eat each other next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Getting my heart cut out's going to kill me. When the time's right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I know it is. See, I've got to prepare myself for the ritual to take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Not yet. Have got to space it out. Won't do to die too soon. Before the rite's ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Berath kept him alive. Till he could make it to the temple's catacombs.
+
+"His champions were the ones who wrote his eulogy. Later, they were buried in the sepulchers, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Are you sure... duress... is what it takes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"How better to beseech Berath for such an honor if not through throes of a sacrificial death?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I think the pain of dying's got to be a part of it. Purity of the offering's the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Is it really worth it? Yseyr's not even a Death Guard anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"It's your funeral."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I don't think you should do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"It's too late to stop it. I'm going to die either way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>He presses his hands over the center of his chest, touching the item tucked beneath his shirt. Then raising his head, he cracks a frail smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Blessed be and jubilations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Digest all of my devotion. Swallow my sorrows - even the smallest swell - so I can be spit on the morrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"The bodies are protected by Berath's best. Roaming, always. Plus, the way's sealed by the deity itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Not 'til you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Not just anyone can escape the Hanging Sepulchers - alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>His hand begins to tremble, and his eyes widen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"That's right. I've got no hope, but you do." He tugs at a chain about his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>He mops sweat from his brow with the edge of a silver stained sleeve, but then he pauses, eyes darting as he parses your words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Covering a relieved smile, he coughs into one of his robed palms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[Bow your head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

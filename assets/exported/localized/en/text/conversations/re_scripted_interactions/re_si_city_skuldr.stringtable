@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_skuldr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The reek of rotten fruit mixes with the noisome scent of dead fish, swaddling you along with a hundred other lesser filthy fragrances. 
+
+Your footsteps echo in the darkness, piercing the otherwise silent slums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You turn a corner and walk into a plaintive cry: "Help!"
+
+Misshapen shadows mix with low hissing and the skittering of claws on filthy stone to resolve into a pack of skuldr. Their glistening maws float in the black, and cave grubs wriggle about their legs, mandibles snapping as if to mangle the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Cast a spell to slow the monsters.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Draw the beast's attention.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave the girl to her fate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You draw a few mystic symbols in the air, calling forth essence to bind the skuldr's movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You throw yourself into the crowd of skuldr, shouldering one to the ground. As it scrambles to its feet with a screeching hiss, the others turn their hungry eyes and fetid breath on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You turn your back on the girl and the skuldr's snarls carry over her screams. 
+
+A few streets further, a Roparu woman emerges from the thickening crowd and grabs your forearm.
+
+"Have you seen a girl about so big? What say?" Her hand indicates a young child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 1] steps forward, chanting against the hisses and growls of the skuldr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>With a resounding shout, [Specified 0] rushes into the fray. The skuldr flinch and turn on your party.
+
+They growl hungrily as they charge forward...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You charge forward, but the overturned pot you failed to notice trips you, sending you flailing to the ground. 
+
+The skuldr regard you curiously as they advance, spittle dripping to the dirt. They spread out, surrounding you as they come...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] is brilliant. Posture low, balance perfected, swooping forth like a hawk. 
+
+And then there’s the unnoticed cave grub sitting in the hero’s path. [Specified 0]’s boot smashes the larva into paste, and your compatriot slides across the cobblestones on a thick patina of maggot mush.
+
+The skuldr turn, spittle dripping to the dirt, as they spread out to surround [Specified 0]... and you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Draw the beast's attention.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Strangely quiet, don't you think?" Aloth looks around warily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Feels like we're missing something - like people." Edér scans the empty street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nice neighborhood." Maia clicks her tongue, bidding Ishiza to stay close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quiet this thick ain't never a sign of fortune, cap." Serafen's nose twitches. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Do not walk so loudly, captain. Some of us are... uneasy at the dead fish smell." Tekēhu flinches at a passing shadow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I know my duty's more to the dead than the living, but these aren't hardly living conditions as is. Suffering like this ain't right."
+
+Xoti shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Almost quiet enough to hear your own heart beating," Ydwin says quietly, the lightest smirk bending her lips.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The cliffs high above throw the narrow alleys and tunnels of Neketaka’s ghettos into darkness even in mid-day. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The cliffs high above block all sight of the stars from the narrow alleys and tunnels of Neketaka's ghettos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>On the far side of the creatures, a small girl, dressed in the rags of the Huana, grips a gleaming sword in both hands. She brandishes it wildly at the skuldr, each swing of the blade releasing a howl that keeps the beasts at bay. They creep ever closer to her, however, and her eyes plead with your own.
+
+"Please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Get out of here kid! I'll take care of these beasts!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The girl shakes her head and swings the weapon again, driving back a skuldr. "Can't! No way out behind me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Charge the skuldr.] "Let's save her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Attack the skuldr.] "Fiiine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"All the monsters we've fought and &lt;i&gt;these&lt;/i&gt; are the ones that scare you?" Edér scowls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Di verus?! Why will you not do something to help her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Serafen gapes. "You gone fathom-headed, cap? That lass ain't got a snowball's chance in Woedica's ashy hole of fighting off them bilge rats!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Xoti grabs your shoulder, piqued. "Don't tell me you're going to sit idly by when we could save her. What're you waiting for? Let's skewer these beasts!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Fair enough. Go get their attention, [Specified 0]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"It's none of our concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] scowls at you before turning back towards the beasts...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You reluctantly move towards the slavering beasts...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>A smile splits the woman's face. "Ekera, thank you! Ngati bless your travels!"
+
+She runs in the direction you suggested, leaving you to continue your journey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Use the girl as a distraction and ambush the creatures.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The magic splashes across the skuldr, and they growl and thrash at the ephemeral essence that hobbles them, clawing at wisps of light that shouldn’t pose any obstacle to a heavily-muscled monster.
+
+The creatures turn towards you, hissing as they shuffle forward…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Gesture in the direction of the skuldr.] "Just back that way. If you hurry, you should catch her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I've not. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Get your filthy hands off of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ekera, that girl! She always wants to be proving herself, seeking all sorts of trouble out, as if there is not trouble enough at home! Then what will it prove, she gets herself killed like her father?" 
+
+She shakes her head. "Sorry, stranger. I'll find her myself then. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The woman recoils as if slapped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ngati save me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You throw yourself into the crowd of skuldr, shouldering one to the ground. As it scrambles to its feet with a screeching hiss, the others turn their hungry eyes and fetid breath on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You charge forward, but the overturned pot you failed to notice trips you, sending you flailing to the ground. 
+
+The skuldr regard you curiously as they advance, spittle dripping to the dirt. They spread out, surrounding you as they come...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

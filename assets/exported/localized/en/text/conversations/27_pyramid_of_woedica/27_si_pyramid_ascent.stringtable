@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_si_pyramid_ascent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>After hours spent wandering through the desert, you stumble into a lush oasis nestled against the base of a massive pyramid. You search for an entrance and finally spy one at the very top of a long staircase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You find yourself back in the oasis. The imposing pyramid looms before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ascend the pyramid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Explore the oasis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave the oasis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The shade in the oasis is pleasant after your long trek through the desert. Soon, you come upon a small pool deep within the trees. As you get closer, you notice the pool is infested with thousands of tiny, wriggling maggots, and you immediately recognize them as the parasite that creates rotghasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The shade in the oasis is pleasant after your long trek through the desert. Soon, you come upon a small pool deep within the trees. As you get closer, you notice the pool is infested with thousands of tiny, wriggling maggots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It's a tough climb, but that doesn't stop you. Drenched in sweat, you finally enter the welcome shade of the room at the top of the pyramid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Fill your waterskins.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You fill your waterskins with the cool, clean water of the unspoiled pool - a welcome boon after the hot trek through the desert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you step back from the infested pool, a small glint catches your eye. Half-hidden behind a clump of reeds, you see a smaller pool of water, this one clear of maggots.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_door_puzzle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The patina over this entrance tells of age and long exposure. In spite of its degradation, the copper door is as heavy and densely forged as a vault. 
+
+Gravity holds the slab firmly against stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine the door closely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Put all your strength into lifting the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Peer through the crack in the stone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Old markings in the shape of fingers suggest the Engwithan titans once possessed the strength to raise the door. 
+
+It's difficult to tell from here if anything else once controlled the door's opening or closing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You find a hole in the surrounding stone bearing a curious spiral shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You also take note of scour marks at the base of the door - likely evidence of a prybar used to wedge it open. The damage to the stone looks recent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>If anyone made it inside, the door has long since closed behind them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Limbs trembling and sweat beading your brow, you slowly ease the door up off the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You manage to raise the door an inch off the ground before a painful spasm runs down your arm. 
+
+The door falls, splitting a crack down the surrounding stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You see the faint outline of gears so choked with sand and debris as to be rendered nearly immobile.
+
+You think the barbed corner of a grappling hook could snag the gear's inner ring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You find a hole in the surrounding stone which bears the same spiral shell pattern as the key you acquired on Tikawara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Insert the copper muzūma shell key.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>After you dust away some of the sand blocking the hole, the mūzuma shell fits perfectly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You turn the shell to the right. The resistance it encounters quickly gives way to the sound of gears turning behind the stone. 
+
+The door slowly rises. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The opening discharges a breeze of stale air and something else - a feeling which emanates from the yawning darkness that makes your every hair stand on end. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Use a grappling hook to tug on the gear.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Stick your hand in the gears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You dust away the crevasse and loop the grappling hook through the gear.
+
+It takes a couple of persistent tugs, but the gears begin turning with laborious, creaking protestations.
+
+The door slowly rises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Something in the guts of the machinery rumbles to life. The gears spin violently and without warning, closing around your fingers with a resounding crunch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You grab hold of the largest gear and give it a good shake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>With a puff of escaping dust, the gear begins to turn. You react quickly enough to pull back your hand and avoid injury.
+
+The door slowly rises. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Use a prybar to raise the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You press your weight onto the prybar for leverage. Given the force you applied, the door budges less than you expected it to. 
+
+There will be a physical cost to straining yourself like this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>As the entrance widens, a hidden gear in the stonework makes a resounding click and holds the door open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You rubs your palms together to build up some friction. Worming your fingers into the seam between the door and the ground, you hoist up with all your might.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You pull yourself free of the mechanism and nurse your hand. The gears roll to a stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You manage to force open a gap between the door and the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Raise the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Reconsider.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You set the prybar aside and consider your options. The door remains steadfastly shut. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You grit your teeth and hoist with all of your strength, focusing on this singular purpose. 
+
+A white-hot flash of agony works its way up your wrist, but you press on through the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

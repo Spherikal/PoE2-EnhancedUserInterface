@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_ship_prow_climb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>From the prow, the sandbar below seems deceptively close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The deck of the Defiant is well out of reach from here. The ship groans like a beached whale each time the waves roll in, but it doesn't seem to be listing further. 
+
+You may be able to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Use the grappling hook to climb.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Climb down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Stay put.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Your grappling hook dangles from the bow, providing a means to ascend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Having made the climb to the deck once already, you're fairly certain you can replicate your course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Defiant is looking far worse for wear after its unexpected landfall. The hull has splintered in several places along the keel, while the tattered sails stand as evidence of your battle with the pirates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Scale the hull by hand.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Stay put for now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Use your grappling hook.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>One good throw, and the hook sails up and over the rail, catching firmly. A few tugs suggest that the grappling hook should hold fast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You climb nimbly up the side of the ship, and reach the top without so much as breaking a sweat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You find a gap in the planks along the bow of the ship, and start the climb.
+
+You are halfway up by the time your arms start to tire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>From one second to the next, you feel a burning pain in your palm - a barnacle has sliced through your hand. 
+
+Between the unexpected pain and your failing grip, your climb comes to an ignominious end as you fall back to the sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The rope makes the ascent considerably easier, and you soon find yourself climbing up over the rail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Climb up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You make your way up the hull, mindful of the barnacles, and pull yourself up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You climb nimbly up the side of the ship, and reach the top without so much as breaking a sweat. Edér is not far behind, pulling himself up and over the railing beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Edér makes it to the railing well ahead of you, pulling himself up and over the side. He turns then to help you the rest of the way, and the two of you find yourselves safely atop the deck of the Defiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You make slightly better progress this time around... but only in the sense that you do not injure yourself before you fall back to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_dessiral</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You carry yourself like a person well-acquainted with violence. Care to put your skills to use for a good cause - and some coin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hm?" She dances a coin across her knuckles, mirth a bright glint in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'll hunt down those pirates. Who am I looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Last I heard, Lord Admiral Imp was making himself comfortable in Queen's Berth. You'll find him there with a few xaurips and constructs the little bugger's convinced to follow him, bless their simple hearts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"So the puffed-up little charlatan is gone for good. Well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I killed Lord Admiral Imp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I killed Lady Epero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I killed Katrenn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I killed Torkar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"The Firebrand had a mascot, a useless little bastard who's taken to calling himself Lord Admiral Imp. He's not terribly dangerous on his own, but he's keen to make a nuisance of himself wherever he goes." She rubs the bridge of her nose and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Finally the Lady falls. You already have my gratitude - now take my coin." She drops a generous pouch in your palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I hope Katrenn put on a good show for you before the end." Her grin is wicked, sharp as a jungle cat's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'd say it's a shame to have lost such a brilliant mind, but Torkar didn't give you any choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You've put to bed the last of the Firebrand's crew, my friend, which was more than I ever could have hoped for.
+
+"Thank you, truly. I can rest easy now knowing they got what they deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I welcome your return." Dessiral gives you a warm smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Looking for work? I've got coin and a few scores to settle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Tell me about the cause you mentioned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"It's simple enough. The Firebrand, commanded by Captain Henqua, once plagued the Deadfire. The skill and brutality of Henqua's crew was the stuff of legends."
+
+Dessiral flicks the coin she's holding and snatches it from the air with a grin. Up close, it's clearly a soulenet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"But pirate legends don't live long. Some months ago, an alliance of Neketaka pirate hunters managed to corner the Firebrand and sink her off the coast of Tikawara.
+
+"They confirmed Captain Henqua's death, but her senior crew members escaped unscathed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"And now it seems like bringing the Firebrand's crew to justice doesn't matter to anyone but me."
+
+Even in the low light, you can see a vein throbbing at her temple. Her voice drops to a low growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sounds like you've got a grudge against the Firebrand's crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"It's nothing personal. The crew earned their reputation through murder and thievery, and it would make me sick to see them regain an ounce of their power."
+
+She tries for a nonchalant shrug, but it comes off looking like she's got a sore shoulder instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You'll be taking down Lady Epero, Captain Henqua's former first mate and rumored lover. She's a cipher, and a dangerous one at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Epero maintains an estate in Serpent's Crown in Neketaka. But I wouldn't recommend you rush in muzzles blasting and swords held high - she keeps a number of bodyguards on her payroll." She winks, all smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You'll be going after Katrenn, the Firebrand's resident wizard. Rumor has it she was once an apprentice to Arkemyr before turning pirate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Last I heard, Katrenn and her sundry little minions could be found lazing about the Sacred Stair in Neketaka at night. No idea where she disappears off to during the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I have a challenge for you, my friend, and his name is Torkar, leader of the Firebrand's boarding parties. He's an ogre with a reputation for cleverness and cruelty both.
+
+"I've even heard tell it was Torkar who was behind the Firebrand's most successful tactics, not Henqua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Torkar was last seen at Lifter's Refuge here in Dunnage, dead-set on joining a crew or assembling his own.
+
+"I trust you won't let that happen."
+
+She cocks one dark eyebrow in question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"My dear friend. I trust you are keeping well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>As she speaks, Dessiral removes a small suolenet from her pocket and polishes the surface with a corner of her shirt. Her features soften like she's visiting an old memory. Then she stuffs the coin back in her pocket with a barely audible sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Raise an eyebrow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What's bothering you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"There's no need to make my concerns your own, my friend. It's family business, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I know a questioning eyebrow when I see one, and I'm not in the mood to be giving answers. I've got family business to tend to, is all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"But... I suppose you have a right to know." She pauses and slips the soulenet from her pocket again. It gleams golden in the low light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"So I want you to kill them. And I'll pay you out of my own pocket if you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You're not telling me everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You've a keen eye, my friend. I reserve a bit of the Firebrand's story for myself, and you'll excuse me if I don't plan to share it.
+
+"Let's keep business strictly business, hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Her lips twist into a bitter little smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That's one down. Just three left to go - if you're still game." Though her smile is sunny, it doesn't quite match the look in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"But halfway is half-done, my friend. There are two more members of the Firebrand's old crew that need your special attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Who's next on your list?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"There's just the one crew member left now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Remind me who I'm looking for again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You're looking for the Firebrand's former mascot, Lord Admiral Imp. You'll find him somewhere in Queen's Berth, along with a gang of sundry other miscreants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Lady Epero's the one you want. You can find her estate in the Serpent's Crown in Neketaka - along with all her bodyguards and powerful friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Katrenn, the Firebrand's wizard. Last I heard, she was spending her time in the Sacred Stair in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Torkar, the tactician. Big, ogre-shaped, makes his home in Dunnage.
+
+"He shouldn't be too hard to find. There aren't many who fit his description, even among the pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tell me about your sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>A smile twitches at the corner of her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Back on this again, are we?" Dessiral sighs deeply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Very well." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"My idiot kid sister was on the Firebrand, seduced to a dishonest life by the promise of adventure.
+
+"When the pirate hunters killed the crew and sank the ship, they also killed my sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"But those irredeemable lowlifes I sent you after got away without a scrape.
+
+"I want them to pay. I don't much care how, so long as they take their turn on the Wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Danaeia was a wild girl from the day she was born. She came out of the womb yelling loud enough to make your ears bleed, and she never really stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"She chased a bad end like a winter-starved wolf chases the first fat deer calf of spring.
+
+"It was only a matter of time before she caught it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"But dead is dead, and reminiscing with you won't bring her back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Happy hunting." She nods and gives you a showy wink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Legendary nightmares, more like. After how they did the crew of the Virtuous Reward... even that bastard Benweth wanted nothing to do with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Noted. Next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Got it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I'll be careful. Who else am I after?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Who's the last target?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Right. Moving on..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

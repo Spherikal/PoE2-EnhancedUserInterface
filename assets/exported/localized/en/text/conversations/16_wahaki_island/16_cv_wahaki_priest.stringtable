@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_cv_wahaki_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I would pray louder if it kept outsiders away from Ori o Koīki." Burapo straightens his bearing and looks down his nose at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Again you interrupt me." Burapo looks you up and down, wearing a sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kohopa, encircle me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How do you and Tangara get along?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Poorly. He ventures away from our islands and invites the wrath of the gods, I say." Burapo folds his arms and squeezes his shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What's your role in the tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I say Ruāsare would not like it if I denied you &lt;i&gt;hospitality.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"With Tangara gone, Ruāsare will depend on my counsel, I say." Pinching his chin, Burapo gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"May Ngati devour that outsider construct he dragged back with him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I keep the gods at bay." He touches his brow with a shaking hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The tribe balances on the edge of ruin, and my burnt offerings appease those who watch over us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"May our next ranga have one tenth of Ruāsare's strength, I pray." Burapo closes his eyes and nods to himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Godlessness raised the green man, and the gods will put him back down, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I do not speak to outsiders without Ruāsare's permission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tangara tells me that you're fond of burnt offerings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"These halls turn friendless and quiet with Tangara and Ruāsare gone." Burapo sighs and gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You think Gaun's going to set the final harvest upon us because of kith's godlessness? Maybe. But ain't no gods going to stop him." She rubs the side of her jaw in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ekera, this is why outlanders do not speak the will of the gods for the tribe." Burapo crosses his arms and smirks at Xoti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oh, I'd say that statue has more than its share of god in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"For what does your crew of misfits address me?" Burpao frowns at Edér and retreats back a step.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

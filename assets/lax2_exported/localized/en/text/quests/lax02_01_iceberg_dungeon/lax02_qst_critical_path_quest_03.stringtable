@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Death's Depthless Dominion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Locate the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the echo realms and appeal to the souls sustaining them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the dragon's lair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Escape the White Void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Collect the Soul Fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Confront Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've entered the bitterly cold realm of &lt;b&gt;Rymrgand&lt;/b&gt;. Only by hunting down the dragon &lt;b&gt;Neriscyrlas&lt;/b&gt; can I hope to close the &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I've arrived in the Beyond but have yet to find the dragon &lt;b&gt;Neriscyrlas&lt;/b&gt;. I must press deeper into Rymrgand's frigid domain if I'm to locate her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Neriscyrlas took refuge in her lair, deep within the White Void. The guardian Rynhaedr warned me against descending deeper into Rymrgand's realm without the aid of those who call it home.
+
+I could search these &lt;b&gt;decaying domains&lt;/b&gt; for magical aid and perhaps enlist the aid of the &lt;b&gt;souls&lt;/b&gt; who keep them afloat above the pale abyss.
+
+Alternatively, I could destroy the souls, consigning their essence to Rymrgand in a bid to secure the god's elusive gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>There's little more I can do in Rymrgand's realm to prepare for my confrontation with &lt;b&gt;Neriscyrlas&lt;/b&gt;.
+
+If I'm to pursue her, I must descend into the pit she opened in the &lt;b&gt;Shattered Passage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>After I confronted her, Neriscyrlas' lair crumbled, dumping me into the bleak tundra of the White Void.
+
+Rymrgand and Rynhaedr both warned me that there is no returning from these depths. If I'm to prove them wrong and return to Eora, I'll need to scour the realm for &lt;b&gt;a way out&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I witnessed a spirit attack Neriscyrlas - only for the dragon to tear it apart. If I can locate the pieces of the spirit, perhaps I can reassemble it and learn more about the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I've descended into &lt;b&gt;Neriscyrlas' Lair.&lt;/b&gt; 
+
+Now I've no choice but to face the dragon that has blighted &lt;b&gt;Rymrgand's&lt;/b&gt; Realm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I located &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; in the &lt;b&gt;Drowned Kingdom&lt;/b&gt; and forced him to face the consequences of his actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I released the shackled spirit of &lt;b&gt;Inquisitor Naxiva&lt;/b&gt; from her endless interrogation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I freed &lt;b&gt;St. Waidwen&lt;/b&gt; from the cycle of destruction at &lt;b&gt;Godhammer Bridge&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>If I'm to face &lt;b&gt;Neriscyrlas&lt;/b&gt;, I must search the &lt;b&gt;Shattered Passage&lt;/b&gt; for some way to pursue the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I found a piece of the guardian's &lt;b&gt;fragmented soul&lt;/b&gt;. If I locate the others, perhaps they can tell me more about &lt;b&gt;Neriscyrlas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; agreed to release me from &lt;b&gt;the Beyond&lt;/b&gt; - all I had to promise him was my &lt;b&gt;soul&lt;/b&gt;. When I die, my soul will be destroyed in the &lt;b&gt;White Void&lt;/b&gt;, never to be incarnated again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; accepted my pledge to act as his &lt;b&gt;champion&lt;/b&gt; in Eora and returned me to the world of the living.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I convinced &lt;b&gt;Rymrgand&lt;/b&gt; to return me to the world of the living as a reward for destroying the souls of &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt;, &lt;b&gt;Inquisitor Naxiva ix Kirent&lt;/b&gt;, and &lt;b&gt;St. Waidwen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I convinced &lt;b&gt;Rymrgand&lt;/b&gt; to return me to the world of the living, reminding him of my past service in his name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I stood up against &lt;b&gt;Rymrgand&lt;/b&gt; and bested his champion in combat. He unceremoniously dumped me back into the world of the living.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I sacrificed &lt;b&gt;Ydwin&lt;/b&gt; to &lt;b&gt;Rymrgand&lt;/b&gt; in exchange for my own release from &lt;b&gt;the Beyond&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

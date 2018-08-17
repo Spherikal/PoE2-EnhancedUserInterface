@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Thank you for your discretion. I'm certain you have many questions, but I fear they must wait until we're off this island."
+
+He casts a regretful glance back at Benessa and the animancers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"At least tell me what you've been doing here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That's a rather long story. The short version - for now - is that I'm gathering information on local animancy operations."
+
+He looks you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"But I could ask you the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm following the adra colossus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let's discuss that when we've got some privacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Eothas destroyed my keep, killed most of the people there, and nearly killed me. He'll answer for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The gods are up to something again. I need to understand what."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I decided it was time to see the world and find myself. Or whatever part of my soul Eothas took."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"There's never a dull moment with you." He raises an eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Excellent. We'll speak more once we're away from this island."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"At least the food here is better than that mush in Gilded Vale. The Vailians understand the proper use of seasonings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Belfetto! We are saved!" A youngish man with bright eyes and a twitching smile claps his hands in joy as he steps out of the cage. 
+
+The woman next to him, however, remains sober.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Governor Clario must have sent you to rescue us, no? But you do not look like one of his guards." She rises onto the balls of her feet and peers behind you, as if searching for someone else. 
+
+She looks to be only midway into her thirties, though the serious set of her mouth makes her seem older.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"The governor's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lie] "They're still carving a path through the jungle. I'm the vanguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I told you the governor does not care about us! This is all about profit, for him and the rest of the Vailian-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"See, I told you the governor is looking out for us! You're always saying this is just about profit, that the Vailian-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Calloste!" She silences the others with a sharp look.
+
+She turns back to you with a resigned breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You are here, and that is what matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'm looking for a friend. Tall, glowing, made of adra - maybe you've seen him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Cuè? Was it the storm, or perhaps the-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'm just trying to figure out what's going on here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Where is Oderisi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What are you all doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The adra colossus - where did it go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Somewhere to the north, I think. By the mercy of all the gods, it must be miles away now." She shudders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Hiding, of course!" The corners of his mouth spasm.
+
+The cranky old woman next to him sighs and lays a comforting hand on his arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I do not know why, but it seemed drawn to the pillar of luminous adra we were excavating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"We were taking measurements of the luminous adra when something strange began happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The animancers look at one another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"He is still in the ruins. We think." She grimaces, her gaze darting to her toes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>He licks his lips. "Fascinating. The pillar started to dim. The ground shook, and our instruments showed unusual variations-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I should go look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"If you are going below, you should take Engferth with you." She turns and motions someone to the front of the group.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>A sharp-featured elf comes to the fore. As he meets your eyes, he gives you a knowing nod.
+
+He's earned a few new scars, but you recognize Aloth Corfiser all the same. 
+
+He taps a finger to his lips, a sly smile working its way across them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Engferth knows a great many spells! At first, he even cast fire to chase away the panthers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I would be happy to assist." He holds your gaze with wide, expectant eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What else can you tell me about 'Engferth'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'll gladly accept his help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I don't need him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Your 'Engferth' isn't an animancer. He's a wizard named Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Hey, he looks just like-"
+
+Edér cuts himself off for reasons not yet apparent. His jaw hangs slack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"That's when those of us with a grain of sense got into the cage." She glares at the excitable young man, but he doesn't seem to notice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What happened then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"The cage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Something we made to protect ourselves from surges in the luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The colossus. Some kind of construct made from luminous adra. It passed through the arena toward the pillar."
+
+Benessa closes her eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Those have not been a problem, but I am grateful today for unnecessary precautions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"That is when the panthers and wurms showed up. Started going through the tents. It was AWFUL, but Engferth-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Some of our people are still missing in the ruins, including Oderisi, our lead researcher. 
+
+"It is possible he managed to hide." 
+
+Her furrowed brow, however, suggests otherwise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"He has only been with us a few weeks. He is inexperienced, but he came with a glowing recommendation from an academy in Selona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He gives you a quick smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Very well. We'll talk later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"We can speak more freely once we're away from Port Maje. For now, let us find Oderisi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>He titters.
+
+"Di verus, surely I would also change my name if-"
+
+But Benessa rounds on Aloth, cutting the younger animancer off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He blinks at you in surprise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Come with me, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'm going without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He bows his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Actually, Clario sent me to find Oderisi. Or his notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>An older woman hawks an impressive gob of phlegm onto the ground and kicks a clump of dirt over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He turns excitedly to a cranky older woman and tugs on her sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Moments later, the pillar went dark. And all of our colleagues outside the cage froze. Like they turned to ash." She goes quiet, her hands clasped in front of her. 
+
+The young man leans forward, his eyes wide with a perverse kind of excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Until the flames nearly caught one of the tents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"We then decided it would be better to preserve our remaining supplies. In case we ever got out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"That is when the panthers and wurms showed up. Started going through the tents. It was AWFUL, but-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I do not expect the ruins will be any safer. Many of our people remained behind, which has surely attracted more... wildlife."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"It would be prudent to take help. As long as Engferth is willing to go." She looks quickly to Aloth.
+
+He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You're making a &lt;i&gt;really&lt;/i&gt; great case for Engferth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Regardless, I'm glad you're all safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Agracima." She sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Outside of this cage, his skills would be a boon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"A glowing recommendation, you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"That is surely a generous overstatement." Aloth chuckles uncomfortably and gives you a meaningful look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I cannot imagine why." The old animancer rolls her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Impressive. Especially since he doesn't sound Vailian."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I think I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Students come from all over the world to study animancy in the Republics. Especially since it is still forbidden in places like Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"But Engferth's story is especially sad. He was only a boy when both his parents died. In a fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If that's all, then perhaps we should be off?" He raises an eyebrow and stares at you pointedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"'A pupil of unnatural talent' is the phrase I recall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"It seems he was loved and regarded by almost all his instructors. Though misunderstood, I gathered, by his fellow students."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"He came to the Dyrwood and lived at the manor of a wealthy older uncle from [Player Culture] until he also died."</DefaultText>
+      <FemaleText>"He came to the Dyrwood and lived at the manor of a wealthy older aunt from [Player Culture] until she also died."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Really, this helpful stranger surely has more important things to worry about." The tips of Aloth's ears are bright red. 
+
+He glares at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"In a fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"It's true I have... other business. I'm afraid I can't explain." His hands are clasped in front of him, his knuckles as pale and hard as pearls. 
+
+He slowly meets Benessa's gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wait. You know him?" Her eyes narrow in suspicion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"He's a good friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"We were colleagues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I'm his rich uncle. From [Player Culture]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I'm his rich aunt. From [Player Culture]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The young animancer's eyes widen. He looks from you to Aloth, oblivious to the cold silence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>He gives you a brief, pained look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She turns to Aloth, her face a rigid mask of anger.
+
+And hurt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"You lied to us." The words aren't a question. They're an accusation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Aimico, he survived! How-"
+
+But the older woman shakes her head, and he slowly falls silent.</DefaultText>
+      <FemaleText>"Aimico, she survived! How-"
+
+But the older woman shakes her head, and he slowly falls silent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"But please know that I meant no harm. I certainly didn't intend to hurt you, Benessa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Go, Engferth. Aloth. Whoever you are.
+
+"Do not let me keep you from your 'other business.'" 
+
+She turns to you, closing her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Per complanca. Just take him with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Let's go, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"He's staying here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"You can't be serious." He stares at you in shock and outrage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I'm certain we could be of... mutual benefit to one another."
+
+He leans closer, just out of earshot of the animancers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Should you change your mind, I will be here a little longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I cannot make you take him, but he is not welcome here." She crosses her arms tightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Then he's on his own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"[Player Name]!" The voice that calls out to you is familiar.
+
+You follow it and find Aloth Corfiser looking back at you with mingled hope and furtiveness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"As I mentioned, I have other business in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"As you must have guessed, I have other business in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I would gladly travel with you once more. I suspect we could be of mutual assistance.
+
+"But it is your decision." He watches for your reaction, fidgeting with the edge of his sash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"If you do not wish my company, then I shall board the next ship that passes through. And I suspect this will be farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Be careful, aimico." She gives Aloth's hand a quick squeeze before backing away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I shall try." Aloth nods at her before leading you a short distance away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Your 'wealthy old uncle'? Really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Your 'wealthy old aunt'? Really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He sighs. "The sooner, the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I suppose I'll make my own way back to town. Let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You sure about that? Al- er, uh... Engelflip sounds like he's got a lot to offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>He winces. "It seemed like a convenient story.
+
+"Besides, you do have the oldest soul of anyone I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You've made new friends. Animancers, no less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I shall miss their company. Though this only confirms that animancy is a... hazardous pursuit at best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Come with me, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Shake his hand.] "I hope you find what you're looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"And you, friend." He grasps your hand warmly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Excellent. Perhaps we can speak further once we're away from this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Engferth would make a capable guide. As long as he is willing to go." She looks quickly to Aloth.
+
+He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"We can speak more freely once we're away from Port Maje. For now, let us return to Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I suppose I'll make my own way back to town. Let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"That's Oderisi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Poor fools. They were unprepared for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Watcher! What are you doing?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Benessa shoots him a furious look, and he falls silent again. A confused and slightly injured expression crinkles his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I'll help him however I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"If he didn't make it to the cage, you should prepare for the worst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>She nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"I don't think that's really-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Surely we don't have time for-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"That's quite-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"That'd be real good. Me and Iselmyr got a lot of catching up to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I think he's a touch lonely. Why don't we let him along?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"And when the supplies ran out...?" She scratches the bridge of her nose, looking concerned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Me and the Watcher, we're always happy to help." She beams at you, eyes filled with pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"We could sure use help. Especially seeing how many folks we already got killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Most of the ruins are that way, through the door next to the ramp." She points to a dark entrance in the eastern wall of the arena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I take it you're leaving Port Maje. Now that the storms have cleared, I expect I'll be doing the same soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I saw you when you came out of the ruins. I was with the animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I wanted to say something to you, but I didn't want to give myself away to the others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"It's a story for another time, but I've been pursuing other matters in the Deadfire. Which has me thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Still keeping secrets, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>The tips of his ears redden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Do we know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"We fought Thaos together in the Dyrwood five years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"A lot has changed since then, but the gods have seen fit to bring us together once more." He gives you a shrewd look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>The others look away and avoid further speculation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I take it you're leaving Port Maje. Now that the storms have lessened, I expect I'll be doing the same soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

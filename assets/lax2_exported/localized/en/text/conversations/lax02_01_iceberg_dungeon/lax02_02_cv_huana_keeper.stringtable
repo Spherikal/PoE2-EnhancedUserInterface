@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_huana_keeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The closer she nears, the faster her body dissolves. An arm's length from you, she opens her mouth to shout, but only a halting babble escapes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The spirit lunges forward, arm raised to attack, but the movement seems to be too much for her fragile form, and she dissolves into a cloud of loose essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A nervous aumaua woman lingers beside a pedestal shaped like a conch. 
+
+She startles at your approach and quickly touches some half-hidden object to the pedestal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The flow of the water surrounding the pedestal abruptly changes directions, flooding the path behind it.
+
+Satisfied the object has done its job, the woman starts toward you with long, determined strides.
+
+Small bits of her already incorporeal form seem to flicker in and out of existence, as if she's slowly coming apart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You... not... enter...  I... keeper... relic... block... waters... Ondra's... guidance...!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

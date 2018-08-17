@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_dead_tiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A knock at your cabin door interrupts your reading. 
+
+[Specified 1] stands outside, looking like someone who's just lost a bet. "Captain, you'd best come topside. There's a ship on the horizon. Looks derelict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Prepare the cannons. Send it to the ocean's floor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm going aboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Continue on our course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] chants an Ondrite dirge while the cannoneers ready the guns. As their song rises in volume, [Player Ship] fires a volley that hits the derelict right at the waterline.
+
+After the ship has vanished into the depths, the crew return to their duties with quiet conviviality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>It takes some time, but you manage to clear the blockage and open up the hold. The stench of rotting meat - and a black cloud of flies - pours out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your sailors disperse, muttering nervous prayers as they return to their stations. You notice a few tossing coins overboard in attempt to appease Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The ship in question lists upon the waves, its sails pulled in. Topping the mast is a green flag - the symbol of a ship carrying disease. 
+
+You see no movement on its deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] leads you up to the forecastle, where a small gaggle of hands have gathered. 
+
+Pawing a holy symbol, [Specified 0] points towards port. "It's a bad omen, captain. We should give them over to the Lady of Lament or there'll be trouble, mark my words."
+
+[Specified 2] chuckles. "We don't even know if they're dead, much less what fills their holds, and you want to sink them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pallegina peers off into the distance.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"No one has signaled. Anyone on that ship is likely beyond help." [Specified 3] frowns.
+
+"That ship is a hazard, captain, and not just to any who come cross it. Not to tell you your business, but I'd advise sinking it before someone gets it in their head to board it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Very well, captain," [Specified 1] says grimly before running to prepare the skiff.
+
+You row out to the ship and lash the skiff in place, hearing nothing save the creaking of wood and the gentle lapping of the sea.
+
+You climb aboard, and the first thing to greet you on the middeck are a pair of corpses dressed in simple breastplates. What little flesh they retain has shriveled tight against their bones, and the sun has bleached the exposed portions of their skulls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Enter the hold.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Return to your ship.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The crew secures the skiff when you return but keep their distance from you. Some have tied rags about their faces.
+
+[Specified 0] mutters a prayer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A knock at your cabin door interrupts your reading. 
+
+[Specified 1] stands outside, looking like someone who's just lost a bet. "Captain, you'd best come topside. There's a ship on the horizon. Looks derelict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Use spyglass.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You pull out your spyglass and examine the derelict. Nothing moves abovedeck, and you spot a corpse sprawled out on the forecastle. A few more seconds' examination reveals another further aft. 
+
+Beneath the plague signal, you see a flag depicting a lit candle in an open doorway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You recognize it as the emblem of the Kind Wayfarers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Address the ship's surgeon.] "Your thoughts, [Specified 3]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You hope this means that whatever killed them has run its course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>There's little else on the main deck save tattered sails, but you see the hatch to the hold has been barricaded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The derelict's crew were thorough in their work. Despite the effort, there's no opening the hatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Several hands gawk disbelievingly. 
+
+With a shake of the head, [Specified 2] smirks. "I can't say our captain lacks for guts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Prepare the cannons. Send it to the ocean's floor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"If there's anyone I can help over there, I have to try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I want the entire picture before I make a decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hey, there may be something worthwhile over there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Stow the chatter and hop to it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"When has a little plague ever hurt anyone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2] shrugs and sighs, but [Specified 1] nods approvingly.
+
+"A wise decision, captain."
+
+The crew steers clear of the plague ship and sails on until it disappears on the receding horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Those are Kind Wayfarer colors. If the flag is true, they would rather sink their own vessel than risk spreading sickness to others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She looks down, toward the deck, a rare hint of sadness creeping into her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafen shakes his head at [Specified 2]. "[Specified 1] ain't farting out the mouth. Disease or no, a ship dead at sea ain't often nothing but trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Blast the hatch open and enter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>After a few moments of concentration, you unleash a wave of destructive power that tears the hatch apart. A cloud of flies bellow forth, shrouding the deck momentarily in black.
+
+You make your way below...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>After a few moments of quiet chanting, [Specified 5] unleashes a wave of destructive power that tears the hatch apart. A cloud of flies bellow forth, momentarily obscuring the deck.
+
+You make your way below...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You find several corpses scattered around the hold. Most of them are wearing the simple garb of Readceran farmers, but one is wearing armor. His belt catches your attention, and you carefully relieve him of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"With what? We don't have any cannonballs."
+
+[Specified 2] coughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sir."</DefaultText>
+      <FemaleText>"Ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>After some searching, you find a sealed barrel of pitch, a few buckets of nails, and a generous length of canvas for patching your sails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"A cruel fate. Plague has no mercy."
+
+Pallegina's golden eyes move between the paladins' corpses, studying what remains of their expressions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Sickness is a fact of life, both for crops and people. I know it. But that doesn't mean I like it."
+
+Xoti waves her lantern over the corpses, making swift work of her harvest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I do hope whatever killed them has run its course." Aloth holds a sleeve to his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You find several corpses scattered around the hold. Most of them are wearing the simple garb of Readceran farmers, but one is wearing armor - another paladin, it seems.
+
+After some searching, you find a sealed barrel of pitch, a few buckets of nails, and a generous length of canvas for patching your sails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>It takes time, but [Specified 5] manages to clear the blockage and open up the hold. The stench of rotting meat - and a black cloud of flies - pours forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

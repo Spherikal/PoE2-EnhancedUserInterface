@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_radoro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You say I cannot down the rest? Watch me, aimico." A Vailian sailor raises her tankard and arches her back to invite a torrent of ale down her expectant mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Zamar sent me to collect your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A gang in the northern alley stole every coin. I cannot hire a crew, much less repay Zamar." Radora slowly lowers her trembling hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Why don't you tell me what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wizard lights drew me like a moth to the alleys north of the Wild Mare." Her eyes turn downcast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The blow to the back of the head that followed... merla, it hurt." She touches a spot behind her ear and hisses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Merla, I think I spilled." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ado, you return." Radora nods to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Merla, and he hired muscle." Radora takes a shaky step back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Zamar is having some pirate trouble. Could this gang be connected?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"If they wanted Zamar to thirst for coin... ac, it is possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I stumbled back here and traded all I had left for the comforts of the Mare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"This is not a temple I expected the gods to frequent." She gapes at you and swallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sientere, but you are too late to collect!" She holds out her palms and flinches at the blow that doesn't come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sounds like my quarrel is with this gang. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Cast a healing balm on Radora's head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She reflexively closes her eyes and sucks in breath as light from your fingers touches her scalp. Radora reaches behind her ear, this time wearing a grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Belfetto! The gods smile on you." No sooner does she say it than her own smile falters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ado. Over the din we heard fighting to the north." Radora raises her tankard to her lips and studies you over its rim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"The Iron Thunderer has a worthy home." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Zamar is free to sell my commission. I must earn my way from the bottom." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"They caught me unawares in the alley north of the Wild Mare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"No money means I'm no longer interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I would keep my distance from the northern alleys unless I wanted another head wound." She gestures toward the door with her mug and resumes staring into space. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The pirate and his wolf are both dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ac. The truth will stay with us, then." Radora offers a sly nod and taps her nose twice in understanding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Belfetto, for the Republics!" Radora tosses back her ale and turns to salute the rest of the Wild Mare patrons. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"They whisper that Zamar walks with a spring in his step?" The side of Radora's mouth twitches. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Cotta and his gang won't be bothering Zamar anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Then a &lt;i&gt;wolf&lt;/i&gt; sat my chest while a group of thugs went through my pockets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I think that head wound rattled something loose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"A wolf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Believe it, aimico."</DefaultText>
+      <FemaleText>"Believe it, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"When you gut their leader, tell them Radora sent you." She raises her mug and winks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Holding this pose with nothing to show for it, she taps the tankard's base and furrows her brow at its apparent emptiness. 
+
+Her companion shakes his head and focuses his attention elsewhere. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Madiccho, it is no wonder I thirst." As she wipes her mouth with the back of her hand, her eyes widen and meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Captain." Pallegina keeps her head high as she casts her eyes in Radora's direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ado, sérre Pallegina." Radora inclines her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ado. Why do you stare?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Agracima! Even in the oasis I am parched." She pockets the coins and glances past you to the bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"If you grant wishes, there is a vacancy on my ship." Radora's frown cracks to reveal a shy smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You don't seem to be having as much fun as the rest of the clientèle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"When the dancers see more than an empty purse, I will be a content Radora." She sighs up at the stage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Your next grog is on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Yet another reminder that not every sea-worthy vessel be crewed up to the standards of the Sorcerer."
+
+He shakes his head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"As the captain of [Player Ship], I'm already taken." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ask me again once I've recovered my soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Sientere, frero." Radora inclines her head.</DefaultText>
+      <FemaleText>"Sientere, sérre." Radora inclines her head.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Next time around the Wheel, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Blinking at you, Radora reaches under her shirt to clutch a small Ondrite medallion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Then may the Lady of Lament speed you along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Mother Ngati hears your prayers even from this enchanted realm." Tekēhu glances around the brothel with a bemused smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ac, there's room for the fish as well." Radora smiles at Tekēhu as she tucks the medal away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Are you so drunk you think a brother of the Canc Suolias would hire herself out as a thug?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Sérre, many of us have tumbled very far indeed from lofty heights.
+
+"I pass no judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"An unexpected honor, to be sure."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ac! It growled like a thunderstorm and drooled on my uniform." Radora pats a stain on her shoulder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Complanca, but now I am sober again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Bazzos will regret it when I turn my cannons to their mast." Radora raises her empty mug as the vow is struck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Those the cannons you be waiting for Zamar to cast you? 'Cause I be seeing more holes in that plan than in any Príncipi masts, future or no."
+
+His green eyes pry at her from over crossed arms.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Attack] "I don't believe you. I'll take that coin off your corpse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Her tankard clatters to the floor, the sound turning heads from across the room. Radora flares her nostrils and stares you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"You can find less costly comforts in Periki's Overlook, madam." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ac, but to walk halfway up the mountain for them?" Radora dispels the notion with a wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Do not fall for the same trap." She runs her finger around the rim of the empty mug, her gaze straying toward the bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"This time I face my postenago of an enemy." She reaches for her weapon and advances. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Cuè?! Why kill her over a simple debt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"An oath broken, sérre. There was a time my word held weight. 
+
+"My honor, my prospects- both are lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ac. The fun ran dry with the coin." She manages a wan smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Per mil annis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"And to your health, sérre. I hope one day to stand again half so proudly beneath the flag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"One wolf? Please. Wolves are cowards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ac, but... my head wound." Radora stares down at her feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You have neglected your responsibility to the shipwright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Sounds a bit tedious. Think I'll pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Ac. If greater things await, I will not hold you back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Cotta should have taken better care of his pet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

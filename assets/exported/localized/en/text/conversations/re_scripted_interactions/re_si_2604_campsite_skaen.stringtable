@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2604_campsite_skaen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The fetid, sweltering jungle looms around and above you, the thick canopy capturing the heat. Sweat clings to your nostrils and drips from your chin. Nothing seems to move in all of the world save you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You are the whisper within the storm..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Your companions' complaints fell silent hours ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You pause beside a broad, stagnant waterway and are refilling your skins when you hear movement in the wilds ahead of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Save for Serafen, who summons up a new creative objection every ten minutes or so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He raises his palms to you. "We mean you no harm. Indeed, we awaited you here, because we have a..." He glances towards the others traveling with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He bows his head slightly. "We offer a proposal, if you would step aside with us to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Move closer.] "I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Just who are you? How do you know my name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"No thanks. I think I'll be fine over here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "Let me offer a counter proposal - die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He holds a hand out to you as if to take yours, but he's well out of reach. "You have appeared. As was foretold."
+
+The other two bow their heads and whisper.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The man draws a small doll from his robes. An effigy, with blackstone eyes.
+ 
+"&lt;link="glossary://GlossaryEntry_Skaen"&gt;The Quiet Slave&lt;/link&gt; bids you take this. A gift for your loyalty. And for your resentment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Skaen isn't known for his generosity. What is this so-called gift?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I appreciate it. Send your master my regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attack] "Wouldn't Skaen prefer I just kill you and take it off your corpses?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The man chuckles. "No, he is not." He lifts the small straw doll. "This is an effigy of the Effigy. Burn it, and you shall summon forth the helpful hands of Skaen himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The man places the small wooden figure on the ground not far from your feet.
+
+"Burn it, and his attention shall be yours. For a moment." He smiles. "For any other, he would have... made demands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"But the Quiet Slave sees great potential in you." He smiles. "I'm sure you understand why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The kith on the right, a wild-haired ocean folk, cants her head. "Are you sure?"
+
+"There will be no second chance," the man says, "and your survival may depend on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The trio laugh quietly. "Then it as was said. You will tear down all..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The man lowers his voice. "There exists a place, hidden among these wilds... an old place, watched by &lt;link="glossary://GlossaryEntry_Skaen"&gt;the Quiet Slave&lt;/link&gt;. For one willing to make a sacrifice..."
+
+"A &lt;i&gt;true&lt;/i&gt; sacrifice," says the woman at his side as she nods towards your companions.
+
+"...such devotion shall be rewarded by him in turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Absolutely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He bows. "So be it, [Player Name], Watcher of Caed Nua."
+
+"Be safe," the woman says. "You have so much left before you."
+
+They withdraw across the river and fade into the jungle beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"The Quiet Slave sees you, and hopes you fulfill your potential. You yet fall short."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The kith on the left, a thin, bald elf, looks up. His eyes have been burned out, and his voice is like wind through dried reeds. 
+
+"What the gods have in store for you... this is but the merest distraction." He waves dismissively at the jungle around you. "This effigy will ensure that you survive to... witness the final act."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"We are friends of a friend," the man says. "A potential friend, perhaps. A friend of potential, certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The kith on the right, a wild-haired ocean folk, cants her head. "Are you sure?"
+
+"There will be no second chance," the man says, "and your survival may depend on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Absolutely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The woman smirks. "So be it. Then you will not see us again, watch as you will."
+
+The central man bows his head slightly, and the trio back away.
+
+They fade into the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Take me there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'd never do that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The man shakes his head. "We cannot. You must walk that path with only your chosen gift. Choose then, and choose wisely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The man bows his head and gestures towards the depths of the jungle. "Cross these waters. Follow what trails you find. You will know the place when you see it." He smiles. "Farewell, [Player Name]. We will be gone when you return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Follow their directions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"On second thought, you should go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The kith on the right, a wild-haired ocean folk, cants her head. "Are you sure?"
+
+"There will be no second chance," the man says, "and your survival may depend on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Despite the vagueness of the directions, you set out, crossing the water and following the first game trail you locate through the increasingly swampy wilds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Despite the vagueness of the directions, you set out, crossing the water and following the first game trail you locate through the increasingly swampy wilds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>With a nervous glance back at the trio, [Specified 0] leads the two of you into the increasingly swampy wilds, following their vague directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>With a nervous glance back at the trio, [Specified 0] leads the two of you into the increasingly swampy wilds, following their vague directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Go. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>It's not long before you find the place. The man was right, you know it when you see it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>After hours of wandering, you finally stumble into a clearing, sweating and exhausted. But you look up, and you see what must be your destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>No Huana shrine this, but a temple hidden in the depths of the wilds, heavy stones set against one another and the blank rock face of the mountain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Search the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You hesitate... you may never find this place again...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Within the center of the temple you find a simple stone altar grooved with ancient serrations and stained with long-dried blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Sacrifice [Specified 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You shove your weapon deep into [Specified 1]'s chest, and guide his gasping fall onto the altar.
+
+His eyes wide, [Specified 1] paws at you. His bloody fingers slide down your chest. With a final rasping breath, he goes still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Driven by some strange instinct, you cut deeper and deeper, breaking bone and rending tissue.
+
+You reach into the gaping wound, still twitching around your hand, until your fingers close around something firm and rough. 
+
+You pull from the body a doll, a figure of wooden sticks bound together, the eyes a pair of blackstones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Hardly satisfied by that answer, your party nonetheless follows you from the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Though clearly distraught by the revelation of [Specified 1]'s loss, the party follows you as you lead the way onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Hardly satisfied by that answer, your party nonetheless follows you from the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Despite looking like they have any number of questions to follow up that admission, the party follows you as you turn to make your way out of the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Choose a companion to accompany you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Attack] "I choose the three of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm not doing this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The kith on the right, a wild-haired ocean folk, cants her head. "Are you sure?"
+
+"There will be no second chance," the man says, "and your survival may depend on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Absolutely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You look over your shoulder and ask [Specified 1] to join you. The others you ask to await your return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The bald elf's blackened eyeholes fall on [Specified 1]. "No. Choose again. Choose better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You look over your shoulder and ask [Specified 1] to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Destroy the altar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You kick at the altar, then grab a sturdy branch and begin prying loose the stones. Perhaps sensing the offered reprieve, [Specified 1] joins in, and the pair of you make short work of the ancient place of sacrifice.
+
+As you leave the clearing, you think you hear laughter in the jungle behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You return to the remainder of your party, who immediately ask what became of [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Securing the effigy in your pack, you turn your back on the temple and return to your journeys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Who? Let's get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'm sorry... they didn't make it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You don't want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I killed [Specified 1] and cut a doll from the corpse. Any questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>A trio of kith step out of the trees and into the water, their torn and filthy robes billowing in the water. They pause near the center of the creek.
+
+The central figure, a beatific savannah folk, smiles up at you.
+
+"[Player Name]. Watcher of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Anything you want to say to me you can say in front of my friends!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The bald elf on the left shakes his head. "Not this," he rasps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The handsome central figure smiles and bows his head. "Farewell, [Player Name]."
+
+The trio back away and fade into the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"As for you being here," says the leftmost kith, a bald elf, "that was foreseen." He looks up at you with eyes that have been burned from their sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The bald elf snorts. "Admirable, but nonsensical. Choose again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>You shove your weapon deep into [Specified 1]'s chest, and guide her gasping fall onto the altar.
+
+Her eyes wide, [Specified 1] paws at you. Her bloody fingers slide down your chest. With a final rasping breath, she goes still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Though clearly distraught by the revelation of [Specified 1]'s loss, the party follows you as you lead the way onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You feel the heat of the glares upon your back.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

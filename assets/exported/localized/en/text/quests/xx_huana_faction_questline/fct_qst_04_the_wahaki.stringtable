@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_04_the_wahaki</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fruitful Alliance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to &lt;b&gt;Ori o Koīki&lt;/b&gt; to speak with the &lt;b&gt;Wahaki chieftain&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak with the &lt;b&gt;Wahaki chieftain&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Deal with the &lt;b&gt;Crookspur slavers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to &lt;b&gt;Ori o Koīki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to &lt;b&gt;Queen Onekaza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to &lt;b&gt;Queen Onekaza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Speak to &lt;b&gt;Ruāsare&lt;/b&gt; about an alliance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Queen Onekaza&lt;/b&gt; has asked me to recruit the &lt;b&gt;Wahaki&lt;/b&gt; tribe to her cause. Though confrontational and divisive, she feels that the tribe will prove a critical ally in the contentious days ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The tribe can be found on &lt;b&gt;Ori o Koīki,&lt;/b&gt; a fiercely protected island of dense jungle, to the &lt;b&gt;northwest of Neketaka&lt;/b&gt; .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I have arrived on Ori o Koīki, the &lt;b&gt;Wahaki chieftain&lt;/b&gt; may want to hear Onekaza's offer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Ruāsare&lt;/b&gt; asked me to dispatch the slavers of &lt;b&gt;Crookspur&lt;/b&gt;, an island to the &lt;b&gt;northwest of Neketaka.&lt;/b&gt; This was her condition for earning the trust of the &lt;b&gt;Wahaki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Now that the Crookspur slavers have been dealt with it, &lt;b&gt;Ruāsare&lt;/b&gt; will want to learn of my progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Now that I have forged an alliance with the Wahaki, &lt;b&gt;Queen Onekaza&lt;/b&gt; will desire my full report. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The &lt;b&gt;Wahaki&lt;/b&gt; tribe will not be fighting alongside the &lt;b&gt;Kahanga&lt;/b&gt; any time soon. Though she may not be pleased, &lt;b&gt;Queen Onekaza&lt;/b&gt; will want to hear of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I need to return to &lt;b&gt;Ori o Koīki&lt;/b&gt; and propose the offer of an alliance between the Wahaki and the Huana to &lt;b&gt;Ruāsare&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The queen told me the passphrase that will identify her herald to the &lt;b&gt;Wahaki&lt;/b&gt;. It is "&lt;b&gt;over crumbling mountains, across blighted seas&lt;/b&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Ori o Koīki&lt;/b&gt; - the "Cursed Land of Corpses" - is named for the abundance of koīki (corpsefruit) trees and rumors of &lt;b&gt;Engwithan ruins&lt;/b&gt; in the deeper jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The &lt;b&gt;queen&lt;/b&gt; intends to unite the Huana into the imperial power they were in days of old.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The &lt;b&gt;queen&lt;/b&gt; cautioned me that the &lt;b&gt;Wahaki&lt;/b&gt; have a violent history and have done terrible things to survive the Deadfire's volatile climate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The Wahaki refuse to consider an alliance so long as the slavers at Crookspur remain a threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Somebody critical to the completion of this quest has been killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I succeeded in recruiting the Wahaki to Queen Onekaza's cause. The Huana's strength in the Deadfire should grow significantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Negotiations with the Wahaki turned violent. The tribe will not be joining Queen Onekaza's cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>My negotiations with the Wahaki were unsuccessful. Queen Onekaza will have to do without the tribe's aid.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

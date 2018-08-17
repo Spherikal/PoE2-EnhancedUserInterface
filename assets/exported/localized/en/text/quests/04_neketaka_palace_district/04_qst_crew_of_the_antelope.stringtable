@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_crew_of_the_antelope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Final Voyage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the &lt;b&gt;ship graveyard&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search for remnants of the &lt;b&gt;Antelope&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Free the &lt;b&gt;captives&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A peculiar captain by the name of &lt;b&gt;Lofell&lt;/b&gt; claims to have come across a dire threat far to the &lt;b&gt;south-east of Neketaka&lt;/b&gt;. A threat that stole away the crew of his ship, the &lt;b&gt;Antelope&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lofell spoke of an &lt;b&gt;island surrounded by shipwrecks&lt;/b&gt;, the apparent source of whatever it was that attacked his ship and stole away his crew. 
+
+He seemed to think it would be a threat to any captains in the region, and a lethal challenge to the inexperienced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have found the island Lofell described - a hundred ships must have wrecked upon this reef. 
+
+Perhaps there will be some sign here of &lt;b&gt;Lofell's ship&lt;/b&gt;, or his &lt;b&gt;crew&lt;/b&gt;... or else the creatures that attacked them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have found &lt;b&gt;Lofell's crew&lt;/b&gt; - or what remains of it, for there are only two survivors. 
+
+They are tied up within a blood-strewn &lt;b&gt;tavern&lt;/b&gt;. Without my help, they'll wind up in a gul's stomach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I have attacked the survivors of the Antelope's crew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I managed to clear a path for the two remaining members of Lofell's crew. They promised to sing my praises to the Príncipi of Fort Deadlight, for whatever that's worth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>By the time I returned to the tavern, there was no sign of the captives. Judging by the round bellies on some of the guls in there, I was too late.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Lofell didn't survive our encounter, but his story did - I have found the island he spoke of. Perhaps there was some truth in it after all.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

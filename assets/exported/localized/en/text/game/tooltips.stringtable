@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Huana: "Don't worry, sister. Surely you can let me through..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vailian: "I swear to guard the Darcozzi Palace and its rightful rulers, the scions of Orelia Darcozzi. I swear to them my love and my life, or may Magran's fires consume me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Berath&lt;/b&gt; (return the souls to the Wheel)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;b&gt;Galawain&lt;/b&gt; (strengthen the souls of the Dyrwood)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;b&gt;Hylea&lt;/b&gt; (restore the souls to the Hollowborn)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; (disintegrate the souls)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;b&gt;Skaen&lt;/b&gt; (give the souls to Woedica)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vailian: "You damned idiot! Fuck yourself! This is all your fault anyway! I hope a kraken swallows you! You piece of shit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_dragon_dais</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A raised wardstone stands out from the watery floor of the dragon's prison. The runes engraved along its surface glow with pale light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Use the Rod of the Deep Hunter to disable the enchantments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Strengthen the spell of imprisonment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The runes crackle as their power dissipates. In seconds their light is extinguished, and the shapes of each arcane sigil lose definition until they fade into total obscurity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The light emanating from the ward brightens as the runes sharpen, spreading their blade-like edges over the stone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Strengthen the spell of imprisonment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Strengthen the spell of imprisonment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Strengthen the spell of imprisonment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>A raised wardstone stands out from the watery floor of the dragon's prison. The runes engraved along its surface glow with pale light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>A raised wardstone stands out from the watery floor of the dragon's prison. The runes engraved along its surface glow with pale light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A raised wardstone stands out from the watery floor of the dragon's prison. The runes engraved along its surface glow with pale light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Inspect the wardstone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Enchantments coursing through the stonework keep the dragon tethered to this spot and siphon energy from his soul. 
+
+The spells of imprisonment look more recent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The siphoning enchantment merely sips at the dragon's essence and disperses it elsewhere. 
+
+You think it could be used to store the essence - enough to last decades or longer if used responsibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You can tell nothing else about the enchantments. 
+
+The ward flashes, causing the Rod of the Deep Hunter to tremble in your pack, as if the two share some arcane affinity for each other. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Try to siphon enough of the dragon's essence to empower the guild, then break the imprisoning ward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Scyorielaphas winces but makes no other protest. He shifts his weight from one leg to the other as the runes of confinement begin to crumble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The wardstone itself flashes brighter than ever, resplendent with the dragon's powerful essence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The enchantment slips through your fingers in spite of its advanced age and depleted state. Clearly someone built this prison to resist any potential meddling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You survey the runes and consider your other options.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

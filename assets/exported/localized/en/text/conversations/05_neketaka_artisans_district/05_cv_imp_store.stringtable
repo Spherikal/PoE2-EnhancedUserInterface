@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_imp_store</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"SHOP IMP. GREETINGS." This imp mutters something dark and hateful under its breath. It regards you with narrow, wandering eyes and flared nostrils. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Why are you so hostile?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"IS NOT HOSTILE. IS JUST IMP." He bares his teeth and hisses to emphasize the point. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"EH. BUY SOMETHING." He makes a rude gesture toward the shop's wares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"HEY! WHAT YOU DOING IN FASSINA'S ROOM? NO CUSTOMERS ALLOWED." 
+
+In a showing of courtesy as practiced as it is grudging, the imp gestures for you to leave by the way you came. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Are you trying to order me around, imp?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sorry, I'll leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"EH! NO HURT. NOT LIKE I MAKE THE RULES AROUND HERE ANYWAY..." 
+
+The imp backs away slowly, shielding itself with its bared claws. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'm a special customer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"EH? SPECIAL? FINE. STUPID FASSINA NEVER TELLS ME ANYTHING..." 
+
+The imp flutters away, mumbling dejected curses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm looking for Ifren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"DEAD THIEF? CHECK BOX. HE STILL RATTLING AROUND IN THERE." The imp chuckles at this - a wet, unpleasant sound. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I need to speak with Fassina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"AND EXPECT ME TO KNOW WHERE SHE'S AT, EH? EH?" The imp prods you once, twice, his wings flaring open with irritation and aggression. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Well, what are YOU doing here? Pervert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I... YOU DON'T GET TO DEFLECT BLAME! I FOUND YOU, NOT OTHER WAY AROUND." 
+
+The imp regards you with an imperious sneer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"THAT'S RIGHT, YOU GO."
+
+The imp studies you with deep loathing as you leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"LAZYBONES IS PROBABLY AT THE LUMINOUS BATHHOUSE. TAKING BATH. KNOW WHEN LAST TIME I TOOK BATH? NEITHER DO I." The imp stares at the exit with envy and longing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"IS IMP, AND... IS SAD." His expression falls. New sags, wrinkles, and edges grow definition. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"FASSINA SPENDS TOO MUCH TIME AWAY FROM SHOP, LEAVING ME TO FEND FOR SELF. IS BAD ENOUGH MASTER WON'T LET ME LEAVE STUPID SHOP."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Why do you think Fassina spends so much time away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"So you're not angry at all, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"EH. SHE HATES HER WORK, HATES ARKEMYR, HATES ME. REASON ENOUGH." He counts on each finger, then balls his claw into a fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"GO ON. I NO CARE." He gestures for you to hurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"IMPS COMPLICATED. KITH THINK WE HAVE TWO BIG EMOTIONS - ANGRY AND HAPPY." He smacks his lips and stumbles on the longer, more nuanced words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"FASSINA MUCH NICER LATELY. SAID HELLO BEFORE SHE KICKED ME. PROGRESS, EH?" Shop Imp gestures toward the wares in an encouraging manner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"FASSINA KICKED ME IN THE HEAD. NO PROVOCATION. WHAT YOU WANT?" Shop Imp flutters at a slant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He aims a fearful glance toward Fassina and lowers his voice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"FASSINA ... DEAD? UH." The imp turns to the left and right in an uncertain manner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"MAYBE I GET ORDERS TO KILL YOU LATER. NEED SOMETHING IN MEANTIME?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"BECAUSE FASSINA WAS FRIEND. NOW FASSINA DEAD. HAPPY? I'M NOT!" He spits a black glob of phlegm at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"HEH. NOPE. FASSINA'S ORDERS." The imp shrugs and picks his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"BUT KITH CAN'T SMELL IMP SPRAY. JOVIAL SPRAY, MELANCHOLY SPRAY, CREATIVE SPRAY - IMPS SPRAY ALL OVER EVERYTHING." To accentuate the point, a little puff of foul-smelling effluvia wafts out of an orifice that was not evident a second ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

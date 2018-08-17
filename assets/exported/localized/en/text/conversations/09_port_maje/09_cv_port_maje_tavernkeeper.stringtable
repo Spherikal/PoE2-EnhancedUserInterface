@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_port_maje_tavernkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>98</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sorry, we haven't got any rooms for you." 
+
+The rather large man behind the counter glances your way, smiling grimly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Still kicking, eh? What'll it be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ain't right, doing business sober. I could fix that for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Guessing you're the one came in off that shipwreck down south. Not sure if that's good luck or bad, but here. I figure you deserve a drink."
+
+He slides a murky pint of ale across the counter towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What's this about the rooms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Let me see what you have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Know anyone looking to make some coin? I need someone who can hold their own in a fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What can you tell me about Port Maje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Things have got a bit quieter since you turned up last. 
+
+"Quiet's good, far as I'm concerned. Lots of repeat business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Folks come by here all the time hunting for work. Let's see who we can scrounge up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"It's slim pickings until the supply ships come in, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Didn't think you had two copper pieces to rub together." 
+
+"No offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Didn't think you'd come back here. Don't tell me you wrecked your ship again."
+
+He gives you a crooked smile before turning back to the glass he's wiping clean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Whatever trouble you had with the governor, leave it outside. Let's keep our heads."
+
+He watches you with narrowed eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What in blazes is the matter with you? We heard screaming. I said 'clear the room,' not 'murder everyone inside!'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"They attacked me. I had no choice but to defend myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You're right. Keep the pay. But I'd still like the room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You wanted them gone. They're gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sorry... I, uh, got carried away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Are you joking? Who's going to clean up the mess?!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You should have been more specific."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh, don't worry. I'll take the room as it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You are... unbelievable. 
+
+"...Life on the archipelago will be calm, they said. Tropical paradise, they said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No choice? Berath's bells, I should have thought twice about asking for your help!"
+
+Thorel runs the back of his hand across his sweat-damp forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Let's not pretend you did as I asked, but chances are you're the only one will ever pay me for a stay in that room again. Might as well get something out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Got &lt;i&gt;carried away&lt;/i&gt;?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Thorel stares, mouth agape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Just let me kick my feet up for a night, and I'll get out of your hair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"How can you tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"No secret to it. We haven't had a new ship in port since the storm rolled through. And yet, here's a stranger in my tavern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Thanks. What's this about the rooms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Not too many of your kind around here, son."
+
+He shrugs one meaty shoulder.</DefaultText>
+      <FemaleText>"Not too many of your kind around here, that's all."
+
+He shrugs one meaty shoulder.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"We're full up. You aren't the first outsider to turn up looking for a place to stay after their ride off the island ended up at the bottom of the sea." 
+
+He pauses, fixing you with a considering eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Well, tell you what. I've got one room ought to have been cleared out by now. Only the occupant's decided to outstay his welcome.
+
+"Real trouble is, he hasn't settled his bill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What I really need is someone to fix my ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Can't help you there. Governor Clario's the one to talk to. Half the town's patching up whatever's left of the ships in the harbor, but might be he can pull some of them off to get you on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Can't help you there. Governor Clario would have been the one to ask. Seems you missed your chance, there. 
+
+"Best hope your ship's still seaworthy once the tide comes in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"He's a merchant captain by the name of Galian. I've given him a fair chance, but he's been a right prick about the whole thing. 
+
+"I've got a spare key here. You chase him and his pals off, and the room's yours. At a discount."
+
+He slides the key across the counter towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What if he won't leave willingly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You want him dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I'll see what I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I think I'll just camp out on the beach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You want sand in your unmentionables, that's up to you." 
+
+He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Why call it the Kraken's Eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yes, why, now that the eye is gone. I might as well tear down the sign. 
+
+"I can't believe someone would take it. Everyone on the island knew what it was worth to me!" 
+
+Thorel's face reddens with pent-up anger, and he turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ah, well... He's a prat, but he's not so tough. Smack him around if it comes down to it, but I figure a few sharp words ought to do the trick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What? No! I said 'chase him off', not 'kill my patrons.'
+
+"...Now I'm not so sure about asking you, honestly..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I appreciate it, truly. I'll have someone tidy the place up for you, once you're through. Chances are they've spilled ale just about everywhere..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You think you can wander around hurting my guests?! Get out of here before I call the guards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"How about you pay me, instead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Right, I should have known better. I'll throw in a reward, and the discount stands. How's that?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mercenary type, are you? That's fine. I'll throw in a reward, and the discount stands. How's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I don't want the man dead, and that's not what I'm paying for. Just see him on his way, and we'll call it done." 
+
+With a final nod, he turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I think I've run into him. I'll clear him out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I cleared out that room for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Hey, good work! Times like these, I can't afford to keep on anyone who can't pay their tab. 
+
+"The second word got around, I'd have every pauper in the city on my doorstep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The room's yours if you want it. And for a job well done - here's your pay."
+
+He sets a damp leather coin pouch on the counter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I thought that went unsaid! What kind of man kills another man over something so petty?"</DefaultText>
+      <FemaleText>"I thought that went unsaid! What kind of woman kills a man over something so petty?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"The kind of man you really don't want to upset."</DefaultText>
+      <FemaleText>"The kind of woman you really don't want to upset."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Come on... It's not like anyone else is going to want to stay in that room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fine, keep the room. It's not my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You're lucky I don't call the guards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Think about who you're talking to, Thorel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You do that and I might get carried away again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"...Ondra take me. Fine. But I'm not making the servants clean that mess up. That's my limit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"No, it's the problem of whatever poor bastard I pay to mop it up. Go on, get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"My eye! You rotten thief!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Years I've had that kraken eye. Who'd go and steal a thing like that? What am I supposed to call this place now?" 
+
+Thorel wipes insistently at a clean section of the counter with a rag, his jowly features trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Not much point to that without a ship. Come by when you've got work to offer, and we'll figure something out."
+
+He smiles apologetically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'd like to hire some crew members onto my ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"There's plenty of people looking for passage out of here. Let's see if any of them catch your interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Have a look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"On account of you haven't got a gaggle of children trailing after you to ask impolite questions. Means word hasn't got around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I warned you. Guards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Any chance you saw the fight between Rinco and Mokeha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Mokeha? That'll be the Huana the poor fool got into a dust-up with, I expect.
+
+"Yeah, I saw it. Made a real mess, they did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"The two of them were having a game of cards, far as I could see. Guess things between them soured in a hurry.
+
+"I kicked the Huana out, had a few men carry what was left of Rinco home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Do you know who started it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Do you know Rinco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"That's all the questions I had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ah, could have been anything. Rinco doesn't know when to quit talking, and some of those Huana are real serious types. Far as I'm concerned we owe the Storm Speaker for keeping the town in one piece. 
+
+"Don't mean I'd invite her people over for tea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Well, no more than most. He's a hard man to like, let's say. Came here with the wife, an animancer. One of Oderisi's lot. 
+
+"The governor could tell you more there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sure. Just hope you don't mean to dredge anything up again. Leave the feuding for the blue-bloods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'd like a room, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Sure thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Return the eye.] "Sorry! I was just looking at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Pocket the eye.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Touching what doesn't belong to you is a good way to land in a gibbet. 
+
+"Hrmph. We'll call it settled. Just keep your hands to yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"So they were playing against each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Well, yeah. Think maybe Rinco wasn't expecting one of the Huana to know the game so well. 
+
+"He looked real nervous by the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Well, no more than most. He's a hard man to like, let's say. Came here with the wife, an animancer. One of Oderisi's lot. 
+
+"With Clario gone, suppose that's all over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Really is a decent place, most days. Good trade, and plenty of money rolling in from Clario's investors.
+
+"Damn sight quieter than back home. But I don't have to tell &lt;i&gt;you&lt;/i&gt; about the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What else? It was the glory of my fighting years. The beast pulled nearly seven full crews into its belly before it was brought down. 
+
+"I was at the helm that day, and for that my captain gifted me one of the beast's eyes."
+
+Thorel's eyes glitter with pride as he points to the wall just right of the counter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"My proudest moment, and my dearest treasure. I would not part with it for all the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Guess you haven't exactly seen the prettier side of the place since you landed, right?
+
+"It's the only town on the island, if you don't count Sātahuzi- little Huana village, out west."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Folks come by here all the time hunting for work. Let's see who we can scrounge up."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

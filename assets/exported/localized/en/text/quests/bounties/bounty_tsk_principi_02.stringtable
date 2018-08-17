@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_principi_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Kuaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Kuaro&lt;/b&gt; and take his ship's triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Udita&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Udita&lt;/b&gt; hired me to hunt down &lt;b&gt;Kuaro&lt;/b&gt;, a Huana captain who helms the junk ship &lt;b&gt;Kamat o Ngati&lt;/b&gt;. There's a bounty to claim in exchange for evidence of the captain's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Kuaro&lt;/b&gt; sails his junk, &lt;b&gt;Kamat o Ngati,&lt;/b&gt; around the &lt;b&gt;Kua o Rikuhu&lt;/b&gt; island chain &lt;b&gt;east of Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Kuaro's&lt;/b&gt; bounty is ready to claim. I can check in with &lt;b&gt;Udita&lt;/b&gt; at &lt;b&gt;Lifter's Refuge&lt;/b&gt; in Dunnage for my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Kuaro and claimed the reward for his bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

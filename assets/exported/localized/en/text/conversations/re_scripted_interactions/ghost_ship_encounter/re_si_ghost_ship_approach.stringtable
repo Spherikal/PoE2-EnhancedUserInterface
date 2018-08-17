@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_approach</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Engoliero do Espirs pulses in your grip, thrumming with power. It rattles in its sheath, and for the first time in two hundred years, the blade is drawn free.
+
+You wield the sword as your voice echoes across the ocean, eerily rising in volume rather than fading.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>White fog, cold as the grave, churns up from the sea. It swells up and over the sides of [Player Ship] right as you hear the sound of a galleon approaching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The groaning of centuries-rotted wood turns into the groaning of the undead. While the galleon flanks you, Lucia Rivan cuts you a look through the thick fog, her fleshless face lit by the flames burning in her hollowed eye sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Then the Death Guard and her skeletal sailors are boarding your ship - coming for the sword. Coming for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

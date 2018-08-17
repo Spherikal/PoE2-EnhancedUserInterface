@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_caedman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Watcher! What a surprise to see you again."
+
+Beneath a familiar, pointed nose, Caedman Azo's grin achieves a careful balance between polite and sneering. His once-round face has grown gaunter since you last saw him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I realize this means very little to you, but I'm &lt;i&gt;busy&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Taking an interest in the sciences?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I &lt;i&gt;assume&lt;/i&gt; you're here to raze the tower. No? Smash the machines, then? Relieve yourself all over the diagrams?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hey there, Azo. Still torturing patients?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He darts a quick glance in Flaune Elette's direction, only to find her preoccupied. 
+
+Azo smiles widely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Don't be ridiculous. We have a long line of well-paid volunteers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Of which you are the latest, I hear. I look forward to working with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Of course, we can always use more. Any chance you have an interest? I assure you, you have nothing to fear from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Azo? You belong at the end of a rope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Yes, well, no need to get excited. You'll find that I am a respected colleague, here at the Spire, under the protection of the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Stay out of trouble, Azo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'll be watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'd better go talk to Flaune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"They don't pay me enough to deal with mercenaries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You do nothing by halves, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Yes, it &lt;i&gt;would&lt;/i&gt; be too much to hope that you'd remember me. Why trouble yourself, when my work at the Brackenbury Sanitarium was only at the very forefront of scientific advancement? 
+
+"It's too much to ask, that the man who worked tirelessly to &lt;i&gt;cure the Dyrwood's Hollowborn crisis&lt;/i&gt; might merit remembering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Director Castol was desperate for &lt;i&gt;learned&lt;/i&gt; academics, and Neketaka being so distant from Brackenbury did much to recommend it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"We do fine work here. Not as... personally fulfilling as my time in the sanitarium, but exciting in its way. 
+
+"The Huana have a much more forward-thinking stance on the sciences, so it's easier to find volunteers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Always."
+
+He turns away with a final, half-hearted wave of dismissal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Do so. You may just learn something." 
+
+Caedman turns away with a final, half-hearted wave of dismissal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Don't tell me they were stupid enough to put &lt;i&gt;you&lt;/i&gt; in charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Regrettably, no... That honor goes to Flaune Elette. A charming young woman. 
+
+"Perhaps not as &lt;i&gt;experienced&lt;/i&gt; as I, but I understand that the Songretta mea Compresa is more &lt;i&gt;comfortable&lt;/i&gt; with their own people in charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Azo. I thought I smelled something familiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"If the rioters in Defiance Bay knew he was here, they'd be on the next boat to Deadfire. With a cargo of rope and torches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Belfetto. The man who dragged down every other Dyrwoodan animancer with his despicable practices. What a wonderful surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I see we've all moved up in the world, haven't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Besides, someone has to look out for the Dyrwood's interests in all this. It certainly won't be the Vailians."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Well, that's what &lt;i&gt;happens&lt;/i&gt;, isn't it, when an ignorant mob &lt;i&gt;burns down&lt;/i&gt; your place of employment. You move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Captain, I say you run with a more dangerous crowd than I guessed..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Well, you are forgiven. My circumstances have changed greatly, as you can see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You and dozens of other animancers. The difference between you and them could fill several books on ethics."
+
+Her feathers twitch and the corner of her mouth twists into a slight sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Certainly. She has a great gift for discussing animancy with the layman."
+
+Caedman turns away with a final, half-hearted wave of dismissal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ac, Vailian animancers are accustomed to working with a measure of restraint. I can see how that could be troubling for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Again? Really, Watcher..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

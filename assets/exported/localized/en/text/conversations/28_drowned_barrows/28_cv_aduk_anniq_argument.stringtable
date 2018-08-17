@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_cv_aduk_anniq_argument</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I said &lt;i&gt;no,&lt;/i&gt; Tatok. The Drowned Barrows are closed." 
+
+An elderly dwarf folds her arms, her disapproving frown warping the tattoos that encircle her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nemnok will release my son or... or perish." 
+
+Tatok utters the words in a hate-filled whisper that causes Anniq to hiss through her teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Kaali served the tribe. You should live by his example and stop speaking foolishness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bah! I lived a full life in the shadow of the Barrows. Kaali deserves the same." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"If you reject Nemnok's accord then you are truly lost. May Kaali find peace in the embrace of the mighty one." 
+
+Anniq grits her teeth and marches across the settlement, turning her gaze to linger on the distant outline of the mountain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If you want to join your son, you can offer yourself to Nemnok next season."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's going on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Did I miss Nemnok offering season again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This is a matter for later, tundra cousin." Her glare softens and she nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"This is Junvik business, goat cousin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"This is nothing that concerns our island neighbors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"This is Junvik business. None of yours." She turns her nose up at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tatok, you will &lt;i&gt;not&lt;/i&gt; speak to outlanders if they mock our ways!" She raises an admonishing finger, leaving you in the periphery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What happened to your son?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Kaali sacrificed himself for the good of the tribe, &lt;i&gt;right&lt;/i&gt; Tatok?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Maybe I can help with that part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You will do nothing, outlander!" The chieftain spins her focus from you back to Tatok.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Our elders crossed the land bridge to &lt;i&gt;protect&lt;/i&gt; their children! You disgrace their memory feeding our young to the mountain, Anniq!"
+
+The auburn-bearded dwarf waves toward an imposing peak on the horizon, its cliff face shaped like a leering skull. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"An outlander!" Tatok goes starry-eyed with awe, but a hard look from Anniq silences him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"An outlander!" Tatok goes starry-eyed with awe, but a hard look from Anniq silences him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You would defend broken traditions? They do not serve us anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

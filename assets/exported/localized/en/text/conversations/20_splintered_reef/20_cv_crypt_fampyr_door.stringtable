@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_crypt_fampyr_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The brazier doesn't appear to hold any obvious mechanism for lighting itself, but you notice a basin at its base that is coated with dried blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The brazier doesn't appear to hold any obvious mechanism for lighting itself, but you notice a basin at its base that is coated with dried blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examine it closely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Pour Fampyr blood into the basin.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you pour the foul-smelling liquid into the basin, it drains away into the depths of the brazier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You hear a faint rumbling, though you cannot be sure from where it comes. All at once the brazier flares to life, its flames casting dancing shadows upon the surrounding walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Once the second brazier is lit, you hear a loud, scraping rumble of stone, followed by a rush of air like the sigh of a great beast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Your keen ears pick out other sounds soon enough: the clacking of teeth, and the hissing that rises from the open pit behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Set within the basin is a raised crest, bearing the crest of Old Vailia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Nearly obscured by the encrusted blood is a small crest, bearing geometric shapes. You do not recognize the crest, but it appears Huana in style.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

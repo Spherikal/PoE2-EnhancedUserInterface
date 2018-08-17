@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_missing_harbinger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I know that smell. Beer and furs and fires. It's been a long time since a Harbinger made it over the top of the berg." 
+
+She turns her attention from the fallen construct and grimaces at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You here to pull your weight or just to say hájo?" 
+
+Ehrys wipes oil from her palms and gestures for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sounds like you'll enjoy being a construct. How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I think you're better off returning to Harbingers' Watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Aren't you Brythe's sister?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Actually, I'm not a Harbinger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, no. Don't tell me she's fallen in with the rest of those fools?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The Harbingers are too soft to worship the Beast properly. Me and the other pilgrims found a new faith here, at the top of the berg. A faith that made us strong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Could have fooled me. I can smell the self-satisfaction wafting off you like incense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"It was only a matter of time before they hired someone to stop us. I'll bet the Harbingers can't stand how deliciously &lt;i&gt;miserable&lt;/i&gt; we are." 
+
+Her dry lips peel back in a painful grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What are you doing up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'm casting off this putrid, mortal body of mine and trading it in for something better." 
+
+She knocks on the metal carapace of the fallen construct with pride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"By hammering my soul into this wretched instrument, I can become the guardian this temple deserves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What do you prove by turning yourself into a construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Prove? How easily an outsider like you misses the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"A construct feels nothing but duty. When simple instructions are your world, 'pride' and 'self' are calved off like glacial ice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sacrifice and emptiness rule in the White Void. It is my honor to give everything I have - everything I am - for the glory of the Beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"This place has shown me wonders, and I have no plans to leave.
+
+"I've seen serpents made of ice encircle the moon. I've seen colors beyond our perception ribbon across the stars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I am a changed woman - asleep no longer. This bloated husk of mine is bound for the worms, but my soul is made for eternal service." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Well, I'm convinced. Let's get you into that construct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wouldn't the ultimate expression of faith mean letting your body wither and rot over time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It sounds more like you hate your body and want a new one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Forget I brought it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Worry not. In time, I will have forgotten everything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You'll help me? That's great! Time to cast this body aside like a worn-out fur." 
+
+She rubs her hands together and gestures toward the construct. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"But that will take years! I can't serve the Beast and his Maw like this!" She gestures down at herself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Something in your words takes her by surprise. She rests a hand on the construct's frozen boiler and steadies herself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I hate my limitations, my hungers, my frailty. The Beast can suck my marrow and discard me - &lt;i&gt;this&lt;/i&gt; is true perfection."
+
+She knocks on the iron shell, this time with more conviction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Or you could accept yourself as you are. Stop indulging in this fantasy of a fresh start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Maybe I'm guilty of... hoping for something I'm not. But there's no room for hope in the Beast's clutches, is there?" 
+
+Her finger trails away from the construct. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'll leave this berg to the Beast, then. Maybe make my way down and shout some sense into the dumb Harbingers."
+
+Sighing, Ehrys turns her attention to the way you came. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You're just going to reject everything I suggest, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What kind of stake have you got in this anyway?" 
+
+She rests her hands on her hips and gives you a measuring look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nice offer, but I doubt I could dig the snow out of a Harbinger's ears." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Just walk away. Tell anyone who asks that you didn't see anything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Careful, you're talking to the Duskspeaker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Duskspeaker? What is that, some kind of Harbinger boogeyman? Doesn't exactly roll off the tongue, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vatnir, don't you think her asceticism would be an inspiration to the other Harbingers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Oh, uhm, absolutely. We'd certainly, ahem, benefit from the perspective of one so well-acquainted with life on the Dead Floe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Donning this permanent shell is a betrayal of your faith. Embrace annihilation when your time comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You make it sound like I missed the point. Curses, maybe I have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Well, good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"No! No! My Beast, I tried!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You're making a case for mindless drudgery?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It's no better or worse than any other trade on the berg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Brythe said you were part of a pilgrimage?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"It took our best climbers and their scouting bears, but we summited the berg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"The things we saw at the top... Even now my mind is bending around the vision of it."
+
+Her eyes unfix from the conversation, but she shakes herself back into the moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You don't walk away from a climb like that untouched." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The construct regards you with no evident emotion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The only question is how we go about it." 
+
+She props her chin on her fist and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You didn't have a plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Step aside. I'm a Watcher. We'll figure something out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I didn't show up completely empty-handed. I have some of these. And one of these."
+
+From the depths of her pocket she produces a palmful of adra shards and twisted lengths of copper, all dusted with lint. Then she unslings a dented mallet from her belt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Will these help?" She gives the mallet a practice swing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I only just came up with the idea when you strolled in. Haven't exactly had enough time to put all of this to the test, but isn't that in the spirit of adventure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I like your confidence! Makes me feel like I'll be a metal person in no time."
+
+She beams with pride as the two of you get to work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It's a start. We'll hope for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"This could get you killed, but I suppose that's the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"There's the spirit! When we're done, you'll swear you've never seen a happier corpse."
+
+She beams with pride as the two of you get to work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I've changed my mind. I want no part of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"No? Your loss, then. Let me know when you grow a stomach for adventure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I changed my mind. Let's get you into that construct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The people who built this temple probably left some tools or instructions lying around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Now that we've set decency aside, the rest should be simple." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Oh, no. Don't tell me she's fallen in with the rest of those fools?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You must see this sort of thing a lot. Wish I was that well-traveled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"That's true. If we're a little clumsy about it, at least we won't cause any permanent damage - to my spirit, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"At least the Harbingers make good beer. I needed a hearty stout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Are you quite certain that's wise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"We still got that kitchen lard from Hasongo, don't we? It'll come in handy if her joints freeze up." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You indulge in unusual fantasies, captain! I am intrigued to see where this goes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Perhaps we, uh, &lt;i&gt;shouldn't&lt;/i&gt; put the madwoman inside a hostile machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vatnir blinks in surprise. His mouth falls open, closes, then opens again with a ragged cough.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

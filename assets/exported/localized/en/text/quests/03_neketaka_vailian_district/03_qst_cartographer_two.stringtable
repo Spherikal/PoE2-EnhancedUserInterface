@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_two</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Mapping the Archipelago: Tikawara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explore the islands around &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Sanza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Sanza&lt;/b&gt;, the excitable cartographer I met in &lt;b&gt;Queen's Berth&lt;/b&gt;, wants to compile a complete guide to the islands of the Deadfire, but he can't do it on his own. 
+
+I've made some progress, but there's still a lot to explore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, the cartographer in Queen's Berth, asked me to make a survey of the uncharted islands of the Deadfire Archipelago.
+
+This time, he pointed me toward the islands surrounding the Huana village of &lt;b&gt;Tikawara&lt;/b&gt;. He makes claim of three islands forming a rough approximation of a triangle around Tikawara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have finished surveying the region around Tikawara, and can return to &lt;b&gt;Sanza&lt;/b&gt; at his shop in &lt;b&gt;Queen's Berth&lt;/b&gt; in Neketaka for my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Upon a swampy island just &lt;b&gt;southeast of Neketaka&lt;/b&gt;, I found a &lt;b&gt;crypt&lt;/b&gt; infested with hostile vessels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;South of Tikawara&lt;/b&gt;, I discovered a strange &lt;b&gt;ruin&lt;/b&gt; dedicated to Wael, god of secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;East of Tikawara&lt;/b&gt;, I found an &lt;b&gt;Engwithan ruin&lt;/b&gt;, dedicated to the goddess Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to the completion of this quest has been killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I gave Sanza my information on the islands around Tikawara, and claimed my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

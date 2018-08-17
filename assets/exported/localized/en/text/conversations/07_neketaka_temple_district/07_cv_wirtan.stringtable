@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_wirtan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I can't believe it. Is that really you?" 
+
+Solid meals and decent sleep have filled Wirtan's lean frame out somewhat, but the man retains a foxlike aspect around the face. He greets you with an indecisive smile, unsure of whether to be nervous or pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Good luck out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"So, you're commander of the... Iron Flail?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Were you looking to enlist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It's... it's you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Guess it's Lord [Player Name], now. Never thought I'd see you again."</DefaultText>
+      <FemaleText>"Guess it's Lady [Player Name], now. Never thought I'd see you again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Would be nice to get some answers, maybe. Or... forgiveness. For getting his people killed. 
+
+"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Took some getting used to, working shoulder to shoulder with Readcerans. But it's not so hard as you'd think.
+
+"Feels like I'm on the right path. Toward a little piece of redemption, maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Been seeing lots of old faces lately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I was hoping I'd seen the last of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I guess everyone's chasing after Eothas these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"And... Edér. You made it out of Gilded Vale for good, then. I'm glad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Lot more might've made it out if you hadn't left 'em for dead."
+
+Edér's fists clench and unclench several times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I haven't forgotten. It's why I'm here, Edér."
+
+Wirtan's doesn't meet Edér's eyes. It takes visible effort for him to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You too, eh? Don't know what you have to be sorry for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You too, eh? Guess we're all making up for something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Leave] "Keep out of trouble, Wirtan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Do I know you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh... Ah, there's no reason you ought to, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Just the fella that left a bunch of Eothasians to die in their own temple, back in Gilded Vale. Folks that trusted him.
+
+"Other than that, pretty unmemorable."
+
+Edér takes a menacing step toward the man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"No one but an old coward, trying to make things right with himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I... It's true. I was a &lt;i&gt;coward&lt;/i&gt;, Edér. I won't argue that. I'm trying to make things right."
+
+Wirtan's shoulders curl inward, but he makes no move to get out of Edér's way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Doing my best, lord."
+
+Wirtan smiles, and inclines his head in a bow.</DefaultText>
+      <FemaleText>"Doing my best, lady."
+
+Wirtan smiles, and inclines his head in a bow.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Well, good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eothas will show us the way, Wirtan. Have faith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"So long as you have fun once in a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"There are no true gods to redeem us, Wirtan. There's just us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Well. Guess you've changed your mind some, since we met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I never got a sign from Eothas to begin with. There was just... you.
+
+"If it comes down to what we can live with... I'm still in the right place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"The sun rises, however long the night. 
+
+"I remember. It's... it's been good to see you, Watcher. Shining God light your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hear that comes with the job. You being a Watcher, I mean." 
+
+Wirtan grins sheepishly, then ducks his head.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"So now I'm doing what I can. Handing out food, mostly, or delivering supplies. 
+
+"Familiar work, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Well, it was a close thing for a while, with that... thing ruling Gilded Vale in Raedric's place. 
+
+"I made it out with some of the other families. Came out here when the Dawnstars came through town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Well, it was a close thing for a while. If that makes you feel better. 
+
+"Didn't feel like I was doing much good back in Gilded Vale. Or anywhere. Not until I caught word about the Dawnstars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wirtan? What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I spent years like that. Just me and the terrible thing I'd done. It sat in my gut for years, tearing me up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Things got rough for us back in Gilded Vale. Even after the Hollowborn curse ended.
+
+"Didn't feel like I was doing much good there. Or anywhere. Not until I caught word about the Dawnstars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I kept to my word. I started trying to help around town, like you told me. When the Hollowborn curse ended, it was like... You can't imagine what that meant to everyone.
+
+"We had some good years."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Blazes, I tossed and turned about it. I figured there couldn't be a clearer sign."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I've been helping out here, with the Dawnstars. Handing out food, mostly, or delivering supplies. 
+
+"Not... not so different from Gilded Vale, maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Peace of mind, or something close. That's good enough for me."
+
+Wirtan flashes you a final, crooked smile, than inclines his head in a bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Yeah, well. We'll see where you end up in the next life.
+
+"They can't redeem you, but you'll still be judged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Then word came through that the Dawnstars were coming out here. That the Shattered God was back to being the Shining God."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

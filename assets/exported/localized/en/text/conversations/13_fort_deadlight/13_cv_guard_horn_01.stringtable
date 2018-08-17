@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_guard_horn_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Hold it right there, lovesome! If you ain't one of Benweth's own, you know you can't be back here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Benweth? You mean the captain of the Drake?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aye. And it shouldn't surprise you. Aeldys set sail two nights ago. Means Benweth's running the Deadlight tiptop in her stead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What he says goes. And what he likes, he gets to do. Including the right to lock down parts of the fortress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She licks the flat of her thumb. Then she rubs it over the etched silver of her gun barrel, spit-shining the metal - to draw attention to the muzzle pointed at your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"If you're thinking to get mutinous, don't. You know they call him Brutal Ben for a reason. He ain't shy about tossing mutineers into the stocks for the crows to pick off their skin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Attack] "What Benweth doesn't know won't hurt him. But it will get you killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Bloody pox-piss! You mutinous louts get bolder and bolder, don't you?!" She cracks her gun at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Bit of lead in your belly ought to settle you right down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Back away with your hands up.] "You're right, I do know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Then you also know I'll be showing you out. This way - follow me and keep those hands where I can see them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Now, lovesome. I know &lt;i&gt;you know&lt;/i&gt; that Benweth can't know how you've come up here. Twice now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You don't want to be speared like a shark, you'd best be backing down nice and slow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Enough's enough, lovesome, and you know it. I'm going to show you the color of your insides."
+
+Rather than draw on you, she fumbles a large metal horn from the sling holster crossing her hips. Then she lifts it to her svef-stained mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Right soon as I sound this horn - so every last tar in Deadlight knows there's blood in the water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Once you're netted, Ben'll make you play Dead Man's Nag. Give us a laugh before your gullet's slit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Any friend of Ben's is a true pal of mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

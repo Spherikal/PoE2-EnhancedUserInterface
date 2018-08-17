@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_09_to_hunt_a_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>To Hunt a God</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explore the &lt;b&gt;island&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reach the &lt;b&gt;digsite&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Search the &lt;b&gt;Engwithan ruins&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In the aftermath of the storm, &lt;b&gt;Eothas'&lt;/b&gt; trail threatens to grow cold. Any chance of catching up to him relies on finding some hint of his presence on the &lt;b&gt;island&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>We lost track of Eothas in the storm, but he seemed to be heading inland when we crashed. 
+
+Big as he is, he must have left behind some sign of his passing. Exploring the island's the best chance of picking up his trail again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The governor of Port Maje mentioned that several witnesses claim to have seen a 'giant' moving &lt;b&gt;eastward&lt;/b&gt; toward a &lt;b&gt;digsite&lt;/b&gt; spearheaded by the Vailian Trading Company's animancers. It's worth a look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've reached a massive digsite, centered on some Engwithan ruins. It's clear by the massive footprints in the area that &lt;b&gt;Eothas&lt;/b&gt; has come through here, and not without wreaking the same kind of devastation he left behind him at Caed Nua.
+
+I'd better look around. Maybe I can find out what he was after.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The citizens of Port Maje have witnessed the giant. Perhaps the &lt;b&gt;governor&lt;/b&gt; knows more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>A spirit at the digsite mentioned having seen a bright light. It sounds similar to the beacon that drew me into Berath's realm, though the spirit says that it has since faded. Perhaps Eothas' arrival had something to do with that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Through a massive adra pillar within the Engwithan ruins, I was able to forge a link between myself and Eothas. I managed to retrieve the fraction of my essence still within him, but Eothas severed the connection before I could do much else. He seemed to be drawing power from the luminous adra. If this is how he is powering his journey across the Deadfire, then finding more adra pillars may lead me right to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

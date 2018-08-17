@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_prince_aruihi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I see you pulled Ngati's chosen from the guildhall." Aruihi nods to Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let's speak, Watcher. While we have the chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The look on Castol's face when Berath's chosen sent him on to his just end!" The prince lets out an unconstrained laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What kind of loyal service did you have in mind?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Seems I came at a bad time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You never know, I could be a bad omen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm not here for the gods. I have my own reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You and half of Eora, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Bad to outsiders, I say. Anyone who can empty this hall of dignitaries is a friend to the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I will not paddle around the island - my sister wants to know if you are as &lt;i&gt;useful&lt;/i&gt; as you are disruptive.
+
+"She trusts me to judge this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Guards! We are betrayed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You did not come this far to serve the crown, I say, but sailing is an expensive hobby. 
+
+"Loyal service can keep your galley stocked." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I &lt;i&gt;could&lt;/i&gt; use some extra coin to outfit [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I mean to set out for Hasongo as soon as I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"May I speak with the queen?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"My sister and I both value action over fine words. If you can shoulder some of our royal burdens, I know she would be grateful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Bow] "Honored to meet you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"No, I say! The envoy of a god will humble our foreign... allies." 
+
+He shrugs, holding the grin frozen in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Save your manners for my sister. Kohopa fashioned me for the arena, not the court." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You don't seem to take your 'rivals' very seriously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"How can I when they posture and peck like a pair of kata birds?" Aruihi smirks and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"So, my sister finally wishes to negotiate with the Wahaki." 
+
+The prince crosses his arms and purses his lips, looking quietly impressed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Do you have any advice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Months ago I told Onekaza to make appeals to the Wahaki ranga. She must feel the walls of the Deadfire closing in, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Monster, I say! What did the watershapers do to enrage you like a mad aurochs?" The prince resolutely stares you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I am Onekaza's shield. For a time, let it suffice that we speak with the same authority." 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ekera, but I hear whispers that you visited the hazanui's adra lighthouse. And survived."
+
+Aruihi smiles, stroking his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Your coming is a favorable omen already!" 
+
+The prince nods and crosses his arms, a self-satisfied smile on his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"It does not take a priest to see how the gods send us an outsider to dig under the skin of our enemies!"
+
+Aruihi chuckles to himself and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Neketaka has enough enemies, I say. You will leave." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Onekaza is not the only one with a measure of power. Leave before I am tempted to use it." 
+
+He jerks his head toward the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"But if the green god crosses Magran's Teeth, I say haste must go before caution." 
+
+Aruihi presses his palms together and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Two envoys of the gods may yet break the serpent's spine." 
+
+Tekēhu and Aruihi share a wink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Too much has happened for you to waste words with the royal brother. From now on you work with Onekaza as an honored guest of her rooftop garden.
+
+"Only... be kind to her cats." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Your account of Hasongo's fate... troubles. For all that I dislike about the hazanui's navy, I cannot help but respect them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Have any problems with loyalty lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Neketaka is a city full of &lt;i&gt;friends&lt;/i&gt;, I say. We exchange so much between districts."
+
+His smile tightens into a hard line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"While you are in Neketaka, maybe you are interested in making yourself useful?" The prince eyes you with a curious gleam. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Enjoy your stay in Neketaka." A little crestfallen, the prince still manages a cordial smile and nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Be respectful. And ignore the mutterings in the street. I say the Wahaki are keepers of tradition, not hardened killers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"But... if earning the trust of the Wahaki was easy I would have done it ages ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"My sister was right all along. Ekera, that was worth the patience." He nods, clapping your shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"You are on the right side of history now. The view from here is nice, and will age like koīki spirits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"You played your part well, trickster. Ngati in the flesh, I say!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I say it is not every day that a ship pulls into port from Magran's Teeth. You are not too singed, I hope?" 
+
+Aruihi looks you up and down, clearly impressed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"My sister says we are not to work together. She says it... loudly."
+
+Aruihi massages his brow and winces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"As surely as Kohopa devours Tangaloa, Onekaza and I are of different minds - but together we are the harpoon the tribes can hurl at our enemies!
+
+"I must follow her lead."
+
+He curls his fingers into a fist before letting it fall to his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"It didn't work out between us. Difference of opinion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Your rivals don't abandon diplomacy for treachery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"I guess I'll be taking my business elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"I did it for Maia. Wouldn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>His mouth drops open as something goes unspoken. Aruihi clears his throat and glances away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"A daughter of the tribes wearing Rauatai's colors tears at my gut like spoiled crab.
+
+"But... I say I understand these things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"You... do?" Maia passes a quizzical look from Aruihi to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Watcher... captain. Sail far from this place. I would not swing my axe at... a warrior who deserves better."
+
+Aruihi touches his brow and says no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Ekera." He nods to Maia. It takes an effort of will for him to wrest his attention from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Turn your sail from the Deadfire, I say. You would not want to sail the same waters as my sister."
+
+Aruihi folds his arms and says no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Diplomacy? Ekera, I say the meaning of the word escapes you all." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Your business with Onekaza is finished. I say you will get nothing from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Talk is over, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"How's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I know enough not to believe in omens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"You don't need to tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"You happen by at a time when our rivals bicker and tear at each other's throats." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"I say the gods have sent us a rare gift wearing a familiar face."
+
+Aruihi plants his hands on his hips and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Nonsense! How else do the gods whisper in our ear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Such modesty, I say!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ekera, this is the confidence my people need!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I'm just happy to be alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Bringing Ngati's chosen on your trek up the mountain." 
+
+He nods to Tekēhu with approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"May... may your countrymen avenge their fallen on the green god, soldier." 
+
+He inclines his head to Maia and touches his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I... thanks for that." Maia furrows her brow and glances your way, shrugging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"I take it you prefer friends to remain close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Here in Serpent's Crown, I can guarantee safety. But cavorting with outsiders? Ekera, that is open water."
+
+He opens his palms and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"And she tolerates this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Onekaza has a grasp on diplomacy that is beyond her impulsive, protective brother. 
+
+"You will see how much she... overlooks in the name of peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"A helpful warning, herald of Berath. From one friend to another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Tekēhu, I must remind you to be vigilant, even though you will ignore my advice." 
+
+Aruihi raises his brow and smirks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"My prince, wild mares could not keep me from the Wild Mare, but I will remember your words." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Ekera. To patch a hull or stitch a sail is costly when supplies come from distant islands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Ekera, an important errand. But I hope the palace can entice you to tarry in Neketaka while you make preparations?" Aruihi raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"The city has honest work for those in need, I say, and insists that everyone carry a heavy purse!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"What kind of royal burden are we talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Though he had not been paying attention up to this point, Tekēhu rouses from distraction and blinks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"This is serious work. I trust you to behave yourself on Ori o Koīki?" He raises his brow to Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ekera... just this once, my prince." Tekēhu raises his hand to suppress a chuckle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Even my sister's advisers dine at the Officer's Lounge and indulge at the Wild Mare." 
+
+Aruihi grimaces and looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

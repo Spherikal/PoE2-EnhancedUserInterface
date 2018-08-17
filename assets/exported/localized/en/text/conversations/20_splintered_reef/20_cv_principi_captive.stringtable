@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_principi_captive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She struggles to speak to you, but manages only a muffled, garbled yell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Remove her gag.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave her alone for the moment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What in blazes is going on? Have you seen those monsters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Examine the iron collar more closely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You suspect that the symbol on the collar has something to do with the same magic that governs the vessels in this place. 
+
+The spell itself is hard to determine, but you are confident it involves illusion magic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You can't make sense of the symbol, much less whatever spellcraft might be at work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I don't have any idea. I hoped you'd know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"There's a spell at work. It makes them believe you're livestock. Or fish, maybe, it's unclear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Well, if that dargul I was speaking to told the truth, everyone in here is under some kind of spell. They think they're still alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"There was this dargul, Copperhead. He might know more about what's going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Damn... All I know is we should never have come out this way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Then a great hulk came gliding through the water toward us, nearly stove us there and then. The Floating Hangman. 
+
+"I got hit so hard it surprised me to wake up again. But the next thing I knew, those things were carting me and Kesango down the road."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You've gotten past them - help us do the same!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Haven't seen or heard of magic like that anywhere in the Deadfire. 
+
+"Seen my share of curses, aimed my way, but naught like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Funny name or no, I wouldn't trust that creature with anything but the end of a sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You two are Príncipi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Furrante's looking for the Floating Hangman. He'd reward you for any information you have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What's the matter, pirate? Not as fun to be on the receiving end?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Cut their Bonds] "Stay here. I'll clear a path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ha. Too many debts at the Tempest. They'd be as keen to bite into me as these monsters. 
+
+"I don't mean to make port in Dunnage any time soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Aye, lately of Captain Lofell's crew. Friend to Aeldys, if that name means aught to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Right. Only, try and be spry about it, will you? Before they dip us in the stewpot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Get us loose, and every Príncipi in Fort Deadlight will hear what you have done for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The captive strains against the ropes, still shouting muffled pleas into the gag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Frankly, you can rot. I hope they eat you slow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You twisted-! 
+
+"You want to give them a meal? Let's make it a feast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The woman gives a loud, rending scream, and you hear hurried footsteps from the adjoining room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You twisted-! 
+
+"I hope they catch you, you unnatural devil! I hope they pull you limb from limb!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Thank you! We won't forget this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Cut their bonds.] "The way is clear. You can go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Frankly, you can rot here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Our gratitude, stranger! Come by Fort Deadlight some time, and we'll give you a grand welcome!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You...! I hope you fall on your sword, you thrice-cursed dog!"
+
+She thrashes in her bindings, trying to kick you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The captive's mouth is gagged with a tight bandanna. A loop of iron is bolted around her neck, with a glowing emblem wrought into the metal at the join.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Any chance you sailed on the Antelope?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What? Aye... and I never thought to hear the name again. Was it Lofell sent you?
+
+"Thought he was a shifty old bastard... Guess I misjudged him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"We were sailing under Lofell, Captain of the Antelope, and making good time. A clear sky and a good wind until, out of nowhere, this fog bank rolled in..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Captain Lofell never mentioned you were Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aye? And is that good or ill, do you suppose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You can't mean to let them eat us? Príncipi or no, we don't deserve that.
+
+"Please, get us out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You made short work of them! 
+
+"We can make it from here. I spied a launch, looked to be in one piece. Won't be capturing no merchantmen, but it ought to carry us away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Though... mayhaps we'll follow your ship a while. Wouldn't do to get caught again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Daimo here started hollering, and they all but cracked his skull in two. 
+
+"I have to get him back to Fort Deadlight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Be careful..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The woman takes a few gasping breaths for air, before lowering her voice to a conspiratorial whisper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Curse you! Hel take you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Cut their bonds.] "Hurry- Through that gap in the hull."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

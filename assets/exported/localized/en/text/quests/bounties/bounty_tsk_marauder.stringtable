@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_marauder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Nomu the Marauder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Nomu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Abocco&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raider and gang leader &lt;b&gt;Nomu the Marauder&lt;/b&gt; escaped custody with the rest of his crew. They fled to the wilderness northwest of &lt;b&gt;Neketaka&lt;/b&gt;, leaving carnage in their wake and a bounty open to collect. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Nomu&lt;/b&gt; and his reconvened gang were last spotted in the wilderness &lt;b&gt;northwest of Neketaka&lt;/b&gt; .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I've taken care of Nomu, &lt;b&gt;Abocco&lt;/b&gt; at the &lt;b&gt;Wild Mare&lt;/b&gt; in Queen's Berth will pay me handsomely for proof of the bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I killed Nomu the Marauder and claimed the bounty reward from Abocco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

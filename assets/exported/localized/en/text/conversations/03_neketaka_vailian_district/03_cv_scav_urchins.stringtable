@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_scav_urchins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Shh! Keep your voices down, my cullies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Look alive!" Upon noticing you, one of the street urchins makes a hasty signal to his fellows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hey! You've got no business here, so get on and go." 
+
+A girl in filthy rags blocks your path and points a tiny dagger at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Get out of here, or I'll call the guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No trouble intended. Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We've got bellies to fill, but I'll cut yours open if it suits me, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Here. This is for buying food, not for eating." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attack] "No one threatens me, especially not some gutter rat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Scram! This one's out for blood!" The urchins scramble - jumping from the pier and taking to the dirty water, emerging a few moments later on the far side of the canal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I know what to do with money, ass!" 
+
+She hisses at you, but pauses as she catches sight of the coins. She takes them with a cautious sweep of her hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Come on, cullies. This ought to get us something fresh for a change." She nods to you and waves her companion onward. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You've never seen a hungry kid scamper, have you? We vanish like mice." 
+
+She narrows her eyes, keeping the dagger pointed at your heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The girl steps back and watches you with wary attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You best be off. I don't suppose the guards take kindly to scavenging." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"True enough. Everyone pocket what you have now." She gives you a neutral nod and gestures for the others to head out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Pst! Company." 
+
+The ragged girl looks up at you again and makes a cautious signal to her group.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Uh, he's not leaving..."</DefaultText>
+      <FemaleText>"Uh, she's not leaving..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hope this makes things easier." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Give her an egg.] "You probably need this more than I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"This'll fry up real nice in some lamprey oil." She accepts the egg with wide-eyed reverence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Careful around Queen's Berth. This place only looks clean 'cause it's paid for." She signals for the others to be off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Looks like it's eel instead of rats, my cullies!" She pockets her blade and accepts the coins with a grateful bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You get out of here. I said it first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Someone's got to keep these weasels alive and fed." She nods toward her peers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You want something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

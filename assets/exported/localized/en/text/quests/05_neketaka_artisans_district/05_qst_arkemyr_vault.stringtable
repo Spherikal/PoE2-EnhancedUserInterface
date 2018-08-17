@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_vault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Archmage's Vault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find a way inside &lt;b&gt;Arkemyr's manor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Locate &lt;b&gt;Arkemyr's vault&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Unlock &lt;b&gt;Arkemyr's vault&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retrieve the tablet from the &lt;b&gt;vault&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return the artifact to &lt;b&gt;Tumara&lt;/b&gt; or &lt;b&gt;Netehe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rauatai and the Huana each have a claim over the Harapo Epic - an ancient tablet currently in the possession of the wizard Arkemyr. Both &lt;b&gt;Tumara&lt;/b&gt; and &lt;b&gt;Netehe&lt;/b&gt; are eager to make a grab for the tablet. Either of them would be grateful if the Epic happened to fall into their hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I need to find a way into &lt;b&gt;Arkemyr's manor&lt;/b&gt; in &lt;b&gt;Periki's Overlook&lt;/b&gt;. The obvious choice is the front door, but it's locked - and there are undoubtedly guards on patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've made it inside Arkemyr's manor. Now I need to locate his &lt;b&gt;vault.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've located Arkemyr's vault, but the door is protected by some kind of combination lock involving rare gems.
+
+There's little hope of opening it with guesswork, so I'll need the combination to get through. It's probably somewhere in &lt;b&gt;Arkemyr's manor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've breached Arkemyr's vault. The Harapo Epic should be inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Now that I possess the Harapo Epic, the only question is what to do about it. &lt;b&gt;Tumara&lt;/b&gt; will await me in front of &lt;b&gt;Imperial Command&lt;/b&gt; at the Brass Citadel. &lt;b&gt;Netehe&lt;/b&gt; will be in front of &lt;b&gt;Kahanga Palace&lt;/b&gt; in Serpent's Crown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Fassina&lt;/b&gt;, Arkemyr's apprentice, would know more about the manor. She runs the &lt;b&gt;Dark Cupboard&lt;/b&gt; in Periki's Overlook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Someone named &lt;b&gt;Ifren&lt;/b&gt; crossed Arkemyr and ended up soulbound to the fortune telling machine at the &lt;b&gt;Dark Cupboard&lt;/b&gt;. He might know more about getting inside Arkemyr's manor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>A gem is missing from the center of the lock. Markings around the area would suggest someone had pried it off recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I recovered the missing gem for the vault lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I have learned the combination to the vault lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The vault lock has been repaired, and should work without its missing gemstone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>An &lt;b&gt;imp&lt;/b&gt; in the &lt;b&gt;second floor lounge&lt;/b&gt; is reportedly behind the theft of the gemstone from the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Ifren&lt;/b&gt; said that he and his partner entered the manor using a natural tunnel which extends from the &lt;b&gt;Luminous Bathhouse&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Fassina&lt;/b&gt; has a key to &lt;b&gt;Arkemyr's manor&lt;/b&gt;, but isn't giving it up. I would need to steal it from her or take it by force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I might be able to gain access to the &lt;b&gt;balcony&lt;/b&gt; of Arkemyr's manor from the &lt;b&gt;upper floor window of the Dark Cupboard&lt;/b&gt;, but I'll need a grappling hook and rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Either &lt;b&gt;Netehe&lt;/b&gt; or &lt;b&gt;Tumara&lt;/b&gt; should have some ideas about how to enter &lt;b&gt;Arkemyr's manor&lt;/b&gt;. I can find them during the day in &lt;b&gt;Serpent's Crown&lt;/b&gt; and the &lt;b&gt;Brass Citadel&lt;/b&gt;, respectively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Arkemyr's &lt;b&gt;vault&lt;/b&gt; is at the southwest corner of the &lt;b&gt;estate's lowest level&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>If I managed to locate one of Arkemyr's personal robes from his &lt;b&gt;chambers&lt;/b&gt;, it's possible that I could fool his security imps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>I've acquired the key to the front door of Arkemyr's manor from &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Arkemyr gave his imps a &lt;b&gt;passphrase&lt;/b&gt; to recognize him if he changed form - &lt;b&gt;cider and cheese&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>I've successfully fooled the imps and can now explore the manor freely - so long as I remain peaceful, of course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned the artifact to the Royal Deadfire Company.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I returned the artifact to the Huana people.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

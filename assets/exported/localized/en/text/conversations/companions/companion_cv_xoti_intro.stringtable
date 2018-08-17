@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_xoti_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>161</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beneath the boughs of a sprawling oak, two woman lean together, entangled in an argument. One, tall and rangy, blond and elven, shudders like a sapling whipped by the wind. Her tanned face has mottled red with her righteous anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The other woman is human, younger, curvier, and petite. A smudge of darkness to the elf's sunlight. She's bent forward, clutching her ribs and looking a bit like a snapped twig.
+
+Candle light and shadows jitter between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gods darn it, Saewyn, I wasn't doing any wrong! They - they were beating him just for begging."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The older priestess raises a hand as if to touch the light above. Or to slap her acolyte across the face. 
+
+In the end, she does neither, dropping her hand with a scoff, a bearish sound from the back of her throat.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Language, missy! What if your mama heard you speaking that filth? I think she'd tan you up, good. I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Color me unconcerned."
+
+So she says, but the acolyte's brown eyes glint with the threat of tears. She straightens, reeling as if she'd been struck.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Saewyn sighs. The harshness of her glare softens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sakes alive, you sure bring out the worst in me, Xoti. Forgive me." She scrubs a hand over her mouth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I couldn't help but overhear your argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You're the Watcher who sailed into town on a crest of souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Let's not get ahead of ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Get into a lot of fights, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Leave] "I've no time for this now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"That might be the most I've ever liked Saewyn." Her lips perk in a sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Arms crossed, the priestess looks you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm guessing you're not here for the baptism."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"So, what, you figured you'd take his lumps for him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Xoti winces, having the gall to look chagrined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"That wasn't exactly my plan, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I can't let you keep stirring the pot like this, Xoti. Think about how it reflects on us all. We're here not only by the grace of Eothas but also the queen." She sighs wearily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I mean it. Get in just one more - harebrained, reckless, no-good - vigilante squabble, and I'll have you confined to the dorters. We clear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Answer unspoken, the two women split apart. The golden priestess strides hotly away while the smaller, earthier one eases onto the gnarled roots of the tree with a pained cry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Listen to the argument.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Back away slowly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ah, excuse me, ladies..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Startling at the sound of your voice, the two split apart, but not before Saewyn utters a final warning to the wounded acolyte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I can't let you keep stirring the pot like this, Xoti. Think about how it reflects on us all. We're here not only by the grace of Eothas but also the queen." She sighs wearily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I mean it. Get in just one more - harebrained, reckless, no-good - vigilante squabble, and I'll have you confined to the dorters. We clear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She turns to you, anger bleeding away even as the smaller priestess looks on, glaring darkly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Let them finish.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Applaud.] "Bravo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Startling at the unexpected interruption, the two split apart, but not before Saewyn utters a final warning to the wounded acolyte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I can't let you keep stirring the pot like this, Xoti. Think about how it reflects on us all. We're here not only by the grace of Eothas but also the queen." She sighs wearily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I mean it. Get in just one more - harebrained, reckless, no-good - vigilante squabble, and I'll have you confined to the dorters. We clear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Saewyn turns to you, bemusement leeching her anger away even as Xoti looks on, glaring darkly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Our paths cross again, Watcher. Now I am sure Gaun has led you to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Her lips curve knowingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Reckon no more than you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I got nothing but time - least till Saewyn cools her head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sorry, I tend to do that once I start bumping my gums." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Usually she doesn't have half so much backbone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm Xoti. Child of the Dawnstars and priestess to Gaun - at your service." She thrusts a hand out for a friendly shake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The pleasure's all mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You're a priestess of Gaun, not Eothas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>A dark smile curves up her lips, and her eyes glint with a fierceness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Darn right I am. This here temple is his, too. Though Saewyn'll never concede it.
+
+"The Huana built it - just for Gaun. But that's aside from the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Some folk need the light to fight the evils in the darkness. Me and my lantern - we're something of a shield."
+
+A pained grunt catches in the back of her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Much as we can be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Color warms her cheeks, and she nibbles at her bottom lip almost shyly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Think I might could join you? We could do a lot of good together, me with my light - you, with your everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You can tag along, so long as you don't get in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Say I let you join me. How would that benefit me and mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Sorry, but I prefer to travel alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I know an offer rare as hen's teeth when I hear it. Yeah, I'm taking it." She beams brightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>She steals a shy glance at Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A tad too eagerly, she saunters close beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Uh... hey."
+
+Edér half-nods without looking in Xoti's direction. He seems suddenly focused on something in the distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You get thinking to come back, you know where to find me." She shrugs one slender shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Reckon I'm good with wounds. Both inflicting and healing them up." She jiggles her lantern, beaming you a dark-edged grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"How adept are you as a healer? How severe a wound can you patch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You sure you can handle a fight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You may not listen to your fellow Dawnstars, but first time you step out of line with me, you're gone. Understand, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Why'd you get upset when Saewyn mentioned your mom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I got an eye for stages. Life and death and in between. Like progressing forward... or sometimes backwards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Saewyn doesn't like it when I kill. I get the feeling you wouldn't mind so much." Shrugging, she sheaths the blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Clear as a runnel. I can behave. So long as you don't get between me and my god, we'll be right as rain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"No. That, I ain't going to talk about." 
+
+The priestess draws her arms over her chest, face set in a scowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Take it you're a scooch underwhelmed." Xoti huffs, shoulders slumping. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I have a few bandages I could spare. They're yours if you'd like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"While I sure do thank you, you don't need to worry about me." She smiles shyly, almost disbelieving of either your attention or your generosity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"That Saewyn seems like a real nag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Best take those words back. Right now."
+
+Teeth flashing a snarl, she tucks her chin. A muscle ticks in her throat, and her hand eases toward the sickle strapped to her hip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"My apologies. I meant no offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What're you going to do if I don't?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'm going to hex you so your jigglies rot off." 
+
+She runs her tongue over her teeth, but then sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Don't see how you couldn't, but all right. Gaun knows I put my foot in my mouth enough times, I can't fault it in another."
+
+She rolls her eyes, but her whole body relaxes as a tension leaves her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You were hurt helping someone. Would you tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Not much to tell. I'd gone to the Gullet to check on Pitli... Stopped some guards from kicking a beggar while he was down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Guess her skills... add something... I suppose."
+
+Edér has busied himself with scraping something off the side of his weapon and does not look up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Sounds like a vote of confidence to me." Xoti beams happily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Well, what's it to be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Didn't we just talk? Darn, what day is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I'd like you to come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Leave] "Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You should better respect your elders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"That Saewyn seems like a real nag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Her brows furrow sharply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I got enough people telling me how to live every second of my day. Only one who's got to approve of my actions is my god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Though she likes to peck as much as a hen. I guess it's the nature of light to want to best the darkness, but you can't have balance like that, and it's not like night and death are bad things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Not my folks, not Saewyn, not some..."
+
+Hand resting on her hip, the priestess purses her lips, considering you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Say, if you don't mind my asking, what, uh, what's brought you to my temple?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You could say I have a vested interest in all matters regarding Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I've need to speak with the High Priestess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The thing about secrets is that I know how to keep them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"You and me both." She scratches at the back of her neck, gaze going distant and a little haunted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I see. We'll, you'll find her by the almonry or the altar. But before you go..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Fair's fair, I guess. Plus, I like folks who've got some wits about them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Shoulders squared, she pins you with a determined stare. Whatever she's thinking, it's surely trouble.
+
+A coy little smile perks up her worry-bitten lips as she speaks next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Always happy to meet a fellow person of the cloth." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Why, you know an awful lot about Gaun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Gaun's an aspect of Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Not much, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I think you mean, he's all what's left. You did hear - Eothas died, yeah? When summer and spring have passed us on, well, that just leaves us autumn and winter and Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Don't sound too curious now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Do all Children of the Dawnstars worship Gaun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Sure. Most of the brethren believe in him. But they believe in Eothas more."
+
+She sighs, puffing a tendril of hair aside that'd fallen over her cheek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Can't say I care much for religion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She presses her lips into a mulish line, and her hands fall to her sides. A muscle ticks in her prim jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Well, that's a rather... interesting view of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Figure I'm a bit unorthodox. But that doesn't mean I'm wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I was hoping you might enlighten me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Might if we had more time, sure." Absently, she grazes her fingers over the sickle strapped to her side, and her gaze flicks to the priestess with the golden candles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Shame how they got it backwards, ain't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"All right, I guess you're entitled to your opinion. But give me two moon wanes and I'll change your view yet."
+
+Chin tipping up, she challenges you with a fiery stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>The priestess plants her hands on her hips. Her fingers are slim but calloused, more suited to a farmer's daughter than a cleric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"But Saewyn doesn't like it much when I get to talking about death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Catchy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"You think I'm addled? Little touched in the head?" She splits a bemused grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Who says I want to do good?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Her whole face heats pleasantly, and she bites back a bright smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Good and bad? See, sometimes they're the same. Like how change is not better or worse. It's just different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"A fine proposition. I'd enjoy the company of a priestess." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Why not? Perhaps you'll prove useful in dealing with Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"No, I won't take you with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Me and my brethren may not see eye to eye, but they'll all admit I'm sturdier than a weed and just as stubborn. I won't die on you - before it's my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>She raises the sickle for your inspection. The blade is well-worn with a half-edged backside for added lethality, but its sleek metal is also meticulously clean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Plus, I freed the roparu they were beating on. Maybe it got a little out of hand just after, but I also got done what I needed to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Now, anything else is fair game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"So I reckon we could do some bad, too. If it balances things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Plus, gruesome doesn't bother me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"It's all just change happening in different states."
+
+She shrugs, but the interest smolders in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Gaze downcast, the priestess nibbles at her bottom lip until it near beads with blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"See?"
+
+Fingers splayed, she drags her hand slow and hard over her wounds, raking at her ribs as she gasps out a prayer.
+
+Sweating and shakily, she lifts her tunic to reveal the freshly knitted, unmarred expanse of skin. Under your appraisal, she bites down on a self-pleased grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Working on yourself always seems the toughest, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She blows a wisp of hair from her face, expelling her anger with the puff of air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"All right, maybe not. But I can tell you where to stick it and bid you a friendly farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>With a nod and a half-concealed crude gesture, she turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You wouldn't believe the dreams I been seeing. It's like I got to get ready for this big reaping. This world-wide harvest, like we've never had before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"It's going to be too much for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"You won't regret this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"But you - " She pauses to catch her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Watcher." She bows her head to you in recognition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Leave] "Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Sure can. I reaped my first soul when I wasn't yet twelve-years-old."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Aw, Hel. Now where are my manners?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Who's Gaun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Gaun's a smidge of darkness in the light. He was the part of Eothas who divined the dignity of dying and the return journey to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Think I earned a cracked rib for my troubles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"You help people." She peers at you, much too hopefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"As he desires for me to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Sorry, I tend to do that once I get to thinking about Gaun - and the coming harvest - and the role that's been carved for me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Head tilted, she studies you with keen interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Dreams?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"What, are you cursed or something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Nightmares, more like. Terrors that come true." She rubs a palm over the back of her neck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Had them since I was a little girl on the farm. Guess Gaun was speaking to me even then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"It ain't a curse. It's a blessing - a mark of the divine." Xoti shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

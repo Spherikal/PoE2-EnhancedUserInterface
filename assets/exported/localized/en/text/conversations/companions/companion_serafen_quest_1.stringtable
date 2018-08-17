@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ahoy, captain. Truth be told, Furrante half-expects us to get our asses blown out of the water at Fort Deadlight. Fortunately for you, I have this bad habit of beating the odds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Later, sure, sure. No hurry here to ship off back to the Gentleman of Leisure." His left ear twitches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We have a plan. Let's get on with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What can you tell me about Fort Deadlight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You mentioned you have contacts at the Fort. Can we rely on their help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Do you have a plan in mind to get us into the Fort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vailian made, originally. Piled them stones up a few centuries back, but gave it up when the fish men wouldn't leave 'em be. Hard to defend against wilder crawling up out of your crappers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I did say 'contacts,' didn't I?" 
+
+Serafen rubs the back of his head as he takes a sudden studious interest in his boots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Later, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Avast, I might've pulled a plan out of this hairy blue ass after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"If ever an image inspired confidence..." He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"They say she ain't had a deserter since. Tad cruel for my taste, but I admit to admiring the wordplay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What do you know of Aeldys?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Do you know anything about the Fort's defenses?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let's speak of this later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"She's sharp as shit, that one - tongue, mind, and ears alike. Sailed out of Dyrwood or Aedyr, one. Knows her knots and how to crew a ship that won't turn sour. Her words ring out among the Príncipi, more than you'd think for new blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Are you saying your helpful 'contact' is actually your ex-lover?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Part of that's her fierce support of freedom - from slavers, from the empires, from the Huana's caste system, even."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Shouldn't the Príncipi do something about Aeldys?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Many of the old-guard have died off, though, and the new blood flooding in be... less the civil sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Why are you frustrated with the old guard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Shit captain. Buy a lad a drink before you go rooting through his unmentionables."
+
+He smiles, though, thumbs hooked in his belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Funny thing about it being a fort means it ain't a boat. Means it don't have to worry about the weight of cannons or storing honking big balls. Guns they got crowning that castle'll put a hole in your poop deck before you've sighted land." 
+
+He sighs and scuffs his boot against the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Fort itself be floor to ceiling rum-sodden fools, so that be going for us, but Aeldys keeps the crew on the walls sharp and sober."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You be asking me for a plan? Frankly, I were curious to witness how the famed Watcher of Caed Nua would penetrate the impenetrable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Regardless of how she feels about me, there's no love lost betwixt her and Benweth, that's for damn certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Way I see it, we have an option or two, ranging from the wildly dangerous to the fantastically suicidal. So tell you me, cap, what be your preferred approach to problems unapproachable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"If you breach the walls, you've still got the guards to attend to, adding to that a mess of pirates in multitudinous states of insobriety. And probably dress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sussing out a place to land without being spotted ourselves'll require Hylea's own eyes... or a spyglass. You've got a spyglass, I hope?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Smart play for crashing any party involves scavenging yourself up an invite. And then dressing to impress." 
+
+He puffs out his chest, thumbs tucked into the fine fabric of his shirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well, Príncipi captains don't just give up their flags for a few coins."
+
+He scratches his rump, head cocked to one side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I prefer to approach problems boldly and head on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Subtlety tends to work best for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I simply outsmart my adversaries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm all ears, captain." His large ears twitch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I have a spyglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I don't have a spyglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Don't you have a spyglass?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Perfection! Whenever you be ready, set the bow towards Deadlight, and we'll scrounge ourselves up an infiltration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Then let me recommend you remedy yourself there, captain. A good spyglass be like a good lover - shows you the bits you'd have missed otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sure, used to. Then I made the mistake of lending it to Furrante. Apparently forgot it weren't his." 
+
+A low growl builds beneath his grumbling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Showed him the S I carved into it, and he turned round and told me it stood for 'spyglass.' There's an important lesson to be learned there - you take something to sea, you hold grip on it real tight." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Deadlight's a tough coconut to crack, but if not cracking, what are nuts for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Let's discuss another plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Let's do a frontal assault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"We could sneak our way in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I think this calls for a clever approach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"On second thought, our current plan is good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Not to be telling you your business, cap, but if we don't set sail for Deadlight, Benweth'll finish his repairs and pull anchor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let's go over the plan to get into Fort Deadlight"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Aye, captain. Looking forward to watching you work."
+
+He rubs his palms together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"How hard could it be to purchase a flag?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Then we'll attack a Príncipi ship and capture their flag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Swapping cannonballs with my fellow Príncipi ain't my favorite idea you've ever had, but do what you have to do, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ahoy, captain. I've got to come clean bout something, and now be as good a time as not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I certainly can't object to a cleaner Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Now's a good time? Really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Fair, I get it. We be in a fortress filled with lawless types who'd murder us as soon as look at us. But hear me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Much as I hate Benweth, the main reason I signed up with you were to get here, to get a chance to look for a man named Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Who is Remaro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You think he's at Fort Deadlight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Look for him on your own time. We're here for Benweth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That be a longer story than we've got time for. Quick of it be that Remaro's in trouble. The Príncipi've sent a shiphunter after him, and I've got a need and a half to find him first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Didn't see his ship, so probably not... But mayhaps we could keep a weather eye open for clues to his whereabouts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Okay, let's keep a look out for clues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aye-aye, Captain Watcher." 
+
+Serafen snaps off a salute above narrowed eyes and falls silent.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Apologies, captain, for not being more forthcoming. Remaro be like family to me, and I didn't know you from a bilge pump. Actually, I've known a bilge pump or two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Why didn't you tell me about Remaro before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You've nothing to apologize for. Family is important. We'll find Remaro together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Thanks, captain. I appreciate it truly."
+
+He beams, clasping a closed fist to his breast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Now what've we got here? I do believe I recognize this godsdamned chest." He kneels by the chest, running his paws across it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Any clues in there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Make it quick, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He flips open the lid, to reveal an empty chest. Serafen doesn't seem disappointed, however. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Dear S - that be me! - I knew you'd seek me out. Please abandon the trail here. I fashioned this predicament for my own, and I'd not have you lock its weight around your own ankles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What is Magic Waters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Insight] "Seems like there was more in that letter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Do you know who Udyne is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Aye, there be a word or two more, but nothing useful to us."
+
+He folds the letter over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nay, captain, that be over and done with. Certainly got what I came for, thank you kindly."
+
+Serafen quickly folds over the letter twice and then stuffs it in a deep pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Take the letter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You don't have to tell me. It's between you and Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You snatch the letter out of Serafen's hand. He looks shocked and angry for a moment, but then purses his lips and takes a breath. He turns his back to you.
+
+The end of the letter reads: 
+
+&lt;i&gt;I wish you a long and prosperous life. You carry with you all I could have imparted. While my legacy may otherwise be reduced to shame, know that you remain the exception. 
+
+Yours, R&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Serafen smiles faintly and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"For now, though, we've got plunder and pillage before us, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Captain Aeldys claimed it a few years back. Fucking filthy from bow to stern, and she had her lads and lasses cleaning fish shit out of the floorboards for months."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Couple of them thought it might be better sailing elsewhere and left in the night. Aeldys tracked them down, quick as you like, took their heads, and fixed them into little lanterns for the front gate. Called them Fort Deadlight's Dead Lights." 
+
+His nose twitches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Can't say I much approve of her lack of regard for our traditions, but can't say I don't share her vexations with Furrante and the old guard, neither." 
+
+He runs a furred paw over his braided beard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The Príncipi's no fleet, more a mish mash of fiercely independent captains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"A lot of them take to one another like sharks to krakens, but we be bound by the slippery slip-knots of tradition. Even those bucking tradition cooperate for protection 'gainst our enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Course I do that by way of good old traditional chicanery. And the most important part of any hornswoggle? Solid planning! Well, that and surviving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Might have, uh, shaken the sheets a few months back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Might be there's a way to sneak inside. Bet we can find a shady spot to tie up a skiff under the veil of night. Then up the walls and over, quick as you please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Neketaka's black market. If there be a Príncipi flag for sale, it'll be there. Market up and relocates every so often to avoid the royal guard. We'll just have to find wherever it currently be hunkered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Might be tricky to not damage the flag in battle, or sink the ship on accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"If you find yourself imperiled, seek Udyne at Magic Water. She can help."
+
+Serafen falls silent, staring at the page for a while longer. You hear his breath catch, and he looks up, his expression carefully blank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"But since you asked, just give me a tic..."
+
+Serafen pauses to think. He strokes one of his beard braids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The rest, her lenient hand. Step out of line, and Furrante's got your whole crew up for lashes. Aeldys, though, she's eh, let's say there's a reason she attracts limp-cocked nut-twists like Benweth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You might take a hankering to her, yourself, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Let's leave it enough for now to say I think there be a course to be charted betwixt anarchy and tyranny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Contact would be more accurate, in the singular. A lass by the name of Syri. Been running the same circles for years, doldrums and fair winds. Were never family but never on the wrong ends of arms, neither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Your 'contact' is some random lover of yours?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Random? What do you take me for, captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"An idiot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"The scourge of hearts throughout the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"More useful than you look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You wound me, cap, right in the feelings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Well... I can't say as you're entirely wrong..." He grins, all teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Mighty kind of you, captain, given how useful I look." Serafen winks, his thumbs in his belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Forgotten, sir."</DefaultText>
+      <FemaleText>"Forgotten, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"That'd be the fantastically suicidal I mentioned. I don't suppose I can coax you into belaying that notion..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Aye, you be the captain, captain." He grimaces. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If you insist on the straightforward approach, you could always load the hold with powder and balls and hope the walls of Deadlight give before your hull. Here's hoping you've practiced your breaststroke, savvy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"If you're looking for a challenge, maybe we just get a catapult and send you over the wall. Saves repairing the ship again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"That ain't the worst idea I've heard in the last few minutes, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Guess I've never had a good... uh, spyglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"So look the part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Fort Deadlight sends out invitations?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"What are you getting at?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"No, captain, they do not." He rubs the bridge of his nose and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Aye, captain, from stem to stern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Looking the part in this case means hoisting colors identifying us as Príncipi." 
+
+His left ear twitches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Don't have to tell you how dangerous such a bit of a fabric can be if the wrong person catches you flying it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Another ex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Nay, captain, but I like where your head be." 
+
+He chuckles quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Serafen's head falls, and he scratches the scar on the side of his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"By Ondra's salty bosom, Remaro hauled this chest from one end of the Deadfire to the other!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>He reaches into the chest and gropes about before being rewarded by a clicking sound. A false bottom slides out from the chest, containing a single, folded piece of parchment.
+
+Serafen swipes it out and holds it to his nose, inhaling deeply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What does it say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ah yes, the scent of musty pirate notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Serafen unfolds the letter, his large yellow eyes flowing over it. He clears his throat and begins to read.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Worse scents come out of chests like these, captain, trust you me."
+
+He unfolds the letter, clears his throat, and begins to read.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Serafen growls, baring his teeth and hopping deftly away from you. He shoves the letter down the front of his britches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Don't know Udyne from wart mange, but Magic Waters I know like my own fucking name. When I were a wee lad, fresh on the Sorcerer, Remaro would treat me to the Luminous Bathhouse at Neketaka."
+
+He grins as he gently closes Remaro's chest, a hand lingering upon the polished wood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"The water there shimmered like dawn on the open sea, and I, full flush with the poetic creativity of youth, called it Magic Waters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"I know you don't owe me the favor, captain, but if we could find our way to that bathhouse, I'd not hold it against you... unless'n, of course, you asked."
+
+He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I wouldn't turn down a dip in the baths. But everything else he said is just awful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Can't say I much approve of her lack of regard for our traditions, but can't say I don't share her vexations with Furrante and the old guard, neither." 
+
+He runs a furred paw over his braided beard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"One blast of their horns, and Deadlight's locked up tight as an Aedyran Magranite. Will stay that way, too, 'til any unfamiliar ships have been shot to shit and shot again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Sure, used to. Then I made the mistake of lending it to Furrante. Apparently forgot it weren't his." 
+
+A low growl builds beneath his grumbling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Smart play for crashing any party involves scavenging yourself up an invite. And then dressing to impress." 
+
+He puffs out his chest, thumbs tucked into the fine fabric of his shirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

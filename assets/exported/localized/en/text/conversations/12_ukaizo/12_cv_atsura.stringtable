@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_atsura</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Atsura trudges toward you. He looks tired and haggard, and his robes are rumpled and torn, but he doesn't seem to notice any of this.
+
+He is focused on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"So. It ends like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm disappointed, Maia Rua." 
+
+He turns to the sharpshooter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"All due respect, boss - me being here has got nothing to do with the cause.
+
+"I still believe, but... there's more at stake." 
+
+Maia shifts her gaze over to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Rauatai will accomplish wonders with this place, [Player Name]. It is a shame you won't be part of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why are we arguing about this when Eothas is &lt;i&gt;destroying the cycle&lt;/i&gt;?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ukaizo belongs to the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No. The Vailians will accomplish great things here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You think Rauatai's known hardship? The Príncipi have thrived with no homeland. Ukaizo shall be theirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't want to fight you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Attack] "Enough of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He cocks his head and gives you a pitying look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Are you truly so short-sighted? 
+
+"Eothas will finish his work. And whatever comes next, I will see that Rauatai survives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Captain... Watcher. There's a right and a wrong about this, drawn as clearly as a line in the sand.
+
+"I know what side I'm on." 
+
+She grips her weapon and stares you down. Ishiza glances between you, seeming less certain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He nods to his soldiers, who draw their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It once did. Now, it is ours to take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"They will leave it in shambles, just as their forefathers made a ruin of their empire.
+
+"I shall not let that happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He cocks his head in puzzlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"This was never personal, [Player Name].
+
+"This is about something greater than either of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

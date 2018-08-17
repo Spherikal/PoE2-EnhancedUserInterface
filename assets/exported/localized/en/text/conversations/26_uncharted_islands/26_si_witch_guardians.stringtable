@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_witch_guardians</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You traipse through a dark, cold bog. The water around you grows deeper the further you walk. The silt and muck slide beneath your boots. The path forward looks more treacherous than the path behind you, but you've already come this far.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Continue through the bog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You trudge onward. Deep pits of water and sucking mud cover the ground everywhere you look, but you manage to avoid them through caution and attentive footing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You trudge on through the bog. Attention diverted, you accidentally step onto a patch of unstable ground and sink deep into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You trudge on through the bog. Attention diverted, [Specified 0] accidentally steps onto a patch of unstable ground and sinks deep into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You plunge your arms into the murky water and pull [Specified 0] back to the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You plunge your arms into the murky water, but you can't find [Specified 0] among the rotting plants and tree roots.
+
+A few tense moments pass, then a flurry of bubbles break the surface. [Specified 0] bursts up from below, sputtering and gasping for breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You fight and claw your way back to the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try as you might, you're unable to make progress toward the surface and begin to sink down deep into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>As the dim light of the surface fades, [SkillCheck 0] reaches down and hauls you free of the water.
+
+Though you survive, the ordeal leaves you exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As your lungs burn and your sight begins to dim, you dredge up one last, desperate burst of strength and surge toward the surface.
+
+You spill onto solid ground cough out foul-tasting bog water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>With help, [Specified 0] manages to break the surface and roll onto dry land, coughing up bog water. Thanks to your quick rescue, your compatriot is none the worse for wear - if a bit sodden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The bog is still and silent. It smells of rank decay, its stagnant waters host to many decades' accumulation of dead plants and animals.
+
+A thick mist rolls across the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Press on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Several hooded kith emerge silently from the fog, a herd of bog lurkers just behind them. A large aumaua man at the head of the group draws his sword and points it at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Why should I listen to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The aumaua man says nothing more and does not lower his sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Just when you thought you were free of the bog warden, he appears again, his horde of bog lurkers at his back.
+
+Even if you had time to run, the morass makes escape impossible. They set upon you without so much as a pause to attempt parley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You're not welcome here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You pull [Specified 0] from the water. Together you fall back onto dry land. [Specified 0] coughs up a bucketful of bog water and lies groaning on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"If you value your life, you will leave and never return." He peers hard into your face, almost daring you to challenge him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I am the guardian of this place, and I will not allow you to profane it with your presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"So... you come here often?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm just passing through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Leave.] "Bog's all yours, buddy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Haul [Specified 0] out of the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1] tries to help [Specified 0] but barely avoids a slip into the water.
+
+A few tense moments pass, then a flurry of bubbles break the surface. [Specified 0] bursts up from below, sputtering and gasping for breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Leave [Specified 0] to his fate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 1] reaches into the water and pulls [Specified 0] back to the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Despite receiving no aid, [Specified 0] manages to breach the surface and roll onto dry land, coughing up buckets of water.
+
+[Specified 0] gives you a narrow-eyed look but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>A few moments pass and the thrashing in the water ceases. [Specified 0] does not emerge from the water, and never will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You trudge onward. Deep pits of water and sucking mud cover the ground everywhere you look, but [Specified 0] expertly guides you through the muck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Leave [Specified 0] to her fate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The aumaua man says nothing more and does not lower his sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The man stares at you for a long moment before speaking, his brow drawn into a hard knot. Then he grunts, more in annoyance than in anger, and crosses his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Then his eyes go wide and he stumbles back, surprised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Take this, and commend my apologies to the Lord of the Hunt. I meant no offense." He pulls a small, well-worn pouch off his belt and places it reverently in your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You are one touched by Galawain! Forgive me, please - I did not know. Of course you may travel this bog as you wish, blessed one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You may pass, but do not linger. If we should we meet again, there will be no civil exchange of words."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

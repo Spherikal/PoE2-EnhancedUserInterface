@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_ext</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You climb down a slope into a deep canyon. The only way out is to continue forward into the unknown depths of the canyon or return the way you came.
+
+Before you can come to a decision on which way to go, you hear a strange sound from up ahead. You move into cover behind a pair of boulders and strain your eyes to find the source, but you see nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Listen closely to the sounds.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Move in for a better look.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You listen carefully and soon realize that the strange sounds are the sibilant voices of many nāga echoing off the canyon walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The echoes from the canyon walls make pinpointing the source of the sounds impossible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You move deeper into the canyon. You take cover behind brush and boulders when you can, and stick to the shadows when you can't.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You move deeper into the canyon. [SkillCheck 0] trips on a small rock, sending it skittering down the scree-covered slope.
+
+The noises up ahead cease. The canyon becomes eerily quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You hear a sharp &lt;i&gt;hiss&lt;/i&gt; above and behind you. You whirl around, and a nāga warrior leaps down from a rock overhead, blocking your path. The nāga falls into a fighting stance and lets loose a piercing, wordless screech.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Sneak past the nāga camp.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Attack the nāga.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You move silently from cover to cover, sticking to the deep shadows along the canyon walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You leap from your hiding spot and dash through the canyon, intending to meet the warriors in the nāga encampment head-on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>After a few tense minutes of furtive movement, you have a clear view of the source of the sounds. Ahead of you gather several nāga speaking together in hushed, hissing tones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you move deeper into the canyon, you trip on a small rock, sending it skittering down the scree-covered slope.
+
+The noises up ahead cease. The canyon becomes eerily quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] guides you forward, leading you from cover to cover, sticking to the deep shadows along the canyon walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>As you move deeper into the canyon, you trip on a small rock, sending it skittering down the scree-covered slope.
+
+The noises up ahead cease. The canyon becomes eerily quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText> Through precise timing and careful steps, you are able to sneak through most of the nāga camp undetected.
+
+Ahead of you is a final cluster of nāga, the only thing standing between you and the canyon's exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Return the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

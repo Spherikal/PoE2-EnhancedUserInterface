@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_copperhead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hsst! You there- Hie you up here."
+
+Up on the balcony, a tall and lanky figure waves frantically for your attention. That done, he ducks down again behind the railing.
+
+It is not an effective hiding place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Good, good! I thought for sure you'd wander off, get yourself into trouble." 
+
+The man before you - or creature, perhaps, as his skin is as grayed and withered as that of the other patrons- wears a helmet two sizes too large for him. It tips from side to side as his head moves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm Copperhead. That's what they call me. Friendly nicknames, you know how it is."
+
+"I, heh, I know you're different from the others. I can see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Of course I'm 'different.' Everyone in here is rotting away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Lie] "I don't know what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tch, keep your voice down! Yelling your head off like a little baby lamb in the woods. Might as well be hollering 'eat me, eat me.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What...? 
+
+"No, &lt;i&gt;no&lt;/i&gt;, none of that. I know what I see! So will the others, the ones who matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"So what's your real name, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I... I've been Copperhead long as I remember. But it must have been something else, once. 
+
+"There's not a mother alive would have cursed her child with 'Copperhead.' ...Excepting maybe she were a miner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I have to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ain't it plain? It's a paradise! Aye, a land free of all the troubles of home. All the food and drink you want, and nary a frown in sight... 
+
+"But I know. I know it isn't so simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Very well. I'll meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I-it's not safe here. Not where everyone's looking, listening.
+
+"I have a house, out on the outskirts. They don't mind me keeping to myself. We can talk there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What are those strange runes? Everyone in here seems to have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"But not you, eh? You stick out like a cat in a kennel."
+
+He simpers nervously, eyes darting left and right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"No, wait-!" 
+
+Copperhead grasps for you, but his clutching fingers stop well short of actually touching your arm. He grimaces as if in pain, his lip curling back to reveal blackened teeth. 
+
+After a moment, and with visible effort, he withdraws the hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You... you have to help me. Something awful wrong is going on in this town, and I can't do anything about it on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm really not sure about this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I'm not helping you! You EAT people!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Look out for the ones in charge. Them with the staffs. They spy you, things will get bad in a hurry.
+
+"Zulka, especially, she... I-I have to go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I can help you! I swear by my hat." 
+
+He raps the side of the helmet with his knuckles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Not- not so loud! The patrols, they'll-
+
+"Oh, no. Hide, friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Over here, over here. Mind your step. I've, er, collected things. Spent years, collecting."
+
+He waves a hand vaguely at the collection of detritus that lines each surface and corner of his makeshift abode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"A ship's graveyard, teeming with the dead! The not-dead! The... still alive!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Huh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Let me take a look at that helmet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Yeah, well, the dream only works on folk what have this symbol on their heads. I didn't see it 'til I got the helmet on. 
+
+"And all of us... dead, or something like it. Feeding off the living to stay alive a little longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Always been curious. There are so many ships out there on the reef. I could dive down, see what I found. 
+
+"It was beautiful down there. A hundred stories, and I read 'em piece by piece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"N-no! I won't go back to before! My head all cloudy... If I take it off, I go back into the dream."
+
+Copperhead clutches at his helmet, tugging it down around his ears. You hear a muffled growl from within its depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Take it off his head by force.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fine. Just hold still while I look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I promise to give it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Anger and fear, you suspect, exacerbate Copperhead's hunger for essence. On the other hand, the runes appear to have made the other inhabitants relatively docile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>It is not a graceful struggle. You grapple with Copperhead for a few moments, then rip the helmet from his head while he flails at you. 
+
+Copperhead's wail of regret cuts off sharply, and you see the rune upon his head begin to glow more brightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Copperhead sags, his head drooping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Place the helmet back on his head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Copperhead has been reduced to a slack-jawed puppet. He twitches soundlessly as the rune pulses on his forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Leave him alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Without inspecting it more closely, you are mainly able to glean that the helmet has a repulsing effect on magic. It's as if any magical energy that might directly affect the helmet were deliberately directed away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Looking at the helmet nothing more notable than your own reflection in its grimy surface. You cannot see anything that sets the helmet apart from any other piece of armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"And so? What do you see?"
+
+Despite his initial protest, Copperhead sounds excited to hear your results. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I can't see what's so special about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I think your helmet dampens magical effects. It's shielding you from whatever spell is being cast on everyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Lie] "You're delusional. It's just a helmet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Never mind your promises! I won't part with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Fine. Keep the damn thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why would anyone go through all that trouble to keep a town full of dead people trapped in an illusion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I can't see as to what we've been charmed for, but I know it's got something to do with the crypt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Living a fantasy has to be better than finding out you're a rotting corpse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Any time new settlers turn up, they come out of that place. When they start to lose their senses, get too &lt;i&gt;hungry&lt;/i&gt;, that's where they get taken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Point is, whatever they're doing to keep us living in this little fantasy, it's got to happen in there, somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"All right. I'll have a look at the crypt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"So we play out the rest of our lives in someone else's demented little story? 
+
+"Better the truth than a silly dream. At least it's our truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"We'll see. Maybe there's another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Hold on, you can't just... walk on in. It's guarded. 
+
+"Really, really well-guarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I can handle it. Trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Maybe you can create a diversion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You have any ideas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The guards don't really leave their posts, 'less the hunters are back with fresh meat... But they haven't got a schedule. They come and go as they please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Haven't got much choice there, have I? 
+
+But, um... Good luck. I'll wait for you. And if they put a rune on your head, I promise I'll try and find a way to fix you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Copperhead is still for a few more moments. Then he jerks upright.
+
+He pats tentatively at the helmet on his head, then scowls at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You have your fun? Eh? Never mind it gives me a terrible ache in the head, no, you had to get your greasy little fingers on... 
+
+"And so? What'd you find?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ha! I knew it! I knew there had to be something! 
+
+"The protectors think I'm still in the dream. That silly little Copperhead's just taken a shine to a new hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You're back, you're back. What's the word?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"How long have you been here on Splintered Reef?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Leave] "I was just going, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oh... years and years and years. Getting... saggy around the seams, you know?" 
+
+He gives a rattling, unsavory laugh, then scratches sheepishly at a shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You did it! Look-!"
+
+Holding his helmet in one hand, Copperhead reaches up to rap the side of his head with the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I heard some strange noises... Took some time to work up the nerve, but I took the helmet off, and I've kept my wits!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I killed Menzzago and shattered the orb. His spell is broken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You... you can't know what this means. 
+
+"I had a long time to get my head right. Figure out what I was, make peace with that. Maybe it'd be different, if everyone else had the same chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Not sure what I'll do now. At least I know for sure I ain't mad." 
+
+He looks down at the helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Here. I don't need this thing anymore. And maybe it'll be some use to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Keep it. You never know when it might come in handy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Keep it. You can pay me back by coming with me. Join my crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Take the helm.] "Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Take the helm.] "If you need somewhere to go, I could use you on the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You sure? ....Well, thanks. Kind of got used to wearing it, really. 
+
+"Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You... you mean it? 
+
+"Because I don't know if you've thought this through. Hardtack won't do the trick, with things like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You're the one fixed things. Seeing as I'm sticking around, I owe you one."
+
+Copperhead bows stiffly at the waist, grinning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Eh? Why? Wasn't that why you went up there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Menzzago is dead, but the spell remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"It didn't seem right, taking this away from everybody. They're happy enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I haven't decided what to do with the orb that controls the spell just yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Well, that's all well and good, but... What about the kith they keep bringing in? All them bodies? 
+
+"What if Menzzago's old master turns up? Lucia Rivan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'll take care of her eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The same Rivan that captains the Floating Hangman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I don't know the ship, but... Rivan's supposed to be some great captain. 
+
+"She founded this place. Made it what it is now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The strongest get fed to Menzzago's most loyal servants. The 'protectors'. The rest of the kith, they bleed slow in the tavern. Once in a while the protectors... treat us to a whole body..."
+
+Copperhead hangs his head, trailing off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Who's Lucia Rivan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Some... powerful captain, I guess. They say she founded this place. Might be she knew what it was from the start.
+
+"&lt;i&gt;Made&lt;/i&gt; it what it is, from the start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Me? ...Yeah, all right, I can do that! I can help! I'll meet you out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Rivan's no longer a problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"How long do you figure that orb will last?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Menzzago was giving the orb its energy. Now that he's dead, the spell will start to fade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Well... I needed some time to figure out what I was, how to live with it. 
+
+"With a little time, maybe I can do the same for everyone else. Ease 'em in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Think I'm going to need the helmet. But here- I found this in one of the wrecks. 
+
+"Didn't, you know, stop a spell taking over my mind or anything, but I think you might get more use out of it than me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Well... I needed some time to figure out what I was, how to live with it. 
+
+"With a little time, maybe I can do the same for everyone else. Ease 'em in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Guess you'll have to wait and see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I might not believe it, if you hadn't just chewed through Menzzago. 
+
+"This was his little kingdom, really. And now we're all free of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Smash it, that's what I say. No more hiding. No more pretending.
+
+"We're monsters. There's no changing that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ah, good, you're here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I'm not telling you your business, but something tells me that helmet was for our protection, not his." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ekera, let this be a lesson on the importance of wearing protection." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"This seems needlessly cruel." He winces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's make it so he wakes up in a funny pose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Madiccho, that is difficult to watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Not entirely sure this be a fit way to live. Or whatever it be this lot does in the stead of living."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Would it not have been more merciful to let me reap his soul?" She crinkles her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Is there a purpose to this experiment? Or should I, too, anticipate such kindnesses?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Well, I wouldn't go that far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"It didn't do those people in the tavern any good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ah... Too far gone, I suppose. Ground down to skeletons and meat. 
+
+"But not puppets. Not Menzzago's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I know. I can see through the illusion just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Follow my lead, captain. I have a long history of taking orders from people wearing strange hats." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"The only help he's suited for is in his journey to the next life. Don't you think, Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If benevolence doesn't move you, Watcher, consider that this one might make for an interesting study. In terms both physiological and metaphysical."
+
+Her carmine eyes linger on the vessel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Oh, aye. Have a look."
+
+He tips the helmet back just far enough that you can start to see the outline of a rune upon his forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Wait, why's the lamb in the woods?"
+
+Edér glances back at you with a scrunched face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Must we torment the poor man?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"My idea of paradise is very different, but... I say I will try yours out for size." Tekēhu purses his lips and nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Nothing like the helmet. And nothing's been the same, since the helmet. 
+
+"I put it on, I get glimpses of what this place really is."
+
+He leans forward, looking left and right with conspiratorial glee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Copperhead looks relieved, but he keeps his hands firmly on the helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"It's too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"She hasn't bothered to come back so far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Fair point. All of us, abandoned like a box of kittens, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You don't half-arse these things, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Who cares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Not something you'd want to wake up to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ha. No, it were... A shock, I tell you true. 
+
+"Maybe I did go a little mad. Just a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"So what is it you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I want... I want the lid to come off the box. For everyone to see the truth, like I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"They'll never see me coming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"So, about the illusion..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"The truth can hurt even the dead, it seems. Di verus, it is still better than living under a lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"A little restraint isn't always a bad thing." He grimaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I figure Splintered Reef's where I belong. Another shipwreck, of a kind.
+
+"With Menzzago and the others gone, there won't be cause to bring more kith out this way. Decent note to end on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"There are sources of essence apart from people. We'll figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"We'll be fine. You ever hear of the adra trade, Copperhead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"On second thought, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>A small, disbelieving smile creeps across Copperhead's face as he takes in your words. It spreads into a wide and crooked grin of delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Copperhead shakes his head. A small smile creeps across his face as he takes in your words, splitting into a full-on grin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"The sea... A real ship! Thank you, captain! A more loyal sailor you'll never find!"
+
+Copperhead practically scrambles for the door, cackling with excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"You can eat all the people you want. Come on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Copperhead blinks at you, mouth hanging open. 
+
+But as he considers the prospect, a small smile appears on his face, and then a wide and crooked grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"That is, if you don't mind taking my orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ready when you are, captain!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Good luck, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Good luck out there. I don't know that it'll ever be safe on Splintered Reef for kith, but... I'll remember what you did for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Leave] "You're right. I have to think about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I suppose that is an improvement." He shrugs half-heartedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Oh, no - no, no, no! You aren't fooling me. You think I don't know my own senses? Think you can pull me back into the dream?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"That's where Menzzago is, the man in charge of this place. And where Lucia Rivan's old keep used to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I have a deal with Menzzago. The orb stays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"You... you what? You- Hang on, you met him? And you just... You made &lt;i&gt;friends&lt;/i&gt;?"
+
+Copperhead clutches at his helmet in agitation, fingernails scraping down the metal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"What about the rest of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"When I sail for Ukaizo, you'll come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You won't need to eat anyone anymore. The adra will sustain you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"What &lt;i&gt;about&lt;/i&gt; you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Just leave me alone..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"So that's it, then. You got what you needed, and never mind what it cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I should have... I should have..." Copperhead's lips draw back in a grimacing snarl, his dark eyes gleaming with hunger and fury...
+
+Copperhead sags, deflating all at once. He turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I'm guessing the boss will want a word with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"If we live! If Menzzago doesn't... put us all under some new spell!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"You have your fun? Eh? Never mind it gives me a terrible ache in the head, no, you had to get your greasy little fingers on... 
+
+"And so? What'd you find?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"You have your fun? Eh? Never mind it gives me a terrible ache in the head, no, you had to get your greasy little fingers on... 
+
+"And so? What'd you find?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\19_wizard_dungeon\19_cv_concelhaut</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I trust that you didn't come to stargaze?" His sigh sounds like the flapping of a tattered wing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"No... NO! I watched you die, crushed under that castle - your monument to hubris!" 
+
+What little remains of his lips pulls back to reveal long, gumless teeth in a perpetual grimace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How did you end up in the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I had planned on taking vengeance by leveling your castle... but that sea-striding adra buffoon stole the opportunity out from under me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attack] "I'm going to mount your skull on [Player Ship] as a figurehead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's your interest in this observatory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"That arcane upstart Bekarna might not have been as unhinged as we once assumed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"If the Circle sent you to interrupt my research, I'll fashion a scarecrow of your remains to deter their next hapless victim." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Attack] "You're not laying a bony hand on me, shambler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You wouldn't be here if you found what you were seeking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How astute. Now, if you're finished dissecting my academic setbacks, I am a rather busy lich." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm not looking for a fight, but I won't hesitate to defend myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Do you plague everyone you cross with an accounting of your desires and priorities? I have no stomach for it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I was wondering what happened to my little pet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A skeletal figure clutches a scroll in both of his gnarled hands. His skin crinkles like old parchment and with every movement pulls to the point of nearly tearing.
+
+He glances up, his eyes burning and severe in their intensity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"My days of bouncing in your shadow or being jostled among spears and daggers are over.
+
+"This is the end of our sordid... &lt;i&gt;companionship&lt;/i&gt;." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"There's a skull-shaped absence in my pack that not just any lich can fill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Could have sworn I watched you die as well, but here we stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Whatever luck or intervention wrested you away from the Beyond, I'll venture that it has limits."
+
+His eyes narrow as he studies you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Again you interrupt my plans, and AGAIN I am forced to compensate!" He closes his fist around the scroll and shoves it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Let's not fight. We just want our little skull back. The rest you can keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You will keep your hands away from me, cur!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hey, it's our little skull! We thought we'd lost you!
+
+"You've grown so much! A whole body now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Silence! I've suffered several lifetimes worth of your inane babble already." Concelhaut bares his teeth at Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Don't bother wasting your time on one-sided reminiscence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"One such offense was inexcusable. Your very presence... an abomination." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Speaking of abominations, didn't I kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You're one to talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Few things delight me more than slamming the proffered door on the Usher's hand." His rictus grin splits wider still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Whatever beginner's luck won you the day at Crägholdt has expired. Fate brought us here to correct its error."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I see we've already descended to petty jabs. This should be over soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ah yes. How could I forget your brooding silence, the signature of all great minds?" He shakes his head, loosening a flap of skin around his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Actually..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I mean, if there's time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"The Torn Bannermen laid siege to Crägholdt before, why are they working for you now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'm sure that pigheaded Commander Baelorin is having a chuckle over the irony from whichever spoke of the great Wheel he calls home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"The Bannermen are loyal to a full purse, and my investments have paid off over several lifetimes."
+
+He folds his bony arms and scowls at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"From there it was the trivial work of clawing my way from my resting place to a dock." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"From there it was the trivial work of dragging myself across the Dyrwood toward a dock, one mouthful of soil at a time."
+
+He rubs his jaw and winces. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Then I arrived in the Deadfire as any simpleton would. By boat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Your presence tells me that the Circle has felt it, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"The Circle discounted her theories about a deep well of power in the Deadfire. All that changed when I felt its pulse."
+
+He closes his fingers as if to capture something ephemeral from the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Did no one in that perfunctory excuse of a Circle bother to prepare you?" He shakes his head and stuffs the scroll among his belongings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hm. Can appearances be this deceptive? Doubtful in my experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I am undeath, the shudder before the final gasp, the bone sanctuary of a thousand tomes.
+
+"I am Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Arkemyr sent me. I suppose we're after the same thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The Circle of Archmagi didn't send me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"No? More's the pity for you, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"To die absent a cause... the Wheel will grind your tormented soul to shreds after I'm done with it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"All a matter of perspective. The same thing... perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"But the Circle wants only knowledge. I desire the power it represents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"They are fools to delude themselves into thinking they want otherwise." 
+
+He snorts, issuing a dry rattle as something in him snaps loose and tumbles in the lifeless barrel of his sinus cavity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You would have done better to submit and wilt under my power. The things I do to you will make that end seem a gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If you didn't come to wrest it from me, then your death will prove as meaningless as your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Then you've come to distract me, which is more dangerous by far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Rather than waste any more of our precious hours on inane chatter, let us bring this sorry meeting to a close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Grimacing, Concelhaut raises his bony fingers and mutters an incantation under his breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"It'll grow back, give it time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"How fortunate for us both that I don't have to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Rather cocky for a man with no... skin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Then I'll borrow some of yours to scribe a spell that shrinks ears." 
+
+He grimaces at Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ugh. Not again."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

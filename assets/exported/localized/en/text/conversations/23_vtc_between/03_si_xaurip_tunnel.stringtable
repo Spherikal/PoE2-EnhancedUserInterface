@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\23_vtc_between\03_si_xaurip_tunnel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Leaning into the mouth of the statue, you see a crude tunnel dug out of the dirt and rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Climb Inside</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The narrow tunnel twists frequently, following the natural gaps in the rocks. It is tight, but you're able to squeeze forward and continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You don't have enough room to turn around, but you are able to slowly back out of the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The tunnel opens, revealing a fork in the tunnel. 
+
+To the east, you think you can see a hint of light reflecting from the rock.
+
+To the north, the echo of falling water can be dimly heard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Take the North tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Take the East tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Climb back out of the tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You head toward the light, emerging in a cavern not far from where you first entered the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You follow the sound of water, climbing and squeezing your way forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>As you struggle through the narrowing tunnel, the dirt takes on a more mud-like consistency, helpfully greasing the passage.
+
+[Slot 2] makes a comment about being glad it's dark, because mud in all the places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The tunnel suddenly takes a turn downward, and the slickened and muddy tunnel births you onto a stone outcropping a few feet above an underground lake.
+
+Small shafts of sunlight from high above illuminate the cavern, revealing the black water at your feet and the towering waterfall at the far side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you struggle through the narrowing tunnel, the dirt takes on a more mud-like consistency, helpfully greasing the passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Illuminate the cavern to investigate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Inspect the cavern further</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Return through the muddy tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You slowly make your way back up the tunnel, fighting against the muddy ramp to find purchase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>A gap in the rocks reveals the mouth of a dark tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Climb inside</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Leave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The tunnel continues to wind between the rocks, leading to a branch in the path.
+
+To the north, you can faintly hear the echo of falling water.
+
+To the west, the tunnel appears to narrow sharply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Take the West tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Climb back out of the tunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Look closely into the water</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You easily turn around and make your way back to the small cavern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The tunnel narrows considerably, forcing you to crawl and push your way ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Continuing to move forward, the dim flicker of torchlight shows through the tunnel's exit as you pull yourself free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Take the gemstones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Use Xoti's lantern to illuminate the cavern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>With the added light, you are able to see more detail around you.
+
+The walls of the cavern look to have been worn smooth over centuries of waterflow. Beneath the water, the light doesn't penetrate far enough to reach the bottom of the lake.
+
+At your feet, however, are small piles of raw gemstones and shiny bits of metal, likely placed here by the xaurips within the temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>With the dim light, it is difficult to make out specific details except where the sunbeams strike.
+
+From the little you can see, the underground lake is large enough to fit two or more ships with room to spare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You sort through the small piles on the shore and collect a variety of gemstones, pushing the scraps of metal aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You scrabble up through the mud, working your way to the top of the ramp. Before you are able to organize the descent, [SkillCheck 0] loses their balance and slides rapidly down the tunnel, wedging tightly between the rocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Clawing through the mud, you make your way to the top and start the much easier descent on the other side, slipping your way through the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You return to the tunnel intersection:
+
+To the East, you can faintly make out light reflecting from the rock walls.
+
+To the West, the tunnel looks to narrow and become a tight crawl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>With a lot of effort, you manage to untangle [SkillCheck 0] from the tunnel and continue moving.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

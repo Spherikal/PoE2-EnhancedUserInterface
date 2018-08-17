@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_wealthy_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The narrow streets in this neighborhood are largely deserted at night, and the echoes of heavily-armored footfalls carry down the cobbled lanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Sneak forward and take his coin purse.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Hide from the noble and guards.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Prepare an ambush and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave the noble be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>One of the guards leans in towards the man. "This is not the safest of streets, sir. Perhaps-"
+
+"It's your &lt;i&gt;job&lt;/i&gt; to keep me safe... not prattle on like a schoolmarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>One of the guards leans in towards the man. "This is not the safest of streets, sir. Perhaps-"
+
+"It's your &lt;i&gt;job&lt;/i&gt; to keep me safe... not prattle on like a schoolmarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He pads towards you, gesturing in broad swipes of the arm as he speaks. 
+
+"These imbeciles have gotten us entirely lost! Can you point the way to... was it Queen's Berth, I believe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Do nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You cradle the coin purse, and - with a deft slip of the knife - liberate it from the man's waist. The noble and his guards continue down the street none the wiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You cradle the coin purse, only to feel it torn from your hand as the Dyrwoodan man leaps away from you with a cry. Shaking, he points a hairy-knuckled finger at you.
+
+"Thieves! Kill them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Like a shadow, [Specified 4] slips behind the nobleman. After a bit of legerdemain you can't follow, your compatriot returns to you with a bag of coins in hand.
+
+The Dyrwoodan man and his guards disappear down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 4] slips behind the noble, who leaps away from your compatriot with a yelp. The guards draw their weapons, pointing at you where you lurk.
+
+"Brigands!" one shouts.
+
+"Well, kill them, idiots!" the noble barks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Sneak forward and take his coin purse.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The noble and his guards pass you by and continue down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Give the noble directions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Draw your weapons.] "Your money or your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Leave.] "Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Drawing from your knowledge of the streets of Neketaka, you direct the man back to Queen's Berth. 
+
+"You have my sincere gratitude." He bows deeply and offers a small bag of gold coins. "For your trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The man sighs at your muddled, confusing directions. "For Magran's sake! Idiots everywhere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Don't stand there, you fools! Do something!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The narrow streets in this neighborhood are largely deserted at night, and the echoes of heavily-armored footfalls carry down the cobbled lanes.
+
+You notice two members of your crew, [Specified 0] and [Specified 1], crouching at the corner ahead of you, their backs to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"See anything interesting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Clear your throat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You two look like you're up to no good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Ignore them and walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The pair almost leap from their skin at your sudden appearance.
+
+"Gods above, captain!" [Specified 1] hisses. "Are you trying to scare us to death? My heart nearly stopped."
+
+Frowning, [Specified 0] glances around the corner, then back to you. "Nothing to see here, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You turn down a side street and leave the two hands to their own devices.
+
+Later, they sport a few cuts and bruises, but they seem happier for it as they share a bottle of fine ynefer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Uh huh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Spill it, you idiots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Leave] "I'll leave you two to it, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1] sighs. "Just tell him, [Specified 0]."</DefaultText>
+      <FemaleText>[Specified 1] sighs. "Just tell her,[Specified 0]."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0]'s eyes roll. "We've found a chance to make a little coin, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A glance around the corner reveals an aging meadow folk man garishly dressed in the styling of a Dyrwoodan noble. Lamplight glints from the rings on his fingers and chains around his thin neck.
+
+"Damnation! I told you incompetents that this was not the right street!" The words are slurred, as if the man's tongue is too heavy for his mouth.
+
+Several men and women, all too heavily armored for the climate, accompany the man. "Apologies, master. If we-"
+
+"Shut up, fool! By Magran's flame, is it &lt;i&gt;always&lt;/i&gt; this hot? I'd pay a thousand ducs for another drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>A glance around the corner reveals an aging meadow folk man garishly dressed in the styling of a Dyrwoodan noble. Lamplight glints from the rings on his fingers and chains around his thin neck.
+
+"Damnation! I told you incompetents that this was not the right street!" The words are slurred, as if the man's tongue is too heavy for his mouth.
+
+Several men and women, all too heavily armored for the climate, accompany the man. "Apologies, master. If we-"
+
+"Shut up, fool! By Magran's flame, is it &lt;i&gt;always&lt;/i&gt; this hot? I'd pay a thousand ducs for another drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Get back to [Player Ship] before I turn you into the city guard myself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Carry on. Just remember that your captain deserves a cut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'll take it from here, you two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Well found. Let's get ourselves paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 1] salutes. "Aye, captain."
+
+[Specified 0] smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1] salutes. "Aye, captain."
+
+[Specified 0] smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Specified 1] winces as [Specified 0] spits a fat blob of phlegm that slowly trails down the wall.
+
+"Gods... Understood, captain. We'll return to the ship." The pair slink away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Approach the group.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>One of the guards leans in towards the man. "This is not the safest of streets, sir. Perhaps-"
+
+"It's your &lt;i&gt;job&lt;/i&gt; to keep me safe... not prattle on like a schoolmarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Guides cost coin, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The nobleman stares dumbly as you walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I happen to have a drink. Do you have those thousand gold pieces you mentioned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 4] gives the man and his guards clear, concise directions back to Queen's Berth.
+
+"You have my sincere gratitude." He bows deeply and offers a small bag of gold coins. "For your trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Though he nods, the man's eyes narrow. "Yes, yes, you'll get your coin. Here, half up front."
+
+He passes you a few ducs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He snorts. "Only a fool pays for goods undelivered! Do you think me a fool?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The man briefly blinks before his features split into a wide grin. 
+
+"Fantastic! What do you have on offer? I will pay more than fairly for it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A bottle of ale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A cask of grog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"A fine lager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Mead imported from the Aedyr Empire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Rice wine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Rum, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You look in need of water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Frowning, [Specified 1] whispers to you, "I thought we were going to get paid, captain..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You heard me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] sighs as [Specified 1] deflates, shoulders slumping. "Understood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Bow] "Greetings, my lord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The man smiles broadly. "Ah! A gentleman of culture! A pleasure, sir!" He bows his head.</DefaultText>
+      <FemaleText>The man smiles broadly. "Ah! A lady of culture! And beautiful, as well! The pleasure is mine, madam!" He bows deeply.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The man sighs at [Specified 4]'s rambling directions. "For Magran's sake! Idiots everywhere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The man recoils. "Why you unctuous little shit! I thought you a creature of worth!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He looks to his guards. "Protect me from these ruffians, you oafs!"
+
+The guards exchange unhappy glances. "They look like they mean business, sir. Mayhaps you should give them your purse..."
+
+The Dyrwoodan spits, pulls his purse from his belt and tosses it to you. "Fine! But these are coming out of your wages!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He looks to his guards. "Protect me from these ruffians, you oafs!"
+
+The guards exchange unhappy glances. "They look like they mean business, sir. Mayhaps you should give them your purse..."
+
+The Dyrwoodan spits, pulls his purse from his belt and tosses it to you. "Fine! But these are coming out of your wages!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He looks to his guards. "Protect me from these ruffians!"
+
+Weapons already drawn, the guards advance...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He sighs as he accepts the bottle. "Here - ten ducs. For the trouble, I suppose. Any storm in a port, as they say." 
+
+One of the guards raises an eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Only the sweetest arrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He winces and wards off the cask with an open palm. "Nay! Get that pestilent offal away from me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>He happily accepts the bottle. "Just the thing! Please, accept these ducs, stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The noble's eyes widen as he clasps the bottle. "Ah, I knew you were the very model of refinement! Here, please, with my blessings." 
+
+The guards exchange glances as he hands you a heavy bag of gold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1] grins at [Specified 0]. "The captain's quite clever, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 1] frowns at [Specified 0]. "What's wrong with grog?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Leave] "Thanks, friend. Good luck getting home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Attack] "Too bad it's not enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1] slaps [Specified 0] on the back as they eye the haul. "We have the best fucking captain, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 4] gives the man and his guards clear, concise directions back to Queen's Berth.
+
+"You have my sincere gratitude." He bows deeply and offers a small bag of gold coins. "For your trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You doubt you'll be able to mount an effective ambush with these two noisy, noisome crew in tow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Frowning, [Specified 1] whispers to you, "I thought we were going to get paid, captain..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>You crouch in a shadowed corner, and the noble and his guards pass you by. 
+
+Although the sound is faint, you can just hear the gentle rattling of a full coin purse as they pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You crouch in a shadowed corner as the noble and his guards approach. One of the armored men's eyes fall on you. He draws his weapon and holds out an arm to stop his charge. "Brigands!"
+
+"Well, kill them, fool!" the man barks.
+
+The guards advance...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He blinks as he rises. "By the flame! You're the Watcher of Caed Nua, aren't you? I attended your court once. Lord Belmer of Echo Bay!" He laughs. "To find you here, of all places."
+
+He scratches his head. "I thought you'd died..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I got better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He nods. "Clearly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"On second thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The man blinks at you, his eyes bleary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>At your approach, one of the guards puts a gauntleted hand on the man's shoulder, but he twists out from under it.
+
+"Finally! Someone with a thought in their head!" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

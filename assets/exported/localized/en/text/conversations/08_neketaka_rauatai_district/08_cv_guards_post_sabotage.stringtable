@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_guards_post_sabotage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Several guards at the gate stare at you, cold fury etched on their faces.
+
+The district still smells of smoke and spent gunpowder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Clear skies to you." The guard half-heartedly crosses his forearms over his chest. His face is heavy with grief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"No one's allowed into the Brass Citadel now. So you'd better get out of here before we get ideas." He scowls at you through eyes hard with grief. The smell of smoke still hangs in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sorry, but the Brass Citadel is closed for now." The guard's face is hard with grief and anger. You can still smell smoke in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Attack] "I go where I please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He sighs. "Someone sabotaged our powderhouse. Blew up most of our gunpowder and killed loyal men and women of Rauatai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"When we find out who's behind this..." He pounds his fist into his hand, glowering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Listen, I can't let anyone into the Brass Citadel. Not even you." The smell of smoke still hangs in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Woedica must've heard our prayers for vengeance.
+
+"This is for the powderhouse." 
+
+They draw their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

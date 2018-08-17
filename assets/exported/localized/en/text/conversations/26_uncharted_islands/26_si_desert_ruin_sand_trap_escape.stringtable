@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_sand_trap_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sand pours into the room, pooling at your ankles and rising higher with every moment. The only way out is the stone door behind you, and it's sealed tight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Attempt to open the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Cast a corrosive spell at the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lob a grenade at the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Chuck a concussion bomb at the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Toss a blister bomb at the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Throw an implosion charge at the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1] grips the edge of the door and pulls. The door grinds open an inch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] scrambles to the door and tries to wrench it open, but the door won't budge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Push harder.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Let go of the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1] releases the door. It slams shut with kith-crushing force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] finishes casting a corrosive spell and flings it at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The crack splits the door in two, and it crumbles to the ground. The party scrambles through the opening, safe at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>A huge crack sunders the door. It is significantly damaged, but not destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The spell slams into the door, coating it in corrosive fluid, but the door takes only slight damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The grenade strikes the door and explodes in cloud of noxious smoke and fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The door crumbles and collapses to the floor. The party scrambles through the opening, safe at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The concussion bomb strikes the door and explodes in cloud of noxious smoke and fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The blister bomb strikes the door and explodes in cloud of noxious smoke and fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The implosion charge strikes the door and explodes in cloud of noxious smoke and fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The door crumbles and collapses to the floor. The party scrambles through the opening, safe at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The door crumbles and collapses to the floor. The party scrambles through the opening, safe at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The door is obliterated. The party scrambles through the opening, safe at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>With a cry of exertion, [Specified 1] shoves the door open a few more feet. There might be just enough room for the rest of the party to squeeze through the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1] struggles to hold the door open, but it's no use. The door slams shut, crushing [Specified 1]'s hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Heave the door open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Escape while [Specified 1] holds the door open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] holds the door open long enough for the party to escape. As the last person squeezes through the doorway, [Specified 1] gives the door a final shove and dives out of the room to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] throws the door open and holds it in place while the rest of the party makes their escape. When everyone is safe, [Specified 1] darts out into the hallway. The doors slam shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] attempts to push the door open, but the press of the sand is too much, and the doors slam shut. [Specified 1] wrenches a shoulder in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] holds the door open long enough for the party to escape. As the last person squeezes through the doorway, [Specified 1] attempts to give the door a final shove, but it's not enough. [Specified 1] is trapped by the smothering sand and buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1] holds the door open long enough for the party to escape. As the last person squeezes through the doorway, [Specified 1] gives the door a final shove and dives out of the room to safety, but the door catches [Specified 1]'s leg on the way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You attempt to prime the bomb to throw, but the sand rises too high, too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The sand rises up to your chest while you rush to prime the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The sand rises to your knees as your prepare the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You attempt to prime the bomb to throw, but the sand rises too high, too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The sand rises up to your chest while you rush to prime the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The sand rises to your knees as your prepare the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You attempt to prime the bomb to throw, but the sand rises too high, too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The sand rises up to your chest while you rush to prime the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The sand rises to your knees as your prepare the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You attempt to prime the bomb to throw, but the sand rises too high, too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The sand rises up to your chest while you rush to prime the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The sand rises to your knees as your prepare the bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0] attempts to cast the spell, but the sand rises too high, too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 0] manages to cast a spell as the sand continues to rise to chest level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The sand rises past your knees as [Specified 0] casts a spell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You struggle to get the door open in time, but you are too late.
+
+The sand rises to cover your mouth. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 1] scrambles to the door as the sand rises to above your chest, pressing the air from your lungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>As the sand rises past your knees,[Specified 1] scrambles to the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1] struggles to shove the door open further, but [Specified 1] is too late.
+
+The sand rises to cover your mouth. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 1] strains against the door. The sand rises to your chest, the weight of it pressing the breath from your lungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Specified 1] strains against the door. Sand rises past your knees, rooting you in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 1] tries their best to open the door, but the flow of sand is relentless. The door slams shut, and [Specified 1] is crushed to death. With no way out, the party is buried alive by the tide of sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1] throws a shoulder against the door and pushes. The sand rises to chest level, and it shows no sign of stopping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 1] shoves at the door, muscles straining against the weight. The sand rises to your knees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The explosive barely mars the surface of the door, leaving little more than a black smudge behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] finishes casting a corrosive spell and flings it at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1] struggles to get the door open in time, but [Specified 1] is too late.
+
+The sand rises to cover your mouth. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You scramble to the door as the sand rises to above your chest, pressing the air from your lungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You grip the edge of the door and pull. The door grinds open an inch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>As the sand rises past your knees, you scramble to the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You scramble to the door and try to wrench it open, but the door won't budge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You struggle to shove the door open further, but you're too late.
+
+The sand rises to cover your mouth. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You strain against the door. The sand rises to your chest, the weight of it pressing the breath from your lungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You strain against the door. Sand rises past your knees, rooting you in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>With a cry of exertion, you shove the door open a few more feet. There might be just enough room for the rest of the party to squeeze through the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You struggle to hold the door open, but it's no use. The door slams shut, crushing your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Hold the door open while your party escapes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You hold the door open long enough for the party to escape. As the last person squeezes through, you give the door a final shove and dive out of the room to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>You try your best to open the door, but the flow of sand is relentless. The door slams shut, crushing you. With no way out, the party is buried alive by the rising tide of sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You hold the door open long enough for the party to escape. As the last person squeezes through, you give the door a final shove and dive out of the room to safety, but the door catches your leg on the way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You throw a shoulder against the door and push. The sand rises to chest level, and it shows no sign of stopping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You shove at the door, muscles straining against the weight. The sand rises to your knees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You throw the door open and hold it in place while the rest of the party makes their escape. When everyone is safe, you dart out into the hallway. The doors slam shut behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You attempt to push the door open, but the press of the sand is too much, and the door slams shut. You wrench a shoulder in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You release the door. It slams shut with kith-crushing force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You attempt to cast the spell, but the sand rises too high and too quickly. As you take your final breath, the disappointed visage of the Pallid Knight flashes in your mind.
+
+You are buried alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You manage to cast the spell as the sand continues to rise to chest level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The sand rises past your knees as you cast the spell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You finish casting the corrosive spell and fling it at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You finish casting the corrosive spell and fling it at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

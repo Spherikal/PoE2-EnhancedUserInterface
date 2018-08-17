@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_backer_npc_granis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You meet a tall, brown-haired man dressed in full plate mail. That might not normally catch your eye, but his mail is unusual, colored a deep green and emblazoned with the image of a golden tree.
+
+Hand on the pommel of his sword, he watches the crowd go by with keen eyes, relaxed yet fully alert. He narrows his eyes when he spots you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What do you need of me?" He looks at you warily, as if he is deciding whether you are snake that might bite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Greetings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hail and well met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He's initially hesitant, unsure of your intent. Eyes narrowed, he sizes you up, then nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can you teach me what you've learned as member of the Shieldbearers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I've taught you what I can. Should you wish to learn more, I encourage you to join the order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Well... you would need to become a Shieldbearer yourself to really learn it all, but I suppose I can teach you a thing or two as we stand here. The privilege will run you three thousand copper, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He lays two heavy sandbags on your shoulders and runs you through a series of drills designed to increase your strength and agility while dressed in full plate mail.
+
+Confident you've learned enough to continue training on your own, he gives you a hearty clap on the shoulder and wishes you well on your journey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Goodbye." He nods his head in casual acknowledgment of your parting and returns to his business.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Interesting armor you have there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Wait.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I suppose it is. Are you familiar with the Shieldbearers of St. Elcga? We are a paladin order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Indeed. I'm of the order myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"My brother! I am glad to see a friendly face in this sun-scorched archipelago. I trust you came here on honest work?
+
+"Well, I needn't hear the details. You asked about &lt;i&gt;me&lt;/i&gt;, after all."
+
+He clears his throat dramatically.</DefaultText>
+      <FemaleText>"My sister! I am glad to see a friendly face in this sun-scorched archipelago. I trust you came here on honest work?
+
+"Well, I needn't hear the details. You asked about &lt;i&gt;me&lt;/i&gt;, after all."
+
+He clears his throat dramatically.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Shake your head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"The order began as guards for Elcga, a noblewoman emissary of Kulkin, who bartered for peace with the kingdom of Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Word of our order travels far, then. Good."
+
+He clears his throat dramatically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I am the son of a disgraced noble family. My father and brothers were executed for treason when I was a boy - rightfully so, I must add - and my mother, sister, and I were thrown out on the street."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"All we had to our names was a trunk full of heirlooms. One of them was this suit of armor, which belonged to my eldest brother.
+
+"Now I endeavor to live up to its promise and redeem my family's honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"That's the long and short of it, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I've taught you what I can. The rest is yours to learn in your journey with the order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The order's founders were forbidden to bring weapons to the meeting, and she was attacked. With only their shields to aid them, they fought off her attackers and brought her to safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"She later died of her wounds, and the Shieldbearers of St. Elcga were born in her memory."
+
+He clears his throat dramatically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Word of our order persists in the homeland, then. Good."
+
+He clears his throat dramatically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He shrugs. "As you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"My thanks." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Enhance Survival and Athletics] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He clasps his hands and nods, beaming with pride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"On second thought, I'll return later." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

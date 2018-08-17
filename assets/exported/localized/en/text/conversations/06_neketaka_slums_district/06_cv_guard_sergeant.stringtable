@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_guard_sergeant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A guard folds his arms, watching the activity on the walkways through slitted eyes. A coral piercing juts from his lower lip. 
+
+He notices you with a sharp nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It is rare to see one so honored in the Gullet." He gives you a stiff bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The Gullet is no place to wander. Watch yourself for rowdies and pirates." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How may I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let's say there were some people sick with drowner's lung..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I want access to the lift to the Old City."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Where is Biha now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Why was that man sent below?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This would be a great danger to the Gullet. Possibly the entire city.
+
+"You know something?"
+
+He watches you, his pierced lips parted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pitli has hidden several ill Roparu in her home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No, I was just wondering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The Dawnstar? Her soft heart risks the whole district." He shakes his head, frowning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You do well to warn us." He gives you a curt nod of thanks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pitli and her charges are selfish to hide their disease. They deserve punishment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I just don't want to see anyone else suffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Better to sacrifice a few than endanger many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"That's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I do not wish to punish them, but to spare the rest of the Gullet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ekera, you do more good than that foolish Dawnstar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Indeed. Thank you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Go to Pitli's home at once. Bring any you find here, but take care to cover your face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He frowns. "Do not joke of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It is a dangerous place. But if you wish to go, it is no business of mine to stop you."
+
+He whistles, and the guard standing by the lift looks over at him and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I do not see what for. But after your assistance with the infected Roparu, I won't deny you."
+
+He whistles, and the guard standing by the lift looks over at him and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Are you mad or merely lost? That place is a punishment for the lowest sort."
+
+He waves a hand toward the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The guard will let you pass. Though I urge you to reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Go and explore someplace with pleasant views and fresh air. The harbor. Or Periki's Overlook."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Neketaka has a rich history, and some of it lies buried. I must see it for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I can look after myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Pay 200 cp.] "Perhaps this will change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Let's discuss something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"It is your neck, ekera." 
+
+He whistles, and the guard standing by the lift looks over at him and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hers is the first house you come to. Just there." He points southwest across the walkways. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You will probably find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>His narrowed eyes widen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Let's not. Say. That." Xoti cuts you a warning glare. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What a silly notion, I say! Do you not think so?" Tekēhu speaks out in a full voice and gives you a look of warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I couldn't withhold something like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>He takes the coins while the other guards look away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He gives you a vicious smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"It is rare that the city's vilest offer themselves to the pit!"
+
+He whistles, and the guard standing by the lift looks over at him and nods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Go. And good riddance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Can you tell me about Delver's Row?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"It is a foul den of criminals and piracy. Now, I know a noble soul like you - a good friend to us Huana - has no business there, but for curiosity's sake..."
+
+He leans close and winks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"The entrance lies among the tunnels and alleys known as the Narrows. You will find them on the west end of the Gullet, near the exit." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"There is an abandoned merchant stall in the Narrows. Behind it is the passage to Delver's Row." 
+
+He straightens again and glances to see if anyone is listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"The Palace has forbidden us from making a move just yet, so if you were to stir things up, I doubt I could do anything about it..." He gives you a conspiratorial grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ekera. It is a cancer in the Gullet - a place of criminals and their foul dealings." He folds his arms and raises an eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"And I cannot fathom for what anyone BUT a criminal would ask of it." He lowers his head and stares down his nose at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Botaro? He associated with foreign criminals." He spits. The gob of saliva is just one more splotch on the weathered and mottled boards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"These wicked sorts overrun the Gullet and corrupt the Roparu. Our justice must be swift and firm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I cannot be certain about Biha, so I let her go. But I will be watching her." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Stop that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Indeed - maybe you will go and rid us of the criminals there as you did the foolish Dawnstar priestess?" He gives you a sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Where does this lift go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"To the Old City, ekera. A gods-cursed ruin filled with walking corpses and abominations of the deep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"And the remains of lawbreakers and troublemakers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Be careful. The Gullet is no place for outsiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Dereo gave me permission to use the lift to the Undercroft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>For several seconds, he only blinks at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"That is interesting. Because this lift goes to the Old City. I hear there is a lift to the Undercroft from Delver's Row..." His eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"...And Delver's Row is a haven for criminals, of which Dereo is the worst. 
+
+"I am sworn to punish such criminals. And their associates."
+
+He is quiet, studying your face with a suspicious glare.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ah, now I see. This is one of your famous jests." 
+
+After another pause, the corners of his mouth twitch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You are always up to something. Be grateful I am too busy to look into it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I think someone takes advantage of you. You must be careful in the city - few have your honor." He looks at you with grave concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Most amusing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>At last, he grunts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Stay out of trouble, ekera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"How can you consign your fellow woman or man to this fate?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"We punish only those who cause trouble!" He speaks forcefully, but stops himself when he gets a look at Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"And this is punishable by death, or worse?" Tekēhu's voice wavers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"That it is." He nods with no small measure of pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Begging your pardon for my tone, sir." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Gods damn it, Watcher! I can't believe you! Just whose side are you on?!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You have doomed the desperate. A sad day for all Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Turning in someone for being sick. You out of your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He whistles through his teeth. Two other guards approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>He fixes you with a sneer and hocks a fat gob of spit on the ground at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You must be the Roparu's champion. Ekera, you near reek of misguided do-gooding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You wish to make up for mistakes of the past? This is a good start, ekera." He nods encouragingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I am watching you, outsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You will probably find her there... if you have not already." He sneers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"And you." His dark eyes narrow with suspicion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"The perfect place for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>He laughs. "You pretend not to know it? A good joke, ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"It is a hive, the only place in this pit filthier than the hovels of the Roparu you coddle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We will leave the lift down there for half a day. That should be enough time to come back to your senses.
+
+"After that, you are on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I will keep the lift down there for you. For when you change your mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"The guard will let you pass. Though I urge you to reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

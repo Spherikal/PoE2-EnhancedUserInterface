@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_wizard_orb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A sphere floats before you, bobbing under the force of its own magical power. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Its ruby surface is as sleek and smooth as glass, lit from within with a powerful arcane aura.
+
+You can feel that energy press against its confines. Shattering the orb would free it - though what effect that might have, you are not certain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Destroy the orb.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You strike the glass. Cracks appear in the surface, spreading with a discordant crackle. 
+
+All at once the orb shatters, and the energy it held bursts outward in a radiant flare of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The orb pulses with a dimming light, its power waning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Touch that, aimoro, and I will split your head like a rotten gourd."</DefaultText>
+      <FemaleText>"Touch that, aimora, and I will split your head like a rotten gourd."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Reach for the orb.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You reach, undaunted, for the gleaming sphere. Before your fingers can make contact, Menzzago whips his scepter for your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You were fairly warned. And now you will have no reward but the sights of Hel. Corès, you gourd-head. 
+
+"Give my regards to the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

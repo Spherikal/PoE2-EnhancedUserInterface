@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_wildrhymer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Uamoru the Pretender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Uamoru&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Nungata&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Uamoru&lt;/b&gt;, a nature godlike and pretender to the Kahanga throne, is attempting to foster rebellion against the leadership of &lt;b&gt;Neketaka&lt;/b&gt;. He and his followers camp on an island &lt;b&gt;east of Magran's Teeth&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Someone has placed a generous bounty on &lt;b&gt;Uamoru's&lt;/b&gt; head. He's been tracked to an island &lt;b&gt;east of Magran's Teeth&lt;/b&gt; where he and his pet lion are likely to defend against fortune-seekers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Uamoru's rebellion was short-lived. &lt;b&gt;Nungaga&lt;/b&gt; in &lt;b&gt;Serpent's Crown&lt;/b&gt; in Neketaka will pay generously for his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Uamoru and claimed the bounty reward from Nungata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_aeldys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>349</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You must be Captain [Player Name]. Glad you could make it, lovesome."
+
+The battle-hardened captain rubs the underside of her chin as she regards you pleasantly. Her mis-colored eyes - one raven-wing black, the other an icy blue - rove up and down your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I see you're still alive." She gives you a crooked grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You're a fine sight for sore eyes, captain. Good to see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah, Captain [Player Name]. Beholding you never ceases to be a wonder.
+
+"I only wish we met under more... pleasurable circumstances."
+
+She rubs her thumb over her bottom lip, blue and black eyes hooded with desire - for bloodshed. For other things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"For what can I do you, lovesome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You killed my fourth chair, and a damned good friend. A part of me might be impressed. But a part of me wants to flay the skin from your face, understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I see you met my right hand and fourth chair on the Council of Captains. He can be a real trying sort, but I trust him with my life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Crookspur's a done deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I got your message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What did you want to meet about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me about the new blood in the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Is that what you call it? 'Cause I didn't send you &lt;i&gt;just&lt;/i&gt; to battle and murder, dove. I sent you to free the slaves." She glowers, narrowing her mis-colored eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aye. And well done, too. Most of the prisoners have pledged to crews in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"And now the master's on the defensive. All you managed was to strengthen his operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Though I'll admit, I won't be mourning the master's demise. And I do enjoy bleeding my enemies dry. 
+
+"I'll thank you for that much at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Let's leave it at that for now, lovesome. Maybe a time will come when we better see eye to eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You did a fine thing, captain. Don't think I'll soon forget it."
+
+She rubs her thumb over the suolenet around her neck, mis-colored eyes looking you up and down. Her lips quirk in a sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You're real good for business. So here's to hoping our wakes cross again some day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Forgive me for dragging you all this way, but I find the proposition of a partnership best works in person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Me and mine within the Príncipi would make for powerful allies on your side. But would you give us loyalty in return? That I'd like to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Say you wanted to entice an alliance of likeminded captains... you might start by aiding one of my best in Neketaka. She smuggles through the Undercroft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I get to do grunt work for another captain? I can't wait!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The Undercroft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'll consider it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"We don't all start at the top, dove. You might be a captain of your own right, but if I'm to spill blood for you in battle - I want to know you're also loyal to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It's a hidden port. But I'm sure you'll find it, unaided by me." She winks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You've a bright future ahead of you, Watcher. See that you don't tarnish it by flying the wrong pirate's flag.
+
+"Out with the stale and in with the new, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I've got a problem, Watcher. And I think you're just the captain to solve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Me and Furrante don't see eye to eye on a lot of things - not least of which is the future of the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm asking you to sail to Crookspur to meet with one of mine. She's hiding within their midsts and will have insider information on the slavers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Furrante may be working with the Vailian Trading Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"How's Furrante connected with the slavers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What can you tell me about the slavers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Well, well, ain't that a fine thing to know. It makes sense for certain." Her eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I've only suppositions to offer you, lovesome. But I'd bet my soulenet Furrante's attempting to gain standing with someone other than the slavers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Aiding the slavers is small fry for a captain like Furrante. It wouldn't pay well enough to be worth the investment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I know they base their operations in the Deadfire out of Crookspur. I know they're small but ruthless, and they've run into problems shipping around the islands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Find me when you've freed those slaves. I'll make it worth your while." She nods her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"We're the future, and we ain't going no where."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Would've liked to see Furrante hanging, myself. I can imagine it well enough though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'll be taking command of the Príncipi now. I'm calling a meeting of the Council at Dunnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sail with me to Dunnage, lovesome. I'd like to have you at my side when I bloody the place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'll sail to Dunnage with your fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'll meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Arriving with the full protection of my fleet is the best call. We're off, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'll prepare a fine welcome for you then. Wish me luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You wanted to speak with me? Well, consider me a captive audience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You know something about the Floating Hangman you're not telling me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Furrante thinks you're withholding information on the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I haven't the faintest idea as to what you could mean, lovesome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Guess it was only a matter of time. I knew the spies I strung up by their guts couldn't have been the only ones.
+
+"They were just the poor squabs who got caught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Spill it or I'll kill you and read it in your soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Tell me and I'll see that you're treated mercifully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Can't you and Furrante come to an agreement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What are you planning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She starts to laugh, but then realizing you're serious, the mirth - and color - drains from her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I appreciate the thought, but I value my life over your ideals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Only a fool would trust a deal with Furrante. How do you think he got to be the head of the Council of Captains? By making his sailors love him? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Life or death, that's what. The future of the Príncipi is at stake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Furrante covets the Floating Hangman in order to enforce his control of the Príncipi - not to protect us from our outside enemies.
+
+"Nor to beat your rampaging god to Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"But I'm two leagues ahead of Furrante. I know how to summon and command the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Of course, I destroyed the information as soon as I uncovered Furrante's spies. You'll never learn it without me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Get me the Floating Hangman, and I'll give you the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Furrante is the best hope for the future of the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm a Watcher. I can learn what you know from your soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Attack] "I'll take my chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'm happy to work with you, lovesome. I've been after a partnership with you for a long time, and I think you know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"But if we're to help each other - there is one thing I want from you in return for the Floating Hangman. 
+
+"That cock-rot Furrante needs to go. Hang him, gut him, I don't care. But get rid of him, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I have evidence he's scheming with the Vailian Trading Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Is there a non-violent option?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'll see it done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Well, well. That is good news. For us, I mean. Slaving's a hangable offense in the Príncipi, you know?
+
+"Even a member of the Council isn't exempt from such a crime." She grins sharply, pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I don't see how, unless Furrante could be shown to be a traitor to the Príncipi."
+
+Aeldys runs her tongue over her teeth, thoughtful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'll sail to Dunnage and take command of the Príncipi as soon as Furrante is gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I wish it hadn't ended like this, lovesome. I really do. More's the pity."
+
+She shakes her head, dark locks cascading over her shoulders. But as she does so, she reaches for the throwing knife, sheathed between her breasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"It doesn't have to end like this. Just tell me what I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Only reason I'm letting you walk away, is cause I got a soft spot in my heart for you, captain."
+
+Her eyes narrow to sharp slits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"And I need only to be a corpse for you to do it? I don't take kindly to veiled threats, swabby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Still thinking to back Furrante? It won't end well for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'll happily bet on your loss. Draw your arms, sharkbait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"For your loyalty, I'd like you to have Scoredeo's Edge.
+
+"It's been a good sword to me. I know you'll put it to good use. Hopefully, by killing more of my enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"He's an ass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"We worked out a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Truer words were never spoken." She throws her head back and laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"My mate, Brutal Ben. Oh, he'll love that you've forgotten him. He about bled my ears off bitching about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"It's not easy to bend Benny to listen. I'm impressed.
+
+"'Course I can't say he's had much nice to say about you." A prideful smile tugs at the corners of her lips, and she spins the golden suolenet on its string between her breasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"If you've an explanation, I'd advise you to give it up real quick."
+
+Despite the violence swirling about her words, she purses her lips, eager for your answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You can't fault me for defending myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"He had it coming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Fourth chair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Oh, but I can. Being the captain of an entire fleet means you can do whatever the blast you'd like."
+
+She lifts her chin, black and blue eyes boring into you, but a hard-edged smile quirks up her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"That he often did. Doesn't mean I enjoyed writing his eulogy." She shrugs one shoulder, sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Don't think you'll deflect me, lovesome. Benweth was one of &lt;i&gt;my&lt;/i&gt; captains - in addition to being one of the seven seat-holders on the Council."
+
+She shakes her head, dark tresses bouncing in tangles around her shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You cut off my right hand. How do you plan to replace it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I'll take Benweth's seat on the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Only so long as you're loyal to me, you will. But someone's got to fill his seat. Suppose you were to throw your weight behind mine..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I hear silver makes for a shiny hook."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"He said you had a smart mouth. but I suppose this'll quell my anger. For a time."
+
+She weighs the pouch of coins in her hand before tucking it between her breasts. To make room, she removes a hidden knife. It gleams golden in the light before disappearing into a concealed sheath up her sleeve. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Cross your arms over your chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You're a hard one to read. Fancy a game of cards some night?" She spins her soulenet on its string between her breasts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Leave it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"That's the spirit, swabby. You'll be seated next to me on the Council of Captains in no time at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Of course. &lt;i&gt;If&lt;/i&gt; we formed a partnership."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"No, I wouldn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Perhaps and perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Suppose we've to give each other a test. Make sure it's a good fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Then I suppose we're done here."
+
+With a scowl, she turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You're the cautious type. I can respect that. Or maybe..." Her mis-colored eyes look you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"We got few rules amongst us new bloods, but one of them is that you live free. We steal and we might murder, but if you pledge to us, you're our blood - our family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Now if I were to act in direct opposition to Furrante, he'd use it to call a vote of the Council of Captains. He'd see me swinging by the neck. But no one's got a leash on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"How do I find your pirate at Crookspur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"She'll find you, lovesome. You'll know her by her scar - it's a ghastly sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I'll go to Crookspur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"No, he's got ulterior motives, mark my words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Aiding the slavers is small fry for a captain like Furrante. It wouldn't pay well enough to be worth the investment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We're pirates, lovesome. We own this sea, and the sea loves us back in her twisted way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Furrante pines for a homeland he's never seen. But what does Old Vailia mean to me or my crew? We're not Vailian and we never will be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Though if you're Vailian and you want to join our bloodline, you're more than welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"But weren't you founded by refugees from Old Vailia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Generations ago. And I grew like a weed in the Dyrwood, you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"You say Consuaglo mes Casitàs. I say Council of Captains. You say Príncipi. I say best &lt;i&gt;pirates&lt;/i&gt; in the Deadfire.
+
+"You say suolenet. I say, well, some things stay the same." She flicks the gold coin and laughs heartily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I believe you. You seem like a sharp captain, you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"You're not buying it, eh?" She huffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"By playing fair? No, it was by beating his enemies in the most gut-churning of ways. That's how you keep new ones from wanting to try you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The mark on this side - it means I'm the second highest rank on the Council of Captains. I'm but one chair below that cock-rot Furrante." She grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Show her the suolenet.] "I'm fourth chair now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Furrante further stacks the council in his favor, I see." Eyes narrowed, she runs her tongue over her teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Show her the suolenet.] "We had a dispute between pirates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"So you settled it as pirates do. Suppose I can't fault you for that. Still..." Her lashes lower over her blue and black eyes, fanning like dark feathers atop her cheeks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Or what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She twirls a golden knife in one hand, a pistol in the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Or I use this blade and this barker to ruin that pretty face of yours."
+
+A wide, anticipatory grin splits her lips. Her tongue peeks out to wet them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Attack] "This face will be the last thing you ever see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Laughing wildly, she takes aim for your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"As I took Benweth's seat on the Council, I'll throw my weight behind yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"So you're not just powerful but clever, too." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Aye, I think you're seeing the way of things. How we might come to a beneficial agreement."
+
+She winks her blue eye, flicking her suolenet on the end of its chain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>She starts to say more but catches herself. Head shaking, she worries the golden coin around her neck between her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I'm a sucker for a handsome face. The more battle-scarred the more beautiful, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Allow me to tip my cup to a beautiful friendship and a fine captain, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Have you heard Benny on the harpsichord? He's real damned good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I don't actually drink out of the skulls. I just turned them into cups for decoration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I find the trick with Sirens is to rip out their tongues, see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Odd. I seem to be missing a cask of my favorite rum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Actually, I want to side with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Look who the Sirens dragged in from the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ah, the scourge of the red seas comes a-calling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"He &lt;i&gt;thinks&lt;/i&gt;, now does he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"He knows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"You have a hearing problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Actually, I do have a bad ear from a shot next to my head. But no, I heard you loud and clear." Smiling, she shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Now, I know I offered you a full parley, but I am a pirate - which means I'm loyal to my crew. But otherwise I lie whenever it benefits me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Like what you see?"
+
+A golden suolenet gleams against the scarred skin of her chest. When you notice it, she flips it to reveal the mark of her status on the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I brought you some candied nuts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Well, candies won't make everything all right. But they're a good start.
+
+"Makes me... a tad more amative."
+
+With a grin, she plucks the offering from your hands and pops a sugared nut on her tongue, savoring it thoughtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Oh, I do like you. Good answer, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Now that we've got that out of the way. I'll admit - I really like you, captain. You got guts, and not just smattered in your hair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I admire a man who doesn't back down. You've got guts, and not just smattered in your hair.
+
+"Now, with that out of the way."</DefaultText>
+      <FemaleText>"I admire a woman who doesn't back down. You've got guts, and not just smattered in your hair.
+
+"Now, with that out of the way."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I'd like to make you a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Back off or I'll shove this bottle of rum so far up your nethers you'll pour me a drink just by bending over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Or maybe not? But with Ben gone..." The blue and black gaze that locks with yours is weighty - hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"But you've certainly caught my interest and attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I admire a man who doesn't back down. You've got guts, and not just smattered in your hair.
+
+"I'd like to partner with you."</DefaultText>
+      <FemaleText>"I admire a woman who doesn't back down. You've got guts, and not just smattered in your hair.
+
+"I'd like to partner with you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Oh, I do like you. I think we will get along splendidly, aye." A sly smile tugs at the corners of her lips, and she spins the golden suolenet on its string between her breasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I brought you some candied nuts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Did you use your sweets to win Brutal Ben over, as well?"
+
+She winks her blue eye at you and mimes you a kiss. But she happily accepts your offering, making a pleased noise as she rolls a sugared nut on her tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Which makes you more than worthy of my interest and attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"It's about time you came to your senses, mate." Her face lights with a fierceness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"What does that mean?" Her blue and black eyes regard you curiously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"He helped the slavers at Crookspur to win Director Castol's favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"You tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>She taps her chin, thoughtful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"What would the Vailian Trading Company want from Furrante? You think those Vailians have a behind-the-scenes connection?
+
+"But over what? Trade, most likely. Trade... most rare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You're getting warmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Grin menacingly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I think I'm getting red-hot." She grins toothily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Have I ever told you how much I love your thirst for blood?" A soft, desirous noise flutters from her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"There's nothing more profitable to trade in the Deadfire than luminous adra - and kith slaves.
+
+"And only one of those is considered an offense to the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"You just like to be wooed? But is it gold, booze, or power you're after? I'll offer you all three - and some - if you join with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"But I like to be courted too, lovesome. And I &lt;i&gt;always&lt;/i&gt; come first."
+
+She winks at you, her pink tongue playing at her teeth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Her expression shutters, and her crosses her arms over her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"I'll take your answer as a yes for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Her mis-colored eyes gleam with a dark excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"That's how you see it? Really?" She balks as if unwilling to believe you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"You thought wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"We do have something special."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"And here I thought we had something special going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"And?" A muscle jumps in her jaw as she awaits your answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Furrante's the better leader. There's no more to it than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"But if I see you here again - and you ain't declared your loyalty to me - I'll blow your pretty brains out. Understand."
+
+Teeth bared, she turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Aye." The captain rubs at her lips as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I thought you'd like to know I helped Mad Morena in the Undercroft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"So I heard. And so I'm impressed. 
+
+"I like when someone does me and mine a favor. Makes me feel real friendly toward them, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"And I like to give my friends little tokens of my appreciation. Like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Show her the Engoliero.] "Like my sword?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"That I do, lovesome. A real powerful one you got there. Where in Eora did you happen to find it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Got it from Yseyr the Berathian, the priest who killed Lucia Rivan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"This sword belongs to the Darcozzi royal family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Think Rivan will be wanting it back, then? I know I do." She taps her chin in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Hold onto that, lovesome. You've given me a thought as to how I might track the Floating Hangman. 
+
+"I'll tell you further when I know more, myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"You mean the royal sword that Darcozzi paladin Lucia Rivan was sworn to protect? Rivan - as in the captain of the Fonferrus, known now as the dreadful Floating Hangman, scourge of the Deadfire?" She taps her chin in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"If you've evidence of his involvement, keep it close. We may be able to use it to our benefit later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"If you've evidence of his involvement, keep it close. We'll use to sink him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Well, I had planned to ask you for a favor - one that would strike a blow to the slave trade at Crookspur. But it would seem I'm rather too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I would've asked you to free those enslaved on the island. But I have it on good authority that you've made quite a mess of things, instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Fortunately for me - and those enslaved - we were of a same mind. You've gone and done what I would've asked for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Well, I was planning to offer you a deal, lovesome - a partnership between two right unstoppable captains. By which I'm referring to me and you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I do regret your choices. Namely because they make life difficult for me." She fingers the suolenet at her throat and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Aye. And quite a raucous it was, from what I've heard. I always like a good bloodbath myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Some of the freed slaves have already made it here to Deadlight and pledged to ships in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I brought you some candied nuts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"You do know how I like them. And how much they make me like you, dove."
+
+Her lips curl into a mischievous smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>As she munches on a handful of the nuts, the captain regards you with a deeper interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"But it would seem you've gone and killed Mad Morena now, one of the captains most loyal to me, and a seat holder on the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Perhaps we can still work something out in the future. Aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"So... What sort of things do you like to do in your leisure time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"What, like for hobbies?" Her eyebrows dance up to her hairline as she laughs loudly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"When I'm not out plundering the seas, I'm right here ruling my fleet. Suppose I like a good bit of target practice. And of course, who doesn't like rum and a hot bath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Don't guess you like the same?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I came to tip you off. Furrante's convinced the Council to have you hanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"How fucking dare he!" Furiously, she flips the suolenet about her neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Though I should hardly be surprised to hear he's been scheming. There's only one way to take the Floating Hangman - and that's through the death of a captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Him. Or me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"How do you want to deal with Furrante? Kill him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Oh, aye. For casting me under in a farce of a trial? I'm going to cut his prick off and make him eat it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I thought we had an understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"You're right. I &lt;i&gt;do&lt;/i&gt; want to trust you." She looks you up and down, appraisingly. Considering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Me and mine within the Príncipi would make for powerful allies on your side. But would you give us loyalty in return? That I'd like to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Of course. &lt;i&gt;If&lt;/i&gt; we formed a partnership."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"No, I wouldn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Perhaps and perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Suppose we've to give each other a test. Make sure it's a good fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"You're the cautious type. I can respect that. Or maybe..." Her mis-colored eyes look you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"You just like to be wooed? But is it gold, booze, or power you're after? I'll offer you all three - and some - if you join with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"But I like to be courted too, lovesome. And I &lt;i&gt;always&lt;/i&gt; come first."
+
+She winks at you, her pink tongue playing at her teeth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Thing is, I've got this worry pricking at the back of my mind, dove. Been irritating me for a while, like a persistent scratch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Thing is, I've got this worry pricking at the back of my mind, dove. Been irritating me for a while, like a persistent scratch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Until then, you can trust that I'll be in touch when I need you."
+
+She tips her hat obligingly then downs a goblet of gods-killer rum that had been sitting on the desk behind her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"I know you've met with Furrante, that you may even be working for him. That pribbling cock-rot."
+
+With a flick of her fingers, the captain swipes a goblet of gods-killer rum off of her desk. She takes a long swig before pointing at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"But that doesn't mean you can't partner with me instead. 
+
+"Don't do anything to let him catch on. Just... keep me appraised of certain... future events as they shape up. Aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"When the time's right, we'll set our strategy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Expect me to be in touch, if or when I need you. 
+
+"Elsewise, do come to see me should you happen to uncover any particularly juicy tidbits regarding Furrante's political schemes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"About Furrante..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I'm all ears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"It was Furrante who told me where to find Benweth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Furrante asked me to search Neketaka for information on the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Apparently, an old Darcozzi paladin, Lucia Rivan, commands the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Lucia Rivan's first recorded sighting as an undead captain was at the battle of Dusken Isle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Furrante's interest in Crookspur's slave trade involves the Vailian Trading Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Why would Furrante be interested in aiding the slavers at Crookspur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Let's discuss this another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I figured as much. That's how Furrante gained his political standing. And that's how he keeps it - with underhanded tactics that whittle his opponents into ruin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Neketaka? But why there, lovesome?" Aeldys crosses her arms beneath her breasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"The Floating Hangman is the remains of the Fonferrus? Interesting. Quite very interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Both her pitch-black and blue-ice eyes go round with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Well, well, ain't that a fine thing to know. It makes sense for certain." Her eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Aiding the slavers is small fry for a captain like Furrante. It wouldn't pay well enough to be worth the investment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"If you've evidence of his involvement, keep it close. We may be able to use it to our benefit later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I've only suppositions to offer you, lovesome. But I'd bet my soulenet Furrante's attempting to gain standing with someone other than the slavers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Aiding the slavers is small fry for a captain like Furrante. It wouldn't pay well enough to be worth the investment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"No, he's got ulterior motives, mark my words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"And I like to reward those who support me. I'm good to my allies, you see.
+
+"For your troubles, dove. Let me share with you a little of my treasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Already lost in thought, Aeldys gives you an absent nod and some coins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Oh, aye, you've brought me a juicy tidbit this time. Now I'll be after it like a shark on a blood trail."
+
+With a pleased expression, she tosses you a small sack of coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"You can bet I'll be looking into Furrante's possible business and political associations further. For the tip, however slight, I thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>The captain hands you a weighty sack of coins and at the same time signals a nearby sailor to bring her a series of nautical charts. Clearly, she's eager to begin her hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Goes by the name of Mad Morena, she does. And let me tell you, dove. She's earned the moniker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Which means if you were to, perchance, free the slaves at Crookspur... Furrante couldn't do piss all about it.
+
+"No one deserves to be enslaved by another. Understand?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"As you wish, dove. I am happily and whole-heartedly at your disposal.
+
+"At least, until I get bored." She winks her icy-blue eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Got something for me, dove?" She leans forward with interest, the corner of her lips curving wickedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Me? I prefer to face my foes head on, give them the chance to join me before I fucking annihilate them."
+
+The captain's mis-colored eyes alight with mischief. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Storming the palace was pretty brazen, don't you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Aye, but necessary. Do you disapprove of my tactics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Not at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Yeah, I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"It doesn't matter. I only want to know how you plan to reach Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"The storms &lt;i&gt;would&lt;/i&gt; be problematic, for sure. If I didn't already have a plan to take command of the Floating Hangman so as to utterly quell them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Pleased, she offers you a drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"We'll sail on through, easy as you please.
+
+"But first, I've a bit of research to hunt down. Last bit of the puzzle, if you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"I'll let you know when it's all set, lovesome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Now, to discuss our next steps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Then I shall henceforth endeavor to be more discreet, simply in order to please you, my fine and fearsome partner."
+
+The captain offers you a mocking bow, but all hint of humor has wiped from her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>When she straightens, it's with a rigidity that betrays her ruthless ambition and bloodthirsty nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"You want me to spy for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>[Cross your arms over your chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Shhh. No need to say anything, not yet. You just think on it the next time you're toiling for a man who'd happily gut you - after you've done his bidding - given half the chance."
+
+She taps one temple, knowingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"How clever you are!" She waggles her brows cheekily over her mis-colored eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"No need to commit to it now. You just think on it the next time you're toiling for a man who'd happily gut you - after you've done his bidding - given half the chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"I always did like untangling the threads of history. It's like puzzling out an encoded treasure map. Only to reap these spoils, we've to uncover the mysteries of the past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Give me time, and I'll find the means to deal with Lucia. Then we'll be one fathom closer to commandeering The Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"You suppose Lucia's turning undead had to do with her being a paladin whose sworn duty was interrupted with her death? 
+
+"Well, it's no matter to me either way." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Well, go on then. I'm sure you've heard our saying, &lt;i&gt;Share and share, as is the law of the coast.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"I'm to find Yseyr the Berathian's eulogy. He killed Lucia Rivan and is buried in Neketaka's catacombs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"After Lucia Rivan was slain by a Berathian priest, she rose as a Death Guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"If you find anything else, be sure to let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Explains how she's captain of an undead crew. That also tells me, if she's a Death Guard, then there'll be something she's wanting most fierce. Something she may be willing to bargain for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Furrante believes the Floating Hangman is the remains of the Fonferrus - captained by a Darcozzi paladin, dead some two centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"I had heard rumors as to such. The Floating Hangman flies a flag featuring the burning palace, from Old Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"And one or both of them are of interest to us in acquiring the Floating Hangman for our own means? I see." Dirty fingers grind the length of her jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"I had heard rumors as to such. The Floating Hangman flies a flag featuring the burning palace, from Old Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Lucia Rivan died protecting a royal sword. But the sword was stolen from her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"And so she turned undead. Now she haunts the Deadfire, seeking forevermore to fulfill her duty, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"This bit of knowledge is something I can assuredly work with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Oh, and this here's a little something for you."
+
+Bending forward briefly, the captain tugs a coin-purse from between her breasts and chucks into your open hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Yes, target practice relaxes me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"I could go for a hot bath right now, in fact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"I hate shooting, drinking, and being clean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"The screams can be rather soothing, can't they?" She wiggles her eyebrows, but you can't entirely be sure whether she's teasing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>She throws her head back and laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Well, sure. You're welcome to use mine. But perhaps, later? When there's less of a crowd around?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>She narrows her eyes, unsure whether or not to laugh. But then a wicked grin spreads across her face, and she wets her lips, gaze locked with yours as she takes a long drink from a goblet of rum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Perhaps I can show you the beneficial qualities of each, later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"This Lucia Rivan - I know her name. She captained the Fonferrus, some two centuries ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Though I should hardly be surprised after all you've told me. There's only one way to take the Floating Hangman - and that's through the death of a captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"We're in this together. Me and you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Aye, you've proven your loyalty to me." Aeldys smiles, but it's sharp as a blood-slicked blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Lucky for me and you, I've found out how to summon the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Of course, a pirate can never be too cautious. So I destroyed the information as soon as I memorized it. You'll never learn it without me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"I thought we had an understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"How? Can't say you worked much for one." She raises her brows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"So you say. Despite doing little to earn my undying loyalty." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"I'll give you this much, though. I'd rather you had an understanding with me than the alternative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Sorry, lovesome, I've no time for pleasantries. Got a lost city of gold to get to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Well, I had planned to ask you for a favor - one that would strike a blow to the slave trade at Crookspur. But it would seem I'm rather too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"I would've asked you to free those enslaved on the island. But I have it on good authority that you've made quite a mess of things, instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"And now the master's on the defensive. All you managed was to strengthen his operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>She starts to say more but catches herself. Head shaking, she worries the golden coin around her neck between her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Me and mine within the Príncipi would make for powerful allies on your side. But would you give us loyalty in return? That I'd like to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Of course. &lt;i&gt;If&lt;/i&gt; we formed a partnership."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Perhaps and perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Crookspur's a done deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Is that what you call it? 'Cause I didn't send you &lt;i&gt;just&lt;/i&gt; to battle and murder, dove. I sent you to free the slaves." She glowers, narrowing her mis-colored eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"And now the master's on the defensive. All you managed was to strengthen his operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>She starts to say more but catches herself. Head shaking, she worries the golden coin around her neck between her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Let's leave it at that for now, lovesome. Maybe a time will come when we better see eye to eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Though I'll admit, I won't be mourning the master's demise. And I do enjoy bleeding my enemies dry. 
+
+"I'll thank you for that much at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Aye. And well done, too. Most of the prisoners have pledged to crews in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"You did a fine thing, captain. Don't think I'll soon forget it."
+
+She rubs her thumb over the suolenet around her neck, mis-colored eyes looking you up and down. Her lips quirk in a sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"You're real good for business. So here's to hoping our wakes cross again some day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Until then, you can trust that I'll be in touch when I need you."
+
+She tips her hat obligingly then downs a goblet of gods-killer rum that had been sitting on the desk behind her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Aye. And quite a raucous it was, from what I've heard. I always like a good bloodbath myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Some of the freed slaves have already made it here to Deadlight and pledged to ships in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

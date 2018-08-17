@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_mairu_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The Wheel... how it tugs at me. Ekera, and how bright you look!" Mairu's attention snaps toward a distant speck of light, but she shakes it off to remain in the moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"My rod and the words of Periki's Devotion will open the way to the inner sanctum, past the sealed door." Mairu closes her eyes and concentrates. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Her mouth moves again, emitting no sound. As she fades from sight, she raises her hand to point toward the entrance of the sanctum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pitied is Ngati, Lady of Lament.
+As the pearl orb of the heavens crosses her view,
+Her eyes well with tears as constant as rain.
+But the moon's skyward journey continues apace,
+The lovers' affection as ephemeral as fingers touching."
+
+Mairu opens her eyes again. She nods as her form grows indistinct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Thank you, Mairu. Rest well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What is that supposed to mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You have questions. I... do not have long to answer them." She holds up her hand, fascinated at the essence drifting away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"At least in death I can complete a thought."
+
+She grimaces down at her swiftly diminishing body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You must strengthen the wards... no matter what it tells you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ekera, but you retrieved the rod already." She nods toward your pack with approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She reaches to touch Tekēhu's cheek, but of course her hand drifts through his skin. 
+
+He shivers, touched by a passing breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

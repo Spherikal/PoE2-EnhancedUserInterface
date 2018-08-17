@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_libations_for_a_death_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Toasting the Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Harvest fluid from rime constructs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring the fluid back to Harbinger Nyvardir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Nyvardir with the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nyvardir&lt;/b&gt;, the self-appointed brewmaster of &lt;b&gt;Harbingers' Watch&lt;/b&gt;, asked my help in perfecting his recipe for rymsjódda, a lager prized by pale elves for the fortification it provides against chills. Nyvardir believes that a simple addition could make his beer even more effective at staving off the cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Rime constructs&lt;/b&gt; contain a fluid that prevents them from freezing solid at low temperatures.
+
+Believing that it will have a similar effect on kith who imbibe it, Nyvardir requested as much rime construct fluid as I could find. Rime constructs have been seen deep within the &lt;b&gt;Dead Floe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I am unsure if this weird substace is what the brew master wanted me to collect I should take a closer look at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've harvested some of the fluid &lt;b&gt;Nyvardir&lt;/b&gt; asked for, but it seems extraordinarily dangerous to drink. Still, he seemed eager to get as much of the liquid as I could find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I gave &lt;b&gt;Nyvardir&lt;/b&gt; the fluid he asked for, choosing to let him discover its toxicity on his own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I gave &lt;b&gt;Nyvardir&lt;/b&gt; the fluid he asked for, warning him of its toxicity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I refused to give &lt;b&gt;Nyvardir&lt;/b&gt; the rime construct fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

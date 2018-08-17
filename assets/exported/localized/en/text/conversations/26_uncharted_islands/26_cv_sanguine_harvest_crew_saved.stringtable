@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_cv_sanguine_harvest_crew_saved</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I can't believe that old bastard tricked me. I feel like the gods' own fool."
+
+Audr fidgets with a well-worn bracelet around her wrist, her eyes unfocused and distant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Would you like to join my crew?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Take some coin and my well-wishes. I'm sure you'll find your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Don't ask me. You're on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I would be honored. I owe you my life, after all - it's the least I could do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"That's awfully generous of you. Thank you for... for everything."
+
+Audr stuffs your coins in her pockets and hurries off, casting frequent looks at you over her shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aren't we all. Thank you, stranger, for intervening when you did. I owe you a life debt I can't ever repay." She gives you a quick, curt nod and hurries off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I left my Wifruth, my home, my life. What- what do I do now?" She turns round, frightened eyes on you and hastily dashes away her tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'll meet you back on the ship, captain!" She throws you a hearty wink and a gap-toothed grin, then hurries off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You saved me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_hamuto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>109</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A unit of steely-eyed sailors approach the docks, clutching pikes and firearms with quiet professionalism. At their head stands a tall aumaua in a mustard-yellow uniform. He turns his attention between you and Bertenno. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This is a private matter. Your interference is unnecessary." Hamuto spreads his hands in a peaceful manner as his soldiers level their guns at Bertenno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Since he can't pay up, take him. Fair's fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Enough. I have work for you." He snaps his fingers and readies to depart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Perhaps I can pay what's owed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Four hundred pires are what Bertenno owes, and I will accept that sum to have this sorry business concluded." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Payment as agreed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Then our business is concluded." Hamuto signals his men to stand down. After a hateful look, they lower their arms and follow their captain's lead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I don't have that much coin on me right now, but I can get it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Unacceptable. I will arrange to have Bertenno taken into servitude. Without incident." He gestures to his men to proceed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bertenno is worthless if he's injured or dead. Have patience and let me seek payment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"It's in your best interest to give me more time. I won't warn you twice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Do you have the payment we discussed? Do try to avoid disappointing me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Not yet. I'm still working on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Go ahead and take Bertenno. I'm done trying to help him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What an annoyance this turned out to be. What an outrageous waste of time and effort." Hamuto makes a strict beckoning gesture to Bertenno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Hamuto meets your glare, unblinking. In the silence that follows, you're almost convinced that he could hold this position indefinitely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"He's coming with me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hm. I would not want to end this arrangement at a loss." He crosses his arms and considers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I am not without patience. Bertenno and I will await you at the Brass Citadel, outside Imperial Command. Don't drag your heels on your way over." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I... I can't believe I'm finally out of debt!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Our business is concluded." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm a friend to the Royal Deadfire Company, and I'm taking Bertenno into my custody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You must care a great deal for this insufferable little worm to stake your purse on his freedom." Hamuto taps his lower lip in thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Hamuto lets out a piercing whistle. Several soldiers milling about the area snap to attention and fall into formation around the docks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Attack] "Like I said, you're not taking him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Bertenno glances around, growing panic evident in his frantic movements. He freezes when one of Hamuto's men raises a gun and points it at his face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Address soldiers.] "My business is with Hamuto. Does anyone think I'd hesitate to go after you next?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Several of the reinforcements Hamuto rallied to arms trade uneasy glances. Slowly at first, they lower their weapons and sheepishly back away from the scene. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Cowards. There will be a reckoning, for I know each of your faces!" He turns to regard seemingly everyone in the district. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"So, Bertenno, you hired a mercenary. Or else a negotiator. That coin should have gone toward your debt to me." Hamuto rubs a long scar that extends the length of his neck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bertenno, shut up. The adults are talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I came for a pair of gloves that Bertenno stole. This isn't my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Attack] "This ends now. Prepare yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Hamuto's eyes brighten and he nods. The soldiers around him chuckle with approval. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I like dealing with people of substance." He nods thoughtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You, look alive." Hamuto snaps his fingers at the other Royal Deadfire Company sailors at the docks, who turn to your exchange with interest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"My friend here needs a lesson in humility." He signals his company to attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Hamuto, I... wondered if you might take them as a payment on my debt? Or maybe for an extension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"A silent mercenary at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Hamuto's brow rises with interest. The soldiers flanking him hesitate, looking to him for direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"The grievance with Bertenno is mine, and so is the jurisdiction." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I have my own problems with him. Besides, I got here first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"If you try to take him, you'll share in the punishment I have planned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Forget it. Just get him out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Attack] "You're not taking him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Seven hundred and fifty pires should suffice to remove him from my sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Payment as agreed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I don't have that much coin on me right now, but I can get it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hrm. As you say. Very well, then - I will not belabor the point if it causes strife within the company." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"For all our sakes, be sure you dispense a lesson that he remembers." Hamuto gestures for his men to depart. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You sound more... reasonable than I was led to believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Do I? One can be adherent to the tenets of maritime law and still be seen as a monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"We will stand down." Hamuto nods to you with grudging respect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Sorry, Bertenno. I tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I salute you for your courage, but I ask you to reconsider your position." He permits himself a very, very small smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I possess gloves of my own, and they suffice for my needs." The captain focuses on you with a cool, dispassionate look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Before you go, I need the gloves Bertenno stole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Hamuto nods to you and turns to leave, his soldiers ushering Bertenno onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"No. Bertenno's assets are mine to dispense with as I please." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I'll hear no more of it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"How about I buy them off you? Think of it as offsetting Bertenno's debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Deal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I don't have that much money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I haven't the time to bargain on such trifles... fine, one hundred pires." He waves his hand with dismissal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"There you have it. If our business is concluded at last, then I take my leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"More's the pity for you, then. I suggest that you find less costly garments in the future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"He stole them from the wizard Arkemyr. Do you want that on your conscience?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"These are Arkemyr's possessions?" Hamuto looks at Bertenno with grudging respect. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"That's all you have to say on the matter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ac - this feels amazing! And I'm going to sail this lucky streak wherever it takes me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If you see Fassina, tell her I'm hiding out with some Príncipi friends. Also, catch!" He tosses you Rokowa's Fingers with casual disdain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"It's a new Bertenno all the way! Pirate Bertenno doesn't get himself in anyone's debt!" Laughing in a full voice, he makes a hasty exit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Yes, and all it took was coin out of my pocket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Belfetto! Problems like this always work themselves out in the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I doubt that very much. Ready your guns, men! This one has a death wish, and I am feeling generous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I would no more incur the wrath of an archmage than I would stick my head inside a dragon's maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Huh? No! I didn't- that is, I would never go behind your back! I..." Bertenno's voice falters, and he turns to you with sudden panic. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What is your plan for Bertenno?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Indentured servitude. I trust this is a more honest and respectable alternative than any pursuit he would take on his own terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Serafen snorts through his scarred snout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Your toy pirate speaks out of turn. I would teach him a lesson if I were you... captain." He focuses on you, keeping Serafen in the periphery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'll trade Bertenno's suolenet for the gloves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>As you present the suolenet, Bertenno lets out a low moan of desperation. Hamuto strokes his chin with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I never refuse an opportunity to add to my collection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Technically you're indebted to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Not anymore I'm not! Here, catch!" He tosses you Rokowa's Fingers with casual disdain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Hamuto nods to you and turns to leave, his soldiers ushering Bertenno onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Slap him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Hm. My patience has limits." He waves you off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Yes, and it only took me killing your enemies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>His head snaps to the side and he slowly turns to you, cupping his cheek and looking stunned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"What... what was that for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"My hand slipped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You stay away from me, or my captain will hear of it!" He stumbles on his feet with his haste to dart away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"You were being extremely ungrateful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Oh yeah? How's this for gratitude?!" He throws a pair of gloves at you and sprints away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Say nothing, slap him again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>This time he recoils, but his shock promptly turns to anger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Crazy bazzo! Stay away from me!" He throws a pair of gloves at your face and uses the cover of the distraction to dart away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"For the first time in my life, I'm free!" Bertenno clasps his hands together, tears brimming at the corners of his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Be calling it whatsoever you like, Captain Cog-Swallow, but your honest and respectable slavery be slavery all the same."
+
+He spits on the ground.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"My friend. Look around you. We stand in the shadow of the Brass Citadel, not some Vailian den." Hamuto gestures with an open palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Raise your fist and the full force of Rauatai's armada will descend on you. Or back away and live to &lt;i&gt;fight&lt;/i&gt; again!"
+
+He bares his teeth in a fierce grin as he relishes the idea. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Fine... take him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Attack] "No deal, Hamuto."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

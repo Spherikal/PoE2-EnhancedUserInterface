@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_dracolich</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;You followed me into the abyss? Have you so little respect for the scant years your fragile form affords you?&lt;/ispeech&gt;
+
+The dragon growls through sword-like teeth, yet the meaning behind the sounds rings within your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;I know not why the shortsightedness of kith continues to surprise me.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Leave while the option remains, lest you be bound here as I am.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;But know that within its depths do all things encounter their endings.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;I imagine so.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What &lt;i&gt;are&lt;/i&gt; you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You're not trapped here. You just attacked Harbingers' Watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I won't let you kill anyone else!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You'll feel a lot less trapped after I kill you. Again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"According to Rymrgand, you died when you entered this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;Circumstance does not afford me time to address ridiculous queries.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;ispeech&gt;I delivered unto the believers the oblivion that they desired. You object that I answer their prayers?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;It matters not. I require souls. I had very nearly accumulated an adequate amount for my purpose, but your intercession necessitated I expend much.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;In the final accounting, the culling that follows shall be upon your ledger.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;A simple understanding of a complex situation.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;No.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;I smell the blood of Scyorielaphas upon you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt; Do you make a habit of inflicting yourself upon your betters?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;Do you believe your work righteous?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>&lt;ispeech&gt;I smell the blood of Sefyra upon you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I kill only those I must to help those who need it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Maybe not, but the work pays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"It's certainly enjoyable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"That's for the gods to judge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Then help me understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm not interested in your petty self-justification."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Seems pretty straightforward to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Maybe. But you look like a monster, and killing monsters is what I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>&lt;ispeech&gt;Nor I in justifying myself.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;Doubtlessly without bias.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;You will find little below. Less that you can take with you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The great reptile's head cranes to the right, turning a glowing eye upon you. A snort flares her nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;I smell the blood of Jadaferlas upon you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;I bear responsibility for neither your enlightenment nor your sophistication.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;Perhaps, magician.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;ispeech&gt;Descend into the Void or do not. I care neither way.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;ispeech&gt;Eventually. First, however, I must attend to my unfettering.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The beast snorts repeatedly, a low growl rumbling within its long throat.
+
+It's laughing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>&lt;ispeech&gt;Your self-appointed divinities merit no such authority.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Now there Captain Watcher, you wouldn't want to go giving the big beastie the right idea about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;None here require your assistance. Nor will any benefit from it.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She casts her eyes upward, thinking, and moves her head in a way that vascillates between nodding and shaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Well. Sometimes. I mean, there's always some unexpected killing, right? What about all those bears who weren't asking for any trouble?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You have stayed your hand in situations where many would not have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hel, they got more right to it than some half-rotted lizard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hey, was that an insult?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>&lt;ispeech&gt;The words of your dead oxen god concern me not.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

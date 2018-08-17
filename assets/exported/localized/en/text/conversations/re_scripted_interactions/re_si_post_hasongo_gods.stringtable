@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_post_hasongo_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>172</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You blink and find yourself standing in the knee-high grass of an endless field with the day just falling into dusk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The tolling of a single bell joins the chorus of birdsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You have returned to Berath's realm, your soul once more called to attend the wishes of the god of death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You know, I'm starting to look forward to these chats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Maybe try a door next time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Once again you have spoken with the Child of Light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me what you have learned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"He makes for Magran's Teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I have nothing new to report."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Intriguing." The Pallid Knight stares past you, pensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>In the silence breaks the murmur of countless voices. They speak all at once in languages both known and unknown to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Here we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"This is the first interesting thing to happen in ages, and we do so love a riddle." The figure wears an aumaua's grin, and the many voices beneath its own titter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Yes, it's so interesting when hundreds of kith die so Eothas can take a stroll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A man strides through the door to Berath's realm. Behind him lope wolves with lolling tongues and jungle cats whose long tails twitch with every step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Eothas is nothing if not resourceful. I admire his nerve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Aren't you worried?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"If his journey leads him back to us, he has proved himself worthy of return to the fold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Abydon speaks with wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"The other gods don't seem too concerned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"He violates not their realms, but &lt;i&gt;mine&lt;/i&gt;. I feel his urgency in every stamp of his feet along my spine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The water at your feet recedes. Lava oozes up through the shallow water, and a woman made from the guts of the earth emerges. She settles her characteristic broadsword on her shoulder and sighs a cloud of smoke and ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"But I will bear down upon Eothas with all the heat and fury of the earth...if I must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You should seize this opportunity to slow him while you can. There might not be another chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Worth trying, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Thousands of kith will die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"There must be another way to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The death of thousands now could prevent the death of millions later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"A difficult calculus but a logical one, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"But you don't know if you'll save millions! You might kill thousands for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sacrifices of the few protect the futures of the many. You cannot let your petty, mortal feelings blind you to the urgency of the dilemma Eothas has thrust upon us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The deep, bellowing cry of an aurochs shakes the ground beneath your feet. The cry drones on and on, a moan without end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"My end comes to all things in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What could Eothas possibly gain by destroying Eora?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eothas seeks a slate wiped clean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"He sows chaos in his longing for a radiant dawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"We can wait no longer to act."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'll do my best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"It's not like I have a choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Water begins to creep across the floor. It swells, runs swiftly, and catches at your ankles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You splash down in water so dark you can't see the bottom. Then the water recedes, gone like a dream upon waking. The hard wood of your cabin's floor presses against your spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The gods are gone, but you remain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"My patience is not infinite, and your soul is but one breath in a hurricane that I control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You can't be certain, but you think you might see the barest hint of a smile tugging at the edges of the Pallid Knight's lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I'm impressed by his single-mindedness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Hunger will drive the most pathetic of beasts to desperate acts of bravery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Funny how it's always kith who must make the sacrifices, never you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"My 'petty mortal feelings' are the only reason your wrists don't chafe in Woedica's shackles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You will mind upon whose ground you tread." The Pallid Knight watches you with keen, predatory eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"We have read the book of your life, Watcher. It is heavy with the weight of your choices, and its pages are not unmarred by the blood of others.
+
+"You reap but on a smaller scale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You won't kill me. You &lt;i&gt;need&lt;/i&gt; me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You may be the Watcher of Caed Nua, the Hound of Eothas, the Herald of Berath, but you are still a mortal man."</DefaultText>
+      <FemaleText>"You may be the Watcher of Caed Nua, the Hound of Eothas, the Herald of Berath, but you are still a mortal woman."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"We see between the strings of the world, and Eothas is there, strumming them like a lute. His tongue is still yet he sings of a coming joy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You feel a ghostly hand at your throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You will be more forthcoming this time than you were the last, I trust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Every time you defy me, I grow further inclined to disassemble your soul and scatter your essence to the farthest corners of the Beyond once the task I have assigned you is complete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Perhaps you're right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"This shit again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Your preference has been noted." The Pallid Knight crosses her arms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Wael, attend. Tell me what your many eyes perceive." Her words ring out, and a heavy silence descends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"What tune he plays we do not know. It is complex, ever shifting, one moment vibrating in harmony, the next in discord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"No. He is a creature of the pack left long alone. Without our strength behind him, he is weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"The Child of Light will not choose the hour of &lt;i&gt;my&lt;/i&gt; death." Magran tests the edge of her broadsword with a smoldering finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"If he hopes to bring about the end of the world, he'll die, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"In the age when our steps carved valleys across the face of Eora, our bodies were impervious to all but the strongest attacks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The grass still holds the warmth of late afternoon sunlight, but a chill breeze blows at your back, raising gooseflesh down your arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The churr and trill of nightjars rises with the wind. In the inky bruise of the sky, stars ignite by the ones and twos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>The chill breeze becomes a howling gale, and the tide of ringing bells sweeps you off your feet. It carries you like flotsam through the sea of grass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Then the earth falls away, the wind ceases, and you are sent tumbling up into the dark of the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Fast on Galawain's heels, a small wave of sea water washes across the tiles. It pours off the edge of the platform and cascades down into the Beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Wael's many eyes squeeze shut. Ondra slips back beneath her waves. Magran dissipates in a swirling cloud of steam. Galawain's beasts cower and whine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Only the Pallid Knight stands impassive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Death and I are well-acquainted. I welcome its return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You will not be so swift to cheer the end of the world when the cold wind of my final judgment bears down upon you." His deep chuckle shakes and rattles the ground beneath you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The doors lining the walls of Berath's realm slam open in unison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Warped pieces of ancient armor and the remnants of discarded weapons roar through the doorways. They meet in the center of the room in a shower of sparks and form the vague figure of a man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>A man made half of metal and half of ruined skin stands before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"If Eothas has something foolish planned, perhaps we can turn him from that path and set him down a more productive one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Eothas does not return to &lt;i&gt;us&lt;/i&gt;. He returns to execute some grand plan. We must stop him." Ondra's voice rises like a tide, panic riding its crest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>You scrabble at the tiles, but it's no use - the current's pull drags you off the edge of Berath's realm and into the fathomless Beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"We should destroy Eothas that we might reforge him into something new, something stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>A man forged in metal stands before you. Twin flames ignite in his eyes, and a low rumble starts in his chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Abydon speaks with a child's naiveté," Ondra says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>You blink and find yourself standing in the knee-high grass of an endless field with the day just falling into dusk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Then another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>The sound surrounds you. Every stalk of grass bears a delicate silver bell on its end, bobbing in the wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Watcher." The voice of the Pallid Knight shakes the earth at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>You can't be certain, but you think you might see the barest hint of a smile tugging at the edges of the Pallid Knight's lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"You will speak, or I will compel you to speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>She does not squeeze, but only rests her hand there, a threat as gentle as a lover's caress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>She closes the gap between you in a blink. This near, you realize the god of death has a &lt;i&gt;smell&lt;/i&gt; - like dust and ozone, petrichor and cold, cold steel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>In the space beside Berath, an eye blinks open, followed fast by several more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>They are round, keen eyes of kith, the slit eyes of snakes, the small, dark marbles of birds, the bulbous lanterns of deep sea fish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>A figure walks through the cloud of eyes as one might step through a door. It is an orlan, then a pale elf, an ocean human, a nāga - each of them eyeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>They are Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"He's still smashing his way across the Deadfire, destroying everything in sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Galawain, the Changeling, arrives, and he brings with him the wild heart of Eora's untamed places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>From out of the water rears a glowing lure, then the head of a gigantic fish. The round black eyes of Ondra roll to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>In the Changeling's voice you hear the soft patter of rain on leaves and the rush of wind through tree tops.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Finally, a blacksmith's sledge hurtles past your shoulder, and the figure snatches it from the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>The rounded metal of a well-worn shield makes up most of his skull, his right eye socket, and jaw. His mouth is pulled forever into a half-grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>He walks forward. With each halting, jerky step, you're assaulted with the unbearable screech of metal grinding upon metal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"He could be a weapon that all of us might wield."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Abydon's words carry the heat of the forge. Behind them you hear the clang and clatter of hammer on metal and the hiss of just-quenched steel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Abydon's words crash and screech together like long-still gears forced to movement for the first time in centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Eothas' true intent lies beneath the waves. Like an iceberg, we see only the peak of his plans, only his actions, with no idea of the size or the depth of his machinations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I will send tsunamis to slow him, if Magran would stir the earth beneath Magran's Teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Magran returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I doubt fire and water will be enough to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Dark, inky tears fall from Ondra's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Should Eothas care to hasten the inevitable, I welcome his efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Freedom from the endless revolutions of Berath's Wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"The final emancipation of the countless stolen mortal lives the gods hoard within themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"So much will be lost in the cacophony of fear his actions inspire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>The crack of thunder rends the air. The gods fall silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Speak with him, Watcher. Discover what it is he plans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"To live is a choice, and you yet draw breath. Drink deep of the air, Watcher. We have work yet to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>The warmth of the Pallid Knight's breath blows soft on the back of your neck, though she stands nowhere near you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Bow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"So have a care, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>In the silence breaks the murmur of countless voices. They speak all at once in languages both known and unknown to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>A man strides through the door to Berath's realm. Behind him lope wolves with lolling tongues and jungle cats whose long tails twitch with every step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>From out of the water rears a glowing lure, then the head of a gigantic fish. The round black eyes of Ondra roll to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Eothas is nothing if not resourceful. I admire his nerve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Eothas does not return to &lt;i&gt;us&lt;/i&gt;. He returns to execute some grand plan. We must stop him." Ondra's voice rises like a tide, panic riding its crest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Abydon speaks with a child's naiveté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Abydon speaks with wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"My end comes to all things in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"He sows chaos in his longing for a radiant dawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"The Child of Light will not choose the hour of &lt;i&gt;my&lt;/i&gt; death." Magran tests the edge of her broadsword with a smoldering finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Watcher." The voice of the Pallid Knight shakes the earth at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"In the age when our steps carved valleys across the face of Eora, our bodies were impervious to all but the strongest attacks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Sacrifices of the few protect the futures of the many. You cannot let your petty, mortal feelings blind you to the urgency of the dilemma Eothas has thrust upon us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"You will mind upon whose ground you tread." The Pallid Knight watches you with keen, predatory eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"We can wait no longer to act."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>The gods are gone, but you remain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"My Giftbearers bring to me that which kith most want to forget. And in their memories I see you as Wael does - you are one who leaves chaos in his wake."</DefaultText>
+      <FemaleText>"My Giftbearers bring to me that which kith most want to forget. And in their memories I see you as Wael does - you are one who leaves chaos in her wake."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"You knew one of them once, my Giftbearers - Maneha. She longs to forget and to help others do the same, but when given the chance to aid her, you did not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"You are a capricious creature, like Eothas." Ondra's storm black eyes roll away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Some things must be lost to be found again. You knew that once, when you buried my scroll beneath the earth in Black Meadow.
+
+"But it seems you have forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Ah, Watcher, you do so fear loss.
+
+"I once asked you to bury my scroll beneath Black Meadow, and you betrayed me to Grimda, do you remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Some things must be lost to be found again. But you have never believed that, have you?
+
+"Let me remind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Death comes for all in time.
+
+"Or have you forgotten Archdruid Rehstin and High Ovate Erona? You killed Rehstin and convinced Erona to end her own life at my behest, and you are not my only agent in Eora."
+
+An icy smile briefly transforms the Pallid Knight's face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Death comes for all in time." An icy smile briefly transforms the Pallid Knight's face.
+
+"Or have you forgotten Archdruid Rehstin and High Ovate Erona? You killed them at my behest, and you are not my only agent in Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Fast on Galawain's heels, a small wave of sea water washes across the tiles. It pours off the edge of the platform and cascades down into the Beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Galawain, the Changeling, arrives, and he brings with him the wild heart of Eora's untamed places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>The doors lining the walls of Berath's realm slam open in unison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Warped pieces of ancient armor and the remnants of discarded weapons roar through the doorways. They meet in the center of the room in a shower of sparks and form the vague figure of a man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Finally, a blacksmith's sledge hurtles past your shoulder, and the figure snatches it from the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>The water at your feet recedes. Lava oozes up through the shallow water, and a woman made from the guts of the earth emerges. She settles her characteristic broadsword on her shoulder and sighs a cloud of smoke and ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Magran returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"The death of thousands now could prevent the death of millions later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>The deep, bellowing cry of an aurochs shakes the ground beneath your feet. The cry drones on and on, a moan without end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Wael's many eyes squeeze shut. Ondra slips back beneath her waves. Magran dissipates in a swirling cloud of steam. Galawain's beasts cower and whine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Only the Pallid Knight stands impassive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Speak with him, Watcher. Discover what it is he plans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Water begins to creep across the floor. It swells, runs swiftly, and catches at your ankles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>The crack of thunder rends the air. The gods fall silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>In the space beside Berath, an eye blinks open, followed fast by several more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>They are round, keen eyes of kith, the slit eyes of snakes, the small, dark marbles of birds, the bulbous lanterns of deep sea fish.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_weapon_merchant_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A young woman leans against the till, her eyes half-closed. She jerks awake when she hears the scuff of your boots on the flagstones and fumbles about for something to polish in an effort to look busy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Let me know if you're in the market for something pointy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What do you have in stock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Put your eyes on these." She waves her across the merchandise with a theatrical flair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What- uh, what can I do for you?" She surreptitiously wipes a bit of drool from the corner of her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sayuka? Bit of a backwater, if you ask me, but don't, uh, don't tell the fleet master I told you so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This used to be where the fleet would send a person after they'd seen a fellow sailor blown to bits by a cannonball or what have you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"That was before those mad druids out in the bog started sending bears and wild cats over the walls, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"How'd a human end up serving with the Royal Deadfire Company?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Heh. Everybody's always gotta ask. Not that I blame them - it &lt;i&gt;is&lt;/i&gt; a good story." She slips a long thin blade from the length of her boot and begins to clean her fingernails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I was seeing this guy - let's call him, oh, I don't know, Kono. Kono and I'd been carrying on a while when I started making noise about wanting to move in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Frightened the boy so bad he went and joined the Royal Deadfire Company in the middle of the night. Thing is, I'm a deft hand with a throwing knife, and I know my way around ten kinds of blades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"So I followed him into the service. Pulled my weight, got on a good ship. Kono eventually left to go to poetry school or what have you, but I stayed. Haven't heard a complaint yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Come back in the morning when I'm open."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

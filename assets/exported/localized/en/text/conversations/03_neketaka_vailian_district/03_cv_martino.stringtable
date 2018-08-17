@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_martino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>92</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"A new face to the Valera halls, and aren't we all so excited to see you?" Martino Valera grins from ear to ear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Stepping in the path of a duel is a good way to get yourself in trouble." His brow rises with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We trusted you, and now my father is dead by your hands!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You are not fit to dirty my sword, but I'll make an exception." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I will put you out of your misery, freak!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You should have stayed in Rauatai with the rest of your corrupt kin!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What do you bring to the Valera household?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What will you do now that the rivalry is over?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Better that the Valeras ran our fleet against the rocks than suffer peace with our enemies." Martino crosses his arms and grimaces. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"If the Bardattos are serious about financing our repairs, then the Valeras will be back at sea in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Is 'drama' an acceptable answer?" His grin widens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You two families play nice." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"If the Bardattos want our protection, they will have to deal with us on fairer terms." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I better not get any trouble out of you, Martino." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ac. When we outfit our new fleet I will vent my anger on the Príncipi." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And one of the locals, to boot! Won't this be educational."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I make sure the wine cellar is stocked and that sons and daughters alike know how to carry a blade." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Meaning no offense, friend, but that seed backing up in your swollen sack seems to be straight clogging up your brain. 'Course that be better than a bunch of little you's running round Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Skillfully done. I remember my friends. Be sure of that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You mentioned something about a job?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"It would be better if they took their business elsewhere." 
+
+When Atello isn't looking, Martino draws his thumb across his throat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'll handle it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"The Royal Deadfire Company sailors are gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"And Zili has a new audience. Clever." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"A shame that sailors cannot stop themselves from throwing the first punch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Gone without a scratch? To each their own." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He unceremoniously tosses you a sack of coins, his interest already elsewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Stick with me and you'll be on the winning side when the dust settles." He favors you with a grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You're not helping the Republics by pecking at allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"If you keep paying me, I'll keep delivering results." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Infighting only strengthens the Royal Deadfire Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I'm waiting on word about the next job. Pay a visit in a few days and we will talk more." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Who says dependability cannot be bought?" Martino pats you on the shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Merla, you and my father are too alike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Go on. I'm still waiting on word for the next job. You have a few days to decide where your loyalties lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Try not to think too hard about this peasant's errand." Martino rolls his eyes and waves you off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Don't waste time with idle questions!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Perhaps I will find you out on the water someday, prínciponet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I enjoy newcomers who make a name for themselves. Care to ingratiate yourself to the family? Martino raises his eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Depends on what you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Hunting Príncipi dogs is our business. With all these problems with the Bardattos, now is not the time for competition from the Brass Citadel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Don't you have stooges who handle this sort of thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"To be sure, but I know the limits of my stooges already. I don't know yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"There's more professional work in your future if you manage to not embarrass yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I'll do it, but I want the Vailian Trading Company to know that I was helpful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Was that not implied? Eccosi, consider it done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Come back when the Rauatai dogs have been dispatched, dismissed, or dismembered." 
+
+Martino makes a pistol-firing gesture with his fingers and winks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I'll &lt;i&gt;talk&lt;/i&gt; to these sailors for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Parfitto. I am sure the words of the great Watcher will save the day."
+
+Martino punctuates his singsong mockery with an exaggerated sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Make sure those Royal bastards understand the Queen's Berth is Valera territory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I no longer hear the perverted anthems of Rauatai echoing across Queen's Berth." Martino nods with cautious approval. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Let me take point on this one, Father." Martino pats Atello on the back and turns to you with a more severe, businesslike expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"And I must entertain them? Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"From there, we do what we do best - hunting Príncipi boats and waving at the crew as they sink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Cap, might you remind me why we be helping this barnacle-cocked swab-slurper?"
+
+His hands ball tight, and his lip twists over his crooked teeth.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Martino does not glance downward, but his smile widens noticeably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Some &lt;i&gt;meager&lt;/i&gt; consolation there." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I always make time for chatter. Say what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"At least Orso learns from his lesson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Would that Orso kept his sword up like I taught him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Speaking of trouble... better to let things run their course in the future, ac?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Water under the bridge. You wish to speak?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"My time is freely given. What would you do with it?" Martino winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Orso forgot his lesson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ekera, most definitely." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Gellarde, then I swim in the same waters as my fish friend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Mirror his gesture.] "Consider it done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Belfetto, aimico." Martino winks.</DefaultText>
+      <FemaleText>"Belfetto, aimica." Martino winks.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Have you never learned to &lt;i&gt;think&lt;/i&gt; something without speaking it, bazzo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"What?! I &lt;i&gt;said&lt;/i&gt; 'meaning no offense'..."
+
+Arms crossed, he scowls at Martino.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Some Royal Deadfire crews have lately taken to pirate hunting. One such crew has been boasting of their victories near the Wild Mare.
+
+"Singing their Rauatai songs and making our clients anxious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Do your own killing, coward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ha. Clearly I have caught you off guard- I will tolerate this insult once, Watcher. 
+
+"Once." 
+
+Martino's lazy grin remains fixed, but his narrowed eyes hold cold fury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"If you are not here to help, there is little left to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Perhaps you've heard a few."
+
+Martino looks at Maia, his crooked smile going flinty at the edges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"If songs make you people anxious, I can't wait for our next battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Wise. Though sometimes talking ends with a good bruise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"You could always start shooting the shit out of one another and leave good Deadfire folk be. Just a suggestion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Very subtle Martino. I see now why your family is doing so well." Maia folds her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Let's make it a point to avoid that man, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You were right to turn him down, but if you push him, he'll get himself killed trying to stand up to you. We don't need the ire of the entire Valera family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Now what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Come back when the sun is up. I have places to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Trouble sleeping, Watcher? Me, I sleep like an infant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ac, I am coming. Merla, my back..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

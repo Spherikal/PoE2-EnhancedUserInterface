@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc03_overgrown_coral</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Overgrowth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak to &lt;b&gt;Iverra&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Travel to the underwater ruins of &lt;b&gt;Cignath Mór&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Travel to the underwater ruins of &lt;b&gt;Cignath Mór&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Find the source of the magical growth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deal with the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Speak to &lt;b&gt;Head Engineer Hetu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Fleet Master Okaya&lt;/b&gt; has asked me to discover the source of a magical disturbance causing the coral in &lt;b&gt;Sayuka's&lt;/b&gt; port to grow out of control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fleet Master Okaya told me to talk to &lt;b&gt;Iverra&lt;/b&gt;, a Vailian scientist who might be able to help me get to the source of Sayuka's coral problem.
+
+I can find her in the &lt;b&gt;Royal Deadfire Company's workshop&lt;/b&gt; in Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Iverra believes the source of the coral's overgrowth is an Engwithan ruin, &lt;b&gt;Cignath Mór&lt;/b&gt;. She gave me a diving helm so I might explore the ruin, which lies deep beneath the sea off the &lt;b&gt;southern coast of Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Head Engineer Hetu believes the source of the coral's overgrowth is an Engwithan ruin, &lt;b&gt;Cignath Mór&lt;/b&gt;. He gave me a diving helm so I might explore the ruin, which lies deep beneath the sea off the &lt;b&gt;southern coast of Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've arrived at the ruins of Cignath Mór and discovered they're full of breathable air. I still need to find whatever is causing the coral to grow out of control and put an end to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I found the machine at the source of the coral's growth, but when I attempted to shut it down, &lt;b&gt;Galawain&lt;/b&gt; intervened.
+
+He asked that I leave the machine alone and instead deactivate the &lt;b&gt;pylons&lt;/b&gt; that generate the shield protecting Cignath Mór from the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Despite Galawain's request, I disabled the machine responsible for the coral's overgrowth.
+
+I should return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt; and confirm the coral has returned to a manageable size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>As Galawain requested, I destroyed the pylons inside Cignath Mór. Without the shield to protect it, the ruin was swallowed by the sea.
+
+I should return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt; and give her the bad news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I shut down the pylons inside Cignath Mór, and the ruins were swallowed by the sea.
+
+I should return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt; and find out if my efforts solved her coral problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Fleet Master Okaya told me to talk to &lt;b&gt;Hetu&lt;/b&gt;, the head engineer in Sayuka. He might be able to help me get to the source of the coral problem.
+
+I can find him in the &lt;b&gt;Royal Deadfire Company's workshop&lt;/b&gt; in Sayuka with the rest of the engineers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I agreed to help &lt;b&gt;Galawain&lt;/b&gt;, and he told me to deactivate &lt;b&gt;three pylons&lt;/b&gt; somewhere in the &lt;b&gt;ruin&lt;/b&gt;. Doing so should lower the barrier keeping the sea at bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I disabled one of the pylons, which appears to have slightly weakened the protective barrier . &lt;b&gt;Two remain&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I disabled a second pylon, and the barrier has weakened considerably. &lt;b&gt;One pylon remains&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found a small &lt;b&gt;Engwithan machine&lt;/b&gt;, but I can't figure out what it does. Maybe something else in the ruins will shed some light on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I disabled the machine responsible for the out of control coral growth. &lt;b&gt;Galawain&lt;/b&gt; is not pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>As revenge for my defiance, &lt;b&gt;Galawain&lt;/b&gt; sent a kraken to stop me from leaving the ruins, but I prevailed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I found a large &lt;b&gt;Engwithan machine&lt;/b&gt; humming with energy, but I've decided against touching anything for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fleet Master Okaya was well pleased by how I resolved the coral situation. She's ordered that Sayuka's port be reopened without delay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Fleet Master Okaya was incensed to learn the coral situation will remain unresolved, and she dismissed me with a token payment for my efforts. However, the blessing Galawain bestowed on me for doing his bidding will no doubt prove beneficial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Fleet Master Okaya was incensed to learn the coral situation remains unresolved, and she dismissed me with a token payment for my efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>The Royal Deadfire Company have declared themselves against me. I suspect they'll no longer be receptive to my help with their coral problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

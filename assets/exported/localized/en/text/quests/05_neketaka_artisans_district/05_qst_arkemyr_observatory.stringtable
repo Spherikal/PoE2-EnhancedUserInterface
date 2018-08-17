@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_observatory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bekarna's Folly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to &lt;b&gt;Bekarna's observatory&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the &lt;b&gt;observatory&lt;/b&gt; for &lt;b&gt;Bekarna's&lt;/b&gt; research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Unlock &lt;b&gt;Bekarna's&lt;/b&gt; orrery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to &lt;b&gt;Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Activate the &lt;b&gt;orrery&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retrieve &lt;b&gt;Bekarna's&lt;/b&gt; notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;The Circle of Archmagi&lt;/b&gt; believes that Eothas could do unprecedented harm to the Deadfire. Research notes from the wizard &lt;b&gt;Bekarna&lt;/b&gt; could prove useful in mitigating the damage. 
+
+&lt;b&gt;Arkemyr&lt;/b&gt; dispatched me to her &lt;b&gt;observatory&lt;/b&gt;, but the Circle is not the only group with an interest in Bekarna's findings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The &lt;b&gt;research station&lt;/b&gt; is located on a small island due &lt;b&gt;northeast of Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; may have left something useful behind before she abandoned her &lt;b&gt;observatory.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; hid something important within the orrery at the top of her &lt;b&gt;research station.&lt;/b&gt; The device has a mechanism for entering the coordinates of stars in the night sky.
+
+The plaque on the orrery controls mentioned something about a Huntress and the three stages of her tale - perhaps all four parts of the story can be found somewhere in the &lt;b&gt;observatory&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Now that I have Bekarna's notes, &lt;b&gt;Arkemyr&lt;/b&gt; and the &lt;b&gt;Circle of Archmagi&lt;/b&gt; will want to study her work. I can find Arkemyr at his manor in &lt;b&gt;Periki's Overlook&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I located the coordinates of all four celestial bodies which Bekarna referenced in her instructions. 
+
+I should be able to activate the &lt;b&gt;orrery&lt;/b&gt; and reveal whatever she was hiding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>After activating the orrery in Bekarna's observatory, the model of one of Eora's moons opened to reveal a hidden cache. Whatever Bekarna hid must be inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The &lt;b&gt;observatory&lt;/b&gt; is crawling with mercenaries. &lt;b&gt;Arkemyr&lt;/b&gt; was right about someone else seeking Bekarna's findings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I can locate the Huntress in the night sky by searching for her bandoleer of stars using the telescope by the &lt;b&gt;orrery&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've learned the coordinates of the Huntress constellation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The constellation of the Kingfisher is situated between a pair of especially bright stars. I'll need to use the telescope by the &lt;b&gt;orrery&lt;/b&gt; to locate it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've learned the coordinates of the Kingfisher constellation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The constellation of the Panther is situated near a string of stars which curve like a bow. The telescope near the &lt;b&gt;orrery&lt;/b&gt; will be useful in locating it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I've learned the coordinates of the Panther constellation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The Leviathan constellation can be found above a cluster of stars resembling a canoe. The telescope near the &lt;b&gt;orrery&lt;/b&gt; will be needed to find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I've learned the coordinates of the Leviathan constellation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>A massive &lt;b&gt;orrery&lt;/b&gt; commands the top of the research station. It might warrant a closer look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>One of &lt;b&gt;Arkemyr's&lt;/b&gt; imps informed me that Arkemyr can be found at the &lt;b&gt;scrying pool&lt;/b&gt; in the laboratory level of his manor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>It's impossible to use the telescope during the day. I'll have to wait until nightfall to do any stargazing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned to Arkemyr and presented him with Bekarna's research. Hopefully this proves useful to him and the Circle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

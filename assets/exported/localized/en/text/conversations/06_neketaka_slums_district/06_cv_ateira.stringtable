@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_ateira</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Several figures slink toward you from the surrounding streets.
+
+Leading them is an orlan with blood-red fur and long, sharpened nails. She sniffs the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I smell that Mataru richling's perfume on you. You got something I want. Give me the Cornett of Waves."
+
+The thugs creep toward you, hands on their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Back off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You must be the one Dereo originally hired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attack] "Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Not without the Cornett of Waves." She inches closer, brandishing a blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I've fought worse. You'll make easy pickings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Listen, Dereo didn't send me after some trinket. He sent me to get rid of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She forces a laugh. "You think you can chase us away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Those sound like the words of a man at the end of his rope." She holds her blade at neck level and makes a slicing motion.</DefaultText>
+      <FemaleText>"Those sound like the words of a woman at the end of her rope." She holds her blade at neck level and makes a slicing motion.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Don't listen to him. He's just trying to scare us off."</DefaultText>
+      <FemaleText>"Don't listen to her. She's just trying to scare us off."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dereo wanted to keep this theft a secret. You're a loose end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>A few of the thugs shuffle their feet nervously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Come to think of it, that does sound like Dereo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Enough! Or I'll gut you lot alongside this fool."
+
+Ateira spins to glare at her people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Or the one who just bested the queen's bodyguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ateira runs a sharpened nail along her blade, glancing from you to the other thugs.
+
+At last, she sheathes her weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Fine. But I see you again, and things'll go differently, I promise."
+
+She storms away, and the other thugs hesitantly follow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She growls with frustration and sheathes her weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You're an idiot. The cornett is just a shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Besides, you're here, aren't you?" She jabs her blade toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You really think he'd trust some cheap thugs with a real treasure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Then what would he want with it?" One hand finds her hip. The other keeps her blade pointed at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Frame someone. Anyone with a stolen relic like that would be in trouble with the Palace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"It's a relic of Ondra. See the runes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You know, I've heard his name among the Príncipi. If Dereo were going to send anyone..."</DefaultText>
+      <FemaleText>"You know, I've heard her name among the Príncipi. If Dereo were going to send anyone..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I heard what he did to that vithrack in Delver's Row. I'm not crossing him."</DefaultText>
+      <FemaleText>"I heard what she did to that vithrack in Delver's Row. I'm not crossing her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I heard what he did to Ernezzo in Delver's Row. I'm not crossing him."</DefaultText>
+      <FemaleText>"I heard what she did to Ernezzo in Delver's Row. I'm not crossing her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>But the thug shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>But the thug shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I dunno about you, Ateira, but I'll take him at his word."</DefaultText>
+      <FemaleText>"I dunno about you, Ateira, but I'll take her at her word."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Don't believe it, boss. This one's the softest [player class] in Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I guess you've never heard of a spur-and-snare con, have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The advancing thugs hesitate.
+
+She turns to them, her filed teeth bared in a scowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That can't be - why else would Dereo send us for it?" Her furred face is a maelstrom of irritation and confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Boss, he thinks a lot straighter'n you." The thug scratches his head.</DefaultText>
+      <FemaleText>"Boss, she thinks a lot straighter'n you." The thug scratches his head.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Then I guess you think you've saved me a mess, that it?" She pauses, her eyes darting from you to the currently empty streets as she thinks.
+
+At last, she sheathes her weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You must be the one Dereo originally hired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ain't hired if you don't get paid. Way I see it, Dereo just gave me a lead." Her smile reveals a row of filed teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ain't hired if you don't get paid. Way I see it, Dereo just gave me a lead." Her smile reveals a row of filed teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What if I hand it over and we go our separate ways?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I can't have you going back to Dereo." She shakes her head sadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"How should I know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She shakes her head. "One way or another, I'll find out."
+
+She raises her hand, and her thugs charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I see 'em. Makes me think this shell is worth something, after all."
+
+She raises her hand, and her thugs charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>They take a few tentative steps back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Come on, there's easier targets..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"And I'm gonna sell that thing on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"And I'm gonna sell that thing on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Fye, surely ye mean the ninnypate whit blundered the job!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Hold on, I thought he hired some dummy that bungled everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Now lass. No need to sour that pretty face on account of us achieving what you done cocked up."
+
+Serafen smiles, but his hands hover near his weapons.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I ain't failed just yet! Not when I got you cornered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I ain't failed just yet! Not when I got you cornered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Boss, this one's a Bleak Walker. They don't make idle threats." The cipher's voice quavers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Means we've got no choice."
+
+Ateira raises her weapon with a shaking hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I knew it! Dereo figured you were gonna cross him, and now he's sent the Steel Garrote after us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"We'll take our chances." She grins wickedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Yep. And you'll leave Neketaka forever if you know what's good for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"How about you make this easy on us both and get out of here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Sounds like someone ain't so confident."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

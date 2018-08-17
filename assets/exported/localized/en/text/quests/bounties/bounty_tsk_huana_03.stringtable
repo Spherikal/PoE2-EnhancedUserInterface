@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_huana_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Rafiq the Red Beard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Rafiq the Red Beard&lt;/b&gt; and take his ship's triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Barati&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Barati&lt;/b&gt; has tasked me with hunting down &lt;b&gt;Rafiq the Red Beard&lt;/b&gt;, captain of the dhow &lt;b&gt;Siren's Song&lt;/b&gt;. There's a bounty to claim in exchange for evidence of the captain's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Siren's Song&lt;/b&gt; can be found sailing the waters south of &lt;b&gt;Crookspur Island&lt;/b&gt;, which is &lt;b&gt;northwest of Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Rafiq's ship rests in Ondra's watery embrace. &lt;b&gt;Barati&lt;/b&gt; can be found on the upper floor of the palace in &lt;b&gt;Serpent's Crown&lt;/b&gt; in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Rafiq the Red Beard and claimed the reward for his bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

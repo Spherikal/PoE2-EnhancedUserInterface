@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_bathhouse_sick_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I see ye brocht your pyne, but ye nae come to ease it. Pity."
+
+A venerable elf sits beside the water, her creased and spotted skin slightly flushed by the heat. Numerous scars mar her skin on face and torso alike. Her eyes open, and their sharp gaze focuses on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What brings you to the bathhouse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It eases my pyne. More an that is an awful lang yairn, an nae entered lichtly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wanweird or the will of the gods, one. A fermer near aboots Log Home invitet the soldiers for dinner. 'Twas hairst, an the crop was rowthie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You're Udyne, right? We've heard you know where we can find Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Serafen."
+
+She smiles, an expression both sad and kind.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"He gave up the Sorcerer? And for what? An elven clipper? Makes as much sense as dugs on a drake, cap! He'd be easy catchings for any freebooter after his hide!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I can't tell you whit he intends, but he set sail for Sayuka intending to replenish there. That's everything I conne, for whitiver good it does ye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Udyne I am, but I connt no Remaro... least none that hadna returnt to the Wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"That sounds horrible!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"She an her man devised us a braw an gustie feast - deer pie an salmon, a stew of cabbitch, carrots, and pitatties, squash roastit with pine nits, an the sweetest honey bread I iver tasted."
+
+A weak smile spreads her mouth.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The Glanfathans riled the animals. By then, we connt the trick, so the captain bade the fermer's family stay within. We steppt intae the nicht, approachit the fykt swine... an the arrows began to fall."
+
+The smile has faded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sorry I asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Have you tried killing yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Her eyes narrow and nose wrinkles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nae. Life is the Pallid Knight's alone to tak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Less there's onything ye need, please lat me to mine water."
+
+The woman dabs herself with a warm cloth.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Aye. If ye say so."
+
+The elf's eyes examine you as a physician might, probing but impersonal.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Pain? I have no pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I have a letter in which Remaro said to seek you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell me where to find Remaro, or I'll kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Death welcomes us all, at the hinder end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I canna speak to yer letter. Maybe it warn't meant for ye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Kill her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You grab the old elf by her chin and the back of the head, and with a single jarring twist, break her neck. She slides limply into the water, bubbles rising from her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Danger? Nay, not I. I do seek him, though, and I feel that he needs me, feel it in the deep depths of me furry fun-sack. If you care for him, you'll be telling me what you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"He bade me not tell anybody of his plans, ye included. He's left this area, afeart of the danger he feshes on those near to him."
+
+She sighs, a long, pained sound accompanied by a wince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'll tell ye... and trust ye to conne best whit to make of the conning. Remaro tredit me his galleon for mine clipper. A stuggy trade, surely, but he insisted that he needit the speed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Glory were nae to be had. Trowth be telt, I hold luckier than most. The orlans o Eir Glanfath walded blades that sheaved spirit as easilly as flesh. Some of mine fallaes were slauchtered body an soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She exhales a long, thin sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"By Berath's bulging ballbags! Spare us the tragic tale, you poxy old salt! Tell us of Remaro, and we'll be leaving you to your misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Who is hunting Remaro, besides Malnaj?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Strange that your good friend is trying so hard to avoid you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"We should hurry to Sayuka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That salted cock-vise be the biggest threat, sure as shit, but others'll want that bounty, too, not to mention the favor comes with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Aye, cap, you've read me mind! And here with me thinking that were my skill in particular."
+
+He winks.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Serafen blinks, nose twitching. His ears angle slightly back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Surely thinks he's protecting me. Stubborn as I seem, Captain Watcher, Remaro makes me look the dabbler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Serafen, you have a rather curious method of making a request. How often has this worked in your favor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'd like to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You need not tell me more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ye may be finding the tale familiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I fect in the Broken Stone War, some two centuries gone by now. I left the wids of Aedyr for the Estern Reach. I claimed to seek to pertect our colonists, but in trowth, I socht the glory of battle."
+
+She sighs and touches her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Aye, 'twas. Afttimes, when I sleep, I behold yet their blank eyes. Gauning at nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I... well... mayhaps a time or two? Suppose it works best with a gun behind it. Ma'am."
+
+Clearing his throat, he takes an increased interest in his toes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She exhales a long, thin sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Their Sceltrfolc, hunters an kempers bred, aimed their arrows true, an two of us fell immediately. The orlans rashed us than, small an shady, visible only by the violet flams that lit their blades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"We draikit that ferm in blood, both sides. In the end, only I remaint, staundin in the fermhoose door, holding mine innards in, waiting for another coxfither to come an finish the work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I only lived acause of that fermer. She sewed me up, fed me till I had health enough to staund. She said she awnt me, but..."
+
+She shakes her head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I think we both connt that we brocht the trouble upon them with our presence. The raiders had been too many to slicht a simple fermhoose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Your wounds trouble you still?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Thank you for sharing your story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The pyne botheret me little in mine youth. I focht yet. I set flams to Black Trees. I took arms again the uprising at New Dunryd. Efter that, little welcome remaint me in the new duc's kintra, an I traivelt northwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Aye. Thank ye for listenin. Few dae."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Yet with age, the auld wounds shaw new depth. By my count I've suffered aichteen arrows and hauf again as many stabbings. That I yet live testifees to either my stubborness or that of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I ranged for years seeking a balm for the growing pyne. Drink helpt for a time. Svef for anither. Now, only these baths, infuist with adra, dull the agony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"It sounds to me like you got what you deserve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Let's discuss something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Maybe. The Wheel will tak me in time, and the scales evened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You speak of the mind hunters, Glanfathan warrior-ciphers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Aye, that I do, an a dounricht vicious bunch they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You fought against the Dyrwood's independence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Aye, I did. At the time it seemed richt. Now? I feel less certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"It would mean a lot to a friend of mine if you could help us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Than maybe ye should've brocht yer friend with ye."
+
+She smiles sadly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Remaro described you pointitly. He told me that ye would come were ye in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Seems Remaro didn't want you to find him, Serafen. Perhaps you should leave it be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Please help my friend, Udyne. He loves Remaro like a father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tell us where to find Remaro, or your life is forfeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"We've wasted enough time on this, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I'm sorry. But I canna tell ye what I daena conne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"He's the nearest thing I got to kin. Why didn't he trust me?"
+
+Serafen's head drops.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"He did trust ye. He trustit ye wholely."
+
+Udyne frowns at Serafen, her eyes wet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"We've learned all there is to learn here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Aye. And this steam be doing my fur no favors."
+
+He displays a wetted arm, the hair thick and tangled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Thank you mightily, lass. Enjoy the baths."
+
+He bows to Udyne.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Sauf travels. The wages of war catch ye up, suin or syne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Daes that offend ye? I conne yer tune, Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Come again? I don't quite follow your meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"How do you know Remaro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I've connt Remaro for a spell an longer. We've daen business, little o it legal, but none o it ill-hearted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I thought it were half-funny that an old hatchet from abroad could afford daily baths at Magic Water with nary a hint of something sticky on her fingers. Better not to pry further, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Aye, you poxy old salt! Spill what you know 'fore we spill your guts!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

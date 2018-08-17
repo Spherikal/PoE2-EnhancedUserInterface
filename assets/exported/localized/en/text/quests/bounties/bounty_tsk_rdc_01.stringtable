@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rdc_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Assila Wave-Skipper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Assila Wave-Skipper&lt;/b&gt; and take her ship's triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Fleet Master Wakoyo&lt;/b&gt; in the &lt;b&gt;Brass Citadel&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Fleet Master Wakoyo&lt;/b&gt; has tasked me with hunting down &lt;b&gt;Assila Wave-Skipper&lt;/b&gt;, a Príncipi captain in command of the voyager &lt;b&gt;River Dragon&lt;/b&gt;. There's a bounty to claim in exchange for evidence of the captain's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Assila Wave-Skipper&lt;/b&gt; commands the voyager &lt;b&gt;River Dragon&lt;/b&gt; and sails the waters around a group of islands to the &lt;b&gt;southwest of Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Assila Wave-Skipper's bounty is mine to claim. I can return to &lt;b&gt;Wakayo&lt;/b&gt; at the &lt;b&gt;Brass Citadel&lt;/b&gt; in Neketaka and receive my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Assila Wave-Skipper and claimed the reward for her bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

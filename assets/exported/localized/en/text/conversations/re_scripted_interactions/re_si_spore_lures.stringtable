@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_spore_lures</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>135</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The scent comes upon you gradually as you travel. It smells of the kitchens of Caed Nua - of honey, cinnamon, and fresh bread. 
+
+Of meals shared with those now absent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Eat the mushroom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Throw the mushroom on the ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Refuse the mushroom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>In a moment of clarity, your herbalist training focuses on the mushroom in detail.
+
+You don't recognize the specific species of mushroom, but you notice many similarities to Pox Cap, a poisonous mushroom.
+
+This realization quickly subsides and is replaced by hunger and an unexplainable urge to eat the mushroom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You stuff the mushroom into your mouth, and it bursts sweet and juicy across your tongue. You revel in the flavor, but the world around you begins to shift and shiver. The air melts like water.
+
+You barely notice that the creatures have surrounded you. They approach...
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Though your mouth salivates at the mushroom's aroma, you shake your head and refuse the offering with a simple gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Off the path you catch a glimmer of movement. Something large and bulbous stirs beyond the trees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Eat the mushroom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Throw the mushroom on the ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The mushroom's flavor explodes in your mouth, sweet and tart, and you feel a tingling run the length of your body.
+
+The world seems to sharpen, your thoughts to focus.
+
+The delemgan nods to you before she returns to tending the large spore. You leave her glade behind.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You shake your head trying to clear away the aromas power over you. 
+
+The Delemgan looks at you concerned. "Eat, it will help." it says, while gesturing towards its mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>A clearing opens ahead of you, surrounded by almost impenetrable walls of jungle flora. In its center, a twisted pŵgra barks and hisses as if in a ranting complaint. If she speaks words, however, you do not recognize the language. 
+
+Something about the space feels unpleasant... almost corrupt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>A large boggy clearing spreads before you, mist clinging to the water and soggy ground alike. A massive lurker rests in the water, utterly still, as a mênpŵgra and delemgan speak in low, susurrus tones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Shoo, now! Get out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Back off, you yellow-leafed bastards, or I'll turn you into firewood!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The delemgan's head cants slightly to the side, not unlike a bird's. She doesn't blink, but her attention drops to the mushroom and returns to you.
+
+The leaves of the forest begin to rustle around you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Startled, her eyes widen as she takes a step back. With a last furtive glance at the spore, she turns and flees you.
+
+The dank spore begins to quiver as the forest comes alive...
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"When I'm done burning this place there won't even be cinders left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Refuse the mushroom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Though your mouth salivates at the mushroom's aroma, you shake your head and refuse the offering with a simple gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Fetid, sweltering air cradles you as you push your way through the thick growth. Your clothing sticks to your skin, and sweat drips from your brow and chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>A small group of ambulatory fungi roughly the height of an orlan gather off the side of the path.
+
+They make gurgling, rubbery noises and wave their stalk-like appendages at one another. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Identify the creatures.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Sneak away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You recognize the beasts as sporelings, the cast-off young of an essence-eating fungus called a dank spore. 
+
+Left to its own devices, a sporeling will attempt to overcome a kith - typically a lone, sick, or weakened traveler - to dine on its essence.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Approach openly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Sneak closer to observe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Return the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Near the center of a nearby clearing stands a delemgan, tending to a large spore.
+
+The delemgan seems formed of the living tropics, with vibrant flowers cresting her head. Her shape suggests that of an elf, replete with pointed ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The delemgan looks up as you enter the clearing, eyes widening slightly as she takes you in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Near the center of a nearby clearing stands a delemgan, tending to a large spore.
+
+The delemgan seems formed of the living tropics, with vibrant flowers cresting her head. Her shape suggests that of an elf, replete with pointed ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Examine the spore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Approach openly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Ambush and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Sneak past the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>A dank spore. You can barely make out the recumbent form of some unfortunate kith tangled in its roots, the essence the spore sucks from its victim glimmering along its length.
+
+If it notices you, it will likely attack, and inhaling the spores clouding around it could confuse your senses.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>It's a pretty big mushroom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Looks a wee bit like yourself. Think she be a cousin?"
+
+Serafen nods towards the nature spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Looks a wee bit like yourself. Think she be a cousin?"
+
+Serafen nods towards the nature spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>She tenses, if wooden muscle can be said to do so, shifting her hands forward, fingers bending into wicked claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>She relaxes, seemingly appreciating whatever she perceived in your soul. Her expression shifts to one of sympathy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She takes a few steps to the side before reaching a protective hand to rest upon the large spore. Her attention remains on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Drawn by the scent, were you?" 
+
+Her voice sounds like the whispers of wind through the leaves. 
+
+"We do not know why this stubborn spore does that. He has rooted his meal."
+
+The spore shudders slightly, and you notice a thick tome tucked among its roots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Like the cub that knows no better, you tread where others fear." 
+
+Her voice rumbles like a falling tree limb.
+
+"Tell us why." 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"You're pretty demanding for a tree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"What's a fine lady like yourself doing in a dark wood like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Draw your weapons and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Leave] "I was just going, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Yes. It smells amazing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"What's a fine lady like yourself doing in a dark wood like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Are you in trouble? Do you need help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Leave] "I was just going, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Be careful. She is not like the delemgan we met in Twin Elms." Aloth glances at her warily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Examine the spore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Her head shifts very slightly, like a tree in the breeze.
+
+"Do you not demand answers of those who invade your home?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>A quiet droning like that of a beehive begins somewhere nearby.
+
+"Do not trifle with us, kith."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"No..." The word seems to come from all around you as a breeze stirs the leaves.
+
+The delemgan straightens, its wooden lips parting into a curl.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"No..." The word seems to come from all around you as a breeze stirs the leaves.
+
+The delemgan straightens, its wooden lips parting into a curl.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"We will not allow you to bring others to this place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"We will not leave you to despoil this place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>A dank spore. You can barely make out the recumbent form of some unfortunate kith tangled in its roots, the essence the spore sucks from its victim glimmering along its length.
+
+If it notices you, it will likely attack, and inhaling the spores clouding around it could confuse your senses.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>It's a pretty big mushroom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Examine the spore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>A dank spore. You can barely make out the recumbent form of some unfortunate kith tangled in its roots, the essence the spore sucks from its victim glimmering along its length.
+
+If it notices you, it will likely attack, and inhaling the spores clouding around it could confuse your senses.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>It's a pretty big mushroom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>She says nothing for a moment, her head tilting to the side.
+
+"Why do you ask this? Do you think we fear the spore?"
+
+She smiles, and brushes a hand along one of the spore's fronds.
+
+"We have nothing to fear here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>She says nothing for a moment, her head tilting to the side.
+
+"Why do you ask this? Do you think we fear the spore?"
+
+She smiles, and brushes a hand along one of the spore's fronds.
+
+"We have nothing to fear here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>She draws a mushroom cap from somewhere within her.
+
+"We offer a gift. That we may part in peace, that you may preserve the sanctity of this place."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The delemgan blinks and takes a step towards you. 
+
+"Our wood holds no darkness, save that brought by outsiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>She nods to you, gesturing for you to continue your journey.
+
+"Walk carefully through the wilds. Tell no one of what you found here."
+
+You leave her clearing behind.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Can't be faulting your urges, cap, but you do be seeing she ain't a real lass-type lass, aye?"
+
+Serafen glances at you, a hand near his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>You hear movement ahead of you, accompanied by something that sounds like conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>You hear movement ahead of you, accompanied by something that sounds like conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Approach openly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Sneak closer to observe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Continue along the path.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>The air stills, leaving the area feeling far more wholesome. 
+
+The creature holds out an open palm to you, and a pale sphere of essence forms in it. She extends the wisp in offering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Sense anything up there, Serafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>The orlan puts his forefingers to either side of his head at his temples and closes his lime green eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Aye, cap. A mênpŵgra and some other right nasty things, too. Four or more. Don't feel like they be itching for a fight, though."
+
+Serafen nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Aye, cap. Something be up there, but I can't be telling you what."
+
+Serafen frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>The mênpŵgra and delemgan fall silent as you appear, and the former waves the latter back as she makes her way to you. 
+
+The reek of decay precedes her, and she peers at you with black eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>A large boggy clearing spreads before you, mist clinging to the water and soggy ground alike. A massive lurker rests in the water, utterly still, as a mênpŵgra and delemgan speak in low, susurrus tones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Approach openly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Ambush and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Scatter them with magic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Maia taps you on your shoulder and points to a dark patch in the water.
+
+"Those slimes look a little too friendly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>You chant quietly, gathering essence before hurling a blast of mystic power into the clearing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Specified 0] gathers essence around them before hurling a blast of mystic power into the clearing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Care to show these things the wrath of Gaun, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I'll happily reap them all, Watcher. But be sure you want this - 'cause it's going to get messy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>With a curt nod, the Dawnstar chants a quiet prayer. A rosy glow limns her form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>She nods quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>As her prayer crescendos, Xoti rises to her feet, the muck clinging to her knees flaking away from the heat she exudes. 
+
+The creatures in the clearing fall silent as the fog melts before the priestess of Gaun.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Xoti reaches forward, and fiery light flows from her, pouring from her eyes and fingers. 
+
+The delemgan flees as the mênpŵgra combusts, screaming and flailing, sending sparks in every direction. 
+
+The slime hisses, bubbles, and pops.
+
+The lurker rises, water pouring from it, and lumbers away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Thank Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[Squeeze her hand.] "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>She nods and wipes her brow with the back of her hand.
+
+You leave the clearing haunted by the smell of soot.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>She smiles and returns the squeeze.
+
+You leave the clearing haunted by the smell of soot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>The creatures glare and hiss at you as one. The flora around you bursts into movement, advancing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"We would kill you for your trespass. Consume your essence and add it to our own. Yet you find us otherwise engaged. Leave this place while you can."
+
+Hard lips twist about a mouth filled with teeth of gnarled wood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Attack] "I go where I please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>[Leave] "I was just going, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"A delemgan gave me an amazing mushroom once. Any chance I can get another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>[Take it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>The creature bows her head to you and gestures for to be gone.
+
+The curl of her lip suggests the offer of a peaceful retreat may soon expire.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Debris falls around you, but the mênpŵgra and her cohort remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>The delemgan makes an odd clicking sound when the mênpŵgra glances back at her. Then the twisted creature returns her attention to you, offering you up a mushroom from somewhere within her dark mass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Eat the mushroom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Throw the mushroom on the ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[Attack] "Enough of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>A hiss issues from her knotted mouth.
+
+"That is none of your concern, kith!" 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[Refuse it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>The plant-beasts before you making gurgling noises even as they wildly thrash their various verdant appendages. 
+
+Ultimately, however, the mênpŵgra waves her arm and the bog falls into relative silence as the primordial entities calm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>The air stills, leaving the area feeling far more wholesome. 
+
+The creature holds out an open palm to you, and a pale sphere of essence forms in it. She extends the wisp in offering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>[Take it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>The creature bows her head to you and gestures for to be gone.
+
+The curl of her lip suggests the offer of a peaceful retreat may soon expire.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[Refuse it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[Attack] "Enough of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>The bulbous fungus towers taller than an aumaua, its fleshy fronds hanging over its bulging stalk. A miasma of yellow dust hangs around it, gently stirring in the light breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

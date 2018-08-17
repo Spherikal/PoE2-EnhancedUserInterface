@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_kaoha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"A Dyrwoodan ship? Hm. Hm. You are far from home, farmer. How did you make it all this way in your... little boat?"
+
+The aumaua cranes her thick neck to look along the hull of your ship. Her expression conveys equal portions incredulity and pity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Why do we gotta be farmers, just 'cause we're from Dyrwood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Are you a farmer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Yeah but you can't just assume. We got rabble-rousers, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I am the harbormaster, Kaoha. I must ask your reason for docking in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As her attention returns to you, the aumaua's mood becomes more formal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm following a giant made of adra and I need to see someone in the palace about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Berath has tasked me with finding Eothas. He's walking across the Deadfire looking for luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm carrying uh... the finest hay in all the Dyrwood. Bales of it. So many bales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"And I must tell you to fuck off. Get out of my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>As you walk down the dock, your approach is noted by a cadre of heavily armored aumaua. Their leader briskly leads them to intercept you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The harbormaster looms over you, not deigning to stoop or lower her gaze to your level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Though the harbormaster says nothing as she surveys you, you note a telltale sneer and a twitch of revulsion that are all too familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The harbormaster regards you warily. She seems to be examining the patterns on your skin with a measure of suspicion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The harbormaster seems unfazed by your appearance and begins to address you in Vailian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ado, aimica..." She pauses, looking past you at your ship in consternation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ado, aimico..." She pauses, looking past you at your ship in consternation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The harbormaster looks you up and down with pursed lips. She looks past you toward your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Do I really need a reason?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The harbormaster chuckles to herself as do the women and men behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You need to see someone, truly. I think it is the animancers in the Spire you're looking for," She taps her forehead three times and casts a glance back to her companions, "To help with your head!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The assembled guards roar with laughter and clap the harbormaster on the back for her joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The harbormaster and the women and men with her look to each other in shock and amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Is that so? Well, Ondra told me to protect the harbor and Woedica herself signed the order. They would have had Galawain do it but he was sick this morning!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes, you do. You can't dock a ship in the harbor and have your run of Queen's Berth without giving me a good reason for docking here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The women and men behind the harbormaster set their jaws and straighten their backs at their leader's words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I have seen enough laden ships to know how one sits in the water. Your ship cannot be carrying more than your crew and provisions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me the real reason you are here or we must put you back on your ship and tug you out of the harbor. I do not think your ship could even sail beyond the reef in its current condition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The women and men behind the harbormaster nod in agreement and look to you for an explanation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The harbormaster snarls and the women and men behind her immediately put their hands on their weapons. Though they are clearly ready to fight, they appear neither eager nor tense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Are you drunk or just stupid? You are not the first captain to drop anchor here with the foolish idea that we Huana can be pushed around!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The harbormaster examines your skin markings and looks you straight in the eye. She begins to address you in Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Tona auka, kai..." She pauses, looking past you at your ship in consternation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The harbormaster's face twists in annoyance. She takes a half step closer to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;link="neutralvalue://Huana: Don't worry, sister. Surely you can let me through..."&gt;"Maue a katuzatuka, uahene. Ne tozo a kiu kehe maka e koho e..."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;link="neutralvalue://Huana: Sorry, 'sister.'"&gt;"Okora mae, 'uahene.'&lt;/link&gt; No one gets through without a good reason. Not even locals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;link="neutralvalue://Huana: Sorry, 'brother.'"&gt;"Okora mae, 'reika.'&lt;/link&gt; No one gets through without a good reason. Not even locals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deep within you, you feel an uncomfortable roiling. You can't be certain if the sensation is physical or spiritual, but it immediately induces nausea and fills your ears with the sound of blood rushing through your head.
+
+Cutting through the din, you hear a familiar woman's voice speak. Each word comes slowly, falling with what sounds like the chiming of a small bell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;Show. Them.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>&lt;ispeech&gt;Show. Them. What. You. Are.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"It really is important that I go to the palace. I need to learn where I can find luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[To the guards.] "Shut up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[To Berath.] "Shut up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm a Watcher and the Herald of Berath. The whole Deadfire is in danger. Please let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"This city is full of foreigners looking for luminous adra. If you want it so badly, get back on your ship and head back out to sea. Until you have proper business here..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm a Watcher and the Herald of Berath. Step aside or suffer the consequences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Concentrate on folding the edge of the In-Between.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The harbormaster gestures toward your boat. The women and men behind her nod and murmur in agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The nausea continues to build inside you, blood pounding against your skull. Again, the woman's voice. Again, the chimes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>&lt;ispeech&gt;I. Will. Help. You.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I have heard enough of this foolishness. There is no room for you in the Neketaka harbor. Get back on your ship and head for open sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We do not have to tolerate these idle threats. If you value your life, get back on your ship and head for open sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What?! Look, I've heard enough of this foolishness. If you value your life, get back on your ship and head for open sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You close your eyes and turn your mind inward, blocking out the sounds of the harbor and the menacing pack of guards. Soon, all you can hear is the rushing of blood in your head and a muffled chime ringing somewhere far away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>&lt;ispeech&gt;Yes. Yes. That's. It.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What is the matter with you? What are you doing? If you are trying to scare us with some cipher mischief, save the purple flames for the tribes of the outer islands..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The roar in your head begins to abate. The ringing of the chime becomes clearer, rhythmic, two successive peals followed by a brief respite. You realize the chime is ringing in tandem with your heartbeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You open your eyes. The harbormaster is gesturing wildly, presumably to get your attention, and yelling in your face, but you hear no words, only the ringing of the chime as your heart rate slows.
+
+And slows.
+
+
+And slows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>And slows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>&lt;ispeech&gt;Now.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What... what is this?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ahhh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Run for it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"So much for discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Think I got a ghost up my nose there. 
+
+"&lt;i&gt;A-choo!&lt;/i&gt; Ah, that's better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You got style, cap. Worm-riddled, ship-sinking, flat fucking freaky style."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Everybody saw that, right?! It wasn't just me?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

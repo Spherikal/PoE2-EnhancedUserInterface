@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hey, this brings back some memories, huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What did you do after we ended the Legacy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are your thoughts on Eothas at the moment?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"There was that little town, Dyrford, we passed through. Got hit real hard by the Legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"There's a group of Eothasians in Dyrwood, the Night Market. Go around helping other Eothasians in secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I looked all around the Dyrwood, but that place has too many ghosts for me. Things I'd just as soon forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I don't know. I've still got this picture of him in my mind from when I was a kid in church."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I want the destruction to stop. I want him to finish what he's doing and then go in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"For a long time I hoped that we'd find out what Eothas wants, and we'd finally understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"His goal, it's... well it's beyond my reckoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I got time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hey, look who it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What's gnawing you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I liked that feeling, knowing we'd stopped Thaos. We were part of something big."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"That was something I never felt before, not even at war. Guess I went looking for it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Not that I wanted to tangle with gods. But something smaller, something I thought I could manage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I went in and asked their mayor if I could help. And he was real friendly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"But then it turned out he was in that Skaenite cult they have over there. And when I wasn't looking he tried to knock me out with a garden hoe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Guess he wanted to drain my blood, or gouge out my eyes with rocks, or whatever it is they do. Didn't ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Anyway, I came outta his house carrying his head, and I got to be mayor after that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"They didn't even wanna do an election. I said if you're sure, and they all nodded, kinda quick like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"How were you as a mayor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Let's get moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Some of it I was good at. Welcoming people. Getting them to settle there. Keeping order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"But there were other things I had no head for. Negotiating, settling arguments, saying the right things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I think I made a difference, but plenty of folks got hurt along the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"If you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Sorta like the Leaden Key, guess you could say. Except not a bunch of craven lunatics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"So this one night I'm at a tavern and this fella has a disagreement with me. Game of Orlan's Head he'd lost some money at."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"And I'm bashing his head into the target when he notices I got this pendant with a symbol of Eothas on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"So we get to talking and it turns out he's an all right fella. Runs with the Night Market."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"And after he was feeling better a month or two later, he introduced me to some folks in the group, and they let me in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"How did that work out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Well, it depended. The jobs we did, I got to help a lot of folks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Lot of times it was helping folks get out of bad situations. Getting 'em set up with better ones. I liked that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"But the group had problems. Lot of different ideas how to run things. Sometimes it cost the people we were trying to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"And I don't know if that was something we could've avoided, or if it was the cost of trying to fix things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ended up moving to Aedyr and tracking down my parents. They went there as refugees after the war ended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Did you find a way to be useful?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"In part, I guess. Aedyr, they still got some bad blood with Dyrwood, goes back to the revolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Some Aedyrans like to give Dyrwoodans a hard time, they get the chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"With my folks, a group came along and tried to take their land. Made a phony claim to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What did you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I sat down with them and we had a friendly negotiation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"One fella, I don't think he'll ever be able to look to his right again. But we came to an understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"My folks, they didn't see me the same after that. I think they'd have rather given up the land then have it come to violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"It's nothing like what we're seeing. Just like it was nothing like Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"But that first image, that's still what Eothas is to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Only I don't see it playing out that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"But lately there's nothing I'm more afraid of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"But I'm starting to think that if the current way of things led to the Purges and Waidwen's Legacy, then maybe there does have to be some kind of change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Doesn't seem much different than Thaos and Woedica, does he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Powerful beings thinking they know what's best for us. Not caring the costs we pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I just hope he's better at thinking things through than I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Starting to think we'd be better off without the gods. At least we'd know the messes were our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Talk to me about Bearn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wasn't what I expected, I know that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"We got him out of there. That's the most important thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Don't think there's much to say."
+
+Dark, heavy creases beneath Edér's eyes give him the look of someone who hasn't slept in days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I had this idea that maybe I'd get along with him. Either 'cause he was like his mom or 'cause he was like..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"But it was like somebody talked him out of his personality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"It's not his fault. He's alone out here. And his mom was such a force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"She was so sure of herself, she'd have had that cult leader following her.
+
+"Hard to replace something like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"But he is all alone out there, and that's what got him into trouble to begin with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I hope this time it's different. I hope he makes connections, finds something to do with himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I worry, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"He was alone. Got talked into believing in something that sounded good to him. We couldn't talk him out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Another soul torn away by Eothas, whether or not he meant it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Doesn't help matters that he chose death, and we denied it to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"How do you like Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"The air's different. Especially compared to Gilded Vale where there's more livestock than shovels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Sound's different, too. You wake up to all those bird calls, it really does sound like they're making music."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"When he looked at you, you got the feeling he was looking at someone a long ways behind you."
+
+Edér shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"If the birds woke you in Gilded Vale, it was usually a couple crows making the most horrible mating noises you ever heard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Strange thing is, I still get this feeling in me like I wish I was home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What's going on with you and Aloth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Edér's gaze wanders among glinting archways and half-collapsed spires, his mouth agape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Miss the simple life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hard to miss what you can barely remember.
+
+"All I know is, my life took a turn when this world came stomping into mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"At least Eothas seems to be trying to correct that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"He does. I guess he's got that over the rest of 'em." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Their problems are kith problems. Both civilizations, different as they were, agreed something had to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"That's why we're here. We're going to face this. Whatever comes, we're going to see people through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Much prettier than Sun in Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"In a way, it was - before it ended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Gilded Vale got its name from the way the wheat fields used to look in the sun.
+
+"But this place. This place really is gilded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Might as well be a different world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Yeah. Seems they had a whole different way of looking at things.
+
+"I'd say I like this one better, but the truth is, neither one seems any closer to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ended... yet here we are, all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"These 'great people' got a funny way of passing on.
+
+"They disappear from the world but leave their problems behind for the rest of us to deal with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You know, I broke a wheel once, too. First thing I thought of when we learned what Eothas was doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What a mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Well, I was playing with it in the way a young child might when his parents are out, and that wheel came right off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It wouldn't go back into place, so I pushed it harder and harder, and pretty soon I'd broken off a spoke.
+
+"Broke off three more trying to fix that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Anyway, I got whipped pretty good for it. That wheel was never the same, even after my dad fixed it."
+
+Edér runs a pair of fingers back and forth across a beard in need of a trim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I used to think of the gods as being like parents to all of us.
+
+"Now I know better. They're children, playing while their folks are gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"And now here we are, with Eothas trying to undo the whole thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Edér snorts. "God of redemption, trying to redeem the gods."
+
+He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I guess maybe that's one good thing that's come out of this. At least for me. 
+
+"I got something to do with my life that doesn't involve hauling or shoveling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Even got a friend or two out of it."
+
+He smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Even if it meant I had to do it with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Whole world's about to face the biggest test it ever saw. What Eothas is doing, it's gonna change everything.
+
+"We may not survive. Kith, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"My mom had this spinning wheel, and she loved it."
+
+Edér bites his lower lip, his guilt still evident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What was it you wanted to say earlier about Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

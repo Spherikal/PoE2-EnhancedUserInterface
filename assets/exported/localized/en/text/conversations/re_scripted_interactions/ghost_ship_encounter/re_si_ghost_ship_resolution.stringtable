@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>With the last of undead slain, the Floating Hangman is now yours for the taking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Standing at the helm of the Floating Hangman, you signal your boatswain to head out to sea. Wind rips through the tattered sails. Rotting wood groans as the ship picks up speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Crew! &lt;link="neutralvalue://Vailian: Get me the Devourer of Souls!&gt; Derme o Engoliero do Espirs!&lt;/link&gt; Take the sword - and skewer the living."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Standing at the helm of the Floating Hangman, you signal your boatswain to head out to sea. Wind rips through the tattered sails. Rotting wood groans as the ship picks up speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rivan raises her skeletal fist to you in salute as her ship glides by, headed in the opposite direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

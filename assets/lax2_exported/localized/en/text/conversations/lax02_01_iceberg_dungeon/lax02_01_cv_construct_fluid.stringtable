@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_construct_fluid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Or at least a sludge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You scoop up the fluid with the bottle, brushing its viscous surface with your knuckles. The scorching sensation arrives mere moments later, accompanied by smoke rising from your skin. You rub the back of your hand against the ice, both to remove the fluid and to sooth the burn. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Collect the fluid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The solution is doubtlessly unfit to handle, much less to consume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Serafen chuckles. "I reckon I enjoy getting good and squiffy twice as much as the next lad, cap, but I'll be taking Magranite vows 'fore I go touching another drink on this godsforsaken icebox."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vatnir sighs. "I... perhaps Nyvardir should not be adding this to the lager..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mirke's nose wrinkles at the goo. "You going to drink that, my friend? 'Cause I wouldn't. And that's saying something." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'll gladly suffer the stifling customs of Aedyr if drinking poison is what constitutes 'fun' in the White that Wends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You carefully scoop some of the fluid into a container, careful not to touch it with anything save the bottle.  A few drops fall to the floor, hissing where they land. When the steam clears, you see that the fluid has melted a small hole in the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Sniff the fluid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Identify the fluid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The noxious fluid smells of rotting koīki fruit, with notes of naphtha and rust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Not only does the fluid reek, it leaves the nostrils feeling singed from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The substance seems an admixture of naphtha and water with an agent produced through the alchemical combination of a mixture of alcohol and phosphorus with one of silver salt with potash.
+
+It's undoubtedly toxic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The brilliant green surface of the sludge shimmers with prismatic colors, not unlike oil. Though the exact nature of the fluid remains unclear, it's almost certainly toxic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The fluid's brilliant green surface shimmers with prismatic colors. You've no idea what it is, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 2] adroitly scoops some of the fluid into a container, careful not to touch it with anything save the bottle.  A few drops fall to the floor, hissing where they land. When the steam clears, you see that the fluid has melted a small hole in the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 2] scoops up the fluid with the bottle and, with a hissing intake of breath, brushes a few knuckles against its viscous surface. Your companion rubs the injured - and lightly smoldering - extremity against the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A depression in the ice has collected a small portion of the construct's vital fluids. Despite the frigid air and colder surface, it remains a liquid.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

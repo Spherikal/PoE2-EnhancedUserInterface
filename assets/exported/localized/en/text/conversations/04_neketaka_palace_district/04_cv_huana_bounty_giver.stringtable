@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_huana_bounty_giver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"He smells one touched by the great eel, does Barati." A sizable aumaua tilts his head up and looks down his nose at you, flaring his nostrils with hungry interest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The belly of the great eel roars with hunger. Will you help Barati to calm it?" 
+
+He breathes heavily and stares from under a furrowed brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What bounties do you have available?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tangaloa rolls a hungry eye toward Diccila, a Vailian captain who scouts for luminous adra in sacred lands." 
+
+Barati squeezes his knuckles until they're bone-white. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'll pass on the bounty for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ekera, Tangaloa knew it would be so. 
+
+"Diccila sails her voyager Alisio around the waters south of Neketaka. The great eel hungers for her soul." 
+
+Barati touches his brow and inclines his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The jaws of Tangaloa gnash about a Rauataian captain named Oheiro."
+
+Barati folds his arms and closes his eyes, exhaling sharply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ekera, you choose wisely. Oheiro sails the junk Stone Anchor south of the Kua o Rikuhu island chain due east of Neketaka.
+
+"The gods will thank you for quieter seas." 
+
+Barati inclines his head and touches his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"The great eel swims toward Rafiq the Red Beard, but the Príncipi captain outpaces even the gods.
+
+"Rafiq sinks Huana ships for joy and plunder. This cannot stand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The great eel licks its mighty chops. 
+
+"Know Rafiq by his dhow, Siren's Song, which haunts the waters south of Crookspur Island, northwest of Neketaka." 
+
+Barati crosses his arms over his chest and bows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You know Tangaloa's appetite already, my feeder. You have your assignment and someone in the isles must die." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I've dealt with Diccila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I've dealt with Oheiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've dealt with Rafiq the Red Beard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"With &lt;i&gt;joy,&lt;/i&gt; not hunger, does the great eel lash its mighty tail. Diccila has sated the beast for now." 
+
+Barati passes you a pouch of coins and clasps your hand - hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ekera, and the seas grow quiet while Tangaloa grows fat on outsider meat." 
+
+Barati sighs heavily and passes you payment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tangaloa relishes any good meal, but I say justice makes for a savory dish."
+
+Nodding, Barati presents you with payment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You served up a &lt;i&gt;mighty&lt;/i&gt; feast and the great eel's belly swells... for a time.
+
+"Until it hungers again, Barati's work is done."
+
+Barati inclines his head and says no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Barati pays coin to feed the great eel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"To feed the gods is sacred work. Barati gives thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I've already dealt with Diccila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I've already dealt with Oheiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I've already dealt with Rafiq."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You are a man who sits across a fire with death. Ekera?"</DefaultText>
+      <FemaleText>"You are a woman who sits across a fire with death. Ekera?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"The Pallid Knight and I are on familiar terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I've peered through the jaws of Tangaloa a time or two. Or three."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sorry, what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He nods, clasping his hands with quiet delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"For glutting mighty Tangaloa and hurling foes into their next life, Barati can offer payment.
+
+"Coins for feeding hungry gods. Ekera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You collect bounties?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Nod silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tangaloa - the eel who digests the dead. You are &lt;i&gt;most&lt;/i&gt; adept at feeding it, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Rewarding those who appease the great eel - this is Barati's cause. May the beasts of the dreaming lands never know famine."
+
+Barati inclines his head and touches his brow, holding the pose with deep reverence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'll consider the opportunity. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"His cannonfire echoes in the ears of slumbering gods. The beast cries out for a more restful Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Come when you are ready to feed the great eel, or not at all."
+
+His brows knitted with concern, Barati waves you off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Before I go I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ask, but do not keep the great eel waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm still hunting Rafiq the Red Beard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I'm still hunting Oheiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm still hunting Diccila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"The continue the hunt, good feeder. Tangaloa knows you are devoted to the great meal to come."
+
+Barati inclines his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Return when the kill is complete. No sooner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bring nourishment to the great eel and there will be more work in time." 
+
+Barati clasps your shoulder and squeezes, holding your eye contact before releasing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

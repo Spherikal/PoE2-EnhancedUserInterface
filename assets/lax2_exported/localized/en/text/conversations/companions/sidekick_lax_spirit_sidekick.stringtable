@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\sidekick_lax_spirit_sidekick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Finally, a beacon to light this wilderness! I would have words with you." The spirit takes a bold step forward and crosses her arms, studying you with her chin tiled up. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I am remembering things." Ryona opens both of her palms. At first it seems like she's studying her hands, but it seems equally possible that she's admiring the memory of a blade. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You will let me know when you change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm [Player Name], captain of [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who I was, who I am - this is of no consequence. That person is gone to the world, ac?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Death has darkened the skies, but I see three beacons in the fog. Since you are the closest, I will follow you until I reach another. I hope this is agreeable?" She adjusts her empty scabbard and weighs your reaction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Make yourself useful and you can tag along." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"One of those 'beacons' is probably Eothas." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I don't require additional company." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can handle myself in a fight, casità. Whatever keeps me bound to this side of death's curtain has also kept my sword hand steady. Sometimes I even bleed - strange, no?" She snorts loudly and hocks a glob of ethereal phlegm at the ground between her feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You see that faint beacon, on the horizon? Maybe not. I believe it is my old sword. When I am paired with it again, we can go our separate ways." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You do not jest? Then it is a good thing I did not follow the walking god – who knows where I might have ended up?" She looks off to the distance and shivers. A breeze - one which you don't feel - stirs her hair. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I remember friends. Friends in handsome armor. One had a pet lion. We camped in a clearing on our way to a dragon's roost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I went out hunting alone, but a storm forced me to take shelter in a cave. A pair of eyes studied me from the darkness. Eyes full of hunger and hate." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The beast was famished, and I was an animal trapped in the corner. So I struck a betrayer's bargain: the lives of my friends in exchange for mine. The beast agreed to these terms." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I fled the cave. It followed me back to the clearing. My friends were telling stories about the last time I speared a boar. They did not know they had already eaten their last meal.” </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"That's terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Survival is compromise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I scrambled from those woods alive, but with screams echoing in my ears. Later I returned to the Republics, did right by the families of the lost. Defended them when I could. But it was never enough. All those deeds never scrubbed a single fleck of blood from my hands." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The next time I stepped into that cave, the beast was waiting for me. I wasn’t strong enough to face it before. I didn’t fare any better on my second try." She squeezes her eyes shut and turns away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"But enough out of me. It must be tedious living with the regrets and unfinished business of the dead, no?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Stay with me. Maybe you can work toward some kind of redemption." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Go back to the Wheel. You've caused enough harm." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“As you say, casita.” She sighs and gestures off to the distance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nodding, she picks a direction and marches toward it, fading from your sight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Why do we tarry? The beacon calls." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"My memories are clearer than before, casita.” </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"To use the skills in death that I honed in life is a noble calling." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Oblivion is my only hope. Do not stop me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

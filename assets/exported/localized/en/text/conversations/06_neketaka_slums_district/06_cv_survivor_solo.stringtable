@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_survivor_solo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wait, I'm not looking for trouble. Not anymore, I mean. And I've not got a weapon on you. See?"
+
+He raises his hands to show his sword is sheathed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I followed you. Just a ways. Hoped you were trudging toward an egress. Then the undead spewed up, and I thought you would die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It's just, you're the first body I've bumped into in days. That's actually breathing, I mean. Could it be you're delving for forgotten treasures, same as me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You haven't found a way out of here. Have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"All right, the path to the rivers is clear. Hope you can hold your breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What was your escape plan when you first ventured into the pit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"How long have you wandered down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I've opened a passage through the ruins of a temple in a lower area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Yes, right! It's safe to make for the rivers then. Or as safe as it's likely to get. I'll head downward now."
+
+With a wince, he hefts his pack from the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I scaled down from the cliffs. But midway, the rocks turned slick."
+
+He scratches at a patch of dried muck on the side of his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I packed provisions enough for two weeks. Started rationing when things looked grim, after the first odd days. I-I don't know beyond that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He rubs the stale-smelling sweat from the back of his neck, face slack with relief.
+
+His eyes crinkle in brief uncertainty. But it ebbs just as quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Supposing I do survive the plunge, and you're of a mind, meet with me in Port Maje. I'll have something for you - for saving my hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Take heed if you've plans to trudge deeper north. I only glimpsed it once, but whatever nightmare lurks near the falls of the pit - it's incredibly massive. And surely just as mean."
+
+Then he's gone, easing cautiously into the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Best bet's the rivers at the base of the pit. They flow beneath the outcrops so they must dump into the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He eyes the ripped toe of his boot as he scuffs it against the stone beneath his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ondra's lure hardly seems worth it now. Suppose I fell for the bait though, didn't I? A fabled temple full of treasures - my ass." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Too sore to rush for it, he secures his pack with careful motions and, with a final nod to you, eases out into the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Easy, friend. Whoa, hey!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>His boots are slicked with grime. His clothes are filthy and rumpled from several days' wear, and his neck and hands are smeared in places with mud.
+
+A pack rests at his heels, empty enough to have flopped into itself. It likely carries no more than his dwindling supplies. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The trouble's been reaching the base. The western caves wind downward, but they're riddled. Infested. Walking them's not been safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hear that? That's deadlies ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Incredible! You're not at all scathed. Not even a smidge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It's darker than a dargul's armpit in there." He peers into the cavern, wrinkling his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hand me your torch so I can more easily search the caverns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You wouldn't think to leave me in the dark, would you? You'll return? Alive, I mean." 
+
+His eyes gleam from the fire as he searches your face, intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Smell that? Like chum. Must be a heap of grubs. Dead ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Then I'll make it. I know I'd hoped, but honestly, I didn't really expect you'd help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I owe you, friend. If you're of a mind, meet with me in Port Maje. I'll make it worth your while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm loath to admit it, but look, I'm too desperate not to. I've found not a single trinket and no end to this pit since I first crawled down. I'd thought to follow the rivers out, but the caves are crawling with grubs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Leave] "If I clear a path, I'll let you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Right. I'll wait here. And you'll return for me. Won't you?"
+
+He nods in answer to his own question, but a deep worry furrows across his brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Mayhaps we'll meet again in the darkness?"
+
+He tosses you a concerned glance over his shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No offense, but you're not looking - or smelling - so good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You're a treasure hunter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He licks his cracked lips, flashing crooked front teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>A bead of sweat trickles down the side of his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Right. And a successful one. Usually." He half smiles, a hesitant, abashed spread of his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"How did you even get down here? Didn't you think it might be dangerous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He cants his head to one side, a knowing glint igniting his dark eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I might ask the same to you, friend. Not everyone longs to die in their own bed. I just... Well, I thought I'd have more time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He balks at the demand, taking a cautious step backwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"How about a little trust here? I need the light if I'm to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I won't leave you in the darkness. Keep the torch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Easy to say when it's not your life in another's hands."
+
+With a grunt, he passes you the trembling flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Thank you, friend."
+
+Keen relief gushes from his chest, shuddering the flames in his white-knuckled grip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I can't turn a blind eye to someone in need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Neither did I. Don't get used to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>A wistful smile twists across his dirty face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Well, I'm glad you did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Cross your arms over your chest and glare menacingly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Eyes enormous, he jerks, resisting the urge to cringe another step back. Breath fast, he passes you the trembling flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Well, we're still alive. What's next for our daring escape plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I've wiped most of the grubs from the western caverns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Chances are decent. At best. So I'll see you on the other side." He gives you a brash grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Leave] "Wait here, I'll scout ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Don't have to tell me twice." He exhales audibly in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Shit. I can't see my fingers in front of my own face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Lie] "I've wiped the grubs from the western caverns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Yes, right! It's safe to reach the rivers then. Or as safe as it's likely to get. I'll see you on the other side." He gives you a brash grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'm lucky to have met you, friend. You've a real good soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Too sore to rush for it, he secures his pack with careful motions and, with a final nod to you, eases out into the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I've opened a passage through the ruins of a temple in a lower area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Temple, you said? You didn't spot any gilded tridents or maybe a few jade-carved shells, did you?" He wets his lips with a dry tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Lie] "I've cleared the caverns. It's safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wait. First, let me check that the route to the temple is clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What's a few more hours swallowed in darkness, right? It's fine - I'm fine. Go. I won't botch our best chance for survival."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He rubs the stale-smelling sweat from the back of his neck, face slack with relief.
+
+His eyes crinkle in brief uncertainty. But it ebbs just as quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Then I'll make it. I know I'd hoped, but honestly, I didn't really expect you'd help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Lie] "Come on. I can't turn a blind eye to someone in need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I have my reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A wistful smile twists across his dirty face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'm lucky to have met you, friend. You've a real good soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Too sore to rush for it, he secures his pack with careful motions and, with a final nod to you, eases out into the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>A grateful smile warms his dirty face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Are you injured? How're you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Me? I've been through worse. And I'm tuned to survive." 
+
+With a half-forced grin, he stretches to model a clearly lean-muscled and agile physique, but mid-arc, he winces and palms a gash on his arm, ruining the effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Yes, actually, I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Save your provisions. You'll need your strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Me, too. But we'll be out of here soon. Here - it's not much, but it won't do me any good if I'm dead. Take it."
+
+He has to dig deep into the pack, knuckles scraping the bottom to hand you what's left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He breathes a relieved sigh, and his stomach audibly cramps as if in timed agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The sound of his grumbling stomach answers the silence. With an apologetic shrug, he slides the pack more safely behind him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"So there's no climbing back up. What else then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I don't know if you're lucky or just plain stupid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Suppose a bit of both, don't you think? But I didn't break my neck on the scale down, and I'm not keen to be grub-food now."
+
+He snorts, a self-derisive sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Actually, no, don't tell me. No haul's worth dying for. If the coast is clear, I'll make straight for the surface."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>An impatient, strangled sound escapes his throat, and his hands fist by his sides. He puffs out a stale breath. Then his bruised, grubby fingers uncurl to dangle loose by his thighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Nod] "Farewell to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Dwindled but not yet gone. Why? You hungry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"And your supplies? You haven't run out, yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Good. Let's move on then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He nods, a jerky, pained movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He shakes his head, a jerky, worried motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You need healing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I'm good with a thread and needle. Give me half a chance to get out of here, and I'll be fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Yet you cracked them like they were nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I'm lucky to have met you, friend. You've a real good soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

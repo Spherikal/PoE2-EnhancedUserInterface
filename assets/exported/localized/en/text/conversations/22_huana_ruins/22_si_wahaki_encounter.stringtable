@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_si_wahaki_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You disembark on a calm beach. A thick treeline ahead separates you from the deeper jungle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Go inland.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Peer at the treeline.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Between the trees you catch a glimpse of shadows that shouldn't be there. You're not alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The beach is conspicuously quiet and it takes you a moment to realize what's missing - the chirp or warble of birds.
+
+Then you spot it - subtle movement in the treeline. You're not alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You see evidence that another landing party arrived here before. Booted tracks lead off into the jungle, though it doesn't look as if anyone returned this way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Several warriors step out from their hiding places as you approach the treeline and point their spears at you.
+
+A tall Huana, wearing the face paint of the Wahaki, separates out from the fold. He chuckles at you, shaking his head all the while. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>As you approach the jungle, a war cry rises from the obscurity of the treeline. 
+
+A band of Huana warriors wearing the face paint of the Wahaki raise their weapons and charge down the beach to meet you head-on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Charge the treeline screaming and waving a weapon over your head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A line of Huana warriors emerge from the treeline, frantically gathering in attack positions to meet your mad dash halfway. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A tall Huana fighter steps out of the treeline, waving his hands to bid you stop. He asks, in respectful terms, for an opportunity to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Show your empty hands.] "I know you're out there. Let's talk about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Several Huana warriors, decorated with the face paint of the Wahaki, calmly emerge from the treeline. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You disembark on the beach once again, this time better informed on what to expect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The treeline explodes with activity as the Wahaki rush on your position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"No outsider sets foot on the land of our ancestors!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Go back the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You put the beach behind you and consider your approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A tall warrior steps forward, grinning at you all the while. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A tall warrior separates out from the fold and pauses, giving you a severe look before approaching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Keen senses, friend! Let us speak." He gestures to a spot on the beach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What say? So eager to step into an ambush. Come, we must talk." He motions you closer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aloth studies their painted faces and looks to you with a meaningful expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Aloth studies their painted faces and looks to you with a meaningful expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

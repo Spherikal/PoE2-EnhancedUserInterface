@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_orron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A dwarf sits before a generous and curious spread - steamed mussels arranged in concentric circles, rounds of flatbread stacked in a neat tower, and melon sliced in even triangles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What do you require?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I hear you've bought passage on Captain Sedūzo's ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What would it take for you to cede your spots on Sedūzo's ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll make you an offer for your berths on Sedūzo's ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What brought you to the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Indeed. The good captain has four adequate berths - all equally sized, all facing the same direction - and she's promised to leave promptly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Out of the question. We're due in Tākowa for another contract, and the client has already paid the advance." 
+
+He sips from his cup and immediately runs a folded handkerchief around the rim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Booking passage on another ship on such short notice would be most expensive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"We had a contract with the Vailian Trading Company to defend one of their most valuable properties." He glows with pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I can pay you enough to book passage on another ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm also a Goldpact Knight, and I'm bound to help a woman and her children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Have pity - I'm helping a woman and her children seek a better life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"One way or another, you're staying here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He looks up from fidgeting with his cup long enough to give you a doubtful frown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He groans and looks at the other paladins. They conduct a brief and silent exchange of nods, shrugs, and raised eyebrows.
+
+At last, he sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Look around. The Deadfire is filled with misery, to say nothing of the Gullet." He turns the cup so that the crack along the side faces away from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"That sounded like a threat. Was that a threat?" He sounds genuinely surprised.
+
+The other Goldpact Knights move their hands toward their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"That's not what I meant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attack] "I warned you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Pay 1200 cp.] "This should cover it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He freezes, staring at the coins. 
+
+After a moment, he divides them into four even stacks and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Excuse me. I must see to business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Why, you-!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Something... tastes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"And we have already paid Sedūzo. I couldn't possibly take back the same coins I have already spent." He shivers with dread.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"If you're looking for work, I heartily recommend them. They pay well, and they pay on time." He raises his cup, and his companions do likewise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What better life do you imagine for them in Rauatai? They will only trade one misery for another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Besides, I have a contract to fulfill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I do hope you demanded a reasonable fee. It wouldn't do to tarnish our reputation here."
+
+The mercenaries down the last of their drinks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"When next we see each other, I'll expect a boon from you. No questions asked.
+
+"Until then."
+
+They file out of the tavern in a neat, even line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"All ships leaving for Rauatai are laden with luminous adra and other rare goods. 
+
+"Mercenaries - even of our skill - do not rate so highly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"So it does. Consider our business concluded." He and the other Goldpact Knights file out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Gather 'round. A final toast before we depart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Lie] "Orron? Someone downstairs is asking for you - something about trouble at the adra mill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Damn. If that thing burns while we're still here..."
+
+He rises and hurries out of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"He does this every time. Just have to wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Excuse me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Wait.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Holding his breath, he takes the bottle and measures an equal serving of wine into the cups, making three or four passes over each.
+
+His companions look on with practiced patience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The dwarf ignores you and continues nudging the cup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>At last the bottle is empty, and he places it in the exact center of the square.
+
+He picks it up and puts it down in the same spot twice more before he's satisfied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Cheers."
+
+They all take their cups and drink deeply. At last, the leader turns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"A most agreeable arrangement." He sips his wine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"A Goldpact Knight is bound by his contract, and ours binds us to make all possible haste to Tākowa." 
+
+He squirms and sets his cup down in the exact middle of a water stain, lining the base up with the edges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He shrugs, rotating his cup again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh. Good, good." They slowly relax.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Yet his attention is focused on the four cups and the bottle in front of him. 
+
+He has the cups organized in an almost perfect square around the bottle, but as you look on, he leans down to adjust one.
+
+The others with him wait quietly and observe the ritual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I don't see what Sedūzo was fussing about. Nothing wrong with being tidy." Aloth leans close to you, then turns back to observe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Tonderie. These Goldpact Knights have a love of obligation that matches my love of country."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Folks like you ain't helping! Have a heart! Or is it already dead in your chest?" With a sneer, Xoti rattles her lantern, raising it as if she could suck the soul from his still-living body. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Serafen leans nearer you, grinning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Consistency in the shipping lanes. Good for types mercantile, but better for types piratical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Did you say something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Just admiring your spread, my lad. Nothing better after a meal than a ripe pair of melons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He squirms. "That doesn't release me from my obligation. I must reach Rauatai with all possible haste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"If I don't fulfill my contract, it makes all Goldpact Knights look bad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"This isn't about your contract. This is about you having things your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He shifts and wriggles, tugging his sleeves as if to pull them back into place. 
+
+He says nothing for a moment, but his silently twitching mouth confesses his discomfort.
+
+At last, he sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Pay 800 cp.] "That seems fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"But I still require some consideration from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I still must make other arrangements, but I could afford a small loss. Given our mutual affiliation." He glowers at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Pay 1000 cp.] "Consider this me making a contract with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>He freezes, staring at the coins. 
+
+After a moment, he divides them into four even stacks and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Move one of the cups.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A collective gasp rises from the other mercenaries.
+
+The dwarf gives you a warning glare and maneuvers the cup back into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Don't do that again. I'm serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What is he doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Knock everything off the table.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"That's it!"
+
+They all rise and draw their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'm booking passage for a family. But Sedūzo only has room for three of them, so they'll be split..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>His hand jerks so violently that he splashes a few drops of wine on the table.
+
+He mops them up, a rigid and pained expression on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"...and you'll be stuck with HALF of them for the whole journey. Won't that be ODD?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"That will not do. That will not do at all." He's still dabbing at the spilled wine, but something brittle has crept into his frown.
+
+His companions shuffle nervously. At last, Orron pushes back from the table and looks up at them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Wait.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"To Queen's Berth, quickly. We must find a more... suitable ship."
+
+The Goldpact Knights file out together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Do you know the way to Delver's Row?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He wrinkles his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"That sounds unsanitary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I have oaths to keep. Perhaps that means little to you, but I am bound by them." He turns from Xoti to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Don't see why you'd spend all that time arranging your food if you aren't making it look like a funny face."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

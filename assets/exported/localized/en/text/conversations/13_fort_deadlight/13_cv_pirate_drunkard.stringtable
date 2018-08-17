@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_pirate_drunkard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Whoa, there! Watch your step. The stones are a might slippery." 
+
+The pirate stumbles when he turns, slapping a palm onto the table to steady himself. In the process, he knocks a tankard to the ground, spilling a frothy beverage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Come for a drink with us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Shush, you rumpots! Or Cragheart'll be down here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Got to keep it down, she says. Rot her tongue, I says."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Twenty pires says I can drink you under the table."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What's got Ungwith the Craghearted all twisted up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Is this a celebratory drink?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You can pay to try. Drink up, and we'll see who's left standing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"She loathes any type of disorder, especially that of the loud variety. We get too wild, and you watch. She'll be stomping down here to yell at us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You bet! Our boatswain just bought a treasure map. We're saluting to our future prosperity, we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Come, we've plenty to share!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Going to go through with it this round?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"First up's a round of Aedyran mead!" One of the more sober pirates pours two pints of the thick, sweet brew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Drink the mead.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'd rather not do this now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You knock back the tankard and take a deep swallow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Afraid you'll lose? No skin off of my nose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Gulp after gulp glides smoothly down your throat until the mug's run dry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Too muculent, the brew clogs in your throat. You choke, spewing half a mouthful onto the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Not a bad start. Not at all." He nods to you respectfully before guzzling down his own pint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Next round's, grog! Not just any grog, mind you. This batch's fermented with gunpowder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Drink the grog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You raise the tankard, ignoring the black powder swirling up from the bottom as you chug down a heady swig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The grog burns something fierce on the way down, but you guzzle it all before slamming your empty mug onto the table in triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Not many can handle a whole pint of gunpowder grog." He lifts his brows, both surprised and impressed. Then he struggles through his own drink before offering you a snide, wet-looking grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Now, the best for last. We'll be having us a bit of Hangman's Blood! If this doesn't knock you on your backside, nothing will, I fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Drink the liquor.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The drink looks deceptively smooth and beery, but it stinks to the high skies. When you swivel the mug, chunks of rotting fruit bob up to the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Every swallow feels like choking back bile. The drink scours a hole in your belly, and leaves you parched. But you finish the entire pint down to the last drop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>At first, the pirate merely stares. Then he nervously licks his lips and with trembling fingers, reaches for his own pint of the corrosive concoction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Flay me for crows' bait should I ever turn craven!"
+
+In a surge of courage, the drunkard gulps down his own pint. His chest heaves as he clinks the cup's bottom, and a cocky grin begins a slow sweep of his lips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Let's get swilling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Here's to ourselves! May the gods grant us more gold and luck than we can imagine."
+
+He raises his mug high overhead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"We'd be making a proper raucous if Ungwith the Craghearted wasn't such an accursed downer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Pretend to drink from an empty tankard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Pretend to drink from an empty tankard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Don't take it personally, pal. It's a fine way to lose twenty pires!"
+
+Laughing, the drunkard turns to brag to his crewmates - having already forgotten to claim his winnings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Pretend to drink from an empty tankard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What's Hangman's Blood made of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"It's been known to kill a man. Or at least his breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>But his smile freezes half-way, caught in a pained twist as he slowly begins to tilt backwards. 
+
+He topples to the ground, out cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"One of Benweth's guards. Right up the stairs. She's like a boil I can't get of. No matter how often I lance it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You mean the way our crew makes it? A bit of this and a pinch of that, all mixed in a hogshead of pickled corpsefruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wait, a minute... You mean to say, you don't know Benny's crew...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What are you talking about, you souse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'm sure I'd recognize her if I saw her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Right. What were we talking about? Eh, piss it. Give me another drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I think you ought to meet the Craghearted. Explain to her who exactly you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He tries to tap a finger to his chin, instead stumbles and nearly falls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ungwith, get down here! Swiftly now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"It's too quiet around here without Ben's parties. Don't think I like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I heard someone got the best of Ben. Had him pissing his trousers."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

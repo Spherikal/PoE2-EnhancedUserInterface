@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_dawnstar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wandering Stars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Track down Torclef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Confront Torclef's assailants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Maren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Confront the assailants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Head back to the Dawnstar camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Maren with the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Dawnstars are recent arrivals to Port Maje, seeking opportunity in new lands, and their unflagging defense of the Huana has made them somewhat unpopular with the colonists.
+
+While interactions with the local townsfolk have generally been peaceful, one of the Dawnstars has recently gone missing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maren is worried that one of the Dawnstars, Torclef, has gotten into trouble with the local colonists. She's asked me to keep an eye out for him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Torclef seems to have gotten himself in trouble with a few of the locals. Getting him out of this in one piece will be tricky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Torclef is on his way back to the Dawnstars. Maren should be relieved to see him alive and well. Naked, but well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>By the look of things, a priest has run afoul of some of the locals. What this is about, I'm not sure, but it looks like things are getting ugly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Torclef suggested I seek him and the other Dawnstars out in the harbor district. He said that Maren might have a reward for me once I arrived.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Torclef has been killed. Maren won't be happy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Maren mentioned that the tavern might be a good place to start asking questions, though Torclef himself abstains from drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The tavernkeeper at the Kraken's Eye hasn't seen Torclef around, but he did mention hearing about some 'excitement' going on at the west end of town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>According to the locals, the Dawnstars have been stepping in to help the Huana negotiate better terms. This hasn't made them popular with the Vailians.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Torclef has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Maren mentioned that Torclef was seen heading further into town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>An NPC critical to the completion of this quest has been killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I found both Maren and Torclef safely back at the Dawnstar camp. Maren was relieved to see her friend back, and rewarded me for my trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I gave Maren the grave news about Torclef. She was distraught at the news, and seemed less confident of the Dawnstars' purpose in Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>With the priest dead, this matter has come to a close. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>While exploring Port Maje, I stumbled upon a conflict between some locals and a disheveled Readceran. This may be worth looking into.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

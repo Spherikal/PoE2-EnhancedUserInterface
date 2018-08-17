@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_statue_sunken</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A cracked stone face rises from the pool. Lichens clog the hollows under its brows and nostrils, and a pale glow plays along the undersides of its cheeks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Inspect the pool.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Inspect the bones.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Dive toward the light.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As murky as it is, it's difficult to tell how deep it goes. You can barely see the statue's submerged shoulders; the rest is shrouded in darkness.
+
+Yet a smudge of light shines from the gloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>And you hear a faint, musical sound from the depths. The melody ebbs and flows, rises and recedes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Scattered bones lie around the pool. They're clustered around the water's edge, and despite lying in the mud, they're perfectly white.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The bones are all gleaming white and whole, without a single notch or crack. 
+
+They're also warm to the touch. You feel a pulse running through them and quickly draw your hand back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You leap into the pool and swim down. The water is surprisingly warm, with an oily texture and a brackish flavor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Yet as you paddle deeper, the water grows colder. The light in the depths becomes brighter and sharper, and a strange melody murmurs through the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Despite the effort, you fight through the current, sustained by a deep breath and strong lungs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The effort of swimming starts to take its toll. Your emptying lungs begin to burn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Continue toward the light.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Swim back to the surface.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You reach the source of the light and music - a glowing conch in the statue's open hand.
+
+Music flows from it, as rich and deep as a baritone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You kick toward the dim glow of the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You hover above it, your lungs beginning to ache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You hover above it, your lungs screaming for air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Take the conch and swim back up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>At first, the conch is stuck in place. 
+
+With a little effort, you pry it from the statue's palm. It comes free with a pop, and the radiance and music fade. 
+
+You push off from the statue and swim despite the pain swelling in your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You kick toward the dim glow of the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You emerge and climb out of the pool, enjoying deep breaths of the dank cave air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You crawl out of the pool, heaving pained breaths after staying under so long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You barely break through the water before gulping deep, painful breaths into your burning lungs. 
+
+You crawl out of the pool, exhausted and weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Dive toward the light.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 0] leaps into the pool and swims down. The water is surprisingly warm, with an oily texture and a brackish flavor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Yet as [Specified 0] paddles deeper, the water grows colder. The light in the depths becomes brighter and sharper, and a strange melody murmurs through the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Despite the effort, [Specified 0] fights through the current, sustained by a deep breath and strong lungs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Continue toward the light.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 0] reaches the source of the light and music - a glowing conch in the statue's open hand.
+
+Music flows from it, as rich and deep as a baritone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0] hovers above it, lungs just beginning to ache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Take the conch and swim back up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>At first, the conch is stuck in place. 
+
+With a little effort, [Specified 0] pries it from the statue's palm. It comes free with a pop, and the radiance and music fade. 
+
+[Specified 0] pushes off from the statue and swims despite the pain swelling in his chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 0] kicks toward the dim glow of the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] emerges and climbs out of the pool, enjoying deep breaths of the dank cave air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You hear rattling.
+
+The bones by the pool grind and snap together. Several skeletons rise from the mud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0] crawls out of the pool, heaving pained breaths after staying under so long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0] barely breaks through the water before gulping deep, painful breaths. 
+
+[Specified 0] crawls out of the pool, exhausted and weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0] hovers above it, lungs screaming for air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Swim back to the surface.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] kicks toward the dim glow of the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The effort of swimming starts to take its toll as [Specified 0]'s emptying lungs begin to burn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You leap into the pool and swim down. The water is surprisingly warm, with an oily texture and a brackish flavor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>As the mysterious source grows closer, muck clogs your eyes, and a strong current pushes you back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>As the mysterious source grows closer, muck clogs [Specified 0]'s eyes, and a strong current pushes back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>At first, the conch is stuck in place. 
+
+With a little effort, [Specified 0] pries it from the statue's palm. It comes free with a pop, and the radiance and music fade. 
+
+[Specified 0] pushes off from the statue and swims despite the pain swelling in her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

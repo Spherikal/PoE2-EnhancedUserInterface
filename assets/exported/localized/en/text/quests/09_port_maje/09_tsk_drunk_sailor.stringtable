@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_drunk_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Drunk Sailor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Free Rum-Dumb Riggere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Meet up with &lt;b&gt;Rum-Dumb Riggere&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Rum-Dumb Riggere&lt;/b&gt;, a sailor imprisoned in &lt;b&gt;Port Maje's jail&lt;/b&gt;, has offered to join my ship's crew if I free him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Riggere said that &lt;b&gt;Commander Savia&lt;/b&gt; will free him if his fine is paid. Unfortunately, he's racked up a fine of 400 pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Now that he's free, &lt;b&gt;Rum-Dumb Riggere&lt;/b&gt; wants to meet me by the &lt;b&gt;market&lt;/b&gt; in Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Riggere said that &lt;b&gt;Savia&lt;/b&gt; carries the jail cell key on her person.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>It might be possible to destroy the stonework around the outside of &lt;b&gt;jail window&lt;/b&gt; to free &lt;b&gt;Riggere&lt;/b&gt;. It'll be noisy, but effective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Norgund&lt;/b&gt;, a merchant on the &lt;b&gt;upper floor of The Kraken's Eye&lt;/b&gt; in Port Maje, trades in the kind of items I might need to break Riggere out of his cell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I killed Savia. Taking the jail cell key from her body and freeing &lt;b&gt;Riggere&lt;/b&gt; should be my next step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I acquired the jail cell key from &lt;b&gt;Savia&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I paid Rum-Dumb Riggere's fine and gave him his freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I broke Rum-Dumb Riggere out of jail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I used an explosive to destroy the bars on Riggere's jail cell window. He made his escape in the resulting chaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I killed Savia and broke Rum-Dumb Rigger out of jail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>I broke &lt;b&gt;Rum-Dumb Riggere&lt;/b&gt; out of jail. He wants to meet me &lt;b&gt;outside&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>I killed &lt;b&gt;Savia&lt;/b&gt; and broke &lt;b&gt;Rum-Dumb Riggere&lt;/b&gt; out of jail. He's offered to join my crew in exchange for helping him escape the island and any blame for the constable's death.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

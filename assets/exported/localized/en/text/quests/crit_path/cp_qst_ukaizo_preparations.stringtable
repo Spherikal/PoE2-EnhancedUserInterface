@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_ukaizo_preparations</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Coming Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Forge &lt;b&gt;alliances&lt;/b&gt; or &lt;b&gt;prepare your ship&lt;/b&gt; for a hard voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Eothas&lt;/b&gt; has crossed beyond Magran's Teeth and into &lt;b&gt;Ondra's Mortar&lt;/b&gt;. He makes for the lost island of &lt;b&gt;Ukaizo.&lt;/b&gt;
+
+Only a capable ship could survive the journey through Ondra's Mortar. One of the great powers vying for dominance over the Deadfire might assist in this goal. If all else fails, outfitting the ship independently would be better preparation than none at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>No doubt the local powers will want to put me to work in support of their cause to reach &lt;b&gt;Ukaizo&lt;/b&gt;. Committing to any of them is sure to anger the others in the end.
+
+I could also go it alone, but [Player Ship] won't survive the journey without significant upgrades - I'd need the &lt;b&gt;very best hull and sails&lt;/b&gt; available in the Deadfire. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've made an enemy of the &lt;b&gt;Huana royal family&lt;/b&gt;. Allying myself with them is no longer an option.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Queen Onekaza&lt;/b&gt; has expressed an interest in joining forces. Working for her would mean giving &lt;b&gt;Ukaizo&lt;/b&gt; back to the &lt;b&gt;Huana&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Onekaza&lt;/b&gt; has asked me to blow up &lt;b&gt;Rauatai's powderhouse&lt;/b&gt; and implicate the &lt;b&gt;Vailians&lt;/b&gt;. This would solidify my union with the &lt;b&gt;Huana&lt;/b&gt; once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I can find the &lt;b&gt;Vailian Trading Company headquarters&lt;/b&gt; in &lt;b&gt;Queen's Berth&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The headquarters of the &lt;b&gt;Huana&lt;/b&gt; are at the &lt;b&gt;Kahanga Palace&lt;/b&gt; in &lt;b&gt;Serpent's Crown&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The &lt;b&gt;Royal Deadfire Company's headquarters&lt;/b&gt; are at &lt;b&gt;Imperial Command&lt;/b&gt; in the &lt;b&gt;Brass Citadel.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;The Príncipi sen Patrena&lt;/b&gt; organize their forces at &lt;b&gt;Balefire Beacon&lt;/b&gt; on the island of &lt;b&gt;Dunnage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I've agreed to help &lt;b&gt;Hazanui Karū&lt;/b&gt; and the &lt;b&gt;Royal Deadfire Company&lt;/b&gt; overthrow the &lt;b&gt;Huana&lt;/b&gt; and seize control of &lt;b&gt;Neketaka&lt;/b&gt;. In exchange, they'll help me reach &lt;b&gt;Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>If I help the &lt;b&gt;Príncipi&lt;/b&gt; deal with &lt;b&gt;Lucia Rivan&lt;/b&gt; and acquire her ship, the &lt;b&gt;Floating Hangman&lt;/b&gt;, they'll formalize an alliance with me and help me reach &lt;b&gt;Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>The &lt;b&gt;Vailian Trading Company&lt;/b&gt; wants me to destroy the &lt;b&gt;Royal Deadfire Company's powderhouse&lt;/b&gt; in the &lt;b&gt;Brass Citadel&lt;/b&gt;. If I do this for them, they'll ally with me and help me reach &lt;b&gt;Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The &lt;b&gt;Vailian Trading Company&lt;/b&gt; is not willing to work with me. Our respective priorities are too far at odds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>After everything I've done to harm them, working with the &lt;b&gt;Royal Deadfire Company&lt;/b&gt; is no longer an option. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>The &lt;b&gt;Príncipi&lt;/b&gt; are unwilling to collaborate with me on the journey to &lt;b&gt;Ukaizo&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>I've acquired the &lt;b&gt;Blackwood Hull&lt;/b&gt;. While it won't make my ship indestructible, its strength will help me survive the storms around &lt;b&gt;Ondra's Mortar&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>I've acquired the &lt;b&gt;Dragonwing Sails&lt;/b&gt;. Their unmatched toughness will withstand the fierce winds of &lt;b&gt;Ondra's Mortar&lt;/b&gt; better than any other in the Deadfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>If I ally with the Huana, I can expect &lt;b&gt;watershapers&lt;/b&gt; to accompany my ship on the journey to &lt;b&gt;Ukaizo&lt;/b&gt;. Their combined power should be enough to open a path through the storms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>[Player Ship] will travel with the aid of the Kahanga throne. The Huana are my allies now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>With the support of the Vailian Trading Company, [Player Ship] will soon be outfitted with the means to reach Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I have allied with the Royal Deadfire Company. The desire to reach Ukaizo is a mutual one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>The Príncipi sen Patrena have agreed to assist my voyage to Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I made it to Ukaizo without the aid of the Deadfire's competing powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

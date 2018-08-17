@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_undead_crypt_swamp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The fetid, vegetal smell of decay alerts you to the swamp before you stumble upon it. It extends far into the distance, overgrown with ancient trees and vines. Solid patches of ground are few and far between. Crossing the morass will likely demand many miles of arduous travel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Forge ahead into the swamp.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Turn back and retreat the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You find a way through the swamp by sticking to the few patches of solid ground among the muck. You move swiftly on your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The swamp is more treacherous than you anticipated. The sucking mud clings to your boots and the oppressive humidity saps your strength. Your progress is incremental. Exhausted and sore, you press on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>With patience and some careful maneuvering, you manage to keep yourself and the others out of the stinking morass and on dry ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The swamp is more treacherous than you anticipated. The sucking mud clings to your boots and the oppressive humidity saps your strength. Your progress is incremental. Exhausted and sore, you press on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>By keeping careful watch on where you step, most of the party is able to navigate the quagmire without difficulty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You come upon a particularly boggy stretch surrounded by dense trees with not a single patch of dry ground in sight. With no way forward but through, you forge ahead into the bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Through the trees you spot a narrow deer trail. You may be able to get free of the bog that way, but there's no telling where it leads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You pick your way over to the small path, but it provides no escape, for the moaning grows louder and closer. Soon, it's all you can hear. You're surrounded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The many long hours of slogging through the swamp have confused your sense of direction. Unsure of which way to turn, you're unable to flee the moaning creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Head for the path.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Stand your ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>With some quick thinking and good guide sense, [Specified 0] leads you safely to the path. You pause to catch your breath before forging on, but don't have long to rest - the moaning grows louder and closer. You're surrounded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Many hours of exhausting travel have put the group on edge. Even traveling companions who are usually friends snap and glare at one another.
+
+You wander in circles, all sense of direction lost in the eternal dreary sameness of the swamp. You choose a random direction and hope for the best.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You try to scramble away, but your noisy attempt to flee have only made it easier for the creatures to find you. Bony hands snake out of the water and grab hold of your ankles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You kick viciously at the skeletons' grasping hands, preventing them from pulling you down into the water. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The bony hands twist your ankle and yank you off balance. The white, rounded top of a skull slowly rises from the water at your feet. The moaning grows louder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Another hand reaches for your feet, its fingers straining. You kick it away, but just then the moaning reaches a feverish pitch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Your noisy attempt to flee has only made it easier for the moaning creatures to find you. Bony hands snake out of the water and grab hold of your ankles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You and the others kick viciously at the grasping hands, preventing them from pulling you down into the stinking water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You and the others kick viciously at the grasping hands, but [SkillCheck 0] is unable to evade them and tumbles into the water with a splash. Skeletons rise where [SkillCheck 0] fell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The bony hands are too many, too tenacious - you are unable to break free. Skeletons rise from the water and advance on you in a shambling horde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Help [SkillCheck 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Escape while the skeletons are distracted by [SkillCheck 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You turn away, resigned to leave [SkillCheck 0] behind, when a blinding flash of light pierces the bog.
+
+The skeletons halt their assault and topple back into the water, momentarily stunned. [SkillCheck 0] scrambles out of the mud and stumbles back to you unscathed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The cost of escape is steep, but you're willing to pay it. You turn away, leaving [SkillCheck 0] behind. You are pursued only by the sound of a single, gurgling scream.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The skeletons will not be denied. They rise again from the water, more determined than before, and surround you. There is no chance of escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You refuse to leave anyone behind. You draw your weapon and rush to [SkillCheck 0]'s aid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You stumble away from the skeletons and take stock of your situation. Everyone is present and unharmed, but the horde is closing in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You'd rather make your stand here and deal with whatever lurks in the bog beyond than risk a path that leads you know not where.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[SkillCheck 0], however, is not quite so adept. [SkillCheck 0] trips on an exposed root and stumbles into the boot-sucking mud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You're startled by a chorus of moaning voices. You spin around, searching for the source, but the moans seem to come from every direction at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Luckily, you're there with a helping hand and manage to pull [Specified 0] free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>With some quick thinking and good guide sense, you lead the way safely to the path. You pause to catch your breath before forging on, but don't have long to rest - the moaning grows louder and closer. You're surrounded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Head for the path.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

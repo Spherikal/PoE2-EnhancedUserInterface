@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_aeldys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hold up, lovesome."
+
+Captain 'Sea Wolf' Aeldys, commander of the united Príncipi fleet, twirls a small pistol around her trigger finger as she strolls up to you.
+
+Behind her, a bevy of well-armed pirates swoop closer, eager for bloodshed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oh, come now. Did you really think you wouldn't be seeing me again?"
+
+She cocks her head to the side like a curious bird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Just words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Now's not a good time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've got some words for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I know we didn't get a chance to be properly acquainted - not in the way I'd have liked. But that doesn't mean we ought not to tie up loose threads, considering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Words, aye. And maybe a bullet or two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"When is a good time to die, really? Ready or not, Hel's coming for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'd like to say it's nothing personal. But considering how you've hunted my crews, like a godsdamned shark with a blood-scent, it most assuredly is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"It's nothing personal, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"There's still time for us to steal whatever doom-causing relic your rogue god's after. Let him try to find it while my fleet sails apart to every end of the ocean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Attack] "Get out of my way, pirate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm going to feed you to the sharks - bit by bit as I hack it off!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ukaizo was built by Huana ancestors. It belongs to them, by rights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"This territory is under the domain of the Rauatai. Trespassers will be executed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"If anyone's going to profit off Ukaizo, it's the Vailian Trading Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ha! And you think that means shit to a pirate? What're you, trying to appeal to my honor, dove?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I've never backed down from a threat in my life, dove. If you expect me to fall on my knees, trembling, on account of the military coming for my blood - well, you don't know me at all then, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I won't fault you for that line of reasoning. But I'll kill you all the same."
+
+Aeldys grins wildly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Walk away now, and I'll let you live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Do you really think I'd sail all this way - to the very edge of Eora - just to back down at the cusp of achieving my aim?
+
+"And for what, lovesome? The threat of dying, like pirates tend to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Surely, we can work something out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Barring that... we'll plunder the lost city of gold and live like royalty right up until the end.
+
+"If it's to be my last life, I'll damn well make it a good one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Eothas is going to break the Wheel. It's not some damn trinket, it's bigger than this island."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Heaving a heavy sigh, she rolls her neck on her shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Guess that leaves me with the fallthrough option. Kill you, pirate Ukaizo, and make the best of the apocalypse."
+
+Then she aims her gun at your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No. That won't be happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Fill 'em with lead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>With a sneer, she signals her crew to fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"It's a little late for that, don't you figure?"
+
+She fingers her suolenet as if thinking about it. Then, a curt shake of her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll give you one last chance to get acquainted with me though. It'll be through my bullet in your gut as I step over you to plunder the lost city of gold." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Till the next life - assuming we get one." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Only ones I honor are the loyal crew members in my vast and ruthless fleet. It's for them I'm obligated to plunder the lost city of gold, you see?
+
+"While you - well, seeing as you're in my way. I figure I'm obligated to murder you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Oh, don't give me that look. I'll be sure to pour one out for you while I plunder the lost city of gold. Cheers, dove."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

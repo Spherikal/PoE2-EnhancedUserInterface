@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_rdc_bounty_giver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Clear skies, my friend." Wakoyo crosses his arms and tips his head to the side. 
+
+A long scar traces a path down his face, curving sharply where his cheek rises with a smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You return. Clear skies." Wakoyo folds his arms and nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What bounties do you have available?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Assila Wave-Skipper is your first target - a pirate shirking any pretense of lawful conduct in the open seas." 
+
+Wakoyo grimaces and itches at his scar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Captain. A word?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'll pass on the bounty for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Most excellent. Assila commands the voyager River Dragon, which pesters a group of islands to the southwest of Port Maje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Your target is Radulf, a Vailian captain and seeker of lost ruins. There is no wicked length he would not go to plunder the dignity of these isles." 
+
+Wakoyo's fists tighten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"My confidence swells to hear of this, captain. 
+
+"Radulf commands the galleon Goldbell and seeks for ruins east of Neketaka, on the southwestern tip of the Kua o Rikuhu island chain." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Captain, your final target is Burunga, a Huana captain of many seasons. 
+
+"She is known for bending nature to her will and pursuing her foes with relentless fury." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Burunga commands the dhow Pŵgra's Tooth, which braves the turbulent waters of the Ofecchia Channel, far to the northeast of Neketaka." 
+
+Wakoyo squints toward the horizon, nodding to himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You have your assignment, privateer. I recommend completing it before seeking another." 
+
+His doubtful expression surrenders to a broad smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You don't have to worry about Assila Wave-Skipper anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I dealt with Radulf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Burunga's ship went down with all hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pirates are adept at scattering when threatened, but this makes planting your boot on the neck of a straggler all the sweeter." 
+
+Wakoyo counts out a bag of coins and presents it with one arm crossed over his chest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Then let us content ourselves that some small corner of the archipelago is safe from Vailian excess." 
+
+He passes you a heavy pouch and smiles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"It is satisfying to see one of our island cousins humbled for a change. May the others take this as an example." 
+
+Wakoyo winces as he hefts a bag of coins and passes it to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Privateer, you served Rauatai with distinction! No more could possibly be asked of you."
+
+Wakoyo snaps his arms over his chest, his lip quivering with pride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The motherland will remember your service on the day of reckoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I've already dealt with Assila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I've already dealt with Radulf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I've already dealt with Burunga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Before I go I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ask away, my privateer! I would not have you take to the water uninformed." Wakoyo nods and plants his hands on his hips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm still hunting Burunga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm still hunting Radulf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm still hunting Assila Wave-Skipper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Our enemies sow discord in the waves while you tarry." 
+
+Wakoyo raises his brow and peers closer to make sure he has your attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Let no one say I hired a lazy privateer. Seek your target and be done." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Maia, I assume you vouch for your new captain?" He turns his focus toward Maia and Ishiza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"On occasion. Why?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The boats of our decorated armada have orders which spread them thinly across the archipelago. Rauatai finds itself in need of a &lt;i&gt;privateer.&lt;/i&gt;" 
+
+His brow rises as he speaks the word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Greetings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"[Player Name], captain of [Player Ship], at your service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Calm seas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I know of you already, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Your ship - unmoored from Deadfire politics - is an asset I would grasp with both hands. 
+
+"An arrangement can help us both. You will empty the seas of competition in exchange for profit." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hunting ships for Rauatai? Where do I begin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let me consider it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"This courage will win you many battles, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"We're not friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Not yet, but I do not relinquish hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Aren't you afraid that privateering will start a war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"An official reckoning is drafted to account for every cannonball shot in the name of Rauatai. 
+
+"Our paperwork is &lt;i&gt;most&lt;/i&gt; thorough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"For every ship sunk, there is a legal justification. Our enemies will know that war has started on the day we fail to turn in our paperwork." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"My favorite privateer. Clear skies." Wakoyo crosses his arms over his chest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then I will ask nothing more of you. Return when you are ready for work - not before." Wakoyo nods and watches you go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"But the spirit, ah... so willing! In this I can find no fault." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I would keep my privateer busy! You will speak to me when you are ready for work, yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Our work is unfinished, privateer. Are you ready to hunt anew?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Salute] "It's been a pleasure, Wakoyo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

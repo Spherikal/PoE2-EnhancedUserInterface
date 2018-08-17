@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_12_ukaizo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The City Lost to Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Locate &lt;b&gt;Eothas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Disable the storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Confront &lt;b&gt;Eothas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Travel to &lt;b&gt;Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Defeat the &lt;b&gt;Guardian of Ukaizo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Eothas&lt;/b&gt; is going to the legendary island of &lt;b&gt;Ukaizo&lt;/b&gt; to disrupt or destroy Eora's cycle of reincarnation. Only by following him there can I confront him directly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Now that I arrived at &lt;b&gt;Ukaizo&lt;/b&gt;, it's just a matter of finding &lt;b&gt;Eothas&lt;/b&gt;. Assuming he still occupies a seven hundred foot colossus, that shouldn't be a problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Eothas&lt;/b&gt; is somewhere in the heart of the city. The path to him is shielded by a massive storm and bîaŵac - both of which appear to originate from a &lt;b&gt;tower in the distance&lt;/b&gt;. If the storms could be nullified somehow, I could reach Eothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Now that the storm has dispersed, I can venture deeper into the city and confront &lt;b&gt;Eothas&lt;/b&gt; directly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Ukaizo&lt;/b&gt; is located far to the &lt;b&gt;northeast of Neketaka&lt;/b&gt;. The only way to reach it is by way of the &lt;b&gt;Ofecchia Channel&lt;/b&gt;, a natural gateway leading between the crags of Magran's Teeth and into the storms of Ondra's Mortar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>&lt;b&gt;Ukaizo's guardian&lt;/b&gt; has appeared. I won't be able to reach &lt;b&gt;Eothas&lt;/b&gt; until I overpower it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The Huana fleet will meet me there to lend their support in the race for Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The Vailian Trading Company's fleet will meet me there to lend their support in the race for Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The Royal Deadfire Company's fleet will meet me there to lend their support in the race for Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The Príncipi fleet will meet me there to lend their support in the race for Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've turned on my allies. Now there will be no help on the journey to Ukaizo. I'll need to reach the island on my own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I confronted Eothas. He brings great change to Eora - one that kith and gods alike must band together to solve.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

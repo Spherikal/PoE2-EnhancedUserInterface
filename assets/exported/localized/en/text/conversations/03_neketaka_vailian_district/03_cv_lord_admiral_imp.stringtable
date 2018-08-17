@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_lord_admiral_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"EH! AVAST, GROUNDFILTH! WHY DISTURB LORD ADMIRAL EH, EH!?"
+
+The imp glances left and right with evident anxiety. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dessiral sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave] "I'll... just be leaving." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"EH! NO! NO INTERRUPTIONS TO THE PLAN! LORD ADMIRAL'S WORK TOO IMPORTANT!" 
+
+The xaurips raise their claws to block out the sound of the imp's voice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"MUST KEEP MORALE HIGH! NO SINK BOAT THIS TIME, EH!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"NOT DOING ANYTHING WRONG! EH! GO AWAY!" 
+
+The xaurips flanking the imp chitter to themselves and glance around the district. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You wouldn't be trying to steal a boat, would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"G-GET HIM, CULLIES!"
+
+The imp points at you and screeches at the top of its lungs.</DefaultText>
+      <FemaleText>"G-GET HER, CULLIES!"
+
+The imp points at you and screeches at the top of its lungs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"BOAT? EH! LORD ADMIRAL HAS FLEET - BLAST FILTHY GROUNDSTINK CITY! START WITH YOU, EH!?" 
+
+The pitch of the imp's voice begins to turn heads.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

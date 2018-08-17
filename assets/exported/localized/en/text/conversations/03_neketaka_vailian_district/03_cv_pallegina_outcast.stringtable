@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_pallegina_outcast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wha- ? Watcher?! Di verus... is it really you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pallegina's mouth hangs open in shock. Though her hair and feathers have the same immaculate grooming as when you last saw her, her breastplate's five suns have been carefully scratched off. She looks down at the armor and back up to you with a pained glance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm sure that even at Caed Nua, you must have heard what happened when I returned to the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I did. I'm sorry things didn't work out for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I guess that's what happens when you don't follow orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Shrug.] "Maybe. I don't know. I didn't give it much thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She glances away and gives an appreciative nod. You can see the muscles in her jaw clenching as the seconds pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The Republics survived. That's the most important thing. And here, the Company's business seems to be getting on fine without my interference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She blinks once, her golden eyes opening wide, fixated on you. Her nostrils flare and the veins in her neck strain against her skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/9"&gt;"Vu maddicche postenago! Buffan vi! Cues es malgro me fulpa med tuor! Peri chue na cracuna ve engeri! Vu tros men merla!"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pallegina continues to issue forth a stream of unintelligible insults. Her hands are flowing through a series of obscene gestures as she backs away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vailians around Queen's Berth turn their attention toward the fountain of profanity. Some are amused. A mother shields her smiling son's eyes from the vulgar pantomime. As Pallegina angrily stomps off into the distance, the pace of life returns to normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hey, I know those feathers! Pallegina!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It's been ages! But what's happened to your armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You two know each other? I mean... I wouldn't be jealous if you did." Xoti's eyes flick back and forth between you and Pallegina. She bites at her bottom lip, but says no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Know this lass, cap? Weren't aware you favored feathers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What do you think she said? Sounded mad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Even Iselmyr couldn't have topped that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Serves her right, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ooo, I like her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I could use your help, Pallegina. I'm hunting down Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Are you working for the Vailian Trading Company now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Like I said, I'm sorry things worked out the way they did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Her eyebrows arch, the membranes of her eyes sliding out and back as the weight of your words hits her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I suppose I shouldn't be surprised, considering all we went through. But no, I won't be coming with you, Watcher. I'd be lucky if I wound up dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A pathetic laugh escapes her lips. She turns her gaze down, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"No. No company associated with the ducs will employ me now. I get by working as a ship guard. At least I can be among my people, even if they look down on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Her gaze drifts off into the middle distance. A long sigh drifts from her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The apology doesn't make things right, but it's good to hear. Di verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell, Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"No, it won't be like that. I prom- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Come on. Things didn't turn out all that b- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You should be grateful that I ev- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Corès, Watcher."
+
+A mixture of sadness and anger flashes across her face. It is quickly replaced by her familiar, calm expression. She nods once, then turns to go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Maybe we don't start with the part about Eothas next time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Do take care of yourself, Pallegina." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Good riddance and safe travels to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Smooth, cap. Like barnacles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Corès."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Even I'm scuppered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Buffan vi!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Watcher. I do not intend on returning to the prince empty-handed. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let's be off." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"This is the Gullet? I had not realized..." Tekēhu glances around wearing a distasteful expression. He raises his arm to cover his nose and mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The queen calls these rations? Does she expect the Roparu to subsist on garbage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The Roparu feed their children from this pile?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Unbelievable... that they could hide so much under our city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bastards! To squander everything we learned together..." Tekēhu squeezes his eyes shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What crime could he have committed to deserve such a fate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A city beneath the city beneath the city. Each layer of Neketaka is more... pungent than the last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You thought this place would be in better shape?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've seen worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I thought the Roparu had a piece of the city to themselves. This is a latrine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Were you buried alive in a mound of your own excrement? No, do not answer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The Mataru are supposed to take care of those below. This does not resemble care to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Let us... let us go on." He gestures ahead, but his hand shakes until he brings it down and clutches it with the other.
+
+Tekēhu turns his gaze to the ground beneath his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Times are hard, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You're clearly upset. Let's just keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You would not think it from the elevated districts of the city, would you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Tekēhu swallows and diverts his gaze away from the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The deaths of these students hurts the guild, but no more so than their treachery." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Where do you fit into the prince's plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Tell me again about how you got involved in the prince's plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Whatever is happening in the Gullet, I believe that watershapers are at the center of it." He turns away in disgust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aruihi would not have told you the entire story. There is a good reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Let me explain. When watershapers are not attending to their duties, they are dispatched into the city."
+
+Tekēhu spits into his palm. Concentrating, the small puddle rises to take the form of a tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"One evening I snuck out and followed a group of shapers. I expected to find myself in Serpent's Crown."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"To my surprise, they went down to the Gullet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Why was this so unexpected?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You think they were up to something illegal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"There are no water sculptures in the Roparu district."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The crown only flaunts our power where it can be displayed for foreigners." He smooths back his hair and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"As you will." Tekēhu nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I had thought that spending time in the Gullet would reveal some... hidden charm. I am still waiting for it." Tekēhu nods to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"At least a better class of foreigners than the type who frequent the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"We are not forbidden from entering the Gullet, but it is simply not done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I followed a group of watershapers into the Gullet - where no respectable guild member has any business." Tekēhu crosses his arms and purses his lips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Watershapers aiding the Príncipi... bringing in cargo with all the grace of drunk oxen!" Tekēhu takes in a sharp breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I have NEVER seen a more undignified use of our talent! Have we all honed Ngati's talent for drudgery?"
+
+Tekēhu balls his fists and trembles on the spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You don't care what they're doing, just how they go about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"We can discuss my emotional state later. This display has me sickened to my core." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"They are helping the Roparu. There's value in that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"There is a reason this is being done in secret! It is unseemly, a betrayal of our art."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"The prince will want to know of this, but..." Tekēhu stops himself, and a cautious look comes over him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Something on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I am wondering if the crown needs to know the truth about Delver's Row at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"The prince needs to know. Delver's Row can't be allowed to thrive outside of the crown's jurisdiction." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"The Roparu will not thank us, but they have put the crown in an impossible position." Tekēhu anxiously smooths back his hair before letting his hands drop to his sides again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I'm not telling the prince. Delver's Row is doing more good than harm. For the sake of the Roparu, we should let it endure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Are you prepared for whatever comes next, Tekēhu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ekera. Since the moment of my first inkling that something was amiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I'll tell the prince what we saw here, but I'll see if I can convince him to let Delver's Row remain untouched." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'll have to think it over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"It is no easy question and has no simple answers." Tekēhu rubs his forehead with both hands, sighing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Let's be off." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Watcher, I..." Tekēhu hesitates, searching for the right word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"This warren brings business and trade through the Gullet. Without it, the Roparu would be destitute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"We should let the prince handle the rest, and not involve ourselves any further." 
+
+He makes a discreet gesture toward the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"If we want to save this place, we had better leave before taking too many chances. Our presence will not be kindly met." He gestures toward the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I am more than a little relieved to stand in the company of a fellow misfit." He grins as some of the tension leaves his shoulders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ekera, let us hope that the prince is as keen as his sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Let us move on. I would see bright things again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"If they have broken the crown's law, I simply want to know how and why." He crosses his arms and aims a petulant look elsewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Unless you are Ngati's chosen. Mairu keeps a tight leash."
+
+Closing his palm into a fist, the tower collapses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Neketaka's great sculptures require some maintenance to hold their form."
+
+He passes his other hand over the miniature, sharpening its edges, adding detail and definition. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Even bright Neketaka has its shadow, if you haven't noticed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Is there an answer that would please you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ekera, there is not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Unless you are Ngati's chosen. Mairu kept a tight leash."
+
+Closing his palm into a fist, the tower collapses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Let's be off." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Take him by the hand.] "It'll be okay. I'm here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Pretend you didn't see it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Was calling it 'the Gullet' not enough of a clue for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Stop, I say! This is no time for japes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Captain, I.... thank you. I needed this." Tekēhu's grip stiffens as you proceed together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"You're right. It's awful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ukaizo... the origin of all Huana. I say it feels close enough to touch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ekera, what say?" Tekēhu folds his arms and gestures for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

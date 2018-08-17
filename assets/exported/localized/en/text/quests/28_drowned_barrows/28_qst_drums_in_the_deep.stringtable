@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_qst_drums_in_the_deep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nemnok the Devourer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Journey to the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak with &lt;b&gt;Tatok&lt;/b&gt; in the &lt;b&gt;Junvik village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Explore the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Deal with &lt;b&gt;Kaali&lt;/b&gt; and &lt;b&gt;Nemnok&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Speak with &lt;b&gt;Tatok&lt;/b&gt; in the &lt;b&gt;Junvik village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Junvik people speak of &lt;b&gt;Nemnok&lt;/b&gt;, a mysterious god whose lair is in the depths of the &lt;b&gt;Drowned Barrows&lt;/b&gt;. Nemnok takes offerings from the tribe, most recently a boy named &lt;b&gt;Kaali&lt;/b&gt;.
+
+The prospect of a new god is troubling at best. Unless "&lt;b&gt;Nemnok&lt;/b&gt;" is merely some new aspect of Skaen or Wael playing tricks on the world, the matter bears closer scrutiny.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tatok of the Junvik tribe informed me that &lt;b&gt;Nemnok's&lt;/b&gt; realm is within the skull-shaped mountain &lt;b&gt;due north of the Junvik village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've dealt with Nemnok, though &lt;b&gt;Tatok&lt;/b&gt; will have little reason to thank me for it. He might still appreciate the closure of knowing that &lt;b&gt;Kaali&lt;/b&gt; is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Now that I've located the &lt;b&gt;Drowned Barrows&lt;/b&gt;, all that remains is to find a passage inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;Nemnok&lt;/b&gt; is somewhere in the depths of the mountain. If I want a closer look, it will mean trespassing on the god's protected domain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I found &lt;b&gt;Kaali&lt;/b&gt; in the depths of the &lt;b&gt;Drowned Barrows&lt;/b&gt;. He was swept up in a frenzied summoning ritual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Now that I've dealt with Nemnok, Kaali has returned to his home in the &lt;b&gt;Junvik village&lt;/b&gt;. &lt;b&gt;Tatok&lt;/b&gt; should be pleased to see his son again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I learned from Acolyte Kinnuq that &lt;b&gt;Kaali&lt;/b&gt; is in the lowest level of the &lt;b&gt;Drowned Barrows&lt;/b&gt;. &lt;b&gt;Nemnok&lt;/b&gt; is there with him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kinnuq told me that &lt;b&gt;Nemnok's sanctum&lt;/b&gt; lies beneath a passage called the &lt;b&gt;Gates of Death&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I need a wardstones to pass through the &lt;b&gt;Gates of Death&lt;/b&gt;. It's currently in the possession of an eoten &lt;b&gt;Death Warden&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The &lt;b&gt;Death Warden&lt;/b&gt; occupies the central level of the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I possess the correct wardstone and can cross the &lt;b&gt;Gates of Death&lt;/b&gt; to &lt;b&gt;Nemnok's sanctum&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Kaali perished in the Drowned Barrows, leaving Tatok to mourn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Tatok has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I stole Kaali back from Nemnok and delivered the good news to Tatok.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

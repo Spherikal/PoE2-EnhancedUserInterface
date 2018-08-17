@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_si_magran_elevator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A statue of Magran towers above you. Bloodied and battle-ready, the goddess clutches both sword and shield.
+
+At the base of the statue, a rectangular, iron-slatted altar rests between two unlit braziers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Descend into the depths of Ashen Maw.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ascend into the Jagged Keep.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Place the torc on the altar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Examine the altar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>With a squeal of metal against metal, the entire floor drops a stomach-lurching five feet. Chains clang like the toll of a bell as they catch, pounding against the timeworn gears. Then the shrine begins steadily lowering into the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Chains clanking, floorboards rattling, the elevator steadily climbs toward the Jagged Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The braziers on either side of the altar flare to life, red-hot flames shooting high before settling into a steadier, softer burn within the bowls.
+
+Lava eddies beneath iron grating in the floor, heating the soles of your feet, while the statue herself seems to wake, metal groaning, rasping, as the shrine moves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The slatted top of the altar has been hammered silver-water smooth, except for a single circular groove, notched deep into the center of the slab.
+
+Charred bits of metal, leather, and bones are piled in the interior of the circular groove - the remains of prior offerings to the goddess.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wedged into the circular groove, the Torc of Bithákten blazes with arcane power. Grasping the torc now would surely sear through both armor and skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You step close to the shrine and to Magran's metal form, her eyes bleeding lava, heat blasting you in your face. 
+
+The bathor burns an offering within the torc. Then he steps back, waiting for the gears to churn the chains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As the shrine fires to life, lava eddies beneath iron grating in the floor, heating the soles of your feet.
+
+The Rathun warriors stomp onto the platform, gathering close to Magran's scorching statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As the shrine cranks lower into the Maw, Eothas' colossal adra-carved dome, neck, and shoulders slowly emerge into view. This close, the god rises up like a mountain, larger than you ever remember having seen him. Energy vibrates from his massive body, and a cacophony of mutterings and shouts from the souls whirling within it slams into you, nearly knocking you from your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A statue of Magran towers above you, eyes flaming, fists gripping her instruments of war
+
+At the base of the statue, a rectangular, iron-slatted altar rests between two blazing braziers. In the center of the altar, the Torc of Bithákten brightly burns - an offering to Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Their faces, proud and resolute, disappear under the floor of the keep as the shrine descends towards Eothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You hear their cries of battle. They muffle when the shrine retracts back into the keep, the torc resting on its altar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The slatted top of the altar has been hammered silver-water smooth, except for a single circular groove, notched deep into the center of the slab.
+
+Charred bits of metal, leather, and bones are piled in the interior of the circular groove - the remains of prior offerings to the goddess.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Heat blasting you in your face, the vision of Magran retreats into her statue. The Rathun behind you seem oblivious to your exchange.
+
+The bathor gives you one last solemn nod, waiting for the gears to churn the chains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Before you trigger the shrine to lower into the Maw, you realize not everyone in your group is standing on the platform. Rather than leaving someone behind, you wait to start the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

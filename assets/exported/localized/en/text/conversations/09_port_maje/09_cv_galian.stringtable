@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_galian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>93</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thought I'd locked that thing."
+
+The glassy-eyed gentleman before you bears the miserable expression of the recently sober. He also smells like he's been pickling in a cask for a few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Help a fellow out, would you? I think we're running low."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"That you, Rix? ...Shit, I'm drunker than I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Not this again. How do I put this politely? Piss off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm on the next ship out of here. Unless you're here to kick me off the docks this time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Baru!" 
+
+Galian takes a half-step towards his companion, his expression anguished.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ugh. That one hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Try not to slam the door on your way out, yeah? My head's going to pieces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This place is a mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Now, that's not nice. Things were real comfortable up until you turned up." 
+
+He nudges an empty bottle with a boot. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Thorel wants you out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm here for the rent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Is old Thorel hiring right out of the villages, now? You know your liquor from your ale, big man?"
+
+"Doesn't matter. We're out of both."</DefaultText>
+      <FemaleText>"Is old Thorel hiring right out of the villages, now? You know your liquor from your ale, big girl?"
+
+"Doesn't matter. We're out of both."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It's been a hard week for all of us. Truth is, I've been seeing something like... three of you for a while now, okay? It's all... it's all very fuzzy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Blazes. I was going to say you wandered into the wrong room, but by the look of things it runs in the family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Does he now? And what are you supposed to do about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You can leave on your feet or get dragged out by the ankles. Your choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You really want the guards in here to throw you out into the street?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The governor's got all his guards on high alert, staving off the pirates." 
+
+He waggles a hand in a gesture of mock alarm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm asking politely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Thorel said I could get rough if I had to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Maybe we could share the room. I could settle your tab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh, aye? You running Thorel's errands?
+
+Well, I haven't got his pay, and he knows it. Come back tomorrow. Better yet, tell him I'll swing by myself when I do have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You've got the wrong room. I know you company men like to wander in and plant the flag anywhere you please, but kindly wander back out again."
+
+He makes a mocking sweep of the arm, and nearly unbalances himself.</DefaultText>
+      <FemaleText>"You've got the wrong room. I know you company ladies like to wander in and wave the flag anywhere you please, but kindly wander back out again."
+
+He makes a mocking sweep of the arm, and nearly unbalances himself.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Thing is, the way doors work, right - and I realize this is complicated - is that you close them, and then uninvited people stay on the other side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Leave] "I'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What? No! It's bad enough in here with the lot of us. Find your own hole to crawl into. This one's mine. Ours. Whatever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I thought I'd help out with your headache. By screaming very loudly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"...What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I can do this all day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Galian cringes, grimacing, as you start to scream. He claps his hands over his ears, doubling over.
+
+Multiple distressed protests issue from his companions, all muffled by your caterwauling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Hylea's tits, what're you doing that for?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You've got until I count to ten to get your things and get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Galian blinks at you and then at his companions. 
+
+He bursts into laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Did Thorel put you up to this? You really want to get your teeth kicked in on his behalf? Get out of here before you regret it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You're the one offed Thorel? What'd you go and do that for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"So if anyone's going to be doing the throwing, it's going to have to be you."
+
+"How about it, tough guy?" 
+
+He reaches out to give you a shove.</DefaultText>
+      <FemaleText>"So if anyone's going to be doing the throwing, it's going to have to be you."
+
+"How about it, mate?" 
+
+He reaches out to give you a shove.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I don't think you realize how much of a nuisance i can be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I do a great falsetto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Galian waves dismissively, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"This has been real fun, but I think I've had enough of you now."
+
+He straightens up, wobbling slightly on his feet, and brings up his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Beside him, a stocky aumaua woman does a much less showy job of settling into a ready stance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Punch him in the nose.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Step aside.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You're trying to kick us out! Nothing polite about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Thorel's pretty steamed. Things are only going to get worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Give him 100cp] "Here. Find another tavern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"There must be other taverns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Can't you just pay what you owe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Clean yourself up and ask around the docks. Someone's bound to have work for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Galian sneers for a moment, but something in your expression squelches his confidence in a hurry.
+
+He scratches nervously at his beard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"All right. All right, just... keep your boots on. We're leaving. Thorel wants us out on the street so bad, so be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You serious, Galian? Where are we supposed to go?"
+
+The aumaua woman glowers at you before following him out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You might have noticed, but the town's a little crowded. We're not the only ones whose ship got smashed to pieces." 
+
+"My Peregrine, down at the bottom of the harbor. May she rest." He briefly doffs his hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Galian looks down at the coin in his hands, then aims a suspicious look up at you. 
+
+It doesn't last long. He shrugs, and pockets the money.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yeah, I guess that'll do. If it means so much to you."
+
+"...Come on, you lot. Let's clear out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Of course I can! I'm just... In a spot of trouble at the moment.
+
+We came here to trade. And then our fortunes sank to the bottom of the harbor, along with my ship. What am I supposed to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Galian looks down at himself, and then out at the fouled bedding and the sticky carpets. 
+
+His shoulders slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Thorel's got a heart of stone, he has. A man loses everything, and he can't even drown his sorrows for a while? 
+
+These are ex... external..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Extenuating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Difficult circumspects for all of us, all right?" 
+
+He pats himself down for a flask, which he produces from the depths of his soiled shirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You serious? You're going to let him kick us out of our own room?"</DefaultText>
+      <FemaleText>"You serious? You're going to let her kick us out of our own room?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Well... maybe we did lose our heads a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Come on, you lot. The crew of the Peregrine sails for brighter shores." 
+
+He heads out at a wobbling limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Just leave off, will you? Every time you open your mouth it's like a little knife behind the eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Attack.] "Your mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Just get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Come on, you lot! We're leaving."
+
+He stumbles past you, and raises an arm to motion his compatriots onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Take the punch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You hear the sharp crack of joints as Galian's fist impacts somewhat clumsily with your sternum. 
+
+Galian immediately tucks his curled fist against his stomach, wincing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Have to admit... I was aiming for your face." 
+
+He gazes up at you, wide-eyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Shove him back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Stab him in the arm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Feeling better about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Galian's punch goes more than a little wide, and he stumbles past you.
+
+He stops there, doubles over, and promptly retches an impressive volume of alcohol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Galian rocks back, clutching at his bloodied nose. 
+
+He groans piteously from the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>His aumaua compatriot shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ugh... Yeah, okay, I'm... I'm done."
+
+He holds up a hand to ward off further hostility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He scowls at you, but the less than impressive exchange of blows leaves him standing awkwardly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You finished?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ahh! Shit-" 
+
+Galian clutches at his wound. His face pales as blood seeps between his fingers. He gapes at you, open-mouthed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What is &lt;i&gt;wrong&lt;/i&gt; with - All right, all right, we're leaving!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Galian aims a sullen glower in the general direction of his boots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Okay, look. We're done, all right?" 
+
+He drops his weapon, presenting his empty palms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Don't remember ordering more drinks..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Faster, you lot. Let's get off this rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Don't test me. I can take this up to a shriek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"No! No, no need for that. Just stop." 
+
+He raises his hand in a placating gesture, still wincing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"For fun, mostly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Galian gives a low, aggravated groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

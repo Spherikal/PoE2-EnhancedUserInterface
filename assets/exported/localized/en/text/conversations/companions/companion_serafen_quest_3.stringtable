@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I don't believe we know one another. Per complanca, leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oi, cap! There he be! There be Remaro, sure as my arse be blue!"
+
+Serafen runs to meet an old, white-robed man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I wish you'd not come, my lad, pleased though I be to see you. Even Aeldys' anarchists spare no mercy for mutineers."
+
+Serafen breaks away and peers up at Remaro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aye, but you, a traitor? The very thought of it be ludicrous."
+
+He spreads his open palms wide to either side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I can't, Blue, much as I loathe to leave. I'm dead to these waters, and they to me."
+
+Serafen gapes and sputters before finding his response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Why would you leave the Príncipi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Is it true, what you're accused of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Why did you leave Fort Deadlight? You might have been safe there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The Príncipi have changed, and not for the better. Once we aligned behind a common purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I've not heard every charge against me, but that of mutiny? Of that charge I bear guilt."
+
+Serafen's ears droop. He reaches for Remaro, but stops short, letting his hands fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I... couldn't bear to remain, sheltered or no. It's a hopeless feeling, bearing witness to the slow decline of something I once held such pride in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Why? The Sorcerer were our home and kin. Were our cock-swelling &lt;i&gt;pride&lt;/i&gt;. And you bartered it to a half-drowned old elf for a pint-bilged fucking clipper?"
+	
+Staring intently on the ground at Remaro's feet, Serafen shakes, his fists balled at his sides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Captain Bastian had the Sorcerer slaving."
+
+Remaro frowns at his dark, wrinkled hands, and rubs his palms together.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Slaving? What kind of fathom-headed hornswoggle be this? The Sorcerer were my kin! They weren't slaving! I &lt;i&gt;hunted&lt;/i&gt; slavers for the captain! We &lt;i&gt;freed slaves together!"&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I meant you not to know. To keep your faith in our traditions. To remain optimistic, a bright star within the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"There still be pride to be had, honor too. Things be changing, sure as shit, but you can't thread them narrows if you ain't even at the wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ac. These rheumy eyes have seen too much. Nepotism and cronyism run rampant, rotting the Príncipi from inside out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sientere, Serafen. I've disappointed you. Hurt you. No words can justify my actions. I only hope you believe me - that I did what needed doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Remaro, did this have something to do with your captain trafficking slaves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Serafen, you've heard Remaro's confession. What would you do with him now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Remaro, you're coming with us to face the judgment of the Consuaglo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ne. The Consuaglo has run dry of justice. Do what you must, but I'll not return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Cut him loose, cap. Aye, he did the Deadfire a fine turn by sinking them slavers, but among the Consuaglo, mutiny means death, per guonfer or no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Cut him loose, captain. Let him hold this shit close to his bilge-rat heart for what beats be remaining it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"We'll leave you be, Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Attack] "You won't leave this island alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Then only the thing remains, Captain Watcher. To split your bowel-sucking skull and scramble your scurvy brains for chum!"
+
+Serafen draws his weapon. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Corès, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Agracima, Watcher. The clipper will be loaded soon, and then we'll be away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Where do you intend to go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I hope I'm wrong, if only for your sake. I don't think the Príncipi can survive as is, and I can't watch something I devoted my life to sink into ruin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"My crew, those few souls who followed me from the Sorcerer, and I set sail for lands west. The Reach, perhaps, or the Living Lands. Perhaps we'll run trade from Aedyr or Vailia. Wherever fortune leads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Now we've fractured into two extremes, each wallowing in its own corruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Power consolidates behind the least deserving. The Consuaglo's leadership founders, and with it, my faith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You're fleeing your problems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Belay that blarney, you old sea dog. You know good as any there ain't no faith on these waters save that you be finding for yourself." 
+
+He flashes a crooked smirk and strikes a closed fist against his chest.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"A fine dream. I pray to Ondra that you achieve it. For me, though, the current flows but one way. A return to the Príncipi would mean my death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"So I also believed. But Bastian sold those we saved to the Crookspur slavers. I found records of it in his quarters, almost a decade's worth. When I confronted him... it went poorly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;i&gt;Sand beneath your feet, crusted and blooded, you young and small, filthy and shaking in fright, cheers from all corner - jeers, too - and the shouts of the kith before you, aumaua and thrice your height, heavy-muscle and soft fat wrapped in bright robes - don't make me go again, you plead, don't make me...&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"We ship out soon. Take care of Serafen for me. He'll take care of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Serafen throws his arms around the man's waist, and he pats the orlan upon the head with one hand while resting the other on his shoulder. He smiles, a pensive expression that doesn't reach his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Return with us. I'll be protecting you, and we'll be seeing to your fair judging."
+
+With a slow shake of his head, Remaro swallows.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Break my biscuits and call me swabby, you've gone addled in your dotage, ain't you?"
+ 
+The orlan looks to you, lower lip twitching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Captain! Unsheathe that silvered tongue of yours and talk some damned sense into this old salt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I know we ain't seen always eye to eyehole, but if you do anything for me ever, captain, talk some damned sense into this senile old salt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Captain! Can you talk some sense into this crusty old salt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"But... that be the far fucking side of Eora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ac, a journey and a half to be certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Fourteen years I spent swabbing them decks. Longer yet for you. Captain Bastian trusted you. &lt;i&gt;I&lt;/i&gt; trusted you."
+
+His glare rises to meet Remaro's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ac, bon aimico..."
+
+Remaro's mouth opens briefly before closing again, and he swallows.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"How can I?"
+
+With a tired shrug, Serafen looks away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You're hiding something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Betwixt your brains and my swagger, we'll be righting the good ship Príncipi sen Patrena forthwith and be shot of these ship-squiffy doldrums."
+
+Remaro's frown deepens as he looks away from Serafen and towards the sea.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ac, that I am. Many things. For many reasons. I learned long ago that it's ofttimes better to hold your tongue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"A wise Watcher once told me that honesty always be best. I didn't believe the words at the time, but they led me right when it counted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"The Watcher here reminded me that you and me, we be deeper than two hands on a deck. We be kin. You be the closest thing I've ever had to a father, and if you be setting sail, I'll be embarking with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Magran's flaming tits, old man, you sound three-sheets sodden. Stow your self-pitying blather and answer the Watcher's flogging questions!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You sure bout this, Captain Watcher? Whatever he's done, you draw on my family, you be drawing on me." 
+
+His hands move to his weapons.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Stand down, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The law of the sea is clear - mutiny means death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Back off.] "Serafen just saved your life, Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You don't steal from family and stay family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Attack] "So be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"All due respect, Captain Watcher, take a long fuck off a short plank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The blue orlan winces, eyes falling to the side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ac. Not for the first time, either. For all he says he owes me, I owe him in turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Serafen's eyes widen, then fall closed. He nods and looks to Remaro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aye, cap. Looks like this nut didn't fall too far from the tree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You heard his reasons, cap, clear as me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Don't matter what he did, I can't be a party to this. Corès, Remaro. I'll be remembering you as you were." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Corès, bon aimico."
+
+Serafen turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How did you...?"
+
+Remaro blinks, then shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Serafen blinks, expression blank. His mouth opens, closes, opens again. 
+
+His fur bristles, ears angling lower.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Your journeys with this [player race] have changed you, Blue. You wear it well, bon aimico."
+
+He sighs, and shakes his head sadly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I cannot do for you what you ask, bon aimico. Nor I can I do it &lt;i&gt;to&lt;/i&gt; you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Rage rushes through your blood, flushing your skin, and cold hate spirals along the length of your spine as confusion blurs your vision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;i&gt;His heavy hand sends you sprawling in the sand to a chorus of jubilant applause, you bounce to your feet as the other slave boy approaches - you feel his thoughts, a tickle in the back of your mind, his fear, greater than your own, but what can you do - only one may live - you silence everything but the anger, but the hate, and it propels your snapping teeth and grasping hands, the blows light but fast, and the other youth all screams...&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Sientere, bon aimico, forgive me."
+
+Remaro stands a bit unsteadily.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Fight against it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Let the visions come.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You close your thoughts against the onslaught of Serafen's emotions and they break upon you, scattering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You okay, Serafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Serafen snorts and shakes his head. Moisture matts the fur beneath his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Corès, Serafen, bon aimico. Take this, may you have rare cause to use it."
+
+He provides Serafen with a tightly-wrapped package.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I hope we meet again someday, on calmer seas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_troupe_wizard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"If you're enjoying my performance, tips are welcome but not required. Thank you, loyal patron." Voice monotone, the wizard examines her nails as she speaks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A hand on her hip, she cocks her head as she waits for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Endless thanks for taking care of my debt! See you at the play."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Thought I saw Harker in the audience. Gave me a real fright, it did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How was I? Bloody marvelous, I bet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I spoke with Harker. You're free to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Calandra needs you for her play."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me again what's stopping you from leaving this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"It doesn't look like you're enjoying yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"How did you end up among these pirates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I can't bloody believe you convinced him! It's best if I got out of here before he changes his mind. 
+
+"See you at the play, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'd be happy to go back to working for her, except I owe Harker over there a good deal of money." She jerks her head toward the far end of the bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Until I pay him what I owe - seven hundred pires - I'm not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'll see what I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Is there anything else I can do to get you out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sure. It's worth a try, I guess. 
+
+"You must really want to see Calandra's play. Well, I won't stop you from helping me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Talk it over with Harker, maybe he'll be feeling generous." She snorts as if she's made a joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"A more likely possibility is he'll try to put a knife between your ribs. Assuming he doesn't, or you survive it, you ought to know - he hides his money in his private quarters...
+
+"Would be a shame if someone stole it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I work for a handful of pires per day. How could I find enjoyment in that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I was playing dice and gambled on a sure thing. It turned out not to be such a sure thing, and now Harker owns my ass until I pay off the debt."
+
+She grunts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Here's a tip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, thank you, patron. I'll be debt free in no time." Despite her words, she doesn't actually sound appreciative. In fact, she rolls her eyes as she tucks the coin into her pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Welcome back, patron. I so hope you enjoy the performance." Face bland with a bored expression, the wizard sighs heavily after speaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Here - pay off your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Blast me! You must really want to see Calandra's play." Eyes wide, hands shaking, she eagerly accepts the heavy pouch of coins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"My never-ending debt to Harker. Every time I manage a payment, the interest has gone and doubled!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Well, good luck with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aye, I'll be needing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What can you tell me about Harker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You haven't heard the rumors, I take it?" Her voice drops to a raspy whisper. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"The infamous pirate? I'd heard he was lost at sea years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Aye. I'd heard that, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"The who now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Come on now, you pulling my leg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm not familiar with any royalty by that name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Not a crowned king. I mean a tyrant of the seas." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I wouldn't go asking him about it, if you know what I mean. Harker's got a nasty reputation - a real violent disposition. And besides, people in this port generally don't like others prying into their past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She glances around nervously before continuing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Some people say he's the Red King."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Stupid dice went cold at the wrong time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I can't fathom why you're doing this, but I thank you all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Those same folks say that &lt;i&gt;Harker&lt;/i&gt; was the Red King."
+
+Licking the corner of her mouth, she straightens. She smooths her hair with trembling fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"The Red King was a pirate with a grudge against the Vailian Republics. Supposed to have died years ago." Her eyes gleam with excitement as she tells the tale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"But some folks say he faked his death to escape the wrath of the Vailian Republics."
+
+The elf leans closer, conspiratorially, to murmur near your ear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>" 'Course I started off owing him two hundred fifty and even though I've paid that twice, now I'm in the hole for seven hundred.
+
+"The interest rate, this uniform, my food and drinks... they all get added onto my tab at the end of the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Don't give it to me, give it to Harker. Knowing him, he'll tack an a few extra expenses just to spite me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

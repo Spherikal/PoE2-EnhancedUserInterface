@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_constable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Yes? What is it I can do for you?" 
+
+The watch commander looks up at you after her listless greeting, and you notice that she has a dark bruise around one eye.
+
+She grimaces, but does not turn away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Keeping out of trouble? 
+
+"A little jest. What is it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Something you wanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Madiccho, I can do nothing without more guards..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I don't see many guards around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We are stretched thin. The Storm Speaker did much to help, but much of the town has flooded. 
+
+"Now we are awash in homeless citizens and stranded merchants. To say nothing of the &lt;i&gt;cultists&lt;/i&gt; out there..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What happened? I showed a drunken fool more patience and respect than he deserved, and he struck me without warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sientere, Savia! You know that I was aiming for Darmo's pretty face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I could go speak to this Ilari."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ilari's dead. He won't give you any trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Cuè? I cannot say it would not be welcome, but... You are only recently arrived- and not, I hear, by choice. 
+
+"Why do this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I lost a lot to the storm myself. I want to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Seems only sensible to be on good terms with the commander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Seems like a good chance to crack some skulls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eothas is responsible for all of this. I've had enough of the gods upending people's lives whenever they feel like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I wish more felt as you do. I might get a full night's rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"And you are a sensible man, I see. Fair enough."</DefaultText>
+      <FemaleText>"And you are a sensible woman, I see. Fair enough."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I would not wish to send a man who was not ready for a fight, but... perhaps I have done a poor job of explaining the situation."
+
+Savia sighs.</DefaultText>
+      <FemaleText>"I would not wish to send a woman who was not ready for a fight, but... perhaps I have done a poor job of explaining the situation."
+
+Savia sighs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"We have suffered misfortune, it is true. But I do not think we have given the gods cause to involve themselves. 
+
+"It was only a storm. The rest, greed and opportunity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gorecci Street is in the western part of town. Just walk until you hit water.
+
+"We don't need a bloodbath. I'm sure there's a peaceful solution to resolve this. I'd appreciate your looking for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I convinced Ilari to keep watch on Gorecci Street."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Easier to work with a familiar face for the moment. I can deal with him later. 
+
+"So, we have one small part of Port Maje under control. A good start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Lucky for you that I'm around. I, ah, humbly offer my services. 
+
+"Let me out, and I will bring you this Ilari's teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Shut it, Riggere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Any chance you'll lower Riggere's fine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'd like to pay Riggere's fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Di verus? Well, good riddance to him. It's your coin to spend." 
+
+Savia pulls a ring of keys from her pocket, and moves toward the cell door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eccosi? Why should I do that? To show my appreciation for his aim? 
+
+Riggere is a drunk and a fool. Do not trouble yourself on his behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Cuè? Don't tell me Riggere has earned your pity. That won't last."
+
+She glances at the occupied cell, her nose wrinkling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Here - I'll pay Riggere's fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What? I know I locked this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"A jailbreak? I don't think so!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Riggere's gone. I can only assume he wasn't half as drunk as he was putting on.
+
+Merla. That rum-soaked rat is lucky I don't have the time to waste on him right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ac, of course. Here you are, to see the damage and ask polite questions- No, do not say anything. It has been a very long day." 
+
+Savia's baleful glower slides away from you, to the smoking gap in the wall of the nearby cell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Now I have Ilari's people making trouble up on Gorecci Street. 
+
+"His little gang is looting everything they can get their hands on, and the bazzo kicks up his heels like a prince."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Madiccho... I hoped Ilari might be of use. The people knew him- respected him.
+
+"He would have been trouble in the end, but.. no need to have hurried that along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Well, here you are. For your time.
+
+"If I had ten men like you, the whole of Port Maje would be set right within the week."</DefaultText>
+      <FemaleText>"Well, here you are. For your time.
+
+"If I had ten women like you, the whole of Port Maje would be set right within the week."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"How are things here in Port Maje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"We lost no one to the storm, but many homes have been damaged. And the people are terrified of this... 'giant' the scouts reported.
+
+"It is chaos, pure and simple. But things might have been far worse."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Improving by the day. There is much to rebuild, and the usual share of troublemakers. 
+
+"But the people are in better spirits, which is important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Madiccho. How am I going to explain this to Clario?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Madiccho. How am I going to explain this to the Songretta...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I do appreciate what you have done for me. So, if you will vouch for Riggere, I will lower the fine. 
+
+"Three hundred pieces will cover what he owes at the tavern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Perhaps I should raise it. How is it Riggere has caught your interest?
+
+If what my men say is true, you are lucky not to be sharing that cell. Let us leave it at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Belfetto. He's a little shit, ne? But a lazy one. 
+
+"He will not cause trouble if he does not have to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Savia glances up at Xoti, expression flat, but keeps silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I assumed I'd be paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Well, I will not press the matter. Whatever your reasons, your aid is welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Then you are an optimist. If I had all that much coin to throw around I would have more recruits. 
+
+"In this case you are right. You will have your fair wage."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

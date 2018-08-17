@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_si_dracolich_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The dragon heaves before you, fallen to her knees, her foreclaws scraping at her gaunt ribcage as her putrid flesh buckles and twists at the mercy of the arcane energies contained within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Tear the phylactery from her chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Dodging the wyrm's swinging talons, you shove your hand deep into her desiccated chest. You grasp the relic, its warmth pulsing through your fingers, and rip it from the dragon's breast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The beast throws back her head and howls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Grab the phylactery!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] ably dances among the dragon's wildly slashing talons before thrusting a hand elbow-deep into the beast's chest. Your compatriot leaps away, glowing relic clutched tightly in gore-caked fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Blast the phylactery free with magic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Essence explodes within the wyrm's chest, ejecting the relic, which spins across the frozen ground to come to rest at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You shove your hand deep into the wyrm's desiccated chest even as her talons gouge your back. You grasp the relic, its warmth pulsing through your fingers, and rip it from the dragon's breast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0] thrusts a hand elbow-deep into the dragon's chest, only to be gouged across the back by the beast's wildly flailing talons. Your companion rolls away, however, with the glowing relic clutched tightly in gore-caked fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The dragon's neck twists, turning her head that she might cast a single balefully glowing eye upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_cv_sugaan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The lighthouse is quiet but for soft, sibilant whispers. There's a repetitive, incantatory quality to them.
+
+Yet as you cross the threshold, an old nāga with skin like cracked leather breaks off. He swivels to face you, baring one broken fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"If you joined them in befouling the adra, then you will join them in death, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The sea-striped fiends send you to uproot the tree of the gods, yes? Their blasphemy knows no bounds!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Give the order, captain. Or just nod. I'm not picky." 
+
+Maia's upper lip pulls back in a grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The creatures hiss and advance on you, fangs bared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Go! Carry a warning of what you have seen to the other shufflers."
+
+His tongue whips from his mouth like a ripped streamer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"They died honorably. Show some respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Quiet, both of you. I'm not here to yammer about a bunch of corpses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You're telling me this slaughter is all about adra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Attack] "I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I need to approach the adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Leave] "I'll be going now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He hisses. "Fool! See what the impiety of the sea-striped fiends has wrought!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Now, the gods return to rain their punishment on these islands. Again." His pupils narrow to angry slits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The nāga stare at the glowing adra, their diamond pupils wide.
+
+Sugaan turns his gaze to you, his body in a cautious half-coil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Attack] "No one stands in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm a Watcher. I can restore the adra if you'll just let me near it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Your stench is bitter on my tongue, shuffler. Why do you return?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Yes. Tell the other shufflers of the destruction that awaits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Pull Yanass' soul into the Here.] "Hear this, Sugaan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Yanass' bright, wispy form appears, and the other nāga pull themselves into tight, fearful knots.
+
+Only Sugaan cranes himself forward, his head cocked. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Approach. Restore the blessing of the gods to the adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You're saying the gods have brought ruin on Deadfire before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He bares his broken fang in surprise. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Do your stories say nothing of the many disasters? Of the shuffler nests washed away like foam?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Many generations ago, the sand-striped ones built great hives across the islands. And bastions around the adra roots."
+
+At this, the others hiss angrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Their meddling displeased the gods. So the gods smashed their works with heaving volcanoes and crashing waves." His beads and bangles rattle as he brings his hands together in a loud clap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The gods see. They will tear them all down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Our ancestors hid deep, where the waters quenched the fires and muffled the storms. They remembered while shufflers scattered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eothas came to reach the adra, not to punish anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Lies and treachery! The gods do not wither their own roots." He recoils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sugaan! I found the way!" Emotion pulses through her essence, crackling in the ether.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Background: Nihilist] "Kith and wilder have always fought. There's no meaning in any of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>As the last of Yanass' essence fades back into the In-Between, Sugaan regards the adra vein, calculation flickering in his eyes.
+
+At last, he turns his guarded gaze on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"How could you know this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"So you think history is repeating itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Now, the shufflers build again." He thumps his tail on the floorboards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"You cast off your sheddings by night only to put them back on at daybreak. You wrap yourself in filthy, worn-out things." A tremor of disgust ripples through his body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"What's the Deep Hunter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"The defender of the isles. The guardian of tides." He makes a reverent gesture. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Once it lived among us. In all bright, quiet places where shufflers did not go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"But then more came from distant lands. First few, then many.
+
+"Now, our Deep Hunter is gone." He glares at you as though you're to blame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Berath sent me. I'm here doing the will of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>His tail whips on the ground as he considers you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"So! The fiends corrupt even the sand-striped ones. Now I taste their stench on her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Long have we kept peace with the sand-striped people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"We must go. I know not what this means, but our brethren should hear of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>He bows. "You show us something new today, shuffler. Thank you for this.
+
+"And for your mercy."
+
+He presses something into your palm before departing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Slaughter is never a holy mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"That's because they killed your people and took your land. They see everything differently."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"But on whose terms?" His tail flicks in irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Perhaps not. I see Berath's mark on this one." He regards your head and its warped flesh.
+
+His tongue flickers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"If this is not some fat-tongued lie, then show us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[Cast Blessing.] "I call on the gods, and they listen. Do not test me - or the gods - further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>He and the other nāga recoil, hissing their amazement. 
+
+At last, Sugaan straightens and regards you with a wary eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Heal the adra, shuffler. If you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"This you said before. And still you returned.
+
+"We cannot trust your thick-tongued lies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Another sea-striped fiend, here to uproot the tree of the gods!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>His head twitches in her direction, his tongue flickering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Your sand-striped kind knew better. Once, you left these roots to grow. 
+
+"As the gods intended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"The sand-striped shufflers know better. But you others come - smooth-toned or furred or sea-striped - with blasphemous hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Now, foreign ones dig at these roots, and the Deep Hunter is with us no more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Now, you let foreign fiends dig at these roots. They drive the Deep Hunter away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"The tree of the gods, yes! Which &lt;i&gt;these&lt;/i&gt; fiends plunder and profane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"What 'warning' do you expect me to deliver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"That shufflers must not disturb these roots. Or the gods will destroy the islands again."
+
+The other nāga hiss in agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"'Sand-striped' - you're describing the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Letting out a deep sigh, Tekēhu raises a hand to touch his brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Huana civilization spanned the archipelago, but the Engwithans built temples around the adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>He hisses. "They did not build alone! The sand-striped ones helped.
+
+"As they help other fiends now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>He eyes Maia coldly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[Attack] "I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"If your fat tongue speaks true, then give us proof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"What would you consider proof?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"I tell you, thick tongues lie. Forked tongues do not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"If what you say is true, then surely you can speak with the dead." He cocks his head to appraise you with one eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I will believe your words only if I hear them from the tongue of my own people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"You shufflers are beasts of habit. You do not learn. You do not change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"The way became dark. But this [player race] brought light." She turns briefly to you.
+
+But Sugaan's mouth is rigid in a broken-fanged grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Hsst! We will kill the shuffler and free your soul, Yanass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Do old scales cloud your eyes? The [player race] glows. Like the god-walker.
+
+"Like the way." She looks toward the dull adra vein. Sugaan and the others follow her gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"He will open the way."
+
+Yanass points to you just as she begins to disappear.</DefaultText>
+      <FemaleText>"She will open the way."
+
+Yanass points to you just as she begins to disappear.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Yanass? You died. We saw-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"I'm standing right here..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Just listen to her, Sugaan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"It doesn't work that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I'm trying to help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I'll free YOUR soul if you try, snake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Yanass turns to Sugaan, hissing angrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Their ancestors, yes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"The shuffler's tongue is thick with blasphemy! Kill him now, Sugaan." The other nāga draws into a tight coil as if preparing to strike.</DefaultText>
+      <FemaleText>"The shuffler's tongue is thick with blasphemy! Kill her now, Sugaan." The other nāga draws into a tight coil as if preparing to strike.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"The gods give you power, yes. But is it enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"The proof, you reptilian imbecile, is that I have bested your minions. Alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Sugaan regards you with a wary eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"And do not come back. Not without proof the gods have blessed you."
+
+The nāga watch you go, their hands tight around their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"And do not come back."
+
+The nāga watch you, their hands tight around their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"We were sure the god-walker came to cast them out. That driving them away was a holy mission." Curiosity and consternation simmer in his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"But then the foreign ones came and spread. Killed our people. Built their hives everywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Good neighbors, I say. As long as we do not cross paths in mating season." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Sciòderie. You attack every foreign ship you see. The Huana may not like us, but at least they &lt;i&gt;speak&lt;/i&gt; to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Your type weren't exactly accommodating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"You have never fought to defend something. Very fortunate.
+
+"Or cowardly." His tail flicks in irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Shufflers find many stories to explain their hunger and violence." His tail flicks in irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"The gods have bigger concerns than our feuds. We must learn to live together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"There's no point in speculating about the will of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"You should be driving them out. You just didn't hit them hard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Not an option, snake. Bet you were keeping count of how many good soldiers you fanged." 
+
+Maia narrows her eyes and draws her weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"As you wish, Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"And now he owes us. A debt is more useful than blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"There's been too much death here already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[Attack] "You're right. We shall avenge your fallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Killing him won't bring them back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Vengeance for my countrymen!" 
+
+Maia lets out a rallying cry. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Let it go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[Attack] "That wouldn't be any fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"That is the answer of idlers and tenderbellies too weak of purpose to crawl from their own shed skin." His tail flicks in irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I hope your leaders find your strength of purpose." He gives you a respectful nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"This was but a single battle. The islands are many and treacherous, shuffler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Hsst! Thoughts as empty as shed skins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"They have received their due. As will all who plunder and profane the treasure of the gods!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Then leave!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Who are these 'shufflers' you keep mentioning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>He hisses with impatience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Your kind! Many different types, some fleshy or hairy, others striped in the colors of sand or sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"All stumble and shamble like sun-blind hatchlings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"That sounds like the gods, all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"The gods are more than spiteful juggernauts, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"They lie coiled, quiet, until the shufflers stumble where they should not.
+
+"Then, they strike fast and fierce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Yes, for all they do has purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"The gods summon storms. Call down moons. If they wanted Hasongo destroyed, they would not have left a single stone standing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Adra is not a root that withers, but a channel of essence. This one is merely blocked - I can show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Adra is not a root that withers, but a channel of essence. This one is merely blocked - I can show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Get to the point already. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>[Look up.] "Berath, this would be a great time for one of your demonstrations..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Nothing happens. The nāga continue to watch you, curious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Captain?" 
+
+Maia turns to you, her right eye twitching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Vengeance won't save the ones you lost, soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Just kidding. I could use some snakeskin gloves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Stand down. That's an order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Pace yourself. We have more important fights ahead of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Gritting her teeth, Maia secures her weapon and stands down, her fists balled at her sides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Aye aye... sir."</DefaultText>
+      <FemaleText>"Aye aye... ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Wherever we sail, the beaches and spires of lost Ukaizo travel with us."
+
+He clasps his hands with reverence. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

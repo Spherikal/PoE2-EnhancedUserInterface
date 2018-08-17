@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_apprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Velvet Glove, Brass Fist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find &lt;b&gt;Bertenno&lt;/b&gt; in the &lt;b&gt;Brass Citadel&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pay &lt;b&gt;Hamuto&lt;/b&gt; for &lt;b&gt;Bertenno's&lt;/b&gt; release.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return the gloves to &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak to &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Defeat &lt;b&gt;Hamuto&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A Vailian named &lt;b&gt;Bertenno&lt;/b&gt; stole Rokowa's Fingers, a pair of expensive gloves belonging to the wizard Arkemyr. &lt;b&gt;Fassina&lt;/b&gt;, the clerk at the &lt;b&gt;Dark Cupboard&lt;/b&gt;, needs the gloves returned before she gets in deep water with her master. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>There's no telling where &lt;b&gt;Bertenno&lt;/b&gt; will try to fence the gloves, but he has an appointment to keep at the &lt;b&gt;Brass Citadel docks&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; has agreed to free Bertenno from his debt to the Royal Deadfire Company in exchange for payment. He'll await me outside &lt;b&gt;Imperial Command&lt;/b&gt; at the Brass Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Go to the &lt;b&gt;Dark Cupboard&lt;/b&gt; in Periki's Overlook to return Rokowa's Fingers and tell &lt;b&gt;Fassina&lt;/b&gt; what happened with Bertenno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Return to the &lt;b&gt;Dark Cupboard&lt;/b&gt; in Periki's Overlook and tell &lt;b&gt;Fassina&lt;/b&gt; what happened with Bertenno and the stolen gloves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Speak to &lt;b&gt;Fassina&lt;/b&gt; in &lt;b&gt;the Dark Cupboard&lt;/b&gt; in Periki's Overlook about the gloves you retrieved from Bertenno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I attacked &lt;b&gt;Hamuto&lt;/b&gt; in the &lt;b&gt;Brass Citadel&lt;/b&gt; and must defeat him to secure Bertenno's freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Bertenno&lt;/b&gt; owes money to a notorious Rauataian captain named &lt;b&gt;Hamuto Stoneheel&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; has asked for 400 pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; has asked for 750 pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I killed &lt;b&gt;Bertenno&lt;/b&gt;. Retrieving the gloves he stole will now be a much simpler matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; took &lt;b&gt;Bertenno&lt;/b&gt; into indentured servitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I killed &lt;b&gt;Hamuto&lt;/b&gt; and freed &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I paid off &lt;b&gt;Bertenno's&lt;/b&gt; debt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I got Bertenno out of his debt to the Royal Deadfire Company.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bertenno was unable to pay his debt to the Royal Deadfire Company, so they took him as an indentured slave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I killed Hamuto and his soldiers, and Bertenno will be hiding out with the Príncipi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>The gloves that Bertenno stole were recovered and returned to Fassina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Fassina was extremely disappointed that the gloves weren't returned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>I retrieved a pair of fine gloves from a would-be thief in the &lt;b&gt;Dark Cupboard&lt;/b&gt;. The clerk, &lt;b&gt;Fassina&lt;/b&gt;, would probably like them returned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>I killed a would-be thief in the &lt;b&gt;Dark Cupboard&lt;/b&gt;. The clerk, &lt;b&gt;Fassina&lt;/b&gt;, wasn't entirely happy with my actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

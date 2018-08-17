@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_icebergdungeon_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This imp sits on the frozen ground, rime clinging to its flesh, wings draped protectively over its shoulders. Its mouth hangs agape, and the wrinkles around its eyes indicate that they're squeezed tightly shut.
+
+It grasps a small object in its hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine the object.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The imp's knobby knuckles wrap about what at first appears to be a sphere of solid ice, though a palpable power pulses beneath its surface, further cooling the frigid air around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The imp's knobby knuckles do little to obscure the frozen orb in its grasp. A palpable power pulses within it, further cooling the frigid air around it. This is likely the artifact sought by Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Pry the relic from its hands.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Replace the frozen relic with the stone relic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>As you pull the creature's spindly fingers from the orb, its bright blue eyes burst open. The imp leaps away from you with a prolonged hiss, its leathery wings holding it aloft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"EH! WARMLING NOT TAKE MY BALL! IS NOT WARMLING'S TO TAKE!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'll trade you something for your ball."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"That's no ball. It's a sacred artifact, and it belongs to the temple here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"WARMLING'S HEAD FILLED WITH SNOW? TEMPLE FULL OF CORPSES. CORPSES CAN'T HAVE THINGS! THEY'RE CORPSES!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Hand over the artifact or I start plucking wings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I understand that you're attached to the relic. But perhaps we could find a way we both get what we want..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I take it you're not familiar with the wrath that awaits those who cross the Beast of Winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The wiry primordial's bulging blue eyes narrow slightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'll give you this stone relic in exchange. It'll last much longer than a ball of ice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You don't recognize the Stone of Winter Dusk? It wards the bearer from Rymrgand's influence. You'll never be cold, lonely, hungry, or sick, so long as you bear it on your person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You withdraw the stone from your pack and attempt to quickly swap it with the frozen orb. The imp's grip on the orb proves stronger than you expected, foiling your attempt at a fast switch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"EH? DON'T WANT WARMLING'S THINGS. ALREADY HAVE BALL! BALL EVERYTHING IMP NEEDS!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'd be willing to give up a veritable chest of gold for it. Thousands worth. You could buy &lt;i&gt;so many balls.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"EHHH?! FRIENDS HELP ME! FRIENDS SAVE ME FROM WARMLINGS!"
+
+The imp flaps about, waving the relic above its head. A metallic grinding fills the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"IF GIVE BALL TO WARMLING, WHAT WILL IMP HAVE?"
+
+It scratches its head with one hand, hugging the sphere tightly to its jutting ribs with the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What you won't have is a curse. That relic leaves those who carry it cold, hungry, and alone. But I'm sure you knew that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"NO MORE LONELY AND ALONE?"
+
+The imp peers down at the sphere for a moment, then shoves it into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A wave of cold washes over you... or perhaps the stone sucks the warmth from your fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>As the orb glows in your hands, you hear the creaking and popping of cold metal echoing in the chill air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"MORE JINGLING SHINY COINS THAN ANY IMP COULD CARRY..."
+
+The imp's eyes widen at the sudden windfall. It presses the relic into your hand and begins to drag the box of coins away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Examine the imp.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Though still, the imp does not appear dead. Its coloration, while dominated by blue and white, suggests circulating blood, and a hand held before its mouth catches the light brush of exhalation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>It's certainly an imp. A cold, motionless, blessedly quiet imp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"NEVER... LONELY?"
+
+Its eyes linger on the stone as it pushes the icy sphere into your hands. It grasps the stone relic, hugging it to its chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"PFFFFFFT. WARMLING MAY FIND ROCK SHINY, BUT IT ONLY COLD, HARD NOTHING!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"EHHH?! FRIENDS HELP ME! FRIENDS SAVE ME FROM WARMLINGS!"
+
+The imp flaps about, waving the relic above its head. A metallic grinding fills the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>From its size and shape, you have little doubt that this is the object missing from the grasp of the iced-over pale elf you encountered earlier. The imp's claws would also explain the scratch marks in the glamfellen's frozen skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You dismiss the stone because it's not obviously magical, but you neglect its value as a cultural artifact. It would command its own price from any of the worshippers at the outpost down the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The imp stares at you, brilliant blue eyes narrowed to sharp edges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"NO! WARMLING THINKS ITSELF &lt;i&gt;SO SMART&lt;/i&gt; WITH ITS BIG WORDS AND FANCY... WORDS."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You okay there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hello?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Tap it on the head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The imp remains motionless and unresponsive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The imp's flesh feels cold and hard beneath your fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hey, this could just be how they sleep. You don't know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Enjoying yourself there, cap?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"The poor little icicle. Captain, if you will not surrender one of your cloaks as a blanket then it is welcome to one of mine!" Tekēhu looks to you with a silent plea. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You thinking it's ready for my lantern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Though incredibly still, you make out a slight tremor in the imp's finger and the briefest twitch of one of its ears. Its chest expands and deflates with preternatural slowness. The creature is alive, possibly in some form of hibernation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The imp is not as unmoving as it at first appears. You catch the slightest twitch of the tip of an ear and note a slight tension in its boney digits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The creature is alive, possibly in some form of hibernation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It would appear to be under some form of enchantment, but I sense nothing of the sort. Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>As you peer beneath the surface of the sphere, you identify entropic energy slowly spinning within, as if a necrotic spell had been bound within - entrapped but not quite frozen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>It would surprise you little, given its frozen appearance and the preternatural chill that attends it, to learn that this artifact was held sacred by Rymrgand's followers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Use fire magic to thaw out the imp's hands and claim the relic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You've barely begun to channel arcane flame from your hands when the imp's piercing shriek echoes through the cavern. It leaps away from you, wings holding it aloft. Its blue eyes glare at you as it blows on its hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"GO AWAY! THIS PLACE NOT YOUR HOME! YOU PROBABLY DIE HERE!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Imps are prone to rash behavior at the best of times, and I'd wager this one has seen better days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"NO! LIAR! BIG STUPID LIAR FULL OF LIES!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What have you got there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"THING NOT FOR YOUR KNOWING!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"EH! ALL WANTS IS BALL! HAS BALL ALREADY."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'll buy it from you. How's a bag of gold sound?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"On second thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"SECOND THOUGHT? FIRST THOUGHT MUST COME BEFORE SECOND THOUGHT!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"WARMLING ECHOES LIKE SQUAWKING SEA BIRD!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"WHY WARMLING KEEP SAYING THAT? HOW MANY SECOND THOUGHTS YOU THINK YOU GET?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"JINGLY? JUST SHAKE IT AND HEAR! EH, MAYBE IMP NOT UNDERSTAND QUESTION."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"WRATH, EH? WHAT WARMLING SQUAWK ABOUT?"
+
+The imp cranes its neck to either side, peering into the cavern's icy recesses. It's possible it was trying to lower its voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"When Elsífol Boldsummer attempted to cheat Rymrgand out of a single spirit, the god swallowed him, chewing him as cud for a thousand years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"It's very unpleasant. Bad luck. Cold. Smells bad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Annuqpiaat clan adopted Magran as their favored deity, claiming it better to court fire than appease cold. They vanished the following winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"All things end, but not all things have to end in painful boils, clawing hunger, and crippling curses..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The imp giggles uproariously. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"BOILS AND CURSES! COUGHING AND CRYING! BOWEL LOOSENINGS AND SNEEZES!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"That the reaction you were aiming for, cap?"
+
+Serafen scratches the back of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"NO! WON'T BE CHEWED ON AND SPAT OUT AND CHEWED ON AND SPAT OUT AGAIN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"BUT NO WANT TO DISAPPEAR COMPLETELY!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>It hugs the icy sphere tightly to itself, then - as if realizing what he's clinging to - thrusts it into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What a profoundly deep understanding of my people's religious doctrine." Ydwin peers at you over the rims of her spectacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"WARMLING JUST DESCRIBED LIFE."
+
+The imp shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;Don't suppose that be coming out of your share of the plunder, cap?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"EH! FRIENDS! TIME FOR WARMLINGS TO LEAVE NOW!"
+
+It waves the sphere over its head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"An imp, not understand? Now I've heard everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The imp sniffs at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The imp's knobby knuckles wrap about what at first appears to be a sphere of solid ice, though a palpable power pulses beneath its surface, further cooling the frigid air around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

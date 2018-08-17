@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_si_deadight_approach</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Through the distant haze of sea mist and rocky shadows, Fort Deadlight rises over the horizon. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Approaching a pirate stronghold is a risky venture even for the most skilled of mariners. Any ship not flying a Príncipi flag that's sighted in Deadlight's shallows may be raided.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weigh your options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Hoist up a Príncipi flag and dock at Deadlight's port.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Row to the shores on a skiff under the cover of night.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Fire your cannons on the fort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Sail away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Approaching Fort Deadlight under the banner of a pirate flag could gain you direct and unimpeded access to the base of the fort. After entry, you'd need to be careful not to draw suspicion on yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Abydon's iron scrote, cap, them guns be even bigger than I remember." Serafen looks up at the fortress from the deck and inhales through his teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>With a Príncipi flag flapping wildly from your mast, you smoothly sail into port and moor up at the dock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Waves slap at the sides of your skiff, the only sounds aside from the occasional grunt of exertion as you stealthily row to the island's shore under the shroud of darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Fire the port guns! Reload, and keep firing until we're out!"
+
+Your cannons pepper the fort's white stone walls, cracking open several sections near the middle.
+
+The fort returns a much heavier barrage, shattering one of [ Your Ship ]'s auxiliary masts, but the other shots miss.
+
+Taking the chance, you plow into the shore line and scurry up the craggy beach to storm the fort's gates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Infiltrating the fort under the cover of night could be the easiest route into the deeper parts of the stronghold, but would require a continued need for stealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A direct assault could be both dangerous and difficult, but may be the fastest way to outright kill Benweth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I can be vouchsafing you with the guards, if you can be getting us to dock without being blasting to bits thrice over. Otherwise, I be recommending the sneakiest approach you got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The docks are crawling with sailors of all ages and races, many of them wearing mismatched, battle-torn outfits - guns strapped to their thighs and chests. 
+
+They load and unload cargo holds, arms brawny, grinning faces sun-blistered as they laugh and curse and shout and hack phlegm onto the splintered boards of the dock.
+
+From the bustle, Príncipi guards emerge to hail your arrival. Satisfied with appearances, they nod you on, and you make your way up to the fort's main gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sunlight glints sharply on the many points of the choppy, undulating sea like a shattered mirror spread out for miles. 
+
+"Drop anchor!" you instruct your shiphands. "And ready the skiff. We row for shore at nightfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You stow your skiff in the shadow of the towering walls and creep forward in search of a way into the fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Assault Fort Deadlight.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Load and run out the port guns! Stand by, ready to fire!"
+
+With crewhands scuttling about, you hoist sail and make fast for Deadlight - and for battle.
+
+The deck bounces beneath your feet as you cut across the water at record speed, hurtling straight for the fortress' guarded port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>An alarm blares from within the fort and seconds later, cannons explode the water around you - a near miss.
+
+You don't stop and neither does the volley of fire.
+
+The fort's outfitted with at least thirty canons from what you can see. A head-on assault is starting to look suicidal... but you might just make it if you careen full-speed into the port's docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Ram full speed into the fort's docks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The fort fires another heavy barrage. Splintered wood explodes from the impact but your able Helmsman manages to steer [Player Ship] away from a full hit.
+
+Smoke clouds the air before you've sailed through it - that much closer to the docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The fort fires another heavy barrage, shattering [Player Ship]'s main mast and blasting holes in the hull.
+
+In seconds, you're taking on heavy water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Stay your course.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Player Ship] lurches and groans as you bare down on the docks, avoiding another hit by the skin of your teeth.
+
+Then you've made it - slamming into the docks with enough force that you rip the bottom out of the ship. You're thrown forward, wood splinters spraying the air, pirates shouting in the chaos of the fort. Then you regain your footing and draw your weapons, ready to charge as your crew barrels over sides of the deck - and into bloody battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The next round punches through [Player Ship]'s deck and several of your crew members. Screams and smoke rise on the air. The deck splits apart like a cracked open rib cage, slick with blood and sea water.
+
+With your crew wailing in the background, you go down with your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Cannon fire lights up the fort, a coming rain of hot iron and death. You speed closer, hoping to pass their range. 
+
+Impact! Several shots punch gaping holes through your deck in a destructive onslaught.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Stay your course.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The next round punches through [Player Ship]'s deck and several of your crew members. Screams and smoke rise on the air. The deck splits apart like a cracked open rib cage, slick with blood and sea water.
+
+With your crew wailing in the background, you go down with your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The next round punches through [Player Ship]'s deck and several of your crew members. Screams and smoke rise on the air. The deck splits apart like a cracked open rib cage, slick with blood and sea water.
+
+With your crew wailing in the background, you go down with your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Submerge and approach Fort Deadlight underwater.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You sink beneath the waves, arrowing at full speed for Fort Deadlight's docks, utterly undetected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Jagged island reefs emerge from the darkness before you. Rising over them, you guide [Player Ship] to the surface to emerge only a short distance from the fort's docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>A horn blares in sudden warning. Cannon fire whistles overhead, then iron pounds the water to either side of your submarine. Quickly, you disembark and rush through the front gates, ready for a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

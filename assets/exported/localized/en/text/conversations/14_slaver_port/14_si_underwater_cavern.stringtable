@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_si_underwater_cavern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Before you, a small cavern arrows into the rocky terrain beneath the fortress' crumbling stone base. The squat mouth of the cave sits within a wash of ocean water. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>At your feet, a pool of greenish water tapers into a submerged tunnel that spans off into darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Wade into the cave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You slosh into the water until the bottom abruptly drops out from beneath you, and a cold rush suffuses your skin. The water is greener in the back of the cavern, dark and deep. 
+
+A wave crashes into the cavern behind you, and as it recedes, a hard undertow sucks you back toward the shoreline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Swim deeper into the cave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Let the current pull you back to the shore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You push against the current, making slow but steady headway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Swimming deeper into the cavern, you come to a set of tunnels, forked left and right. One tunnel leads to darkness, the other is marked by a faint glimmering of light.
+
+Both tunnels are completely submerged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Swim into the darker tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Swim into the brighter tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As you near the fork, your lungs begin to burn, but you push calmly onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you near the fork, your lungs begin to burn and ache, pulsing in beat with the roar in your ears. Your limbs grow sluggish in the cold. You slow.
+
+Bubbles escape from your lips to tickle your nose and cheeks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Time ticks in your ears like the marching of tiny ant feet, over a seemingly endless expanse. A heartbeat, a second more of no oxygen, and then another... and another... 
+
+You struggle against the undertow to make headway. Your lungs pang. A flurry of fat bubbles escapes from your throat just as you reach the lip of the tunnel...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Time ticks in your ears like the marching of tiny ant feet, over a seemingly endless expanse. A heartbeat, a second more of no oxygen, and then another... and another... 
+
+And then you're out of everything - air, hope, energy, and time - everything but tunnel.
+
+A flurry of fat bubbles escapes from your throat, and then it closes up even as the water gushes in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The tunnel's depths are so black, you can't make out your hand in front of your own face so you don't notice the dead end until your knuckles and then palms have slapped against it.
+
+There's no where to go except back down the tunnel's length - all several, long feet of it. 
+
+Your movements have rocked the water around you, and just above, you can make out the muted sound of waves lapping at the lip of the tunnel.
+
+There may be a sliver of space for air... or there might be nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Swim for the surface.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Swim back to the fork.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Your nose bumps the rocky ceiling of the tunnel when you try to surface, but there's just enough space for you to gulp some air between your lips before an icy wave washes over your face.
+
+As you tread your arms to keep afloat, you realize your movements are making the water even choppier, soon closing up the space between the cave and the surface completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Following a deep breath, you plunge again under the water and swim hard for the fork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your fingers dig at the jagged sides of the tunnel as you swivel in the darkness. Blood pounds in your ears. Then you thrust ahead for the fork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You swim on and on, deeper into the tunnel - no end in sight. After some time, a twinge stabs at your lungs, but you shake it off and stubbornly press on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You wake, sand pressed to your cheek, front down on the shore outside the fortress. You retch out a mouthful of water and seaweed - but you're alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Your group swims on and on, deeper into the tunnel - no end in sight. Your lungs begin to strain, desperate for air, and your pulse pounds in the back of your throat. Dizziness assaults you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You emerge from the tunnel and break the surface of the water in a cavern deep beneath the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Dive into the tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The tunnel is narrow and rocky, the water cold and inky black. Your hands trace along the sides and ceiling as you swim, but there's no break to the surface, no room for air. Several feet into the tunnel, you can no longer see either ahead nor behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Midway through the tunnel, a strong undertow sweeps you swiftly toward the sea, and after several more chest-burning seconds, you break the water's surface within the mouth of a cavern connecting the shoreline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>With everyone's lungs freshly filled with air, you and your group press through the dark tunnel with ease.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Your lungs filled with fresh air, you press through the dark tunnel with ease.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You swim on and on, deeper into the tunnel - no end in sight. After some time, your lungs begin to strain, frantic for air, and your pulse pounds in the back of your throat. Dizziness assaults you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Arms and legs thrashing hard, everyone swims fast and doggedly through the tunnel. But the distance drags on. 
+
+You can barely make out the pained expressions on the others faces as your own lungs pang for air, but thankfully no one falls behind, and you're able to grimly press onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Arms and legs thrashing hard, everyone swims fast and doggedly through the tunnel. But the distance drags on. 
+
+You can barely make out the pained expressions on the others' faces as your own lungs pang for air. Then, choking, someone passes out, and you're forced to drag them back, swept easily by the force of the undertow to the safety of the shore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Your group swims on and on, deeper into the tunnel - no end in sight. You feel a twinge in your lungs but shake it off and stubbornly press on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Swim into the mouth of the cave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You break the surface of the water, in the center of the cave.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

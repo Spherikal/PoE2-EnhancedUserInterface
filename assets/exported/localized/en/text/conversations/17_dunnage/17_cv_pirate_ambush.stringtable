@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_pirate_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Well, well, if it isn't Harker's new business partner. That's quite a lot of coin you two exchanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It was a one-time deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's it to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attack.] "You're in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Right. We all know Harker's been itching to come out of retirement and claim a bigger slice of Dunnage for himself.
+
+"Eying a seat on the Council, I bet he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Everyone knows Harker's aiming to come out of retirement and slice off a bigger part of Dunnage for himself. Maybe he even wants to steal a seat on the Council! 
+
+"We can't be letting someone of your reputation back him, now can we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Think I'll send him your head as a reminder to stick to selling grog and flea-infested beds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Lie] "Who? Never heard of this Harker you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Don't bother lying - several of my men saw you at the King's Coffin. Looks like Harker's hiring new muscle and coming out of retirement.
+
+"And I can't be having that, now can I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"We are not business partners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Harker's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"D-d-dead?! The Red King?!" The pirate sputters, caught off guard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"No... wait a tick. This is another one of his ploys, ain't it? Aye, that it must be. And I don't like being deceived."
+
+Light gleams from a gold tooth when he sneers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

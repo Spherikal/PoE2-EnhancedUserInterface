@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_elder_roparu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>185</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An elderly Roparu man squints in your direction before blinking profusely. He hobbles closer, bare feet slapping the splintered floorboards of his abode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I see much and many things. I simply do not... look with these eyes in the same manner that others do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Speak, and I will listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm looking for a place called Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tell me about the Gullet. What's the history of this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You mean the black market that lies nestled in the depths of the Narrows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I've lived for many years in this Gullet. My skin and bones have withered with each year, twisted harder, so that the Roparu now call me paki takiri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Both time and tragedy have rotted the Gullet into a place of filth and crowdedness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"The guards do their best to stomp it out, but they are a single boot against a thousand ants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Though you can see I am not very big or much sturdy. If a dispute arises within the Gullet, I will see it resolved - that I can promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Once, we Roparu lived in a fine neck of the city. But that time has fallen and with it the ruins of our Old City under Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Long before the foreigners swarmed us, a sea quake rumbled our city, and the mountain cratered down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Many cried to Ondra and were swallowed for their efforts." His dead eyes flick side to side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Now the Mataru send us into the ruins of the Old City to be punished. Within that pit lies darkness and death. Not silence, but an end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I hear you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The old man grimaces some attempt at a smile. He inclines his head to you, indicating he's aware of your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The man's arms are thin as sticks. What teeth he has are yellowed or black from years of malnourishment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I was told you could tell me about the hunger problem in the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"This is the Huana way: the fish of our nets are drawn for the tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"The Dawnstars would feed us, but the guards forbid them to pervert the order of sharing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"But for days now, we've had nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ulög was never late with his shipments, always very conscientious. A good boy.
+
+"For him to disappear for several days without word... he must be dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You mentioned that the Roparu are hurting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He peers steadily into your face, blinking faster all the while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Can you see me? How do you know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"People speak of your kindness, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Many know you for your dark temperament, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Footsteps like distant thunder. The wind whispers of a Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"People speak of your kindness, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"People speak of your kindness, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You have cut a rather fearsome reputation for yourself, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"The queen refuses to increase our share of the prize-share. Without Ulög's shipments, we will surely starve. I am asking you, what else can we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The Dawnstars sought to help you before. We can use them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I can re-establish the smuggling operation through the black market."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pitli is a Child of the Dawnstars and has become the Gullet's most cherished healer. I believe she would willingly hear your request for charity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You need an advocate. I will speak with the royals at Serpent's Crown on your behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Perhaps you can achieve what those of my caste cannot. Gain us favor with the crown, and always we Roparu will be indebted to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The Príncipi will supply food again if more Roparu work with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"The Dawnstars will share their crops, and the Príncipi will smuggle it in through Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The queen will double her efforts to feed your growing population."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The Dawnstars will share their crops, and the queen will allocate the majority for the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I've no choice but to hope this... venture together fares better than our last. We will accept the Príncipi's generosity and work to return it tenfold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Never can I thank you enough, Watcher who has the ear of both kith and gods. Always the Roparu will know of your kindness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I doubted the Dawnstars would work with criminals, but you have proved me wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Not in this lifetime could I have hoped for more - to have garnered our queen's generosity, I ache to believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I heard of missionaries distributing food throughout the Gullet, though I did not think it could be true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He rolls his dark eyes skyward. A sigh whistles between his teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Many know you for your dark temperament, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You have cut a rather fearsome reputation for yourself, Watcher who chases Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I can hear you breathing, boy." </DefaultText>
+      <FemaleText>"I can hear you breathing, girl." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"If you're saying the gods sent me, you're wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What's causing the Roparu such pain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"This place is a bit like an open wound. Couldn't hurt to clean it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I also hear the Roparu's heartbeat - grown thready and pained. Now a Watcher comes to the Gullet, as Amira has shown me you would."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Leave] "I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"The Roparu are being crushed from the top. We starve so slowly it is an agony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Either way, you do not work for free. Is that what you mean to say, boy?"</DefaultText>
+      <FemaleText>"Either way, you do not work for free. Is that what you mean to say, girl?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He grimaces, baring jagged, gray-cast teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Boy, I can STILL hear you breathing."</DefaultText>
+      <FemaleText>"Girl, I can STILL hear you breathing."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I hear much and many things - like the footsteps of a god on the horizon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>With a stiff bow, the elder Roparu begs his leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Actually, a starving beggar sent me to speak with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>His lids half close, heavy with thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I cannot fatten your coin purse, but the Roparu never forget a kindness. Do right by us, and all of Neketaka will speak your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You have yourself a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I'll think about it. Maybe the gods will convince me to help you, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Since you neither speak nor slip away, perhaps you will listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"All spoils are gifted to the whole of the tribe. The tribe then partakes from the top down - from the most deserving to the least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Why are the Roparu the least deserving, the last to partake of the tribe's spoils?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Sounds like a terrible system."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Of course, it makes the most sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"It is the way of life." He grates a hard sound from his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"It is the way of life." He grates a hard sound from his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"The Mataru risk their lives to protect the tribe. The Kuaru provided skilled goods and services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"One came to us, lived with us awhile. But Pitli's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The old man's eyes glisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The old man's eyes glisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Starving... are the gods so occupied that they cannot see inside the mountain?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>The old man shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"No one deserves to suffer. Not like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Edér looks at you and takes in a deep breath, holding it and motioning for you to do the same.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Now no breath but flapping arms from your companion. Is he soft of mind? You must be charitable to have taken him in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"You got no idea." Xoti shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Edér looks at you and takes in a deep breath, holding it and motioning for you to do the same.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You got no idea." Xoti shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Now no breath but flapping arms from your companion. Is he soft of mind? You must be charitable to have taken him in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Them pox-riddled harbor hogs'd be better served taking towels to the sea, for all the drying they'd give it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>The old man nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Onekaza will listen. Her concern holds this island together." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>He cants his gaze to the side, eyes wandering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"That is a fine idea! When it comes to mission-work, my brethren are always happy to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>He cants his gaze to the side, eyes wandering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Some of the less crazy ones, hopefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Makes me wonder what Rauatai can get out of this place if the locals can't even feed themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Ekera, one hopes it is a temporary solution." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Hardly a perfect option, but perhaps the best available. I sympathize." He smiles wryly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Long as it doesn't end up going wrong for the same reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"If legal markets cannot provide, illicit markets are the natural result."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"The starving sated and the pirates paid. Everyone's grins and giggles. Savvy play, cap, worthy of Remaro hisself."
+
+Serafen smiles and pats his belly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I suppose this once... the ends justify the means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>He strokes the end of his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"If the queen isn't feeding her people, I doubt some newcomer has the clout to change that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Watcher. Always, you are welcome here. I owe you much and more for your kindness."
+
+The old man dips his head to you..</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"How else can we resolve the food shortage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"If we cannot convince the Mataru nor the Príncipi, I believe the Dawnstars may help us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"One came to us, lived with us awhile. But Pitli's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Pitli is a Child of the Dawnstars and has become the Gullet's most cherished healer. I believe she would willingly hear your request for charity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"At least piety can thrive in this dark and unforgiving borough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"That sea-swept voice... one of Ondra's own comes to visit me at last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Hmph. What say you, boy?"</DefaultText>
+      <FemaleText>"Hmph. What say you, girl?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I have heard much, as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>His dark eyes wander before landing at last on your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"The tribe takes care of the Roparu more than we contribute to the tribe. Or it did, before our numbers swelled too large."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"There was a man who helped us, a soft-hearted pirate named Ulög. He worked with a Príncipi captain - Mad Morena, they call her - to bring us food from the black market."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Follow the path that Ulög first walked for us. But do not meet his same end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Should you need refuge within Neketaka, know that the Roparu will stand by your side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"You must find Delver's Row, boy. They keep a lift that will take you down to where the pirates play. Surely you'll find Ulög's contact there."</DefaultText>
+      <FemaleText>"You must find Delver's Row, girl. They hide a lift that will take you down to where the pirates play. Surely you'll find Ulög's contact there."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Perhaps the High Priestess would be willing to help us. She preaches at the Temple of Gaun in the Sacred Stair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Perhaps the High Priestess would be willing to help us. She preaches at the Temple of Gaun in the Sacred Stair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Yes, I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"The fruit of our fields, too, is reaped for the tribe, and the coin of our pockets belongs, not to one, but to all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"As you know, the fish of our nets are drawn for the tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Of course." He smiles, showing discolored teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Do the Roparu not partake last in your tribe? For Kahanga, we do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I'm not interested in fame. What else can you offer me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Before I agree to anything, I need information. How do I get to Delver's Row?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"That, I do not know. Someone at The Hole may be able to tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Indeed, you do not seem the type to value your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Perhaps you prefer the weight of a fine sword in hand. Help us, Watcher, and I will tell you where to find one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[Leave] "Your sob story isn't my problem. Find someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Wait!" He frantically grabs at your sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Wait!" He frantically grabs at your sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I cannot fatten your coin purse, but the Roparu never forget a kindness. Do right by us, and all of Neketaka will speak your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"I'm not interested in fame. What else can you offer me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Tell me how to get to Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"That would do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Indeed, you do not seem the type to value your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Perhaps you prefer the weight of a fine sword in hand. Help us, Watcher, and I will tell you where to find one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"That, I do not know. Someone at The Hole may be able to tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Then so it will be, so long as you aid us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Alright, I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Have a heart, boy - my people are dying! Is there nothing I can say to sway you?"</DefaultText>
+      <FemaleText>"Have a heart, girl - my people are dying! Is there nothing I can say to sway you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Fine, I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Leave] "No. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I do not know how to get there, but someone at the tavern might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Amira bless you, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Take care, old man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Wait, you promised to tell me about a sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"May Amira's winds ever fill your sails, boy. We will not forget what you have done for us."</DefaultText>
+      <FemaleText>"May Amira's wind ever fill your sails, girl. We will not forget what you have done for us."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"So I did, so I did." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Several months back, when the storm winds bellowed like the Beast of Winter himself, a woman appeared in the Gullet bearing a flaming sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"I listened uneasily as she paced the length of the bridge. She wept and raged, yelling sometimes at the sword and sometimes at Roparu nearby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"At last she cried out and threw the sword from the bridge.
+
+"It clattered down into the Old City below, where I presume it now rests."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"If you do not know your way to the Row, someone at The Hole maybe able to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>The old presses his palms together and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I found Ulög's body in the Narrows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Enoi stills for a moment, only moving to blink his black pebble eyes. Then he takes a deep, shuddering breath and exhales all at once. His damp breath smells like bile and illness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"It was as I feared, then. Tell me - how did he die? Was it fast, at least? Painless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"He was beaten to death. Looked like it went on a while before he died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Lie] "It was quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"He was beaten to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Lie] "All I found was a bundle of severed limbs and a note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"The Gullet claims another life, then." The old man groans, rubbing his knobby-jointed fingers across his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"O-oh." A small whine escapes his throat. His hands tremble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>The old man's shoulders slump forward, and he heaves another shuddering sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>The old man's shoulders slump forward, and he heaves another shuddering sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"I must think of something else to tell the people of the Gullet. That... that won't do." He shakes his head slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Thank you for your honesty, Watcher. Few are there who will deliver bad news in all its sorry truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"The Gullet claims another life, then." The old man groans, rubbing his knobby-jointed fingers across his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"I'm- I'm sorry you had to see that. It's not right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"At least... at least he didn't suffer." He nods slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"If the Mataru would only protect us as they ought to, our people wouldn't be prey to those crooks and cutthroat who prowl the Narrows like sharks."
+
+Anger makes him shake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"I see. I am to draw my own conclusions."
+
+He rubs his knobby-knuckled fingers across his eyes. A shroud of exhaustion falls over him, and for a moment it seems as if he's done speaking to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Thank you for bringing me the news, Watcher, unpleasant though it may be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Tell me how to get to Delver's Row, and I'll consider helping you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"If you do not know your way to the Row, someone at The Hole maybe able to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

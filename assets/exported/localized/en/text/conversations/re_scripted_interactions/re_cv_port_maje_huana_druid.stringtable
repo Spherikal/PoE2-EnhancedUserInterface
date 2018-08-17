@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_port_maje_huana_druid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dirt darkens the folds of the man's skin. His lips curl over jagged teeth. He waves the stick at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Then you return? What for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What are you doing out here with all of these boars?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Those who know? Who would that be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It's not been a very productive exchange, has it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"So about those boars of yours..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Learning. The boar teach much about survival, if one listens. If one watches. So sing..." He frowns. "So say those who know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He shakes his head roughly. "This question helps neither of us, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You go speak quickly, then. Your words disturb this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The man's eyes narrow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He blinks. "What? Ekera, what foolishness! No, never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The dirty furrows of his brow darken as his scowl deepens. "What of them then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Could I get some pork, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Why do these boars matter so much to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'd like a boar of my own. Don't suppose you've got one to spare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He rests a hand on one of the creatures' heads, scratching it lightly behind the ear. "Then I need a reason? I say I do not." The pig snorts and nuzzles the man's leg. "That is plenty reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"They are not mine to give. Nor yours to take. You want a boar friend, you go make your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Leave] "I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Good, I say. Then carry your darkness to some other land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Attack] "I'm taking the boars with me. At least the edible bits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The man levels his gnarled wooden staff at you. "Then I say I am not surprised. Your sort always take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Is there anything you can do to help me on my journey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The man snorts. "Then you think the Huana here to serve you? Ekera, they are not."
+
+He waves his stick. "I say always those who come to these islands, they want to take. Only ever to take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You'd better cough up something worthwhile, old man, or I'll be picking over your corpse!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You want a thing?" He pulls a leather-wrapped pouch from among his robes and tosses at your feet. "There then. A thing. Take it. Then go leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>His gaze shifts from you to the boars and back to you again. "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Leave] "Thank you for your assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Is not the death of an animal to feed another a sacred aspect of the cycle of existence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Then you speak as if you know the hunt. Yet you ask flesh without it." He frowns at you, though the expression shortly gives way to a smirk. 
+"Then go take this." He pulls a leather-wrapped pouch from among his robes and tosses it to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Always wanting more? I given you what you asked for. You go now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Well it &lt;i&gt;sounds&lt;/i&gt; like you're speaking of Galawain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The aumaua snorts. "Always you foreign sort speak of your changing god. I say you know nothing of change and less of the hunt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He waves you off and turns back to scratching one of the boars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Edér perks up at the sight of the boars, alternately imitating their grunts and chuckling. 
+
+Only at length, in what appears to be a heel-dragging afterthought, does his attention at last turn to the strange man in their midst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>His attention focuses on your features, his eyes flickering across your armaments and dress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No. Never talk. Just go leave this forest. Go leave these islands. Go return from where you been."
+
+His Aedyran is halting, the language thick in his mouth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I mean you no harm. Can't we just talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He nods, gaze lingering on you. "Then come, far-traveler from these islands." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The man shakes his head. "Said as if a word never hurts a person." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I came here looking for you. The people on the coast said you could help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The man snorts, a sound not unlike that of a hog. "They always think they know better, than this kith in this wood. Then when they need help, they always go ask me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The man snorts, a sound not unlike that of a hog. "They never ask of me. They always know better, they think, than me in this wood."
+
+He shakes his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Attack] "Enough of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Attack] "I go where I please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Even as you begin to move, the boars snort and stamp, and the man raises his staff...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Leave] "If you insist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The man watches you go, his scowl veritably pushing you along from behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You lived among these islands once. I see it on your spirit." 
+
+His Aedyran is halting, the language thick in his mouth. His lip curls. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"No. I never believe your foreign lies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Look, I just want to pass through this forest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He snorts. "No. Your sort always want. This forest is not yours. This land is not yours. Go leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'm not here to take from these lands. I'm here to protect them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If you don't get out of my way, I'm going to make you watch while I kill your precious pigs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I'm hunting a god. If I fail, your islands will not be spared his wrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Attack] "You leave me no choice then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The man frowns, then pulls a leather-wrapped pouch from within his belongings. Hands shaking, he hands it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Then go take this. They protect you if you speak true. They tear out your throat if no."
+
+He dismisses you with a wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He straightens slightly, jabbing an extended index finger at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The old aumaua snorts. "Words are less than wind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"No. I never let you do harm... I go send you to Tangaloa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The man frowns, then pulls a leather-wrapped pouch from within his belongings. Hands shaking, he hands it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"The westerner's dawn god?" The old druid snorts and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You never catch him. You never kill him." He points his staff at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"...if you cannot even kill old man in the woods."
+
+The boars stamp their feet, snorting. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Yet you stink of foreign gold. Of masonry, gunpowder, and blood. Of death. You should go leave this place. Before your corruption spreads."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

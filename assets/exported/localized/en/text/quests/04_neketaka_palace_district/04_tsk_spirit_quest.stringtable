@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_tsk_spirit_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Her Last Request</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search &lt;b&gt;Muhai's estate&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak with &lt;b&gt;Muhai&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Cremate &lt;b&gt;Muhai's remains&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I found a spirit, &lt;b&gt;Muhai&lt;/b&gt;, in one of the estates in &lt;b&gt;Serpent's Crown&lt;/b&gt;. She was left to die alone, and refused to pass into the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Muhai&lt;/b&gt; says that her body is nearby, having succumbed to illness. She wants me to retrieve it, so that she can be put to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found &lt;b&gt;Muhai's body&lt;/b&gt; in her bed, where it must have been for several days. It seems like nobody even knows she is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Muhai asked me to bring her remains to the &lt;b&gt;Temple of Magran&lt;/b&gt; in the &lt;b&gt;Sacred Stair&lt;/b&gt; district. There, I must cremate what's left of her body, at which point her spirit will return to the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I cremated Muhai's remains. Satisfied, her spirit left my company to meet whatever fate awaits her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I turned Muhai's body over to the priest of Magran, to be buried elsewhere. Muhai's spirit took it poorly.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

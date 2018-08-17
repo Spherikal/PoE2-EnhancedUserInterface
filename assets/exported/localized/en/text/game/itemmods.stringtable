@@ -1,0 +1,5283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\itemmods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1055</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Burn-Proofed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Corrode-Proofed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Exceptional</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Of Intellect</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Of Resolve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Of Resolve +2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sturdy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Minor Accuracy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Accurate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Burning Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Corrosive Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Crushing Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Exceptional</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Fine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Freezing Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Piercing Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Shocking Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Slashing Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Superb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Second Chance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Fine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Exceptional</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Superb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Purge Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Minor Spellbind: Jolting Touch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Spell Holding: Consecrated Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Minor Spellbind: Mirrored Image</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Overseeing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Deflector</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Greater Regeneration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Of Fireballs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Of Perception +1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Of Perception +2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Of Perception +3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Of Will +5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Bonus Crit Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Increased Reach</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Arcing Blows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Major Spellbind: Arcane Dampener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Indomitable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Legendary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Penetrating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Blood Rage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Corona of the Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Hurried</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Everything and Anything</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Wild Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Draining Retaliate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Luminous Recovery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Luminous Passion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Luminous Focus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Soul Imprint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Burn-Proofed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Warmth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Taxing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Sharp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Of Reflex +10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Of Reflex +15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Of Fortitude +5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Of Fortitude +15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Of Fortitude +10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Of Will +10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Of Will +15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Greater Deflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Of Deflection +15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Deflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Of Accuracy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Pierce Armor +1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Slash Armor +1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Stubborn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Fortified</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Underhanded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Torch Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Of Melee Weapon Penetration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>of Ranged Speed 5%</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>of Engagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Shock Armor +2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Of Deflection +20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Stealthy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Minor Spellbind: Sunbeam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Of Greater Health</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Marksmanship</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Of Intellect +2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Of Might +2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Serpent's Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Confrontation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Bonus Crit Chance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Penetrating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Multi-Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Draining</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Regeneration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Of Fire Accuracy +5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Holy Radiance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Spellslaying: Ghost Blades</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Spellbind: Spirit Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Spellbind: Bound Shade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Bracken Call</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Blazing Staff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Fiery Core</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Burning Burst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Blazing Core</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Wild Barrage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Soul Render</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Necrotic Heart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Of Poison Accuracy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Wood Splitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Feller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>Hewing Step</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Freezing Lash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Freezing Bite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Solitude</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Solitary Fate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Bear Cub</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Kaz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Blunted Criticals</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Flame Nāga Hatchling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Beasts Imagined</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Unstoppable Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Custom Cartridges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Hollow Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Impactful Chime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Mournful Toll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Enduring Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Prelude</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Companion's Prelude</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Shocking Prelude</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Finale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Encore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Refreshing Finale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Nobility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Death and Taxes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Tribute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Grace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Untouchable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Imbued Ammunition</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Elemental Shot: Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Runestone Flint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Bullet-Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Fractured Bullet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Opening Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Opening Barrage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Strategic Blitz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Critical Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Obliterating Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Penetrating Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Double Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Blade Cascade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Tempest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Highwayman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Adaptive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Strategic Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Woven Waves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Poison Dipped</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Death Sentence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Paralytic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Tall Tales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Crushing Yoke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Subjugation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Warrior of the Forest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Lord of the Forest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Martyr of the Forest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>True Love's Kiss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Lover's Quarrel (Female)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Lover's Quarrel (Male)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Shards of Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Thermal Deflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Thermal Reflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Thermal Ablation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>Polished Scales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Mirrored Scales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>Warped Scales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Father's Aegis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>Father's Bastion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>Father's Masterwork</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Defensive Beacon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>Rear Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Ardent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Scars and Memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Poor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Runelock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Dragon's Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Coordinated Escape</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Blessed Defiance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Double Barrel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Double-Tap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Twin Slugs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>No Rest for the Wicked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>Guilty Conscience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>Unburdened Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>Stable Runelock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Volatile Runelock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Serpent's Rage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Blazing Fury</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>Vehemence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>Bounding Strikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>Kaul's Retort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>Kaul's Stance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>Enraptured Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Battle Unending</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Red Flag Flying</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Unfit for the Vailian Republic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Gaff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Harpooning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Heave-to</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Mince-to</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Obsidian Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>Razor Sharp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Feather Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Glass Walker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Volcanic Heart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Wounding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>Hamstringing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Mortal Wounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Slowing Slice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Scaling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Scaling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Scaling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Ambushing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Standoff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>Mercy Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>Ghost Touched</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Enlightened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Esteem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Ward of Favor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Boon of Favor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Glittering Grimcrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Barriers and Baubles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>Cruelty and Curios</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Acid Repulsion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Poison Purge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Transmuted Iron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Focused Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Soul Devourer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Ravenous Soul Devourer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Subdued Soul Devourer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Blade Feast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Soulblade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Cruel Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Garland's Tears</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Garland's Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Garland's Rake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Shackles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>Irrepressible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>Chain Breaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Living Pyre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Frantic Reload</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Thunderous Report</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Soul Breaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Soul Drinker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Mob Rule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Soul Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>Soul Barrier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Blackened Surface</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Blackened Core</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Cloak and Dagger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>Wrong Place, Wrong Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>Sea Stories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Fantastic Friends</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Just a Dream</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Frosted Edge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Frozen Edge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>Grave Bound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Vessel Seeking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>Calling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>Chilling Grave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>Spirit Seeking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>Beckoning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>Noxious Hel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>Tainted Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>Corrupted Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>Hel Sickness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Heavy Draw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>Galawain's Favor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Spring Cleaning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Out With the Bad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Out With the Good</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>You Can't Be Serious...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>...Is That a Broom?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Sweep You Off Your Feet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Galawain's Harry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>Decisive Shots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Saint's Grace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Cacophony</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Bell-Ringer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Call to Arms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Saint's Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Celestial Attunement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Lunar Excellence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Solar Excellence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Twin Gods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Golden Sun (Eothas)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Silver Moon (Ondra)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Bad Dog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Hounding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Cry Havoc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Pack Leader</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Tethered Yet Untamed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Wild Heart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>At the Ready</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Attempted Parley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Certain Mutiny</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>Calmo's Curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Squid's Escape</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Cirono's Mercy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Unseen Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Devious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Heart Seeking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Flesh Seeking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Drawing Cut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Drawing Parry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Treacherous</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Ruthless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Grove's Respite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>Purifying</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>Empowering Lifeblood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Empowering Instinct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Lush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Rending Cuts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Biting Cuts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>First Blood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Massuk Arrows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Slayer of Beasts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Drake's Legacy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Precision Impact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>Ongitok Angunisag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Warning of Blue Water</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>Wood Bane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Grove Step</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Green Blooded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Vengeful Cold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Known Causality</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Causally Fixed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Elementally Stable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Structurally Stable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>Capture</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Veteran's Scars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Rock Solid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Veteran's Maneuver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>Like a Steel Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Checkmate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Promote</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Soulkeeper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Explosive Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Chain Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Point Blank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Blinding Smoke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Leaping Arc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Bounding Arc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Splitting Arc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>Expert Shaper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Master Shaper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Ondra's Wrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Brackish Arc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Defiant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Pride of the Ducs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>Vengiatta Viela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Bracciao Rugo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Unfit For Melee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>Immortal Will</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Bloodfire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>Death Denied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>Iron Fist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Conduit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>Dynamo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>Conductive Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>Shock Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>Concussive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>Fracture</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Marrow-Drinker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>Forceful Impact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>Skewer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>Pinning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>Rune Bolts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>Arcane Bolts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>Elemental Bolts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>Worthy Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>Echoes of Faith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>Gunnery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>Steel Threaded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>Low Profile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>Return Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>Soul Reaper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>Finality</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>Urgent Harvest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>Conspirator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>Good of the Many</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>Revelation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>Misotheist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>Reject the Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>Razor Bladed Bludgeon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Staggering Force</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Champion's Implement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Unblockable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>All Comers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Lone Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Champion's Relic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Grave Command</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>Skrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Ductile Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Skrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>Brittle Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Precision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Close Precision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>Distant Precision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>Steady</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>Stopping Power</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>Sharpshooting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>Hard Counter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>Hide and Tooth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>Hunter's Vigor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>Shark Teeth Counter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>Blood Rage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>Shark's Frenzy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>Skaen's Resentment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>Contempt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>Skaen's Hatred</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>Strange Leather</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>Armor of Flesh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>Eyes of Blackstone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>Crackling Shots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>Overload</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>Charged Field</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>Magnetized Shots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>Conductive Blast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>Storm Rune Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>Go Not Quietly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>Seeing Red</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>Into the Breach</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>Thrusting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>Flurry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>Redoublement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>Retreat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>Flanking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>Insistence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Thermally Stable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Nonconductive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Bronze Core</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>Arcane Interference</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Arcane Suppression</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>Apostatism</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>Bound Blights</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Soul Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Elemental Induction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Enthralled Blights</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>Soul Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Entropy Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>Safe Travels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>Vestment of Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>Darkest Before Dawn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>Necrotic Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Healer's Touch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>Glancing Strikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Obfuscation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Illusive Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>The Hundred Visions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>Form Phantasmic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Shrouded Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>Lidless Gaze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>Certain Stride</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>Ethereal Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Spell Scattering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>Knife in the Back</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>Bring Low</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>Twist the Knife</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Shank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Coup de Grace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>Unseen Killer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>Life of Suffering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Blessed in Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Built for Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Cursed to Endure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Parabolic Weave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>Visual Refraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>Greater Protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>Rebuttal in Blood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Pernicious Retribution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Grounded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>Storm of Seven Bolts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Final Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>Tracker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Bushwhack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Oilskin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Hidden Depths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>Steward of Memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Well-traveled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Unburdened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>Ruffian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>Gang-up</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>Escape Artist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Neither Here Nor There</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>Trollskin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Steeled in Darkness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Gusting Blows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Vengeful Cyclone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Inviolate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Ultimate Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Chaotic Gem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Of Minor Deflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Of Minor Protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Of Unshackling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Spell Cache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Dig Deep</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Grit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Of Constitution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>Wavebreaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>Against the Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Fathoms' Redress</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Spell Defense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Tumbler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>Grove's Kin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>All Seasons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>Reforge the Flesh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>Wrought</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Shaped by the Hammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Buttressed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Hold Fast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>Of Eoten Constitution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>Bountiful Healing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>Mortal Protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>Wayfarer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>Alchemist's Cache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>Hawk-eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>Duelist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>Death Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>Seasoned Iron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>Hearth and Home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>Boil Over</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>Beast's Cunning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>Against Claw and Horn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>Shield Engagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>Shootist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>Swashbuckling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>Royal Plumage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>Look Not Upon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>Gaze and Despair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>Fearful Geometries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>Shout of Hosts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>Heaven's Wrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>Divine Knowledge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Woedica's Wisdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>Helstone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>Shifting Chroma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>Elemental Touchstone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>Deadly Acumen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Shadow Fang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>Toxic Coils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>Lesser Lay on Hands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Skillful Dodger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>Lithe Hands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Shady Character</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Second-story Work</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Holistic Precision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Of Discipline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>Of Mortification</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Sure Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>Of Reliability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>Of Greater Reliability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Strength of the Oathbound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Choking Vengeance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Twice Burned</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Lightning Wrangler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>Shock Repulsion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>Storm Blows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Artificer's Precision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Spellbending</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>Of Ogre Might</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>Rapidity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>Blur of Blows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Bullet Catch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Missile Cache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>Ordyr's Legacy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>Desert Wurm Hatchling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>Newly-formed Wisp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>Concelhaut's Skull</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>Slugger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>Reeling Blow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>Royal Blood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>Dragon Scales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>Breath of Flames</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>Call the Clutch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Call the Restless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>Lay Unto Slumber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>Litany</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>Small Miracle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>Rotward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>Of Health</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>Of Power</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>Martyr's Memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>Old Wisdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>Light Step</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText>Unhindered</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>With Haste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>Moving Target</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>Of Stealth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>Of Evasion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>Shod for Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>Fur Lining</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>Firm Foundation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>Of Bounding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>On Sodden Peat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText>No Quarter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>Captain's Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>Negotiator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>Secret Worship</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>Recompienza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Deft Motion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Mechanical Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>Devil's Due</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>Heart of Bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>Bend the Will</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>Claim the Will</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>Break the Will</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>Ashes and Dust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>Claim the Husk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>Inevitable Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Chest Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>Lucky</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Kidney Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>Sonorous</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText>Jewel of Clarity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>Grave Hound Pup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Graceful Motion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>Path of Mercy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>Divine Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>Blood Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>Thirsty Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>Greater Lifeblood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>Weeping Wounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>Parched Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>Prepare the Offering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>Two-step</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>Bodyguard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>Intervention</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>Vigorous Protector</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>Vigilance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>First to the Fight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Love of Life</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Relentless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Oppressive Fear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Make Them Flinch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>The Mind Makes Real</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Battered Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Unavoidable Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>Ethereal Arrows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Suppressive Shots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Exorcising</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>Weightless Draw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>Purging Volley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>Disruptive Arrow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Hylean Squall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>Wind Calling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>Forceful Gusts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Turning Winds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Master of Gales</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>Hylea's Embrace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>Animancy Cat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>Eviee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>Xopn'aua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>Bernhard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>Bubble the Cat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>Elmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>Frau Nils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>Ginger Demon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>Gosha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>Jules</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>Kathrynn Vonn Kiliann the Cat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>Lil' Babs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>Loki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>Mirri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>Peter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>Prissy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>Twix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>Abraham</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>Algol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>Atlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>Chilli</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>Deus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>Eliel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>Freya</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>Gizmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>Harley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>Hemp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>Mercedes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>Nalvi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>Nikki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>Pancake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>Rasper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>Roxy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>Toby</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>Trixie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>Chauncy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>Ginger L. Esry "Pumpkin Eater"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>Onyx</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>Rare Dan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>Baby Boar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>Sky Dragon Wurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>Gossamer Weave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>Web Walker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>Poison Master</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>Silk Spinner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>Dripping Fangs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>Spider Blooded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText>Freezing Gust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>Milx</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>Otto Starcat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>Bark String</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>Champion's Scars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>Rivalries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>Battle Awareness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText>Tooth and Claw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>Wurm Call</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>Drake Command</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>Heavy Mobility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>Contender's Composure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>Defensive Grace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>Offensive Tumble</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>Press the Advantage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>Metani's Traps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>Clean Strikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>Hunter's Pounce</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>Barbed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>Hunter of Hunters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>Cull the Weak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>Undying Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>Flames of Retribution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>Minor Overseeing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Faith Attuned</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>Petrified Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1205</ID>
+      <DefaultText>Lantern's Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1206</ID>
+      <DefaultText>Light of the Dawnstar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1207</ID>
+      <DefaultText>Threshing Aura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1208</ID>
+      <DefaultText>Loose the Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1212</ID>
+      <DefaultText>Hylea's Greater Song</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1218</ID>
+      <DefaultText>Marking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1219</ID>
+      <DefaultText>Strike True</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1229</ID>
+      <DefaultText>Life in Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1230</ID>
+      <DefaultText>Death in Life</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1231</ID>
+      <DefaultText>Cycle of Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1232</ID>
+      <DefaultText>Contentment in Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1233</ID>
+      <DefaultText>Pallid Countenance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1234</ID>
+      <DefaultText>Usher's Beckoning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1235</ID>
+      <DefaultText>Usher's Visage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1236</ID>
+      <DefaultText>Bonnie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1239</ID>
+      <DefaultText>Nimbus of Death (Death Godlike or Watcher only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1240</ID>
+      <DefaultText>Heartfire (Fire Godlike Only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1241</ID>
+      <DefaultText>Lunar Heart (Moon Godlike Only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1242</ID>
+      <DefaultText>Nature's Shelter (Nature Godlike Only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1243</ID>
+      <DefaultText>Water of Life (Marine Godlike Only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1244</ID>
+      <DefaultText>Winged Steps (Avian Godlike only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1252</ID>
+      <DefaultText>Garari Skin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1253</ID>
+      <DefaultText>Segmented Scutum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1254</ID>
+      <DefaultText>Layered</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1255</ID>
+      <DefaultText>Primeval</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1256</ID>
+      <DefaultText>Rugged Construction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1257</ID>
+      <DefaultText>Treated Scutum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1258</ID>
+      <DefaultText>Better Part of Valor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1259</ID>
+      <DefaultText>Bravado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1260</ID>
+      <DefaultText>Paranoid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1261</ID>
+      <DefaultText>Fight Another Day</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1262</ID>
+      <DefaultText>No Fool, I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1263</ID>
+      <DefaultText>Safety at a Distance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1264</ID>
+      <DefaultText>Protective Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1265</ID>
+      <DefaultText>Retaliatory Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1266</ID>
+      <DefaultText>Arcane Extension</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1267</ID>
+      <DefaultText>Arcane Containment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1268</ID>
+      <DefaultText>Heavy Bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1269</ID>
+      <DefaultText>Rebound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1270</ID>
+      <DefaultText>Burnished Joints</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1271</ID>
+      <DefaultText>Bronze Juggernaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1272</ID>
+      <DefaultText>Constant Rebound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1273</ID>
+      <DefaultText>Heavy Rebound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1274</ID>
+      <DefaultText>Dread Howl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1275</ID>
+      <DefaultText>Nocturnal Vigor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1276</ID>
+      <DefaultText>Ghost in White</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1277</ID>
+      <DefaultText>Cornered Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1278</ID>
+      <DefaultText>Winter Coat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1279</ID>
+      <DefaultText>Clad in Mist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1280</ID>
+      <DefaultText>Elemental Disruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1281</ID>
+      <DefaultText>Coalescing Forces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1282</ID>
+      <DefaultText>Burn Refraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1283</ID>
+      <DefaultText>Freeze Refraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1284</ID>
+      <DefaultText>Corrode Refraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1285</ID>
+      <DefaultText>Shock Refraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1286</ID>
+      <DefaultText>Lithe Motion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1287</ID>
+      <DefaultText>Girded Flanks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1288</ID>
+      <DefaultText>Hunter's Stride</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1289</ID>
+      <DefaultText>Blood Price</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1290</ID>
+      <DefaultText>Feed the Chain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1291</ID>
+      <DefaultText>Crimson Steel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1292</ID>
+      <DefaultText>Family Ties</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1293</ID>
+      <DefaultText>Discord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1294</ID>
+      <DefaultText>Family Bonds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1295</ID>
+      <DefaultText>Harmony</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1296</ID>
+      <DefaultText>Taskmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1306</ID>
+      <DefaultText>Warrior's Device</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1307</ID>
+      <DefaultText>Duty Clad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1308</ID>
+      <DefaultText>Elite Prowess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1315</ID>
+      <DefaultText>Heads, I Win</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1316</ID>
+      <DefaultText>Tails, You Lose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1317</ID>
+      <DefaultText>Sawbones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1318</ID>
+      <DefaultText>Anatomist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1319</ID>
+      <DefaultText>Faces of the Pendant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1320</ID>
+      <DefaultText>Futility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1321</ID>
+      <DefaultText>Transmogrified Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1322</ID>
+      <DefaultText>Matter Repulsion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1323</ID>
+      <DefaultText>Full Choke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1324</ID>
+      <DefaultText>Open Choke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1325</ID>
+      <DefaultText>Jagged Load</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1326</ID>
+      <DefaultText>Epic Hangover</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1327</ID>
+      <DefaultText>Mean Drunk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1328</ID>
+      <DefaultText>Mad Drunk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1329</ID>
+      <DefaultText>Numb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1330</ID>
+      <DefaultText>Debauchery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1331</ID>
+      <DefaultText>Iron Stomach</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1332</ID>
+      <DefaultText>Menace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1333</ID>
+      <DefaultText>Red Tear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1334</ID>
+      <DefaultText>Red Quickening</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1335</ID>
+      <DefaultText>Cold Steel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1336</ID>
+      <DefaultText>Deep Freeze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1337</ID>
+      <DefaultText>Brittle Frost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1338</ID>
+      <DefaultText>Storm Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1339</ID>
+      <DefaultText>Corvid's Bounty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1340</ID>
+      <DefaultText>Blood Honed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1341</ID>
+      <DefaultText>Long Odds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1342</ID>
+      <DefaultText>Fortune's Folly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1343</ID>
+      <DefaultText>Lucky Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1344</ID>
+      <DefaultText>Howling Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1345</ID>
+      <DefaultText>Hound's Speed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1346</ID>
+      <DefaultText>Hound's Courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1347</ID>
+      <DefaultText>Hound's Resilience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1348</ID>
+      <DefaultText>Concealing Smoke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1349</ID>
+      <DefaultText>Sacrifice of Saints</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1350</ID>
+      <DefaultText>Elemental Shot: Frost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText>Elemental Shot: Force</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText>Reckless Cyclone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText>At Blade's Reach</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText>Counterattack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText>Dug-in</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText>Family Ties</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText>Family Discord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText>Family Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText>Family Harmony</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText>Taskmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText>Articulated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText>Inaccurate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1371</ID>
+      <DefaultText>Quickened Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1372</ID>
+      <DefaultText>Seeker's Prize</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1373</ID>
+      <DefaultText>Reliable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1374</ID>
+      <DefaultText>Whispers of the Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1375</ID>
+      <DefaultText>Soul Cutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1376</ID>
+      <DefaultText>Unfaltering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1377</ID>
+      <DefaultText>Unfailing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1378</ID>
+      <DefaultText>Whetted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1379</ID>
+      <DefaultText>Heavy Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1380</ID>
+      <DefaultText>Two-hander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText>Blade Form</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1382</ID>
+      <DefaultText>Offensive Parry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1383</ID>
+      <DefaultText>Spinning Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText>Run Through</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1385</ID>
+      <DefaultText>Volatile Casting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1386</ID>
+      <DefaultText>Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1387</ID>
+      <DefaultText>Shock Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1388</ID>
+      <DefaultText>Spellbind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1389</ID>
+      <DefaultText>Comet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>Orbit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText>Cosmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>Obsidian Wurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>Stinky Pete</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>Pet Party Wide Effect</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>Emotional</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText>Eager Lover</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText>Experimentation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>True Independence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Soul Feeding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Soul Feeding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Quick to the Slaughter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Judge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Verdict</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Deliberations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Fair Trial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Indictment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Loyal Companion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Executioner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Living Wood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Heartbeat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Hymn of Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Blighted Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Tainted Being</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Corrupting Beauty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Bolting Strikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Soul Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>Self Mending</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Static Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Smoothly Jointed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Energizing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Storm Mastery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1426</ID>
+      <DefaultText>Gathering Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Ball Lightning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Knapped Glass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1430</ID>
+      <DefaultText>Shortened Haft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Quieting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Final Say</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Silence in Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Splintered Haft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Threatening</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Lacerating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Determined Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>Maiming</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Hemorrhaging</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Valiant Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Inspiring Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Will Breaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>Tortured Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Relentless Torture</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Cometfall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Blunt Rock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Return Orbit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Meteoric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Impacting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Extinction Event</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Brawling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Inward Spikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Pugilist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>&lt;xg&gt;Precision Striker&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Balanced Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Outward Spikes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Hardened Crystal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>Pale Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Lustrous Crystal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>Captivating Crystal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>Nourishing Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>Sheltering Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>Stand Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>Tactical</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>Strategist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>Tactician</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>Sentinel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>Stand Firm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>Best Part of Waking Up</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>Shattered Chains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>Undecisive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>Orishia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>Flame Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>Overwhelm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>Unaccompanied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1479</ID>
+      <DefaultText>Versatile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText>Soul Severing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Deny the Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Soul Shredding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1484</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1485</ID>
+      <DefaultText>Ebb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText>Oblivion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>Nimbus of Dread</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText>Reconstruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText>Static Thunder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Crushing Depths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Rejuvenating Waters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Crashing Surf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Jealous</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Lone Wolf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Self-Motivated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Soul Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Heavy Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Luminous Dissonance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Soul Smite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Luminous Harmony</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Regrowing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Mending</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Hardened Buckskin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Poacher's Tackle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Poacher's Kit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Boiled Leather</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Battle Roamer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Pull Back</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Tactical Withdraw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Feigned Retreat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Head of the Column</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Tail of the Column</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Enemies' Blades</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Persecutors' Blows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Accusers' Spears</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Blade-Biting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Riveted Links</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Outlaw's Instincts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Padded Underlayer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1532</ID>
+      <DefaultText>Staunch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1533</ID>
+      <DefaultText>Magnera's Commitment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>Spell Reflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1544</ID>
+      <DefaultText>Neither Sleet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Nor Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Inexplicable Mass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Surefooted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>Pozzi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>Vigorous Protector</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>Raptor's Grip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>Falcon's Wings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>Corlagon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>Corroded Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>Sharpened Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>Fragile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Black Glass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Gaun's Pledge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>Luna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText>Cutthroat Cosmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
+      <DefaultText>Silence the Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Veil Piercing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText>Reinforced</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText>Dense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Beakhead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Decaying Presence (Endings Godlike Only)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Communal Carnage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Sight of the Coalition</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>Burning Bash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Fire Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Burning Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Greater Fire Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Purifying Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Righteous Bash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Guilt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Colossal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Atonement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Grieving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Martyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Veil Cleave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Experimental Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Charged Copper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Electrical Conduit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Thermal Conduit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Soul Diplomacy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Tethered Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Mythic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Temper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Tempered Fury</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Unstable Temper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Riven Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Wanton Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Annihilation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>Wolf's Ferocity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Wolf's Tenacity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Bloody Slash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Bloody Mess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Bloody Momentum</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

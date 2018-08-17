@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_valera_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Bigger Fish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the &lt;b&gt;sailors&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Get the &lt;b&gt;sailors&lt;/b&gt; to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to &lt;b&gt;Martino&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Martino&lt;/b&gt; wants a few Rauataian sailors expelled from the vicinity of the &lt;b&gt;Queen's Berth tavern&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Martino wants a group of Royal Deadfire Company &lt;b&gt;sailors&lt;/b&gt; ousted from the &lt;b&gt;Wild Mare&lt;/b&gt; in Queen's Berth. He seemed to favor a permanent solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I think I've found the group Martino was talking about, carousing on the balcony of the &lt;b&gt;Wild Mare&lt;/b&gt;. Now I just have to get them to clear out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The soldiers have been dealt with. &lt;b&gt;Martino&lt;/b&gt; will be waiting for me back at the &lt;b&gt;Valera estate&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Martino mentioned that the &lt;b&gt;sailors&lt;/b&gt; were singing outside of the &lt;b&gt;Wild Mare&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Zili Valera&lt;/b&gt; offered to play for the Rauatai sailors if it keeps them away from the tavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to the completion of this quest has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Martino was pleased with my work, though it seems he's been working at some other scheme in the meantime. He intends to move against the Bardattos next. I urged against it, but I think I'm running out of time to convince these families to come to terms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Martino was pleased with my work, though it seems he's been working at some other scheme in the meantime. He intends to move against the Bardattos next, and has promised to call on me once he's ready to strike. This feud is escalating in a hurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>With the feud resolved, Martino's machinations are unnecessary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

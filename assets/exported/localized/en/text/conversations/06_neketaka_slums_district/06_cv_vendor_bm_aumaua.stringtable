@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_vendor_bm_aumaua</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This grizzled old aumaua woman looks like she's been left in the sun to dry. Her skin is so worn and weathered, it's hard to tell her wrinkles from her scars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You need a blade or bludgeon? Or some sturdy armor? Imuani has what you seek." The old woman gives you a grin that multiplies the wrinkles in her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Show me what you've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Old Imuani's stock is tested in the hands and throats of the fiercest sorts in the Gullet. 
+
+"Never will you find a better selection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm looking for medicine to cure drowner's lung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Then you blunt your teeth talking to me. Go and see Ernezzo - his shop is just across the way."
+
+She points to the door across the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Perhaps you have more business for Dereo? Imuani'll take care of you. And at a special price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Show the medallion.] "Do you know where I could find a buyer for something like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I have no use for it. But Ernezzo likes shiny gewgaws." She taps it against the countertop as if hoping it will crack and reveal a more interesting prize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ernezzo. But his blood's colder than steel now." She gives you a crooked grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"This is business for Dereo. But you'll wait for an invitation from him if you know what's good for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"And if you want to catch his eye, you'll have to forge a name for yourself in the Gullet." She cackles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What happened to that godlike in the alley?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Some sort of scuffle between a lone fellow and a pack of godlike pirates. The lone man didn't look like much of a fighter, but he proved old Imuani wrong." She nods toward the body and cackles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The pirates were taking him toward the lift. To the Undercroft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"They must have spoken with the guard there - perhaps he could say more." She points across the alley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Old Imuani's stock is tested in the hands and throats of the fiercest sorts in the Gullet. But you already know that, ekera?" She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ekera, surely you have caught his eye by now." She cackles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Be welcome, stranger. I have heard your named whispered in the streets of the black market."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

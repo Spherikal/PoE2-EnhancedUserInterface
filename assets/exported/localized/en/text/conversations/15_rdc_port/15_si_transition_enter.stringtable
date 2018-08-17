@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You arrive at the location off the coast of Sayuka that the coralmason told you about. You peer over the edge of your ship and see a faint glow in the waters far, far below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Don your diving suit and swim down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Turn back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You clamber into the diving suit and leap from your boat, hitting the water with a tremendous splash.
+
+You swim toward the light - breathing fresh air thanks to Iverra's invention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You walk through the barrier and discover the interior of the ruins aren't flooded, as you might have expected, but dry. You remove your helmet, take a deep breath of fresh air, and walk into the ruins of Cignath Mór.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you fall through the depths, the water grows dark, but the glow below you ever brighter. Schools of gigantic fish twist and swirl around you, paying you no heed.
+
+Soon enough, you can make out the vague shape of a structure resting on the sea floor. Rising from the ruins of Cignath Mór is a tall spire and what appears to be a small landing platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The glow appears to be coming from somewhere near the sea floor. You would surely drown if you attempted to swim down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Pass through the barrier]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>When you finally reach the spire, you find that a shimmering barrier surrounds the ruins. You pass your hand through the barrier and feel nothing but a tingle like static electricity across your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

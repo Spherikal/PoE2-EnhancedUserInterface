@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_soul_vision_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This fragment of soul vibrates with a sense of deep worry and hesitation. As you draw closer, it drifts toward you with a sense of blind urgency.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Read the soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You pant with exertion as you flee, clutching an ornate, golden ring in both hands. The hip-deep water slows your frenzied escape, but you persist with some tattered memory of hope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A pained shriek rings out from the jungle. You turn back, distracted, and manage to run headlong into a towering form. The creature swivels her attention down at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She plucks you up with a bony talon as she would a doll. Through the haze of disorientation, you make out her pitted face and milk-white eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Cackling, she snatches the golden ring and hangs it on the branch of a tall, gnarled tree. 
+
+She tells you of the awful fate you'll suffer - feeding her grove, watering her children, but she makes it all sound like an honor.
+
+You wish you could believe her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The vision disperses in a cloud of pain and confusion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Let go of the memory.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Swinging her lantern softly, Xoti lures the soul into its depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_cv_court_of_woedica_player_interrupts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you enter the large chamber at the bottom of the pyramid, you notice a sizable group of well-armed people dressed in raiments of the Steel Garrote.
+
+In the center of the group kneels a man bound at the wrists. He looks around wildly. His eyes widen when they fall on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The man on the floor is an elderly elf clad in dirty clothes, his face contorted in the expression of a cornered animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"State your purpose now or die with him." She turns her steely gaze on you. Through the slits in her mask, you can just see the glint of her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Trespassers! Kill them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You intrude on the deliberations of the Court of Woedica, outsider. Choose your next actions carefully lest the Queen That Was turn her gaze to you as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh, thank the gods! Please, get me out of here. They're mad, they're all mad!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Be silent, or I will make you so!" The Inquisitor snarls at Oswald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"This man shirked a large debt. I'm here to collect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You have no authority in the Court of Woedica. Only the Queen That Was holds sway here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I pray your soul learns from your mistakes on its next turn about the Wheel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Cross your arms and scowl.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You shall meet your end here, in the holy Court of Woedica - as will he!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"They mean to put me to trial for OATHBREAKING, of all things. They say I betrayed the Aedyran Empire! But I haven't been back there in- in over a hundred years!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Before the kneeling man towers an imposing woman, her face obscured by the severe lines of a Woedican mask.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Those that attempt to lie to me find I am not easily fooled. Tell me, Watcher, how many of these souls do you claim were… innocent?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Attack] "Let him go or face my wrath!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Do you condemn the innocent out of spite - or mere incompetence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Explain." Leather creaks as the Inquisitor's hand tightens on the hilt of her sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I’m a Watcher. I’ve conversed with the tortured souls that met your justice. Not all were guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Leave] "On second thought, I'll just go..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[Attack] "I owe you nothing but a swift death!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You are well passed the point of flight, intruder. Explain yourself or die with the oathbreaker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Then you will die like the fool you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ah, the Watcher of Caed Nua graces our presence. Your deeds are well known to this court." Her tone is dangerously short. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>The Inquisitor bristles at your impertinent question. She grabs her sword hilt and begins to step forward, but stops herself, suddenly uncertain.
+
+Her followers share pointed looks with one another and say nothing to challenge or defend her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"You were warned not to return. Now you must pay the price!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Such a debt is but further evidence against the accused. Thank you for your testimony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"With due respect to your order’s reputation, Bleak Walker, the court will grant compensation of MY choosing, after sentencing. I assure you this man is copperless." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Trespassing upon these sacred hearings is an offense punishable by death. Of this crime, YOU are guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Attack] "Then I will take my due from your corpses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"One."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Lie] "A handful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Lie] "Too many to count."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>She stares at you intently for several moments, her eyes as unreadable as the mask that hides her features. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Even should you speak truthfully, you must see the wisdom of these proceedings. Imagine the greater good achieved by dispensing the reckoning this filth deserves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Who holds the lord accountable for abuses against his people? Who hunts the fugitive who betrayed her neighbor's trust?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What about this man? A death sentence for oathbreaking is extreme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I see only vigilante justice. Any mistake in your judgment proves my point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I bow to the court's judgment. Carry on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"A masked murderer lecturing me on justice. That's rich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>She stares at you intently for several moments, her eyes as unreadable as the mask that hides her features. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Your lies are as clear as Oswald's guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Oathbreakers are the bane of the mecwyn - my queen. A benign enough crime on the surface, but an oath broken plants the seed of far greater atrocities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Families are torn asunder with a broken vow. Cities fall to ruin upon promises abandoned. What war has not been birthed in treachery?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Take this one." She points at Oswald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"He forsook oaths to emperor and country both to fight amongst rebels in the War of Defiance. How many lives might have been spared without treason such as his?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"No, Watcher. Without one’s word… one is nothing. Less than nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Would you give your life to defend one such as he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"A pile and a half of gull shit, cap. An oath be only so binding as the worth of the person you swore it to."
+
+He scowls openly at the inquisitor.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"WHAT?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"A wise decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Oswald of Aedyr. You have been found guilty of oathbreaking and treason, crimes punishable by death. Under the gaze of Woedica, the moment of your justice is at hand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Go in peace, [Player Name], and take this as a reward for your faith. But be warned - you return to this sacred court on pain of death.
+
+"May the Oathbinder guide you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>She stares at you intently for several moments, her eyes as unreadable as the mask that hides her features. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I sense... no deception in your words. Could it be we've wronged so many?" 
+
+She closes her eyes beneath her mask for several heartbeats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Very well. Take this one and begone - but do not return. I must pray to Woedica in search of answers. SWIFTLY, before I change my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"And who holds them accountable for serving the greater good? Who ensures they do not become the same as those they hunt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"This court's methods may not be perfect, but if they can bring justice to those who evade it, then we shouldn't stand in their way." He nods to the masked woman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Thaos also believed he was an authority unto himself. And he wielded that authority to the detriment of many, many people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The inquisitor's grim-faced lackeys fall into step beside you, intent on leading you from the Court of Woedica before you cause further commotion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Would you prefer these monsters walk free at the expense of the TRULY innocent?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Oh, I'm just here for the show. Go ahead and kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"WHAT?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Even a broke swindler such as Oswald must meet the proper punishment. We cannot allow lawlessness a foot in the door, no matter how minor, lest we are overtaken by it."
+
+The Inquisitor clears her throat and stands up a bit straighter, prepared to render judgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

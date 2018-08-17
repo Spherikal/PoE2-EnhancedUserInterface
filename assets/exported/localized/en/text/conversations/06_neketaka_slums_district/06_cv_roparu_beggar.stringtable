@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_roparu_beggar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Traveler! Have you any food? Surely you've a scrap to spare?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A gaunt Roparu woman grabs for your leg. She paws at you with a weak grip, fingers bone-thin and trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do you have no access to food?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Always there is prize-share, though the pile has grown leaner these years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Give her some food.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The woman snatches the food from your hands with surprising speed, eyes darting a glance for any onlookers before she shoves it between her teeth.
+
+She gnaws desperately, swallows, chokes, chews again, and speaks with a mouth half-full from the next bite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Kick her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You slam your foot against the beggar's shoulder, knocking a whimper from her as she topples to the side. Her hair hangs stringy in her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The Roparu touches two gaunt-knuckled fingers to her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mercy, traveler. Never have I been so hungry." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Maybe you should seek paying work. There are places that will sell even a vagrant food."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A disbelieving laugh cracks from her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Many Roparu come from the other islands these days. They are strong and capable workers - not like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"As if my soul does not suffer enough!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Crouch down on your knees.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Her eyes widen as you lower yourself to her vantage. This close, you can see that her irises are green as sea glass and flecked with gold.
+
+She draws her hand away from you, the motion jerky and hesitant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What is your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm no one, only Rakara. Just Kara. I mean, to my friends."
+
+She glances off to one side and smooths those bony fingers over the folds of her skirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Do you have no access to food, Kara? No coin or house - no hope for work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I have the tribe's generosity and my share of the Mataru's fortune. What more should I want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Don't you?"
+
+Her hair falls tangled around her shoulders as she shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It is my place, and so whatever I earn - be it coin from a kind hand or fish from the sea - I must tithe it to the tribe. For the good of us all." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Do you think it is a good idea to touch me, 'no one' who is Rakara?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Her eyes brighten with fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I have stopped, haven't I? Please, forget what I asked you. Never will I touch you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"But you're starving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"But I am starving." It sounds too hollow for an affirmation. Rather, it is an acceptance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"As I said, I have the tribe's generosity and my share of the Mataru's fortune. What more should I want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Forgive me, I say too much. If you would know more, ask Enoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Thank you. I'll share it, I swear. Thank you, traveler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"He's there, in the house to the right when you cross the bridge. He can speak of the hunger."
+
+Her quavering arm points toward the southeast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She looks less gaunt than she did before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"My belly's full with good food now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I used to dream of food. Now I eat it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Little falls to our pile that is not rotten or sour... from this week and maybe before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Surely the queen will provide for us, in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Our elder listens to those in need, and he speaks... out of earshot of the guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Even the sailors on the docks and even the wandering travelers know me as Roparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"But they, too, tithe to the prize-share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Get yourself something to eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>A bitter, croaking laugh escapes her throat. She tosses your coins back to you with a sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You think the merchants will sell to Roparu? You think, even if they did, the Mataru would let me keep what I bought?
+
+"You have not been here long, stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Kick her.] "Ungrateful wretch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Who's the leader around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Can you tell me how to get to Delver's Row?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She chuckles darkly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"The Gullet is a lawless place, forgotten. The only authority here is the Matarus', and they don't work on our behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But if it is a wise man you want, seek Enoi in his home. He tries to keep us safe and fed. He does not always succeed, but he does try.
+
+"Trying's worth a lot down here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The black market? I have heard of it, but I have never been. I prefer to keep my head on my shoulders, ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"If Enoi cannot help you, ask after Fyrna. She's the tavernkeeper at The Hole. Her ears hear many secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"But... perhaps the village elder will point you down the right path. He is called Enoi - you can find him in his home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"But... Enoi might know. Though he is blind, there is no part of the Gullet he does not see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You- you will help me, won't you? You have done well by us before, and never have I been so hungry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Please, I know you've seen our suffering! Can't you spare a scrap?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You do not know? But you- you-" She stops abruptly, her gaze falling to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Her bony hands tremble in her lap. She flicks her gaze to you, then looks away quickly, before you can meet her eyes.
+
+You frighten her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Thank you, traveler, thank you. I knew you were a good one."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

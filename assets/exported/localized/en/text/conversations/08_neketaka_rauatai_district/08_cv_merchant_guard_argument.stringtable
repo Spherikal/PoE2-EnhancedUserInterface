@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_merchant_guard_argument</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Leave. No Vailian spy is coming through on my watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm a merchant! I have business inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A well-dressed Vailian and a young but determined guard are arguing by the gate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are you two arguing about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let's all take a deep breath. I'm sure we can work this out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Will both of you be quiet?! I'm sick of listening to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"These &lt;i&gt;Vailians&lt;/i&gt; are always sending their spies to snoop around, and I won't have it."
+
+The guard glares at the merchant even as she speaks to you.
+
+The merchant rolls her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh, you're one of &lt;i&gt;those&lt;/i&gt;." She crosses her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Both women turn to look at you coldly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You want to see our walls, our cannons, our powderhouse. You must think I'm an idiot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ac, you got &lt;i&gt;one&lt;/i&gt; thing right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The Royal Deadfire Company is a trading company, is it not? And you are on Kahanga soil. You cannot turn me away!"
+
+The Vailian's words only anger the guard further. Her face darkens, and she grits her pointed teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"The Brass Citadel and the Royal Deadfire Company operate under the auspices of the ranga nui of Rauatai."
+
+She straightens her shoulders and crosses her forearms over her chest in a stiff salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We answer to &lt;i&gt;him&lt;/i&gt;, not to you, and certainly not to some tribal queen of Neketaka!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The guard and the merchant continue arguing with raised voices and flailing hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You are safe here by the grace of Queen Onekaza II. Show some respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"If you think we're safe, you haven't been in Deadfire long. There's hardly a stretch of sea that doesn't have a pirate or privateer lurking nearby." She looks meaningfully at the Vailian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"And these &lt;i&gt;Rauataians&lt;/i&gt; think they own anything they stack two stones on top of. I'm here to conduct business, not engage in petty power struggles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let the merchant pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"If the guard won't let you in, that's that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Leave] "I'm staying out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What?! She's up to no good, I know it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Cuè?! And how am I supposed to conduct my business?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Have your contacts meet you somewhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Why anger one of the largest trading factions in Deadfire? Leave gracefully now and try a smoother entrance later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"That's not my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Whisper] "Not every guard is as steadfast as her. Try later... with some spare change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The Vailian winks at you and backs away, a deliberately outraged expression on her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Bah! To the depths with both of you, then!" She storms off theatrically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Good riddance to her. Thanks for your help." She nods appreciatively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Leave] "Never mind. Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"No, you just don't trust Vailians. And she's right - this is no way to run a trading company post."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She draws her lips into a thin line. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"It seems I have no choice. Fine." She turns and skulks off. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She raises an eyebrow at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I suppose there is wisdom in that. Very well. And corès." She nods to you and bows deeply - if mockingly - to the guard before leaving. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'm not keeping you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ac, I'll bet you'd let &lt;i&gt;him&lt;/i&gt; stroll right in!"</DefaultText>
+      <FemaleText>"Ac, I'll bet you'd let &lt;i&gt;her&lt;/i&gt; stroll right in!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The merchant and the guard return their attention to one another, snarling and arguing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How much harm can she really do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I can vouch for her. She won't make trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The guard makes a frustrated sound at the back of her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Fine. But if you're wrong, we're going to have a talk later." She glares at you before nodding the Vailian on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Agracima, friend." She doffs her hat to you before departing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Whisper] "So have her followed to see where she goes and whom she meets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The guard nods at you, her eyes wide and knowing.
+
+She clears her throat and turns to the merchant with a deliberately menacing scowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You may pass. Just stay out of trouble, understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Plenty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"But everyone else around here trusts you, so I guess I should, too." She sighs and waves the Vailian on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm not taking any chances, and that's final." She stares you both down.
+
+The Vailian merchant finally turns and leaves with a dramatic sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"At least that Vailian isn't bothering me now."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

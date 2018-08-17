@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_huana_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Drowned Kingdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the Drowned Kingdom for soul fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Locate the throne within the Sunken Crown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've found a corner of Rymrgand's domain dominated by the sea. Timeworn stone structures encrusted in coral rise in the distance, and the waters flow seemingly from nowhere. 
+
+If I find the spirit responsible for this place, perhaps I can enlist it to my cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The denizens of this realm are frightened of me, believing me an invading outlander. If I'm to find answers to what happened here, I'll need to locate the &lt;b&gt;king&lt;/b&gt; who sent them into exile.
+
+Perhaps I can learn more from the soul fragments lingering in the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've collected several fragments of the soul of an ancient &lt;b&gt;Huana king&lt;/b&gt;.
+
+If I return the spirit to its &lt;b&gt;seat of power&lt;/b&gt;, perhaps I can convince it to help me destroy Neriscyrlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I found a soul fragment in the water. It showed me the meeting of an ancient monarch and a curious traveler from a distant land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The second soul fragment impressed on me the image of a king keen to demonstrate the expanse of his empire to his foreign visitor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In the third soul fragment, I saw the king agree to give his new councilor a place to build a machine to speak with the gods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>In the fourth and final fragment of the soul, I witnessed a kingdom fall to ruin by treachery and divine retribution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I convinced &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; to make peace with his failures. He agreed it was time for him to leave the &lt;b&gt;Drowned Kingdom&lt;/b&gt;, so I scattered his essence to the void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I convinced &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; to make peace with his failures. Bolstered by a newfound courage, he agreed to aid me in my fight against the dragon &lt;b&gt;Neriscyrlas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I convinced &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; to make peace with his failures. He agreed it was time for him to leave the &lt;b&gt;Drowned Kingdom&lt;/b&gt;, so I absorbed his soul to return it to the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

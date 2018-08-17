@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_coel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The first thing you notice about this man is the nature of his attire - loud, in clashing reds and purples, bright as a peacock. On second glance, you see that he's tall and lanky, boyishly handsome in an unkempt way, with a trim beard and a friendly smile.
+
+He hums a little tune to himself as he watches the passersby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"My good sir, hello!" He gives you frightfully cheery wave and beckons you closer.</DefaultText>
+      <FemaleText>"My good lady, hello!" He gives you frightfully cheery wave and beckons you closer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pleasure to see you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Good day, my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Whatever might I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm certain there's no need to tell YOU, observant as you no doubt are, that I am... an actor!" He says the last bit with a flourish and takes an extravagant bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Can you teach me what you've learned in your travels as a performer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Now, now, my friend, I can't have you surpassing me, can I? Ought else you'll need to learn on your own, I'm afraid." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I would be &lt;i&gt;honored&lt;/i&gt;. But a man needs to make a living, you know.
+
+"So, for my services... how about three thousand copper?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>His training is... idiosyncratic. He starts by describing a character he'd like you to play - a street tough, an embittered sailor, a noble in the throes of a tantrum - then he recites lines to you, asking that you recite them back in the attitude of your character.
+
+He then shows you how to use those characters to trick people into giving you what you want. When you show you him you've got it, he gives you a wide smile and bids you farewell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"May luck accompany you on the road, my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Stage, tavern, street corner - they are as much my home as where I lay my head at night. So I travel Eora looking for opportunities to share my &lt;i&gt;gifts&lt;/i&gt; with the grateful masses, wherever that may lead me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You make a lot of money doing that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oh goodness yes, loads of it. I've been known to joke that I'm less a man than I am a walking bank for all the coin I carry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The common folk do so LOVE an actor. We bring mystery and excitement to their otherwise dreary lives.
+
+"Yes, you could say we're doing the gods' work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You're broke, aren't you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As he speaks, you notice that the toes of his soft boots are worn thin. A closer inspection reveals that his robes are unraveling at the hems and are well-patched at the elbows, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"How dare you - !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"But... you're not wrong, to my great chagrin. Times have been tough of late - what with the giant statue smashing up the place - and few in the Deadfire have coin to spare besides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Your generosity is... inspiring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm truly gratified that you think so!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"It's quite difficult, you know, living as I do. On occasion, foolish folk will take my act for reality - I've THRICE been run out of a town for impersonating a foreign dignitary!
+
+"Damned fools don't understand the blistering wit of my satire, I tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Fantastic! Let's get to it, then!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You know where to find me if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I had to learn to protect myself as a result. Though, I must admit, what martial skills I've got aren't of use for much more than fighting off wolves or throttling a thief with designs on my satchel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Thank the gods I hardly ever need to use them. I can talk myself out of nearly anything, you know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You sure can talk, I'll give you that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Well, I can!" He frowns, hands planted on his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Well, thank you! I must say, it's gratifying to be recognized for one's talents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"All things being equal, I'd much rather recite a sonnet than swing an ax, but a man's got to make his way in the world any way he can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Enhance Bluff and Streetwise] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

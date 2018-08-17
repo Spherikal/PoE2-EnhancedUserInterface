@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sand_graveyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bones crunch underfoot. Strewn across the sand are skeletons half-buried in wind-blown dunes or lying bleached and baking in the sun. Their corpses still wear the tattered remnants of their clothing, their packs tangled in their limbs.
+
+Wurms circle like vultures high above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Search the skeletons.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave the area undisturbed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You feel a tug at your leg. Mother Sharp-Rock clings to your boot, staring out at the dunes, then looks up at you. Her eyes are wide with fright. She fears this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You approach the nearest skeleton and untangle the pack from its remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As you disturb the skeleton, several sand blights rise up from the desert with a great gust of wind and head straight for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The sand is strangely lively here. It dances as if caught in a breeze, but there is no wind to stir it. Several piles of grit rise above the dunes in suspiciously orderly mounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You give the skeletons a wide berth and continue to explore the island.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Use a ranged weapon to test the sand mound's reaction.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The mound of sand whips itself into a small storm. It rages across the dunes, and its outburst awakens the mounds of sand beside it. Together they rise from the desert as a swirling cloud and bear down upon you en masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

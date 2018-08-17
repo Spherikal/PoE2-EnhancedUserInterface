@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\generic\00_cv_galawain_revenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>White-hot pain lances through your head, drowning out the roar of the dragon. What replaces it is a low growl that sends vibrations through the chamber. 
+
+A pair of amber eyes ignite from the shadows. Their attention forms a knot in your gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A rush of adrenaline courses from your head to your toes, filling you with warmth and vigor. Nothing has changed, but now you see the dragon as merely one in a long line of prey extending both behind and ahead of you. 
+
+A pair of amber eyes regard you from the shadows of the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>White-hot pain lances through your head, drowning out the roar of the dragon. What replaces it is a low growl that sends vibrations through the chamber. 
+
+A pair of amber eyes ignite from the shadows. Their attention forms a knot in your gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You swore to glut the survivors on the remains of the dead, but the souls of the Dyrwood groan with hunger." 
+
+The eyes narrow. Then their focus shifts toward the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"When my champion closes his jaws around you, know that it is &lt;i&gt;my&lt;/i&gt; teeth which pierce your hide." 
+
+Galawain nods toward the sea dragon and eases back into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A rush of adrenaline courses from your head to your toes, filling you with warmth and vigor. Nothing has changed, but now you see the dragon as merely one in a long line of prey extending both behind and ahead of you. 
+
+A pair of amber eyes regard you from the shadows of the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The souls of the Dyrwood glow with life. The dead have served the needs of the living." 
+
+The eyes bob as their owner nods with approval. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Take this reprieve from the hunt, but do not let your teeth blunt on complacency." 
+
+When the eyes close, it is as if they were never there. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You swore to glut the survivors on the remains of the dead, but the souls of the Dyrwood groan with hunger." 
+
+The eyes narrow. Then their focus shifts toward the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The souls of the Dyrwood glow with life. The dead have served the needs of the living." 
+
+The eyes bob as their owner nods with approval. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"When my champion closes his jaws around you, know that it is &lt;i&gt;my&lt;/i&gt; teeth which pierce your hide." 
+
+Galawain nods toward the beast and eases back into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Take this reprieve from the hunt, but do not let your teeth blunt on complacency." 
+
+When the eyes close, it is as if they were never there. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

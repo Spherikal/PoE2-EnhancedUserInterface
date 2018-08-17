@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_fampyr_guard_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman strides into the tavern, bearing a staff whose ornamental head glows with arcane energy. 
+
+She strikes the staff upon the ground, once, and the tavern fills with eerie light as the runes carved upon each vessel's forehead begin to glow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Menzzago has brought you a feast, my friends! Livestock and game! Tonight, we eat well!"
+
+Everyone in the tavern cheers as the kith are carted into a back room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Copperhead- You are not staying for the celebration?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"N-not today, Zulka. I've had my fill. Really. Another mouthful and I'll split down the seams." 
+
+He bobs his head in a feeble bow, then scuttles away. Zulka's attention drifts back toward the crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The fampyr's gaze falls upon you, and for an instant it seems that she will overlook your presence.
+
+And then her eyes narrow, and she raises her staff with a great, violent motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>All around you, lights flare above the furled brows of the gathered vessels. 
+
+The tavern patrons slump into feral postures, their eyes blank and insensate, their jaws gnashing. As one, they lunge toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Look here! Someone a little too eager to climb into the stewpot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Zulka mutters something under her breath, and a faint aura ripples around the two bound kith standing behind her.
+
+That done, she makes a sweeping gesture of the arm, with all the showmanship of a theater performer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Copperhead freezes mid-slink, grinning insipidly.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

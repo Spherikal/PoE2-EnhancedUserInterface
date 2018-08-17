@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ilario</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The young elf's hand drops to the pistol in his belt, palming the grip.
+
+The faintest hint of a sneer plays about his lips as he watches you, unblinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Guess you have more sense than your buddies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Guess so. If they were too slow, too stupid, too unlucky- not my problem." 
+
+He shrugs his shoulders, keeping his hand on his pistol. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Savia sent me. She needs you to put a stop to the looting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Merla, she must be desperate! Not so desperate as to come here, on her knees, to beg for herself, but- she sent you.
+
+"No. There's my answer. I get my cut. There's no sense in ruining a good thing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You can help, or you can join the bodies floating down the street."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ilari scowls, and his hand tightens around the grip of his pistol. 
+
+He glances up and down the street. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell Savia this isn't permanent. Second the water clears up and things are back to normal, we're through.
+
+"I'll spread the word. Gorecci Street is under, ah, lawful protection now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Consider it a fee- for protecting Gorecci Street."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ilari's eyes dart to the coin in your hand. He runs his tongue over his teeth, making a show of looking around in both directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attack.] "I'm not here to talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Come for a little swim on Gorecci Street, aumaua? Out with the other sharks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Cuè? You're still here?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ado. Don't fret, we have our eyes on things here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Help her out this once and Savia will owe you a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"A &lt;i&gt;favor&lt;/i&gt;. Merla, I should buy her dinner, maybe."
+
+Mid-chortle, Ilari's brows draw together. He runs a thumb along his jaw, frowning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"On second thought, I'll return later." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eccosi? This is my street. That doesn't change after a little rain. 
+
+"That Storm Speaker, she didn't concern herself much with this place, did she?"
+
+He kicks at the water, splashing noisily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Cuè? You the invasion force, big man? Deadfire Company send you out ahead?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ac, derme o." 
+
+Ilari sniffs, mouth twisting into a smug smirk, and pockets the coins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Careful. One bad step out here and you drown, aimico."</DefaultText>
+      <FemaleText>"Careful. One bad step out here and you drown, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Not much cause to come out this way unless you're looking for trouble. Ado- you've found it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"To get this lost, aimico, you must have been trying real hard."</DefaultText>
+      <FemaleText>"To get this lost, aimica, you must have been trying real hard."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Merla-!" 
+
+Ilari brings up his pistol, lips curling back into a grimacing snarl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Ilari snorts, his nose wrinkling. He regards you for a moment longer in expectant silence. 
+
+Then he throws his head back, letting out a braying, unpleasant laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attack] "I'll show you a cut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Me and my gang, we keep the peace here, and the locals pay their dues. 
+
+"Nothing here now but what they left behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Done. I'll do it- bon piacco.
+
+"Can't be too bad, having a commander in your pocket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"...Not in a mood to go wading after you. So, Savia wants the place looked after?
+
+I can do that. Easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Come now, did the watch commander send you? Are her guards cowering away in their own cells while you save the day?"
+
+Ilari gives a hoarse, unpleasant cackle. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

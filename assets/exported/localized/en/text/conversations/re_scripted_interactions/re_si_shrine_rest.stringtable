@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_shrine_rest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You notice a small pavilion containing a large, weathered statue of stone a little ways off the path. It appears to be a Huana shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Desecrate the shrine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave the shrine and continue your travels.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The sculpture portrays a flamboyantly feathered bird of paradise. Its long body coils around a spherical egg. A few flaky remnants of paint cling stubbornly to the stone.
+
+It represents Amira - the Huana's rendition of Hylea.
+
+An inscription runs along the shrine's base - "The faithful strive always, as swift as the albatross and as agile as the osprey."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The craftsmanship of the statue is remarkable, but time has worn down its features. 
+
+You cannot discern who this shrine was dedicated to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You kneel before the shrine, whispering your prayer to the cool stone. 
+
+It offers no answers, but you feel calmer as you rise to your feet and set about making camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The statue bears the shape of a nude woman with the head of a monstrous fish. 
+
+It portrays Ngati - the Huana's rendition of Ondra.
+
+An inscription runs along the shrine's base. "The surf smooths stones, but also crushes them into sand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A pair of stone eels twist up the sculpture. Each eel's mouth clings to the other's tail, creating an unbroken circuit. 
+
+It portrays Rikuhu - the Huana's rendition of Berath.
+
+An inscription runs along the shrine's base. "Some flee. Others fight. Rikuhu consumes all."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pollen and dirt dust the statue, and grass grows wild at its base. It seems some time since this shrine was tended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Pray at the shrine and rest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ancient and eroded, it crumbles beneath your onslaught, and fragments of the statue break off and fall to the ground. Having thoroughly disfigured the shrine, you shove it, and it topples over.
+
+All that remains of the shrine is a stone platform and a pile of rocks.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Approach and identify it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Leave the shrine and continue your travels.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Strength flows from captain to mother to son, and gratitude follows it back, I say." Tekēhu clasps his hands and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Waste of time," Pallegina loudly mutters during your prayer. She fumes from the path until you've finished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Aye, cap. Nothing fathom-headed bout staying square with the old salt who brought you back to life."
+
+Serafen smirks and drops to his knees beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"When Ngati sinks your ship, I know who will be spared." Tekēhu crosses his arms and grimaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If only Hylea herself were as easily toppled as this shrine."
+
+Pallegina observes your work, her golden eyes gleaming with satisfaction.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Working through some authority issues, are we?" Aloth inspects your handiwork with a wry expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Meditate on your travails and rest.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Seated at the shrine, you steady your breathing and allow your muscles to loosen.
+
+You organize your thoughts, setting them in order. 
+
+When you stand, everything seems less perilous or more attainable. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Finished, you return to your travels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Search the surrounding area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The area around the shrine is clear and may prove to be a good place to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Set camp and rest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The hours pass without complication, and you wake and continue your journey. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Xoti rests a hand upon the lumpy shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The statue portrays a creature akin to a stelgaer, though a spider's head juts from its right shoulder and a large-tusked boar's from its left.
+
+It portrays Toamowhai, the Huana rendition of Galawain.
+
+An inscription runs along the shrine's base. "Stalk. Slay. Survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"This is a shrine to Gaun. I can feel it in my bones, Watcher. Like my god's carving his sickle down my spine."
+
+She shudders, pupils eating up her eyes.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The area around the shrine is clear and may prove to be a good place to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Pollen and dirt dust the statue, and grass grows wild at its base. It seems some time since this shrine was tended.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

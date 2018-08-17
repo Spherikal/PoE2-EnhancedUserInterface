@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_murder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A quick series of knocks rap against your door. [Specified 3] stands at the portal, a clamor growing on the deck beyond.
+
+"Pardon me, captain, but we have a problem." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Toss the murderer overboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ondra will be the judge of this. Keelhaul [Specified 1]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fetch me the whip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Cut [Specified 1] loose. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>With a cheer, the sailors march across the boat to pitch the murderer overboard. When they lift [Specified 1] up, the gag flops free of her mouth, and she screams her innocence. But then she's overboard, nothing but a muted splash and a few quiet shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The rope zips across the railing with a searing whine before snapping taut. The sailors retreat to the stern of the ship and fish out a bloody and unconscious figure.
+ 
+[Specified 1] lives still, and by the code of the sea, the punishment is done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The sailors boo the decision. You squeeze the whip, wringing blood out of the leather thongs, and tell everyone to get back to work. 
+
+[Specified 1] hangs insensate against the mast as [Player Ship] sails on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"That's enough." [Specified 3] shoulders the baton. "Captain's orders. Break it up and get back to work!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The rope runs free until a knot clogs the winch, leaving [Specified 1] to be dragged somewhere under the hull where beds of barnacles grow. A froth of flesh and blood starts to bubble and twist in the stern’s wake. 
+
+You tell the crew that the murderer is dead and to cut the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Is there any proof that [Specified 1] committed this murder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Captain!" [Specified 0] thrusts a thumb at the accused. "We found [Specified 1]'s own belt around [Specified 2]'s neck! I don't know about you, but my belt only unbuckles for shitting and fucking. Maybe that isn't city proof, but we're on the open sea with no doors to close between us and a murderer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[Specified 1]'s been going on all month about how much coin [Specified 2] owed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 3] frowns at the accused. "[Specified 1]'s been nursing a grudge against [Specified 2] for some time now, captain, about some fling the latter had in the last port. Made no secret of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Did anyone see this happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The sailors exchange glances. 
+
+"Anyone?" [Specified 3] asks. "You heard the captain. Did anyone see this murder occur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Of course nobody saw it!" [Specified 0] wipes her nose. "We were on duty or asleep, just like any other time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0] stabs a pointed finger at the bound and gagged [Specified 1]. 
+
+"We have all the proof we need, captain. Just say the word, and we’ll take care of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"All right, tell me what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You know well as anyone that orlans are half-crazed with bloodlust at the best of times!" [Specified 0] grabs [Specified 1] by the scruff and thrusts the orlan forward. "There's blood on this one's yellow little teeth! Think it got there all by accident?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I thought you said [Specified 2] was strangled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm sure it had nothing to do with you all pulling nonsense like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"They are vicious little beasts, aren't they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 3] looks to you. "Orders, captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"To clarify, you're saying that [Specified 1] is guilty because orlans are murderers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Well, not just on account of that, captain..." [Specified 0] glances away. "Not everyone rises above their origins, is all I'm saying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 4] chuckles, then blinks. "You're not serious, are you, captain?"
+
+[Specified 0] scowls. "The captain's serious, all right. Cut the lucky fool loose." The other mates make to free [Specified 1]. "None of us are going to sleep right after this, captain. I wonder who'll get the strangling next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"[Specified 1] strangled [Specified 2] belowdecks. We were going to throw the effigy-lover overboard, but… it's your ship."
+
+[Specified 4] shouts from the deck: "Also, we thought you might have a better punishment in mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>On deck, you see [Specified 1] bound and gagged. [Specified 2] lies against the bulwark. A couple of crew members crouch nearby, tears in their eyes as they lay a shroud over the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The crew claps one another on the back for justice well-done, and [Player Ship] sails on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>With gravitas, [Specified 3] hands you the whip, a horse hide handle bearing flails of layered leather, each punctuated with shark teeth and fish hooks. 
+
+[Specified 0] and [Specified 4] hold [Specified 1] in place. Neck craned, the condemned looks desperately towards you, screams muffled by the gag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>With each of your lashes, the whip’s prongs bite into [Specified 1]'s skin and catch, requiring a tug to pop them back out. 
+
+Three lashes in and [Specified 1] passes out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Continue whipping.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"That's punishment enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You look back at the crew, let the whip out again, and take up the flogging. Again and again, the barbs bite into [Specified 1]'s back, tearing free chunks of flesh and spattering the deck with blood. 
+
+You don't stop until ribs and vertebrae show among the viscera. You turn away, leaving the corpse to your ashen-faced crew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The sailors exchange smiles. 
+
+"By Woedica," [Specified 4] says, "I told you the captain would know how to handle this!"
+
+"Kill-haul, you said?" [Specified 0] grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Seems you heard me just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"By the book, [Specified 0]. Let Ondra judge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The hands push the struggling [Specified 1] to the bow, where one end of a rope is tied to her feet and the other to an anchor. She screams through her gag as [Specified 0] shoves her overboard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] laughs before slapping [Specified 4] on the back. "Get the rope and throw that murderer overboard. We’ll see what the sea has to make of this crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"As you wish, captain." With a frown, [Specified 0] turns to another hand. "Let's see what Ondra thinks, then."
+
+The other sailors take up a chant: "Keelhaul! Keelhaul! Keelhaul!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The hands push the struggling [Specified 1] to the bow, where one end of a rope is tied to her feet and the other to an anchor. She screams through her gag as [Specified 0] shoves her overboard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Of course nobody saw it!" [Specified 0] wipes his nose. "We were on duty or asleep, just like any other time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] shoots you a faint smile as she stumbles away from the deckhands, massaging her wrists where the bonds had bitten into them.
+
+[Player Ship] sails on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] shoots you a faint smile as he stumbles away from the deckhands, massaging his wrists where the bonds had bitten into them.
+
+[Player Ship] sails on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The hands push the struggling [Specified 1] to the bow, where one end of a rope is tied to his feet and the other to an anchor. He screams through his gag as [Specified 0] shoves him overboard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The hands push the struggling [Specified 1] to the bow, where one end of a rope is tied to his feet and the other to an anchor. He screams through his gag as [Specified 0] shoves him overboard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>With a cheer, the sailors march across the boat to pitch the murderer overboard. When they lift [Specified 1] up, the gag flops free of his mouth, and he screams his innocence. But then he's overboard, nothing but a muted splash and a few quiet shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Well, yes. I mean, [Specified 1] has hands and fingers and all..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Search for [Specified 2]'s soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You reach out with your senses, searching for any remnant of essence [Specified 2] may have left behind. You find nothing. The victim has moved on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sure laddie. That be all you're saying alright."
+
+Serafen watches the man through narrowed lime-colored eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"[Specified 1] strangled [Specified 2] belowdecks. We were going to throw the effigy-lover overboard, but… it's your ship."
+
+[Specified 4] shouts from the deck: "Also, we thought you might have a better punishment in mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"[Specified 1] stabbed [Specified 2] to death." [Specified 3] sighs. "I thought you should be the one to sort it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 3] gestures to the gathered sailors. "[Specified 0] here found [Specified 2] in the hammocks down below, with [Specified 1]'s dagger buried hilt deep between the ribs."
+
+[Specified 0] nods, forehead dotted with sweat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"A few of the hands got into a row, and [Specified 1] clobbered [Specified 2] with one of the hammers. Poor fool bled out." [Specified 3] frowns. "Half the crew wants to toss [Specified 1] overboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You apply two more to wake [Specified 1] up, and the mariner's head bobs senselessly against the mast. Blood pours down the condemned's back.
+
+The crew watch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Continue whipping.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Now [Specified 2] wakes up strangled, and lo and behold, a fat purse is under [Specified 1]'s pillow!"
+
+[Specified 1] struggles against the ropes as the other sailors jeer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Now [Specified 2] wakes up stabbed, and that coin isn't anywhere to be found!"
+
+[Specified 1] struggles against the ropes as the other sailors jeer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Now [Specified 2] just happens to take a hard hit from [Specified 1] in a brawl. Hogwash!"
+
+[Specified 1] struggles against the ropes as the other sailors jeer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I saw it." [Specified 0] steps forward. "I mean, I didn't actually seen it happen, but I saw [Specified 1] running up from the hold after it happened." The sailor frowns at [Specified 2]'s fallen form. "That's how I found the body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"No, captain," [Specified 4] says, "but I saw [Specified 1] sharpening that dagger this afternoon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"It isn't like tensions haven't been high, captain," [Specified 0] says. 
+
+"Yeah," [Specified 4] grunts. "We were just letting of some steam. It would've all been in good fun if it weren't for [Specified 1] going crazy with the hammer. Skaen only knows what set the bastard off."
+
+[Specified 0] nods, confirming the tale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"They got into fists over a game of cards," [Specified 0] says. "No weapons, but the next thing you know, [Specified 2]'s down, with [Specified 1] holding the mallet."
+
+[Specified 3] frowns. "It sounds like it could have been an accident." 
+
+"It wasn't an accident," [Specified 4] grunts. "[Specified 1]'s a killer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

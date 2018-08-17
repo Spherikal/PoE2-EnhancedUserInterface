@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_flaune</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>283</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>From her unkempt hair to her agitated pacing, Flaune Elette gives off an air of restrained chaos. 
+
+She waves you over with a few quick motions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Come to watch us work? It's not as exciting when we're running through calculations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Watcher? [Player Name]? Can you hear me?"
+
+You raise your head to find yourself surrounded by anxious faces. Flaune withdraws the finger currently prodding at your temple and nearly stumbles backwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Madiccho... I thought I was done for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"No! Please, spare them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hey, we need that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"So, it's off to Ukaizo with you, eh? The way the director put it, you'll be sailing into battle.
+
+"I hope you are ready, aimico. Myself, I despise ships."
+
+Elette sighs.</DefaultText>
+      <FemaleText>"So, it's off to Ukaizo with you, eh? The way the Director put it, you'll be sailing into battle.
+
+"I hope you are ready, aimica. Myself, I despise ships."
+
+Elette sighs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Castol sent me. He seemed to think I could help out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You work here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Whatever it is you're here for, Watcher, you're too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"We've have had to work around such limitations before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If you'll excuse me. I have years' worth of notes to organize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Hope you're keeping busy, Watcher. We're still running some small tests. Not quite ready for the real thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Can I ask you some questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Leave] "I'll be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qualities that a Watcher happens to be uniquely suited to exploring. You're just what we're missing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm no test subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Consider yourself an equal partner in the pursuit of knowledge. The things the adra can do..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sure thing, aimico. Comes with the job, doesn't it?"</DefaultText>
+      <FemaleText>"Sure thing, aimica. Comes with the job, doesn't it?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I just had a few questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[Player Name]! Excellent timing. We're getting consistent readings, and I believe we're ready to try again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What happened? Did you feel any pain? Do you remember anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I don't have to tell you it didn't work. The currents spiked, and you went completely still. Breathing, but nothing else. We sent for the physician."
+
+"Myself, I was about to try throwing some water in your face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I think I ended up in the Beyond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Rymrgand sends his regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I nearly had my soul disintegrated because of you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"We're leaving. If that's what you came to see to. Just salvaging what we can. What good it will do anyone without the luminous adra, though..." 
+
+Flaune shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Where will you go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You don't mind if I talk and work, do you? What can I do for you?"
+
+She turns away to scrawl a quick note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That is, if you're up for it." 
+
+Flaune does a poor job of hiding her anticipation. She bounces slightly on her heels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"That was all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"For now, ne? No trouble if you think of anything else, aimico."</DefaultText>
+      <FemaleText>"For now, ne? No trouble if you think of anything else, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Great! To work, everyone! Let's get this underway!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"And you, just relax. But also, be sure to concentrate very carefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"These... monstrous brutes! Look at what they have done. They've destroyed all we have worked toward for a little coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You think they're mercenaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Sent by the Royal Deadfire Company, at a guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"This is a bold move, even for the Royal Deadfire Company. They're losing patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"And look at our machines..." 
+
+Flaune sighs. "We'll clean up here. See to the wounded. You'd best get over to the offices, let them know what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I can't believe they're all..." 
+
+"Look, you'd best get back to headquarters. Let them know what happened. I'll... I'll clean up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>While you speak, one of the researchers prods you gently with a copper rod. You hear the device in his hand give a high, piercing whine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Slap the rod away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The device clatters to the ground. The animancer looks at it, then back at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Let's not harass our very patient friend any further." 
+
+Flaune coughs under her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"We're all very glad you're in one piece. We'll have a look at the machines, figure out what went wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What are you working on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Without a doubt. The Trading Companies may be barred from open warfare, but it doesn't mean we're safe from one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Who else? At least they have the guile not to send their own people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What... was it like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You had... some kind of vision? A near-death experience?"
+
+With your safety assured, Flaune's sympathetic expression quickly cedes to professional curiosity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"No, I mean I literally went to the Beyond, and spoke to Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Cold. Weird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"It was terrifying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Really not fun!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Well, now what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sientere, Watcher, truly. It seems we sent your mind further afield than intended, and without the rest of you in tow. Not entirely outside our predictions, but not the result we wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Please, stay calm. If you were in danger, it wasn't our intent. This is new territory for all of us. You saw - experienced - something. What was it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I speak to the Gods all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"There was a warm light. And there were puppies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"We're packing it all up. Pulling together what notes we can. Maybe there's something we can salvage from all this." 
+
+Flaune shrugs, but her resigned expression hardens into frustration. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Flaune turns to face you as you approach, regarding you with mingled wariness and resentment. You notice several of the surrounding animancers pause in their toil to watch you both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I suggest you find a new line of work, Flaune. Something healthier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Lie] "You're leaving? How dreadful. I didn't realize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Trust me, you'll be glad to be out of Neketaka soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Sorry it worked out this way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What could I possibly help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Director Castol likes this place. He didn't come by, did he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Alvari's gone to ground. Any chance she came by?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Nothing, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Yes, a pity nobody could do a thing about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Where else? I will go home to the Republics, and civilization. Any sensible person would do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"A good performance. I'm sure you'll do very well for yourself in the times ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't doubt that. As for yourself, I have a feeling you'll weather whatever comes next just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nothing good ever comes of meddling with souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Well, you'd know better than anyone, wouldn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Be on your way, Watcher. I think we're finished, don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Funny. Healthy living's for the weak, aimico."</DefaultText>
+      <FemaleText>"Funny. Healthy living's for the weak, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Flaune gives you a long, disbelieving stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Your quarry isn't here. Or in the city, for that matter. And may the gods carry them out of your reach!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Not the coziest place for it, is it? But the open air - the lightning, specifically - is a boon. Lets our mages have a rest now and then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Good test of the equipment, too. We're working on making it less delicate. Our junior researchers, they're still a little soft."
+
+She laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Actually, I want to talk about something else, first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'm ready to try the experiment again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"How about you just point me at a lever and I pull it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Now, if someone were capable of sensing that essence in the In-Between - even of manipulating it... Someone like a Watcher, for instance..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Well, I'd be happy to help however I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Is it dangerous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"There aren't needles involved, are there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Have the Royal Deadfire Company given you much trouble before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"We are all still shaken, but... It could have been a far greater loss without your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"It shouldn't take too long to arrange. And if we haven't soured you on science altogether, we can try again."
+
+Flaune regards you hopefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I need some rest first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Why not? Let's live dangerously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Not a chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Of course, of course. It'll give us time to arrange things here. When you're ready, come on by. We'll have the machine ready for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's the spirit! Let's get to it. Ansel, get on the machine. Let's take things down a few notches this time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Per complancanet, don't be like that. We'll get it right. Think about it, at least. We'll be here when you come around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Brave of you, hiding like a coward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"And what should I have done? Provided a few seconds of amusement as I tried to fight off a trained mercenary? Stunned them all with my grasp of metaphysical sciences?"
+
+Flaune makes an angry, dismissive gesture, though her expression is hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Never directly. A couple of ships that sailed too close to their outposts. At least one kidnapped animancer, a few defectors. 
+
+"Neketaka used to at least &lt;i&gt;feel&lt;/i&gt; like neutral ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Gellarde! What a relief. You won't regret this. 
+
+"Let me run you through the theory, and we'll get to the test itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"No, no. Well, yes - what isn't? But not &lt;i&gt;exceptionally&lt;/i&gt; dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"No, nothing invasive. You'd just be putting your Watcher's gifts to use. Here, I'll explain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"So, about this experiment..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Feeling up to it? We'll make it worth your while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"What would I have to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"The idea is for you to focus on the next 'connection' point. The machine will use that new link between the adra veins to create a tether, as well as provide the energy for you to... jump, effectively."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"The next pillar's due east of here, in the middle of a farm. It's not as tall as this one, but you shouldn't have any trouble finding it.
+
+"Oh and don't worry, we paid the farmers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Leave] "I have to take care of something first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"We'll get everything ready for you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"What if something goes wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"There you are. We're just about ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Whew! We heard that from here! I swear you set the tower swaying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Bad luck for Castol, ne? And us, maybe. 
+
+"I wager Alvari has very specific plans in mind for our research, going forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"You know, when I started working on all of this, I didn't really think we'd end up using it for this kind of thing. Guess it should be interesting, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Walk me through this plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You're certain you have the calculations right this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"It isn't that Alvari does not &lt;i&gt;see&lt;/i&gt; the big picture, but she's happy to ignore it. 
+
+"She is focused on getting the Songretta what they want. The moment that's seen to, she'll be done with this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Eccosi. Politics are not my field of study."
+
+She folds her arms, expression sour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ac, the plan. I will keep it short. 
+
+Unfortunately for our friends in the Brass Citadel, there is an adra pillar in the powderhouse. Used it for illumination, if you can believe it."
+
+Elette snorts.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Plant the explosive too far from the main stores, and they will isolate the blaze and save the tower. Too close, and you will have gone a long way to kill yourself.
+
+"My suggestion is the vats. You'll know by the, ah, smell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"You'll spoil our luck, asking questions like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"In any case, you will have to find your own way out. I won't be there to transport you back to the tower.
+
+"You'd better be sure that you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Let's get on with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Leave] "I'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Having second thoughts? Take it up with someone at headquarters. This is already going to give me nightmares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"We were a little worried when you didn't turn up. Should have known you would improvise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Well. Belfetto, all that. Impressively done. Guess you ought to get back and report. Not that it'll be a surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ah, Watcher... Sientere, I have no time for niceties. We have received instruction to leave the city for the time being. 
+
+"Until it is 'safe,' which is as good as saying we might as well sail home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Where and how we are to flee, of course, they did not specify." 
+
+Elette casts a glum look over the equipment, shaking her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ever consider working for the Royal Deadfire Company?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"You'd better make yourselves scarce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I doubt they'll hurt a bunch of animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"You jest. Now, they do not even need to send mercenaries. 
+
+"They can kick in the door any time they please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ac, of course. Nobody ever gets hurt who did not deserve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"We have to hurry. Per complanca, Watcher, just... Just leave us alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"That's a pleasant enough lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ha. Well, there you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ac, and we are working to that end. Farewell, Watcher." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I have to say, they have not made the best case for themselves." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I'm afraid there is nothing for you here, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Animancers weren't very popular in the Dyrwood. Do the Huana give you trouble?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"So, no riots. Fortunately, news out of the Dyrwood doesn't mean much to this lot." 
+
+Flaune winks to undercut her teasing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Seems like a strange place to run experiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"It took us a few months to adapt. A few bad shocks, too, before we finished proofing the machinery against rain.
+
+"I like to think it lends it all a little drama, no? Besides, how better to honor Hylea than with invention?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You'll be guiding the whole experiment. Give us the word and we'll put an immediate stop to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"There was that fellow that jumped a little too far over the edge..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Stop scaring our assistant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ha, well... This is a little like describing a muscle I don't have."
+
+Elette thinks for a moment, snapping her fingers as she paces a half-step back and forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"So. Director Alvari. I suppose I can be glad she hasn't shut us down immediately. Not sure what her interest in all this is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"As I told her, we've finished making the adjustments. We're ready to try again when you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Right, so, one more thing: Don't get caught. And if you do get caught, make sure nobody is going to report seeing you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Here we go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You know, time is a factor here. Just letting you know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Leave] "I'll be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"You're really sure it'll work this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Clinging to certainty is a novice's mistake. We keep open minds, here. ...But seriously, I think we're on to something." 
+
+Flaune gives you an encouraging grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Maybe we should have someone else try this first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"We don't really have any spare Watchers about, I'm afraid. And it's not as if we can sit a dog in front of the adra-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I'd sit you in front of the adra first."
+
+Edér cracks his knuckles without breaking his gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Like I was saying, we couldn't expect a dog to do more than stare at us." 
+
+Flaune makes an offhanded, placating gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"It's your own fault for being a perfect test subject, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"We don't really have any spare Watchers about, I'm afraid. We've reached a new frontier, and you're the only one capable of exploring it at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Is that not exciting? I'm excited."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Oh, thank the gods. Thank Hylea! Merla, you had us in a panic."
+
+Flaune sets a hand to her chest, and fans herself with the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Flaune raises a brow, but the other animancers look at you with undisguised curiosity - even awe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Edér swats you on the shoulder with the back of his hand, his eyes disbelieving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Flaune smiles crookedly, and swats one particularly awed-looking assistant on the shoulder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Until then, I'm sure our friends at headquarters will want an update - and to see I haven't done you any permanent harm. 
+
+"We'll send word when we're ready here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"It's just the same as before. You focus on the adra pillar, the machine gives you a boost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Just as I hope this hasn't put you off helping us. We just have to adjust the current, give you a chance to control your... flight, for want of a better word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Are you feeling any... heightened aggression?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Let's do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Gellarde! Ansel, get on the machines. No time to waste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Agracima, Watcher. I owe you my life, do not think I forgot. I'm still shaking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Someone's covering their tracks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Yes, someone."
+
+Flaune gives a short, bitter laugh, and looks pointedly at Maia Rua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Maia jostles your shoulder as you make to leave, her voice lowered to a discreet murmur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"If I'd sent them I wouldn't be here."
+
+Maia's tone is untroubled, and she stares down Flaune until the animancer looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Looks like the Royal Deadfire Company isn't happy with your progress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ah, yes. 'Someone.'"
+
+Flaune runs a trembling hand through her hair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"One way or another, this is only going to get worse. Worth thinking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"You're early! I'm sorry, but we aren't ready to look into your condition yet. You can have a seat over there. Hope you don't mind heights, or bird sh-"
+
+She narrows her eyes at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"You aren't one of our patients. Ah, Madiccho - You! You're that Watcher. Sientere - I'm sorry. It's been a busy time here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Castol sent a runner ahead of you. Guess he's excited about all this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Did Castol say what all of this is about? Never mind, I'll explain. It's the adra, of course. Everything's been about the adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"He did not mention sending over one of the Deadfire Company's soldiers. If you're here to do some spying, so be it - I need your help all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I'm not-" 
+
+Maia sighs. "Next time I'm staying downstairs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Sérre Pallegina! Here to watch us work? Or are you finally going to let me strap you down to a table?"
+
+She grins wickedly, looking past Pallegina to wink at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"We've cataloged a number of interesting properties unique to luminous adra. But there are some very specific qualities we're investigating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"All right, Watcher! Remember, focus on the beam of light!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Luminous adra has special effects upon kith. Even to the humblest, it offers some small improvements - rejuvenation, vitality. The kind of thing you sell to people back home, ne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"When you say you've been 'researching the effects on kith'..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"I believe we can harness this connection - and your natural abilities - to transport a person across great distances in a moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"So you could, say, travel across the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"No way. You're not 'transporting' me anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"That seems... very dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"All right. Let's do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Worried you'll end up in a wall? Don't worry. We've run through a few times, and you can usually avoid smacking into anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"You want to use my connection to the adra. I could target a specific pillar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Precisely right. We've had luck with shorter jumps, but those were as much spellcraft as science."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Anything for the advancement of science."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Ah, you are cut from our cloth. Gellarde! Always a pleasure to work with someone who understands what's at stake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Gellarde! Very well - you stand there. Ansel, the machine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"But what about those who have already harnessed their own essence? Consider the talented cutpurse, for instance, who can cross a room by slipping, briefly, into another place. 
+
+"The world between."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"On volunteers. Well-paid volunteers." 
+
+Flaune smirks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"That is the very least of it, aimico. We've only managed short jumps thus far. I'm hoping that your own gifts will make the difference."</DefaultText>
+      <FemaleText>"That is the very least of it, aimica. We've only managed short jumps thus far. I'm hoping that your own gifts will make the difference."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"It's entirely up to you, of course. All I can do is beg. Shamelessly. 
+
+"Think of the possibilities! The things we could do together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"In fact, yes, go think about it. Have a walk around the tower. I'll be right here when you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Whatever rests lightest on your conscience, ne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Well, they didn't live to spend it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"We have a stipend for volunteers - you're welcome to the sum of it. I hope it goes some way toward earning your forgiveness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Look for the next adra pillar. Once you have the connection, just step through!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Look for the pillar to the east, in the Brass Citadel! Should be an easy jump, after the others!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Luminous adra holds enormous quantities of essence. The kind of energy we can't replicate or restore. And these formations have a kind of connection to each other, across the In-Between."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"We've collected a number of illuminating readings, and our machines are ready to harness the adra's essence. 
+
+"But for the moment we are effectively blind when it comes to targeting the next pillar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Glad you asked, aimico. Very glad. We're very excited about the work here. And we're always looking for volunteers."</DefaultText>
+      <FemaleText>"Glad you asked, aimica. Very glad. We're very excited about the work here. And we're always looking for volunteers."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"It ought to be like stepping through a door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"What's really exciting is, so long as you're holding that connection open, your companions can 'jump' alongside you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Sorry, which was the exciting part? I may have missed something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"How far must I reach to grip this connection?" Tekēhu purses his lips and looks you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"What if we all just walk instead?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Or they could hold things down here, make sure it's safe for you to come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Imperesant! When do we begin?"
+
+Pallegina's eyes light up as she smiles and looks between you and Flaune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"How many tombs and vaults you be thinking have adra pillars inside of them?"
+
+Serafen taps his bearded chin with a single finger.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"And there's no risk I'll show up missing limbs or nothing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"And remember, don't-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"There is another adra pillar set up for experiments, just down the mountain. Concentrate on finding your target first, and the rest should be easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Once again, you feel the essence in the adra like a physical thing beside you. 
+
+This time, however, the cord of energy that tugs at you is insistent, but manageable. And through it, you can feel what Flaune was describing - a connection running through the tower and beyond, where it splits in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Color leaches from the world around you as you drift into the Between. You feel the connection draw taut like a pulled rope, and then &lt;i&gt;pull&lt;/i&gt;...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Xoti has some souls she'd like to give you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"It's a... thoughtful? gift, but... why? What has brought this on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Gaun's going to destroy the Wheel, and no one's going to be able to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"We can... put them in this device over here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"One last thing - how much is this going to hurt? No, wait, don't even tell me. Just lead the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Like might be a strong word for it... but I'll do it. If you can meet my conditions." Surly, she crosses her arms over her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Darkness will fall upon Hel, beginning an extended season of death with no rebirth for any of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"...All right, I knew I shouldn't have asked. 
+
+"How do you fit into this, Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Xoti's a soul reaper. She can gather lost souls into her lantern and deliver them regularly to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Xoti sees the end times through god-given visions and dreams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"But only if you promise to treat them well. Ensure their cycles continue in the natural manner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Er. Right. You do realize that the essence isn't &lt;i&gt;actually&lt;/i&gt; ali- 
+
+"Never mind. Thank you, Xoti. I promise to treat them with dignity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"I've heard Eothas' plans first-hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"So I know what I'm yammering about." She clears her throat, raises her glaring lantern up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"I know I'm just a simple priestess of Gaun. I got little to no faith in animancers. But the Watcher says you're our best bet for survival."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Look, I ain't thrilled about trusting the future of the world to some animancers. But the Watcher thinks if we're to survive this, we need to work together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"I can get you souls on the regular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"So I'm willing to give this a try. I'll reap the souls and you'll rebirth them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Xoti's crazy, but I'm sure you can use the essence for something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Watcher! You know I don't like it when you tease me in front of strangers." She flushes uncomfortably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"I had the same vision just now! It just came to me like a dream, only I was awake for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Ado, sérre. Respectfully, I must decline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Your theory is sound. I've used the adra to track someone before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Oh, good, you've done some experimenting of your own. A curious mind is a happy mind, I say. Can't mope about ghosts all day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Sorry, getting to operate the machines is half the reason I started studying animancy. 
+
+"Here, I'll keep it simple. I'm trying to create a link between adra pillars. You stand there, and I use the machines to... well, toss you like a dart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Settled your nerves? We can get underway whenever you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Oh, things are much different here. The Huana may not have the same passion for the field as the Republics, but they understand we're doing research, not... sacrificing children to wolves or whatever it is the Dyrwood believes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"There is interesting work being done with their priests, actually. Not my field of study, but I'm told the caste system isn't entirely rubbish. 
+
+"Turns out an aggressively-minded individual tends to wind up in the warrior caste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"For some of us, no caste comes close to expressing our strengths." Tekēhu raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Touch a torch to the powder stores and everyone in there, yourself included, goes up in fire. 
+
+"So! I have a device for you. It will explode after a delay. Time enough for you to get clear of the blast." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Touch one fiery lock on that head of yours to the powder stores, and everyone in there is blown to pieces. Yourself included. 
+
+"So! I have a device for you. It will explode after a delay. Time enough for you to get clear of the blast." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Pallegina tries to muster a weak smile, but it gets contorted into an annoyed grimace along the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I ask for skilled researchers and they send me Caedman Azo, the shame of Brackenbury... Merla, who did I offend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"We're looking for an animancer named Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Giacolo? Ac, I know him. He has a little laboratory for himself down in the Gullet.
+
+"His specialty is godlike. Claims he can detect them in the womb."
+
+She spreads her hands theatrically, though her expression never changes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Giacolo rents a room in, eccosi, The Hole, which is that grimy tavern down below. Why he seeks to bury himself, you will have to ask him yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Not many animancers down there, so he should be easy to find. If they haven't stolen all his equipment... 
+
+"Auret augori!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"We're all very glad you're in one piece. We'll have a look at the machines, figure out what went wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Until then, you should probably check in at headquarters. They like to keep track of the people we work with. They may have something to keep you occupied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Your accent, it doesn't sound very Vailian."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Well, a few years in Aedyr will do that to you. Up to your armpits in jungle mud, insects, and snotty nobles..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Probably would have been better off talking to the bugs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Which is why we stay indoors and take up civilized habits.
+
+"Like proper enunciation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>[Give her Oderisi's notes] "I thought you might be interested in these."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Eccosi? Are these... Oderisi's? I never thought I'd get even a glimpse of his work!"
+
+Flaune thumbs through with an expression of mounting glee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Fascinating. Inaccurate, but fascinating- You do not mind if I hold onto these? Of course not. Here, take this." 
+
+Elette distractedly hands you a large sum of coins, and then flaps a hand to dismiss you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Gaun has shown me the coming end."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

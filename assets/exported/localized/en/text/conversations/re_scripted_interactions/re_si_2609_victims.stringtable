@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2609_victims</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The jungle grows increasingly dense as you travel east. The shade provided by the canopy above does little to mitigate the heat. Moisture and the perpetual choir of insects thicken the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Keep going.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The rope creaks as you grab hold and shimmy out onto it....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You pull yourself across, hand by hand, until you hang suspended over the gorge. 
+
+Your muscles tingle and your hands burn, and you've got further left to go than you've already crossed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You're nearing the far side of the chasm when your feet slip free from the rope. Your stomach lurches as your fingers try - and fail - to clutch the line...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>With a gasp, [SkillCheck 0] slips from the rope...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[SkillCheck 1] grabs your flailing arm, wrenching it roughly, and you dangle, legs kicking over the abyss below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Instinctively, you grab his arm, wrenching it. He dangles over the darkness below you, threatening to pull you both down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>From the top of the cliff, you can look back over the western expanse of the island. The Deadfire shimmers blue towards the horizon, the islands of &lt;xg&gt;Kua o Rikuhu&lt;/xg&gt; just visible to the south. 
+
+You can even make out [Player Ship] at anchor in the distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Before you spreads a yawning chasm. It stretches from the mountains in the north towards the sea to the south, and you can't make out the bottom for the darkness.
+
+Curiously, a rope spans the divide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Examine the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Search the surrounding area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Cross the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>It's a three-strand twisted rope, much like those purveyed by any number of merchants across Eora. It seems surprisingly clean and unworn - easily strong enough to bear the weight of the heaviest kith.
+
+The craftsmanship is likely Reacher, perhaps Dyrwoodan or Vailian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>It looks strong enough to cross on. You think.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm not sure what to tell you..." [Specified 5] says. "It looks like a normal rope. Should be safe to cross."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Return the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You descend the hills and return to the jungle floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You return to the cliffs overlooking the Whēnura Cleft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>There's nothing overtly suspicious - certainly no sign of traps. Recent footprints crowd the rocks the rope is anchored to, though - kith and ogre both. Several sets, it looks like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You find nothing suspicious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Finding nothing suspicious, [Specified 5] shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafen's nose twitches. "Rope seems safe enough, cap... for it being strung over a bottomless pit and all. But there be something in the air that ain't quite square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Beyond the canyon, the jungle opens up into a broad field interspersed with huge, fruit-dotted trees. The jungle continues towards the mountains to the north, but to the southeast the Deadfire is visible above a sharp decline towards the shore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>To the northeast, a thin line of smoke rises from the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You continue across the gorge, your sweat dripping into the abyss below you.
+
+At last, you reach the safety of the far side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You make it across the rope, but by the time you reach the halfway point you're breathing heavily and sweating profusely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>By the time you're both across the rope, [SkillCheck 0] looks exhausted, sweaty and gulping down air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>What draws your eyes, however, is the sight that rises before you. One of the trees - blackened and blistered by flame - hosts a number of aumaua-sized corpses suspended by the neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nearby movement and voices grab your attention. You see, of all people, four members of your crew standing around the base of the tree.
+
+"We should bury them. It's what they'd want - and what the gods demand!" [Specified 3] growls.
+
+"Sure," [Specified 0] answers. "Right after we finish going through their pockets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You move towards the tree. Vultures perched among its branches peer down at you like judges presiding over a court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Search the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Search for the presence of spirits.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Want to put that lamp of yours to use, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Burn the bodies.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Bury the bodies.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Leave the tree and continue your journey.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Among the sooty detritus of the departed, you uncover a pair of sandals with a palpable aura of power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The foreign kith jostle you with shoulder and elbow, prod you with blade and spear. Their armor - too heavy for the Deadfire - shines in the firelight, as if they were virtuous. 
+
+You spit. 
+
+No. There's no virtue in these godless raiders. They killed the young druid. They broke the elders' staffs and stole the doctor's herbs. Now they burn Amira's tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Will it ever again host every color known to god or kith against the perfect azure dome of the sky? You pray it will. You pray to Amira. To Ngati. To Rikuhu - Kohopa and Tangaloa both - and to the Faces of Toamowhai.
+
+What more can these foreigners take from you, you wonder, as they cut off lengths of rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>With a solemn nod, the Dawnstar raises her lantern. A harsh swing. Then the light from inside bursts like a dying star as she reaps the spirit of the lost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You cross the clearing, leaving the morbid tree behind, and re-enter the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You're suggesting an ogre wouldn't hang a bunch of corpses?" [Specified 0] asks. "'Because these look like ogre prints to me..."
+
+Eyes wide, [Specified 3] snaps to attention. "Captain!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"What are you doing out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Find anything interesting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Those aren't supplies - they're corpses. Cut them down and give them a proper burial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Carry on. Just remember that your captain deserves a cut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You collect and wrap the remains, then gather tender and kindling to build a small bonfire. As the bodies burn, you try not to breathe too deeply of the smoke from the smoldering flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The dark soil is soft, and within a couple of hours you have dug a hole deep enough for the remains. You lower them into the ground and cover them, consigning them to the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>While the clothing these aumaua wear resembles that of the Huana, they favor hides and leathers over cloth and shell. Some were stabbed before they were hanged, bearing wounds consistent with daggers or swords. A few have had their throat slit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Whatever you're looking for, you don't find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Frowning, [Specified 5] waves you over and points out a few oddities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>After several minutes spent looking around, [Specified 5] frowns at you and sighs. "No good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0] coughs. "We were out gathering supplies for [Player Ship], captain, just as we always do when we're docked." The hand points at the tree. "And this seemed worth investigating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"How'd you even get out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1] looks slightly flummoxed by the question. "We're sailors, captain. Climbing is part of the job."
+
+"Besides," [Specified 0] chimes in, "there was a rope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Don't you think you should be getting back to the ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Arms crossed, [Specified 0] frowns at the ground. "Not yet. We haven't been here long enough to take a good look around."
+
+"That's not &lt;i&gt;entirely&lt;/i&gt; true," [Specified 2] says. "Look at the wounds on these folk and the rope used to string them up - it all suggests raiders from the Eastern Reach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0] sighs. "There you go again, showing off for the captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 3] smiles and salutes. "Of course, captain. We'll see to it right away."
+
+They draw knives and make their way towards the tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 1] salutes. "Aye, captain."
+
+[Specified 0] smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] winces, but [Specified 2] snaps out a salute. "Aye, captain. Right away."
+
+With only a few glances back, the four wander off towards the gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>With a shake of the head, [Specified 5] says, "Sorry, no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You plunge screaming into the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Instinctively, you grab her arm, wrenching it. She dangles over the darkness below you, threatening to pull you both down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>It's as if the entire eastern side of the island was forced up out of the ground. Or perhaps the western half sank into the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I don't suppose you know what this place is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Sure. It's a good place to test a rope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The yawning chasm? Why don't you give it a name and see if it catches on?" 
+
+Maia shrugs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Could be the Whēnura Cleft, cap. Heard tell of it once or thrice. Said to be deeper than the sea itself, not that that be making a whole lot of sense, what with it being on land and all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I say we stand before the Whēnura Cleft. A sacred place. Good for meditation and... and long hikes." 
+
+Tekēhu peers over the edge. He promptly steps back and shivers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"They don't have pockets," [Specified 1] says. "Strictly speaking."
+
+[Specified 2] frowns up at the tree. "Is anyone else worried about who did this? It clearly wasn't beast or kith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"The line over the gorge wasn't yours, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"No, captain," [Specified 2] answers with a shake of the head. "I doubt any of us even own rope that doesn't belong to [Player Ship]."
+
+"I own a rope," [Specified 0] grumbles. "It's eight feet long and in fine condition, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Few have burn marks. The tree was clearly burned before they were killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>While the clothing these aumaua wear resembles that of the Huana, they favor hides and leathers over cloth and shell. Some were stabbed before they were hanged, bearing wounds consistent with daggers or swords. A few have had their throat slit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You see the spirits at the edge of your vision almost without trying. When you open yourself to their presence, they wash over you, a torrential rush of blistering pain and icy fear...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The vision ends abruptly, washing away like water over the side of the ship's deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Take advantage of the view.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The path rises to a sharp incline, and your legs ache as you ascend. Slowly the jungle thins, and you find yourself atop a long ridge.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The divide is vast - the crossing would be strenuous and a fall fatal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Turn back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You return to the near side of the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>With a heaving groan, [SkillCheck 1] lifts you back up to the rope. 
+
+You cling to it, shaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[SkillCheck 1] strains to pull you up, but your fingers slip, and your hand slides free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Pull him up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Let him go.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Pull her up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Let her go.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Gritting your teeth and straining, you pull [SkillCheck 0] back up to the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Your legs wrapped around the line, you hold [SkillCheck 0] with both arms, fighting against your friend's weight... and losing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[SkillCheck 0] falls screaming into darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You carefully pull yourself to the far side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>He clings to it desperately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She clings to it desperately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Your legs give out and loose you from the rope.
+
+The pair of you fall screaming into the abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>A few minutes later, [Specified 2] approaches you. "Excuse me, captain. Thought you might want to see these. They look... special."
+
+The sailor presents a pair of Huana shoes. They're a little sooty, but otherwise no worse for wear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hey, I'm not dreaming this, right? Look, if I wanted to see this kind of thing I'd have stayed home."
+
+Edér, his mouth firm, diverts his attention to the ground nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I was hoping never to see anything like this again," Aloth says, frowning sadly at the tree.
+
+"I suppose it was naive to think this kind of cruelty would be unique to the Dyrwood." He shivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"You see that. Right, Watcher? I'm not caught in another nightmare... Am I?"
+
+Xoti's eyes track from corpse to corpse, and a wince steals across her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Lot of souls there. Sure looking ripe for the reaping."
+
+Xoti's expression lights with a dark and covetous gleam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Rekke stares at you blankly. After a few long, silent moments, his eyes widen, and he slowly shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Rekke stares at you blankly. After a few long, silent moments, his eyes widen, and he slowly shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

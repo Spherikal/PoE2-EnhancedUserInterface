@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_principi_boss_portmaje_shallows</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>139</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ado, Watcher of Caed Nua! On behalf of the Príncipi sen Patrena, I must request we meet in parley." 
+
+The broad-shouldered captain uptilts his chin in greeting. When he smiles, his left cheek divots a shallow dimple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I have heard some marvelous tales regarding your ventures in the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I would suggest you stave off all others by making an example of Benweth." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wait, who are the Príncipi sen Patrena?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You say this Captain Benweth is the one who attacked me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If Benweth is one of your own, shouldn't you take responsibility for his actions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ac. The short-sighted scoundrel has been wreaking havoc in the area for months."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Benweth is the second most selfish captain within the Príncipi's newest generation. He risks all that we value."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The Príncipi's heritage is Old Vailian?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"We are descended from refugees who fled during Old Vailia's... decline. They sailed the Eastern Reach to the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"We are a magnificent but largely landless people. So we have come to own the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Yet I do seek to temper his actions when they would endanger the Príncipi altogether."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why tell me this? Why would you want to help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"But I thought &lt;i&gt;you&lt;/i&gt; were going to show Benweth some humility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Where might I find Captain Benweth, say I wanted to teach him a lesson?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It is you Benweth has insulted, aimico, you he has invited aggression against."</DefaultText>
+      <FemaleText>"It is you Benweth has insulted, aimica, you he has invited aggression against."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Benweth's Drake took damage during the storm. Eventually, he will need to dock for repairs. And when he does, Serafen can find him for you."
+
+Furrante flourishes a hand toward the orlan at his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Unrefined? Begging your pardon, captain, but I be the high fucking model of the gentleman of fortune!" The orlan scoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Welcome aboard, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I sail now for Dunnage, my own safe port. I will await you there, should you be successful in... schooling our wayward captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You won't be regretting this, Watcher. Least so long as you keep us heavy in grog and light on the onions. Them dirty shit-apples ain't never agreed with me, and I be suspecting they never will."
+
+He pats his belly as he strides to your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I will be honest with you, aimico." He sighs heavily.</DefaultText>
+      <FemaleText>"I will be honest with you, aimica." He sighs heavily.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I am keen to show my rascal of a compatriot some much needed humility. I thought perhaps you may care to, as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Benweth is no captain of mine, aimico. It is not beneath my flag his Drake sails."</DefaultText>
+      <FemaleText>"Benweth is no captain of mine, aimica. It is not beneath my flag his Drake sails."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Some fools would seek to make a fortune by pilfering from one such as you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I believe you have met such a fool - Captain Benweth of the Drake."
+
+Despite the gravity of his words, he smiles grandly, and the dimple cuts deeper into his left cheek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"How has Benweth endangered the Príncipi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Are you saying if we rile you, you will pose no threat to us? Eccosi - pardon if I do not believe you."
+
+The captain chuckles, fingers rubbing the frilled collar about his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Word of Benweth's raid on the Defiant will spread throughout the Deadfire. More fools will seek to prey upon you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Why is this of any concern to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Gellarde, but I am - through you."
+
+He smiles wider, and the dimple cuts deeper into his cheek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"This isn't just about me though, is it? If I'm to do you a favor, I want a boon for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The good humor wipes from his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"It sounds like if I defeat Benweth, I'll be doing you a favor. I want a boon for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Burn and sink him. It will cause the Príncipi to revere you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"But I believe you will be capable of setting him straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I do not favor Benweth, nor do I care for the company he keeps. Such fools and scoundrels serve only to tarnish the Príncipi's reputable name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You're not a scoundrel, like Benweth and the company he keeps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The captain spreads his hands, palms up in a disarming gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I am a gentleman, of course. And I am certainly not a fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Of course, aimico. Work with me, and I will weight your pockets with gold."</DefaultText>
+      <FemaleText>"Of course, aimica. Work with me, and I will weight your pockets with gold."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"This is the first you are hearing of us, truly?" His brows raise in a show of surprise. 
+
+But then his smile turns sly, and he cants his head as if to include you in a secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It will not always be so. But it is for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"To survive, we must seize prosperity where we can. Hence, we are oft labeled as pirates, smugglers, merchants of illicit trade, or mercenaries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"He is no son of Vailia. I do not fault his ancestry, but he disregards too much the grand heritage we Príncipi represent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Why accept non-Vailians into the Príncipi if they're going to cause problems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"If Benweth's the second most selfish captain, who's the first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He pinches at his lips, eyes narrowing thoughtfully. But you can see that he's biting back a mischievous grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Few pirates retire comfortably, aimico. We sink and we hang or we burn."</DefaultText>
+      <FemaleText>"Few pirates retire comfortably, aimica. We sink and we hang or we burn."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Perhaps I have said too much. She is a problem solely of my own. For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"We must replace our losses, accepting from many regions, including the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You have my attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"And I will make it worth your while."
+
+With careful, slow movements, he eases a sack of coins from beneath his jacket - just above the blunderbuss strapped to his chest. Then he tosses the pouch to your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"It will not always be so. But it is for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"But they did not settle the islands. Today, even, our shipboard life continues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Request denied. Now get off my ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tales regarding your claim to Caed Nua proceed you. Rumors say you abide in a fine castle, envied by the high-born. You must be very wealthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You are a famed man to me and my kind, Watcher. Not just anyone could forge a friendship with the Doemenels - let alone survive it."</DefaultText>
+      <FemaleText>"You are a famed woman to me and my kind, Watcher. Not just anyone could forge a friendship with the Doemenels - let alone survive it."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"In fact, you are the first dragonslayer I have ever met - outside of a grave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Agracima. I will make this quick." He flourishes a courtly bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You couldn't have asked before you boarded my ship, uninvited?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"As an ally to the Knights of the Crucible, I believe Benweth sought to take you down a notch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Are you saying if we rile you, you will pose no threat to us? Eccosi - pardon if I do not believe you, dragonslayer."
+
+The captain chuckles, fingers rubbing the frilled collar about his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I suppose I should expect as much from a man once employed by the Dozens."</DefaultText>
+      <FemaleText>"I suppose I should expect as much from a woman once employed by the Dozens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You are an experienced seafarer, yes? Surely you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"As one of a - let us say, 'Doemenel mindset' - I think you will well understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I don't work for free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I will grant your parley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Agracima. I will make this quick." He flourishes a courtly bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I take it he is not one of those fools. Perhaps we should listen." Aloth crosses his arms, cautious but curious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"He's done his research. Might as well hear him out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Eccosi. It has been some time since I last asked another's permission." He flourishes a courtly bow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I remember the Drake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Gellarde! Then that should make this easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"When you have dealt with my problem, I will prepare a fine welcome for you at my port. Now a tip for you." His smile returns twofold, and he nods amicably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He pinches at his lips, eyes narrowing thoughtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Under the captain's words you hear a faint but insistent buzzing. It blooms, overwhelming Furrante's voice, drowning out all else around you. No one else seems to notice.
+
+A vision.
+
+Thunder cracks between your ears, and you glimpse a different sun-shod sea behind your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;i&gt;The visions streak across your mind's eye, fleeting and incoherent. An elf, dark-haired and battle-scarred, stepping across the gulf between vessels. She shakes Furrante's hand, and warmth spills through you - excitement, pride, respect.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"And your furry little companion happens to be...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ac, allow me to introduce one of my more special acquisitions. A diamond in the rough, if you will. Serafen is a magnificent shiphunter. 
+
+"In fact, he is how we tracked you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Serafen's fur-bordered lips twist down at the corners as Furrante speaks, and you feel the fuzzy vibration within your inner ears of another oncoming vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"...not to say that I ain't wildly honored to be making the acquaintance of a lord as dashing as yourself."
+
+He rises from a deep bow you didn't see him make, and you're not sure whether it's the deck of the Dauntless that's so unsteady or your legs.</DefaultText>
+      <FemaleText>"...not to say that I ain't wildly honored to be making the acquaintance of a lady as charming as yourself."
+
+He rises from a deep bow you didn't see him make, and you're not sure whether it's the deck of the Dauntless that's so unsteady or your legs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;i&gt;Dice thrown, clatter roll and drake eyes, Felicia in the bilge with Arno, thrusting waves of - should ignore that - Captain Furrante at his desk, a hand mirror out, plucking the hairs that bristle his earlobes. Outward, Serafen! 
+
+Outward, turning then, and there, too bright and too sundered, follow the thread to a whisper dark and hard, wrapped in a tattered hurricane, all aboard a name:&lt;/i&gt; Defiant.
+
+Serafen's voice pulls you from the vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;Furrantese for 'do my job for me, friend. Hope you don't die in the effort.'&lt;/ispeech&gt;
+
+The rogue words flit through your thoughts like darters, not quite your own, but not entirely unlike your own, either.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>&lt;ispeech&gt;Furrantese for 'do my job for me, friend. Hope you don't die in the effort.'&lt;/ispeech&gt;
+
+The rogue words flit through your thoughts like darters, not quite your own, but not entirely unlike your own, either.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"That would be felicitous, indeed. As I believe the traitor Remaro hides there, as well.
+
+"I quite enjoy killing two men with a single bullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Wouldn't have even thought of it if you hadn't brought it up, sir."
+
+Yet you feel a surge of anger that's not your own.
+
+Serafen spins towards you and bows again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"What can you do for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You asking aside from my vaunted shiphunting abilities, self-evident manners, and cyclopedic knowhow of all things piratical?" Teeth glint between the curves of his smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Seems like you're eager to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I don't need your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Well course I be eager to give Benweth the old heave-ho. That half-cock's been a pain in our arses for the better part of, well, too fucking long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I know there's something you're not telling me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Furrante shakes his head, but his smile widens into a sincere grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Aye, there's boat holds I ain't telling you, Watcher. Ain't telling you about the lass I have back on Deadlight. Ain't telling you what we did or didn't do last time I seen her, neither. Certainly ain't telling you about the secret pirate handshake that'll get you in the door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;i&gt;The scene billows away, ice cold and clawing, replaced with the crew on deck, solemn and staring, as Furrante grasps one of their own by the throat. No, not one of their own, no more. You don't steal from family and stay family. 
+
+Tears and mucus mar the man's features as Furrante reads the man his last rites. Thief or no, they'll consign him to Ondra as tradition dictates...&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The vision passes, leaving you blinking on the deck of the Defiant, looking into Furrante's face. He raises an eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Fight against it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Let the visions come.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>You shutter your mind, reinforcing your inner self, rejecting the invading spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>You close your mind against the spiritual invasion, but the visions slide around and through your defenses, washing over you as implacably as the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Fight against it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Let the visions come.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;i&gt;Prismatic light explodes behind your eyes as the images wash over you. The bow of a ship, bowsprit jutting rigidly forward, seeking, searching, mind freed and sliding across the waves, the minuscule thoughts of sea beasts shining below, the gulls above, all eating, fucking, shitting, the circle eternal.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>&lt;i&gt;Cold, wet, then parched throat, heat, wind stirring fur, shouting, cannon fire somewhere distant, the adra colossus, dawn-radiant in the distance - look away! It burns! - the rum flows belowdecks, a party and you out here, searching still.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>You block out the intrusion, catching instead the prismatic colors of essence flowing from the orlan at Furrante's side, utterly undirected. They don't seem to influence anyone else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The sky and sea shake as the vision takes you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Tell your man, Serafen, to stop whatever he's trying to do with my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>&lt;link="neutralvalue://Vailian: You little fox shit!&gt;"Voc se no vulpinet merla!&lt;/link&gt; Careful, shiphunter. Mind that you do not confuse a useful skillset for a nonexpendable one."
+
+Furrante glares at Serafen. The orlan steps back, blinking away the rebuke, and peers at you, probing. His yellow-green eyes narrow, unfocused, as if trying to remember something.
+
+Then the captain turns a warm smile back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Apologies, captain. Didn't mean it, really. Were up all night, you know, searching out our friend here." He looks to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Aw, Captain Furrante and I'll never be truly finished. Not till we've both met Ondra face to bosom - and knowing that salty lass, mayhaps not even then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Adding to that, you sail into Fort Deadlight not knowing your innies from your outies, you might very well find the locals cannon-fucking your boat to sodden splinters."
+
+He grins broadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Furrante smiles broadly, but his fingers caress the blunderbuss holstered to his chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Suit yourself, Captain Watcher. Here's hoping the Defiant's a real tough ogre-fucking boat."
+
+The orlan's lip twitches into a smirk and he shrugs, hands open, palms towards the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"As you see, Serafen is both insufferable and marvelously useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"He is rather an unrefined creature. But he is a most-skilled shiphunter, I assure you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Are you two finished?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"My apologies. Rest assured, it will not happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Wait, aimico. Hear me out but for a moment."</DefaultText>
+      <FemaleText>"Wait, aimica. Hear me out but for a moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Why loan me your best shiphunter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"What venture does not require an investment to be prosperous? Serafen is an allowance, which I expect you will return.
+
+"In one payment or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"You been at sea a while, your mind starts playing tricks on you, aye? Well, mine plays tricks on others, too. Usually don't mean much, maybe see a bit of shadow, hear a bit of tune. Not less the person's sensitive. Like say a Watcher." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"As for Benweth, that sucker of squid tits be as predictable as the tide. I'd wager all my furriest bits that he's set sail for Deadlight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I'm sold. Welcome aboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Yes, aside from the obvious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Well, there be me knowing my way around &lt;i&gt;Fort&lt;/i&gt; Deadlight, so named on account of it being a fortress and all. I got my contacts inside, and I be half-handy with a gun if shit goes belly up." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Quite easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I be the whole package and a half. Captain." He bows again, only half as low this time, his eyes never leaving yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I'm sure they're just being kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You verily wound me, sir!"
+
+He chuckles, however.</DefaultText>
+      <FemaleText>"You verily wound me, madam!"
+
+He chuckles, however.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"And who wouldn't be salivating to show a Vailian such as yourself the rigging?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Adding to that, I be right easy on the eyes, or so the lasses tell me." He raises his eyebrows in two quick bumps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Now I ain't hardly in any hurry to leave the fine company of the Gentleman of Leisure, but the captain be right bout me finding your mark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"You said you met him, aye? Seems the type that needs a bullet, don't he?"
+
+He projects his words a tad louder than necessary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"He's not sleeping near my berth, I promise you that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>&lt;i&gt;The imagery melts like candle wax into a lamp-lit galley swamped with the scent of unwatered rum and sweet fruit, with sailors and their songs and sweat.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I know a Cipher's handiwork when I feel it. Tell yours to stay out of my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The blue orlan's mouth falls open.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

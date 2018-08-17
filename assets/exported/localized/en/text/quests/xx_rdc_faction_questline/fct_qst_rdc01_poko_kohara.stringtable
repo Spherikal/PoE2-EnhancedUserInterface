@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc01_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dim Prospects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Disrupt the luminous adra at &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Atsura&lt;/b&gt; at &lt;b&gt;Imperial Command&lt;/b&gt; in the Brass Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; has asked me to thwart the Vailian Trading Company's plans for &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt;, grand secretary of the Royal Deadfire Company, wants me to impede the Vailians' progress at &lt;b&gt;Poko Kohara&lt;/b&gt;.
+
+To that end, he's asked me to find a way to render the &lt;b&gt;luminous adra&lt;/b&gt; there unusable. He didn't provide specific instructions, but the details may become clearer when I see the site for myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; will want to know what happened at &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Atsura was pleased to hear that I'd destroyed the luminous adra pillar at Poko Kohara. He was intrigued at the effect on the local storms, as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Atsura was disappointed to hear that I'd restored the luminous adra at Poko Kohara. However, he was intrigued at the effect on the local storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>The Royal Deadfire Company wants nothing more to do with me, so I won't be reporting back to them anytime soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

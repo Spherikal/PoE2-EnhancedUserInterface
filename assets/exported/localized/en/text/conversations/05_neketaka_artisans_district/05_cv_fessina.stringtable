@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_fessina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>209</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"That flaccid bazzo!" This young wizard clutches the counter top, looking as if she's either going to vault over it or snap it in half. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back. You need something from the Dark Cupboard?" Fassina offers a tired smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What else do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I need to get inside Arkemyr's manor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Get inside the manor? Ha. The house is locked tighter than Arkemyr's clenched fist." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Is there another way inside the manor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Anything I can do to convince you to let me inside?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Bazzo, your plan is so poorly-concocted that you had to TELL me about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I've got nowhere else to turn! Stoneheel is going to kill me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I see no gloves. Then... no news?" Fassina gives you a hopeful look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I took care of Bertenno's debt with Hamuto Stoneheel." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I only want to retrieve a single item - a stone tablet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You have a key? This just got more interesting." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You should give me your key. That way I don't have to make this unpleasant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I do not know where Bertenno fences his goods, but he mentioned an appointment at the Brass Citadel docks."
+
+Fassina bites her thumbnail and glares at the door, seeming to wish it would burst off its hinges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Don't drag me into your mess, Bertenno. Not again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Then you leave me no choice... I'm sorry." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bertenno couldn't pay his debt. The Royal Deadfire Company took him as an indentured servant." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I got Bertenno out of trouble. He's going to hide out with the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"But Rauatai has a long reach." She cradles her chin and stares off into the distance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"If you can get me inside Arkemyr's manor, I'll get your gloves back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Bring me the gloves and I'll give you the key to the front door. And we never had this discussion. Deal?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bertenno's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I should have handled this myself, and now look what happened..." She turns away and bites down on her fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Here. Burn Arkemyr's manor down for all I care." 
+
+She presses a key into your palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Do you look for something in particular?" Fassina leans in and cocks her eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I am the apprentice of He of Many Colors... that's plain old Arkemyr to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"How much for the key?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Not for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I am beyond finished discussing this. If you don't have any business, then this could be where we part ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ifren tried to sneak in. Now he's stuck in a box, telling fortunes for pires." 
+
+She thumbs over to the fortune telling machine in the northernmost corner of the shop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You use a lot of honorifics when you talk about Arkemyr." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ac. He makes me call him by the titles he's earned in his long career."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I can also call him by the titles I've made up since the start of my apprenticeship." She grins, glancing left and right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She waves you on to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Back to the matter of Arkemyr's manor..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>She sighs and presses her temples with both hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Locked doors tend to have keys. That one's free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What, just unlock the door and turn a blind eye? Or hand over my key?"
+
+Her eyebrows raise slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Imp! Go hang laundry." 
+
+She holds up a finger for silence, her gaze following the shop imp as he flutters moodily away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Can you at least tell me anything useful?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"The imps that guard the manor? Idiots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Arkemyr plays with shapeshifting illusions, so his imps know him by his clothes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I cannot tell if you're stupid or very, very stupid." She shakes her head slowly, weighing the matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"We have a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Let me think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"While you think about it, I will do all of the worrying." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Lie] "Oh, that goes without saying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You again?" Fassina glares at you, her lip peeling back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Did you think for a SECOND that I would entertain doing you a favor, after Bertenno..." Fassina's voice cracks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Get out. I don't need your business any more than I need your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I wanted to talk about Shop Imp, your little co-worker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Not that this should dissuade you from buying one." She coughs into her fist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I think he's sad because you spend time away from the shop. In a strange way, I think he likes having you around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Lie] "He said you're a lazy, worthless, sorry excuse of a wizard." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I hate him from horn to hoof. More than once I've caught him smearing feces all over our selection of cloaks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>She studies you, weighing your words with a doubtful - if interested - expression. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"No. We are talking about the same little flying stinker?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"That sounds like an awful lot of big words for him. I'll give him a much-deserved beating for it." She grinds her fist into her palm and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Suit yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Maybe I ought to be nicer to the little... thing. We both hate Arkemyr, so we have that much in common." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"May he get smart and lie low."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Eccosi, WHAT?" Fassina's expression hardens into a mixture of grief, confusion and rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I sent you to fetch a pair of gloves. Cuè, did Bertenno trip and fall on his sword?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I'm sorry. I did everything I could to prevent it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"He takes this lesson into the next life, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"He made me conjure a household staff of imps. Horrible, chittering things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Never mind. Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Indeed." She crosses her arms and regards you with a raised brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"You already pledged to help Bertenno. Or was that a lie?" Fassina cocks her eyebrows with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I have news about Bertenno and the gloves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Tell me everything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"You're back. Cuè, any news?" Fassina leans in close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Ac, you mentioned your little plan before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I suppose I ought to help Bertenno, then..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"You think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Merla. Arkemyr found out I gave you the key. Wonder how &lt;i&gt;that&lt;/i&gt; happened." Fassina folds her arms and grimaces at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Actually, let me ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"You would leave me in suspense?" Fassina searches your face and presses her weight on the countertop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Cuè?! This is a nightmare!" Fassina covers her face and moans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Wael's ass! The next life means less to me than the snail I stepped on this morning!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Bertenno has a head start, in any case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Ac... at least with the Príncipi I give him a fighting chance." Fassina trails off with concerned mutters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"You were willing to put up all that money?" One of her eyes narrows on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Hey, come back with that! Madiccho!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"What was that all about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"This might not be a good time... but can I see your wares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"My postenago of a... of a lover stole Rokowa's Fingers. The Master will kill me if I don't get them back!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"He must have wanted to raise some fast coin. Arkemyr will flay me alive over those damned gloves..." Fassina cradles her brow and groans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"He said that he's in debt to a Rauataian captain by the name of Hamuto Stoneheel. By all accounts, a deadly serious man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Why does he need the money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"I have questions about your predicament."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Bertenno stole Rokowa's Fingers to pay off his debt. If Arkemyr finds out, he will boil me into broth for his imps." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"That man who was here earlier - did he rob you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>She makes a defeated wave toward the shelf of goods behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Looks like your customer forgot to pay." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>The imp mutters to himself in a dark, guttural tone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Imp! You heard none of that, ac?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"That's what I thought." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"A discount would be a nice start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"You look capable. While I am stuck behind this counter, I am in no position to refuse help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>She blinks twice in disbelief before regarding you with a warm smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"A discount goes without saying. You're saving me a world of trouble by doing this... thank you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Suddenly my whole existence revolves around these gloves... incredible. Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"What of the gloves? What happened to them?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>[Give gloves.] "I have them right here for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>[Lie] "Bertenno took the gloves and fled. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>[Lie] "Gloves? What gloves? I have no gloves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>She accepts the gloves with a grateful sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"That... that idiot! And why didn't you..." Fassina clutches her head and groans. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Madiccho. I am beyond done with this. See yourself out, postenago." She waves you to the door, grimacing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Cuè, did you drink too much seawater?" She gives you an incredulous look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>[Lie] "Bertenno's... just fine. I got him out of Hamuto's clutches. He's with the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Agracima. Bertenno is a fool, but he didn't deserve a bad end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>[Lie] "I'm afraid that Bertenno is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Hamuto Stoneheel must be as dangerous as he sounds, or else Bertenno wouldn't be so panicked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"He mentioned that he owes money to a Rauataian captain named Hamuto Stoneheel. Not someone to cross, I hear." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Well, do not leave me waiting - say what you have to say!" She leans in closer, staring at you with intensity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"These old things? What will you give me for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Fassina pinches the bridge of her nose and lets out a deep sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Have we come to this, then? Am I really paying for my own property? Fine. Five hundred pires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>[Accept 500 cp.] "Deal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Just kidding. Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Arkemyr could fetch more for these I'm sure." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>She snatches the gloves away, muttering under her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Ondra's teats... six hundred, then. I am so very done with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Strange that the constructs didn't attack him for stealing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Not that it's any of your business, but Bertenno used to spend a lot of... late nights here." Fassina coughs into her fist and avoids eye contact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"I got into the constructs' guts and marked off Bertenno as a 'safe' visitor so they would not attack him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Postenago, we already made a deal for the key to Arkemyr's manor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>[Give gloves.] "Fair point. Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"It's not enough. And it's our problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Agracima... I don't know why I get involved with such dramatic people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"I'll get those gloves back for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"You will? If you are expecting some payment or reward, I do need to keep this under wraps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Ah... I shouldn't be so quick to question a good thing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"There's no excusing his lack of subtlety. He needs to learn his lesson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Let's say I'm doing my good deed for the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"If there's a burden on your conscience, then I am not opposed to you offloading it on my behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"He dropped this suolenet on his way out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Ugh. That's his little Príncipi token. He waves it around like he's the admiral of Deadfire." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Is it strange? I don't know. Go consult Arkemyr's grimoire if you're that curious." Flustered, she finds any excuse to look elsewhere. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>[Accept 600 cp.] "Deal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Cuè, what do you want?" Fassina distracts herself by gouging her nails into the counter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Cuè, you need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Ac, very funny. Bertenno just took Rokowa's Fingers, which is no joke to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"I'll let you know if I happen to find them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"A kindness, considering this is not your problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Bertenno has cost me enough already. At least it's over now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"I didn't manage to get the gloves back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>[Lie] "I have your gloves all right. Somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"After everything that happened, did you forget or just not care?" She pinches the bridge of her nose and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"You... you killed him!" Fassina takes an uneasy step back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Bertenno... no, you couldn't have known what you were doing." She kneels and tenderly picks up the stolen goods from the thief's remains. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"You don't mean these gloves, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>She gives you a look of frank disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>[Give gloves.] "By the way, here are your gloves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"You... unbelievable." Fassina rubs her brow and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Such fast fingers!" She raises a hand to her lips in awe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>[Give gloves.] "Just lucky, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"So, how much do you want for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"It is more than luck to me. Belfetto." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"You are fortunate not to know how much trouble this would have been worth." She clasps the gloves tightly and bows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Imp, please clean up the mess." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"BLECH! FILTHY GROUNDSTINK GUTS." The imp retches to itself quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Just... do what I say." She looks at you with a wan expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Why are these gloves so important?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"You do not know Arkemyr, do you? He is as cheap as a Woedican clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Whatever he loses from those gloves he will take out on me. Somehow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"What aren't you telling me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"And before you ask, NO. I will NEVER do this again." She crosses her arms resolutely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"I was just kidding. Bertenno's fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Just kidding. Bertenno was pressed into indentured servitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"Here I thought that Bertenno was the most manipulative person I knew, but you've trounced him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Just kidding. Bertenno was pressed into indentured servitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Just kidding. Bertenno's dead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"You lied to me? He's..." Fassina covers her mouth with shock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"What am I going to do? Think, Fassina." She grabs a fistful of her hair and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"Take your discount as well. If the Cupboard doesn't make its goals, so be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"You don't seem very happy here. Why not voyage with me for a change?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"HEY, IMP! I quit. For what it is worth, I have not enjoyed a moment of our time together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"EH?! MAKE MASTER ANGRY... ARKEMYR WILL GROW A TURNIP IN NASTY FASSINA'S MOUTH." The imp looks ready to say more, but hesitates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"BE SAFE. MANY HORRORS OUT THERE." 
+
+His tone softening, his eyes downcast - the imp gestures dismissively toward the door, offering no further elaboration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Agracima... I think. Corès." Fassina gives the imp a quizzical look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Wherever you're headed, it can't be worse than here." 
+
+Smiling a little, she flashes you a casual salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"I think it's because he knows I hate them." Fassina sighs and waits patiently for you to speak up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"I'm only doing this for how you helped Bertenno." She lets out a heavy sigh and slips a key from her pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Here. Burn Arkemyr's manor down for all I care." 
+
+She presses a key into your palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"Belfetto, aimico."</DefaultText>
+      <FemaleText>"Belfetto, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Do with that what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"What few spells I know have names like Arkemyr's Dripping Scourge or Arkemyr's Malevolent Codpiece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"To me he's the Bringer of Foul Wind, the Teat of Suckling Imps, and the Herald of Dirty Slippers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"And you can forget about the key to Arkemyr's. You and me, we have no business." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"At least I know Arkemyr won't feed me to the imps." She folds the gloves with care and stows them away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Sighing, Fassina leans her weight on the countertop and surveys her surroundings. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"Madiccho. I fought so hard to get here, but I won't miss a splinter of this place."
+
+Though she doesn't raise her voice, she pounds the countertop as if she had.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Fassina lifts her brow and crosses her arms when you try to speak with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>[Give Rokowa's Fingers.] "I took these from Bertenno. I take it they're yours?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

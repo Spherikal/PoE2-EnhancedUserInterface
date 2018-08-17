@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_infighting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Animal Companion]'s ears twitch as shouting rises on the deck, interrupting your grooming. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I know the rest of the crew doesn’t want you aboard!" Spittle flies from [Specified 1]'s mouth as it looses invectives at Handsome Eliam. "With your fungus face and your drippy black bits. You probably get that shit in the stew!"
+
+The godlike stands as still as the dead, his hidden eyes masking his expression. His fingers twitch, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You push your way through the crowd, the air heavy with the scent of sweat and seawater. 
+
+"Come to see the action, captain?" [Specified 3] asks. "Do you want to put money on it? Mine's on the ugly one. I'll let you guess who that is!" The sailor laughs uproariously at the joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Hand them cannon sponges.] "Go ahead. Fight it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Punish them.] "[Specified 2], tie these two to the masts and fetch the whip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Specified 2], get these two under control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] fails to duck a blow to the head and reels into the bulwark. [Specified 0] jabs at [Specified 1]'s knee, sending the latter to the deck with a cry of pain. The crowd cheers.
+
+"Yield?" [Specified 0] asks, offering the fallen a hand up.
+
+[Specified 1] nods, and the sailors clap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The circle disperses at your words, and [Specified 2] grabs the two fighters and hauls them to the masts. 
+
+"Hug them tight." After checking the pair, [Specified 2] brings you the tightly-braided leather lash. "Ready for you, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 2] splits the air with a shrill whistle, dulling the roar as the crew crane their necks to hear. 
+
+"That's enough, everyone!" [Specified 2] levies a baton at the fighters. "You two, grab the tar. [Specified 1] on foremast, [Specified 0] on aft. And not a word between the two of you. The rest of you, back to your stations before the captain asks me to fetch the whip!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 1] ducks a wild blow, then lashes out at [Specified 0]'s legs, sweeping them. The latter sailor crashes heavily to the deck to the sound of raucous jeering.
+
+"Had enough?" [Specified 1] asks, offering the fallen a hand up.
+[Specified 0] nods, and the sailors clap. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Shouting from the deck distracts your from your studies of arcane lore. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Shouting from the deck interrupts your prayers to [Player Deity].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Shouting from the deck pulls you roughly from your meditations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Shouts rise from the deck, pulling your attention from the navigation charts sprawled before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Investigate the ruckus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Ignore it and let the issue sort itself out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You set aside your task and step onto the deck. 
+
+Most of the crew has gathered amidships in a rough fighting ring, each cheering or jeering one of two sailors among them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You block the noise out. Tensions rise after weeks at sea. You suspect it will sort itself out.
+
+Later, you see [Specified 0] sporting a broken nose and blood-crusted lip, while [Specified 1]'s right eye has swollen shut. Each glares at the other, and the whole of the crew looks on edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2] frowns at your appearance and gestures to the circle.
+
+"Apologies for the distraction, captain. It looks like [Specified 0] and [Specified 1] intend to have it out. Something about bunk assignments and [Specified 1] snoring like the Mortar itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"A right-fine ruckus! Winner grapples w'us, aye?" Iselmyr's mirth shines in Aloth's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well, well. Unfinished business, rising tensions... I can see this going one of two ways." 
+
+Maia chuckles to herself and steps up to the edge of the fighting ring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Serafen shrugs. "Sometimes a good fisticuff or five be just the thing to set a crew aright, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"They brawling? I love a good family fight." Xoti cranes her neck for a better view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Approach the circle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Return to your cabin.] "I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You return to your cabin. As you close the door behind you, the catch the heavy thud of skin on skin followed shortly by a collective intake of breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1] eagerly accepts the sponge-tipped stick, but Eliam merely raises a hand in polite refusal. 
+
+"Think you're going to take me bare-handed, mushroom-head?" [Specified 1] twirls the sponge before squaring off against Eliam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Let's stow those fists, and I'll break out an extra ration of grog for everyone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The next person who throws a punch goes overboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Manifest your aura.] "Cease this squabbling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Calm their minds.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Break them up with a blast of magic.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The cheer goes up immediately, drowning out any protests from the fighters as the crew breaks them apart. You nod to [Specified 2], an order to break out the libations to calm the crew's spirits. 
+
+The shanties begin before you make it back to your cabin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The fighters' fists lower as the nearest crew take a step away from you.
+
+"No need for that, captain." [Specified 1] shows you open palms. "Everything's fine."
+
+You continue to glare as the crowd breaks apart, slinking back to their posts, and muttering among themselves.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You allow the strength of your soul to manifest, washing over those present. Eyes glaze and mouths fall agape. 
+
+"Sorry about that, captain." [Specified 1] bows. "I'm not sure what got into me. It won't happen again, I swear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The crew breaks apart, giving you a wider than normal berth. Only [Specified 5] nods to you with a wan smile.
+
+The crew keep their voices low for the remainder of the day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>With a few quick words of power you channel the ambient essence through your grimoire and into a blast that scatters the sailors. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Show mercy.] "I hope I've made myself clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Whip them.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The crack of the whip and the cries of pain resound across the water. After you order the pair carried belowdecks to have their wounds looked at, and the remaining crew wordlessly jump to carry out your orders.
+
+Calm reigns again aboard [Player Ship].
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>As you pass the whip back to [Specified 2], [Specified 0] and [Specified 1] nod vigorously.
+
+"Absolutely, captain. Thank you, captain, and Ondra bless you for your mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The fighters each accept a sponge-tipped stick and face each other.
+
+"You heard the captain." [Specified 1] smirks. "Have at it."
+
+The pair trade blows, the crack of wood against wood echoing off of the water as the sailors cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The crew returns to their duties, and calm again reigns aboard [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You'd better leave him be," [Specified 4] calls. "You know he doesn't come by that face naturally. Gods know how many curses he could hang on you!"
+
+"One more reason to throw him in the drink!" [Specified 1] shouts, fists rising in retort. "Put them up, you ugly bastard!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Eliam begins to mutter, fingers shifting through sharp gestures. 
+
+"Hylea's feathered tits," [Specified 1] mutters before swinging the sponge at Eliam's head. It strikes his head hard, and the oily sponge snaps off of the end, bouncing off of the bulwark and overboard.
+
+With a single gentle movement, Eliam reaches out and brushes [Specified 1]'s arm with his fingers. A dark shadow pours from him and into the other sailor, whose eyes roll back. [Specified 1] shudders violently before collapsing to the deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The ruckus subsides instantly as the crew look to one another. [Specified 1] mutters wordlessly, twitching on the deck. [Specified 2] coughs.
+
+"It's over, everyone. You two," [Specified 2] gestures to two hands, "get [Specified 1] to the bunks. Everyone else, get back to work!"
+
+The sailors return to their duties, a pall hanging over the deck like a thick fog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>No additional fights break out, but it's days before the crew again takes up a shanty or raises a toast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Fungus face?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 1]'s jaw goes slack. "Oops. Uh. Hello, captain. I just meant... shit."
+
+A few of the crew chuckle, but most await your judgment in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Get back to your stations, lest I demonstrate what a Chosen of Berath is capable of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Hylea's feathered tits, captain..." [Specified 1] rises from the deck, wincing. "I didn't think we'd earned that. But I understand. This won't happen again, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>With a wave of the hand, [Specified 5] releases a spell that sends the sailors sprawling.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

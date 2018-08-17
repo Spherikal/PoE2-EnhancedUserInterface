@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_one</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Mapping the Archipelago: Port Maje</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explore the uncharted islands around &lt;b&gt;Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Sanza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Sanza&lt;/b&gt;, the excitable cartographer I met in &lt;b&gt;Queen's Berth&lt;/b&gt;, wants to compile a complete guide to the islands of the Deadfire, but he can't do it on his own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, the cartographer in Queen's Berth, asked me to make a survey of the uncharted islands of the Deadfire Archipelago.
+
+He suggested I begin with the two uncharted islands to the north and south of &lt;b&gt;Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have charted both of the islands in this region. &lt;b&gt;Sanza&lt;/b&gt; will want an update on my progress - and the opportunity to fill out his charts. He'll be waiting for me at his shop in &lt;b&gt;Queen's Berth&lt;/b&gt; in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I discovered an &lt;b&gt;island&lt;/b&gt; inhabited by a clan of &lt;b&gt;xaurips&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I came across an &lt;b&gt;island&lt;/b&gt; of &lt;b&gt;castaways&lt;/b&gt;, driven to cannibalism and madness by their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to the completion of this quest has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I turned over my survey of the islands around Port Maje to Sanza, and received my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

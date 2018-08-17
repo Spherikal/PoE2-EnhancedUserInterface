@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_relationship_xoti</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So you're saying you're literally a pirate of the mind...? You sail in and steal people's thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Behold, lass! I'm the original psychic piratical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Not hardly. Even I've heard about Malnaj. She's a cipher like you, ain't she? Only older."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What did you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Of course you lied. You were talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You should tell her the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Had to dredge up my cruel rival? You should know her arsehole itches when mention be made of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What a nasty hex. Tell me you weren't the one who put it on her. Darn, I hope that doesn't make her itch. Aw, Hel! Or that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Heh, I like your style, kid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm not so sure I believe you. What am I thinking right now? No, wait - now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Don't work that way, lass. I pick up on feelings. See fragments of memories, sometimes. Impressions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Oh. Well, you could take a gander if you wanted. I mean not all the time - just this once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Mostly when folk are upset or I've hit a nerve, unless I'm trying to intrude. And I generally try not to intrude."
+
+He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"As you wish, lass."
+
+Serafen looks up at Xoti with an uncommonly serious impression. His eyes seem to drill into her. Then suddenly he jerks his head away and blinks like his eyes are burning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"So which is it? Light or dark - what do you see?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Neither, lass. Bounced off you like a bullet off an ironclad."
+
+Xoti shrugs and walks away. Serafen watches, hand rubbing the back of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ahoy, cap. Bend your ear a tic?"
+
+Serafen sighs, pinching the bridge of his blue nose between forefinger and thumb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Darkness, cap, and little but. Then fires, making ash of everything."
+
+He shudders, and you feel a cold wave roll off of him like being doused by a stormy swell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I touched her mind for a second, but felt something pull me in and keep me trapped for what seemed like days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I ain't seen its like before. Sometimes, old salts get nightmares so that I can't bunk around them... but they usually ain't this flavor of apocalyptic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;i&gt;It washes over you, and you find yourself aboard [Player Ship]'s main deck. Something unseen presses down upon you, and you hear the ship groan beneath you.&lt;/i&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"If it were you, would you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Honesty is always best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Maybe you're right to keep this from her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I know Xoti has nightmares. You could help her overcome them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Right fair point, cap. We all deserve a fighting chance 'gainst our demons. Mayhaps I can help the lass stack the odds in her favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It's been my experience, cap, that honesty's as like to bite you on the arse than not. If that be your thinking, though, I'll stow my instincts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Do what you want. I don't care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wish it felt right."
+
+He sighs, hanging his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Say lass, I'd like to try prodding your thoughts again. Savvy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I can tell you what I see right now. Your insides are on your outsides. And you're covered in flies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Serafen places his index fingers on his temple and rolls his eyes around, in a mock display of mind-reading.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah, I see. Plagued by nightmares then, lass? Skies afire, boiling seas, that sort of shit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Sure am, don't try to hide it neither. Tribulations from the gods are a blessing, not a curse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Well, I ain't one for knowing gods and prophecies, but I can be sharing with you the ancient pirate secret for sleeping like a babe. If that be of interest to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Of course, I wouldn't mind a reprieve. Just for a night or a few. If you got something - tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Rum. Barrels of rum. Drink it till you see three of me, and you'll be sleeping through kraken attacks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Still want to peek into my mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Sure, lass. Think up a number."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm imagining the number two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You ain't supposed to say the number."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I know. And if you could read my mind, you'd know that wasn't actually the number I was thinking on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Heh, you be a right tricky lass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Now, I'm just making it worse. I best shut my mouth before I cause more damage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"It ain't the prettiest of sights. But go ahead, if you're feeling brave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Xoti sways on her feet, eyes glazed. Sweat trickles from her right temple, down the line of her jaw. She hunches inward as her muscles shiver and seize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Alright, lass. Back to the surface with you."
+
+The fingers of his left hand at his temple, Serafen snaps with those of his right just before Xoti's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Xoti seems a right fine lass and all, but... well, she asked me to pick around in her thoughts. Told her I didn't see nothing, that I bounced right off of her... but that were a lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Now that ain't fair, cap. Sometimes I flirt. Ain't nothing truer than a flirt."
+
+He grins, revealing a hint of crooked teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Serafen winces, his hand moving to his forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aye. Were afraid you might say something akin to that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Pull away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Keep watching.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You force yourself free of Serafen's vision and the world resolves around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;i&gt;You're alone, save for the corpses. Serafen, [Specified 0], [Specified 1], [Specified 2], and so many others. Their wide, unblinking eyes reflect the burning sky above, and the dark sea beneath you churns as if boiling. With a crash like thunder, the ship breaks apart, and you plunge into water that is either so cold it burns, or so hot that it freezes you solid.&lt;/i&gt;
+
+The vision washes past, and you find yourself looking at the blue orlan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"That was... unpleasant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Serafen examines his boots through narrowed eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"She's part of your crew, Captain Watcher. You might care to scrounge up a damn to give."
+
+Serafen's eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Just... keep an eye on her, cap. I don't know what's going on in there, but it shrivels my timbers like loose pants on a cold day."
+
+He turns away, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Oi, Xoti. About earlier... and me saying I ain't seen nothing in your thoughts..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You saw the terrors in my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Apologies on the bent truth. It kind of be what I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Suppose I can forgive a friend a time or two. If you're willing to help me, in exchange, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Xoti sucks in a ragged breath, rubbing at her eyes as if having woken from a fitful sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Right easy to forget how terrifying Ngati, Amira, and that lot be. Till you watch a lass' dream of them eating up every man, woman, and babe in the Deadfire."
+
+He wipes his matted brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I saw the gods - all but Gaun and Berath - trapped in Hel. Starving, withering to dust and bones. They were eating souls to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I don't be thinking it were a normal dream neither. More like something lurking on the edge of your thoughts, something I can't rightly grasp hold of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Why apologize? It's not your burden to bear. It's mine." A half-hearted smile ghosts her lips as she sniffs and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Apologies, lass. Wish I were of more help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You intruded on me the moment we met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Stow it, you two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"That were an accident! If anything, you be the one that were intruding on me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Aye-aye, Captain Watcher."
+
+The pair exchange glances and move apart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Anything I should know about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"This better not end badly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Say Nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mayhaps. Let me be ruminating on it for a tic, cap."
+
+He sighs and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Don't be worrying your head none, cap. Just be that when an old salt goes sticking his hands down every dark hole, sometimes mayhaps they be getting bit."
+
+He sighs and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Serafen sighs as he turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Watch them.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Decided to help after all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Come on, you two. We've places to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Serafen's eyes slide open and towards you as the corners of his mouth drop. He snaps, and Xoti blinks, expression somewhat dazed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Serafen waves you off with a furry blue paw, but a slight grin blossoms on his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Sounds like a good time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Learn anything, Serafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Do you think it's a message from Eothas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Laugh it up while you can, Watcher. We're going to be living my nightmares soon enough." Hands on her hips, she shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I do. I think Gaun's showing me what's to come - so we can find a way to endure it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

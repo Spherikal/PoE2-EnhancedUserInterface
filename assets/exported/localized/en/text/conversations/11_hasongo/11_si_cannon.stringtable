@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_cannon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A heavy brass bombard is perched atop the wall, pointing out to sea.
+
+From here, you have a commanding view of the flooded fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave the bombard alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The bombard continues its lonely vigil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Load the bombard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Carefully, you ease the shell into the bombard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You know that swell of fatherly pride when you see a newborn?
+
+"Getting my taste of it." 
+
+Maia pats the hide of the weapon. </DefaultText>
+      <FemaleText>"You know that swell of motherly pride when you see a newborn?
+
+"Getting my taste of it." 
+
+Maia pats the hide of the weapon. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Turn the bombard toward the cluster of nāga.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You light the fuse and plug your ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Carefully, you ease the shell into the bombard.
+
+It's now loaded and pointed toward the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The gears at its base are rusted stuck. It will take some kind of lubricating oil - or an incredible amount of force - to move the platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Fire the bombard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You try, but it's stuck.
+
+Looking down, you notice the gears attached to the rotating platform are rusted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Push the bombard into position.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Push the bombard into position.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You push.
+
+Despite the rusted platform's shrieks and the burn in your own arms and legs, you manage to turn the bombard toward the nāga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You push, but the bombard hardly moves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You push.
+
+Despite the rusted platform's shrieks and the burn in your own arms and legs, you manage to turn the bombard toward the nāga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You push, but the bombard hardly moves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 0] pushes.
+
+Despite the rusted platform's shrieks, [Specified 0] managed to turn the bombard toward the nāga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 0] pushes, but the bombard hardly moves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Step back from the rotating platform.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Aim the bombard at the cluster of nāga.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You consult the artillery manual you found and use it to line up your shot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You consider your target and ratchet the bombard back to what looks like a reasonable angle.
+
+Probably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Captain? All due respect, but we'll make it out of here faster without a gaping hole in our ship." 
+
+Maia bites her lower lip and squints to adjust the aim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Whoever was shirking their maintenance duty had better be among the casualties." 
+
+Maia glowers at the sorry state of the platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Rub cooking fat into the gears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>It's messy and smelly work, but once the gears - and your arms - are liberally greased, you're able to turn the bombard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Scan the fortress.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Broken towers rise feebly from the water, and corpses and debris float between them.
+
+You see no sign of life until you note movement near the center of the fort.
+
+A large cluster of nāga has congregated on the central walkway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Aim the bombard using the artillery manual as a guide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You adjust the bombard's angle to account for the proper trajectory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Check for ammunition.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The bombard itself is not loaded, and you don't see any ammunition for it nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Examine the rotating platform.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You push, but the bombard hardly moves.
+
+Nevertheless, the effort is so taxing that you wrench your shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You push, but the bombard hardly moves.
+
+Nevertheless, the effort is so taxing that you wrench your shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 0] pushes, but the bombard hardly moves.
+
+Nevertheless, the strain wrenches [Specified 0]'s shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You estimate the distance to the nāga and consider what you know about ballistics and parabolic trajectories.
+
+After a few mental calculations, you ratchet the bombard into a suitable firing position. You're confident you can take out the nāga on the platform at this angle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Didn't even have to count on your fingers. Very impressive, captain." 
+
+Maia pats your shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Best pay another visit to the anxious quartermaster if we're low on shot." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Perhaps one of those survivors in the storage tower could help us," Aloth says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"If anybody knows how to load this thing, it'd be that nervous lady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Certainly the survivors must know where ammunition for this beast is stored."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Might be the blue lass from Rauatai knows where we can scrounge ourselves up some big honking balls for this beast."
+
+Serafen glances towards the tower. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Specified 0] consults the artillery manual and uses it to line up the shot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Specified 0] estimates the distance to the nāga and ratchets the bombard into a suitable firing position. 
+
+[Specified 0] is confident you can take out the nāga on the platform at this angle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0] considers the target and ratchets the bombard back to what looks like a reasonable angle.
+
+Probably.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

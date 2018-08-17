@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_siren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Onadere the Siren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Onadere&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Okauro&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A siren has been steering ships into the rocks. Survivor accounts tell of &lt;b&gt;Onadere&lt;/b&gt; haunting the &lt;b&gt;western isles&lt;/b&gt; of the great &lt;b&gt;Kua o Rikuhu&lt;/b&gt; chain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Onadere&lt;/b&gt; haunts the &lt;b&gt;western isles&lt;/b&gt; of the great &lt;b&gt;Kua o Rikuhu&lt;/b&gt; chain. Killing her will ensure safer passage for ships and earn a hefty bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that Onadere is slain I can turn in evidence of the kill to &lt;b&gt;Okauro&lt;/b&gt; in the &lt;b&gt;Sacred Stair&lt;/b&gt; district of Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I killed Onadere and claimed the bounty reward from Okauro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

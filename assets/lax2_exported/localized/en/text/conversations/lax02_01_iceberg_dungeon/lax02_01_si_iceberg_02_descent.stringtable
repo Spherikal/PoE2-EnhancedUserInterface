@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_iceberg_02_descent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A thick spike juts from the ice here. Someone has secured a rope to it, and it dangles down the sheer face below. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A rope hangs from the upper edge of the ice wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Descend the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Return the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A small, cylindrical object protrudes from the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Swing closer to the object.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You plant your feet, then push hard against the ice, swinging out towards the object. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attempt to reach the handle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You again push against the ice face with your feet, this time focusing your strength to propel you towards the pick. You reach out and grasp it, but it doesn't budge, leaving you suspended above the abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You let go of the rope, clinging only to the pick handle.
+
+With a crack like an arquebus shot, the pick breaks free of the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Descend to the ice ledge below.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Climb the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Return the way you came.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Clinging tightly to the rope, you carefully ascend the sheer face of ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A small, cylindrical object protrudes from the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Climb to the top of the cliff.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You carefully make your way down the rope, feet only occasionally slipping across the frozen wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You reach the top of the ascent and heave yourself over the lip of the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You carefully descend the ice face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Let go of the handle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Let go of the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Pull the pick free.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Attempt to free the pick with fire magic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The handle slowly sags, then falls away from the wall towards the floor below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You twist the rope around your arm and strain against the handle. With an echoing crack, the pick wrenches free of the ice, sending shards cascading into the shadowed depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Mere feet from the ground, the pick strikes true, wrenching your arm painfully as you halt your fall.
+
+Wincing, you lower yourself down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You hit the bottom hard. With a sickening crack, your leg gives out below you, and everything goes dark as pain explodes through your head.
+
+Your head swims as you come around to find yourself sitting on the ice floor. Your leg aches, and warm, sticky blood trickles from the side of your head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Test the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>It seems entirely secure. The rope itself is strong, and ice has formed around the grappling hook, freezing it in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1] pushes hard against the stone, swinging out over the icy abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The item seems to be an ice pick, its head frozen over much like the grappling hook above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>With an echoing grunt, [Specified 1] swings again towards the pick, grasping it. The object doesn't come free of the wall, leaving your companion clinging to both rope and handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Pull it free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Let go and come back. We'll try something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let go of the rope - your weight will break it free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You release the handle and swing back against the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Try something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Pull as you might, you cannot budge the rime-rooted pick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] releases the handle and swings back against the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] heaves against the pick, breaking it free with an echoing crack before swinging back across the ice face like a pendulum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] struggles against the rime-rooted pick but cannot free it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Attempt to blast the pick free with an immolator.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sparing you a frown, [Specified 1] clings to the pick handle and lets the rope fall away.
+
+With a crack like an arquebus shot, the pick breaks free of the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The spell strikes the pick handle and the ice around it, sending a plume of hissing steam upwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The explosive pops and hisses as it bursts, spraying steam and water from the ice wall. With a ringing thud, the pick falls to the floor below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Your hand is still on the bomb when it goes off, engulfing you in flame and sending both you and the ice pick plummeting towards the floor below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The bomb goes off, engulfing [Specified 2] in flames. You watch helplessly as  your compatriot falls screaming to the ice below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You plunge towards the floor, arms grasping at the wall, feet sliding along it. You drive the pick again and again into the ice in an attempt to find purchase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Your heart leaps as [Specified 1] plunges towards the floor, scrabbling against the wall all the way down...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Mere feet from the ground, [Specified 1] slams the pick into the wall, arresting the plummeting descent.
+
+You make your own way down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 1] hits the ground without a cry, leg buckling beneath the impact, head striking the ice wall hard enough to leave a bright crimson smear. 
+
+You make your way over and look your compatriot over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Despite his wounds, he will survive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Despite her wounds, she will survive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You carefully wedge an immolator between the handle and the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 2] carefully wedges an immolator between the handle and the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Locate the object from before.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You cannot find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You carefully wedge an immolator between the handle and the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 2] carefully wedges an immolator between the handle and the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_rabyuna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A fire godlike woman polishes a pair of stocks, tending to them with the fondness of a mother for her favorite child.
+
+The room is dim, illuminated only by the glow of her steel-forged skin. Her eyes burn with the light of Magran's fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You are a glutton for punishment, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I will give you an experience you won't soon forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How much for your time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Three hundred copper. I know it's a bit more than most, but my service is like nothing you will find anywhere else in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I must assume the question beneath your question is how a fire godlike came to find herself in a place such as this."
+
+She leans back against a wall of chains. They clank and rattle, and she smiles at the sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Very well. Remove your clothing and shut the door." She runs a hand along her freshly polished stocks while she waits for you to comply with her orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Let's get to it, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"But we cannot always be strong. I help those who have lost their strength to find it again."
+
+She wraps a chain around her arm and tugs. The steel links glow red with forge-fire where they touch her skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Perseverance. Being as I am, I have been forced to find it for myself. Now, I teach it to others.
+
+"To live in the world as a thinking, feeling creature - it is difficult. It demands strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tekēhu! Where have you been? I haven't seen you in weeks." Her eyes glow red with an intense, flickering flame, but her tone is warm and familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Still recovering after the last visit, I say! My mind is willing, but my scales have limits." 
+
+Tekēhu rubs the back of his head and smiles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Oh yes, we are &lt;i&gt;well&lt;/i&gt; acquainted. He's a very good boy." She smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"You know her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ekera, we have... quenched each other's flames from time to time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You may leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You want to speak with me, you do it in my room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Start slowly, please." Tekēhu pinches his lower lip and smiles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You have my undivided attention." Maia folds her arms and observes, smiling lopsidedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Hold on just one murkberry-picking minute! I don't know if you know this about me, Watcher, but I ain't the kind of gal who likes to share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>She turns away to polish a pair of stocks, tending to them with the fondness of a mother for her favorite child.
+
+The room is dim, illuminated only by the glow of her steel-forged skin. Her eyes burn with the light of Magran's fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>When she realizes you're still standing there, she shoots you a look of utter contempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>When she hears you enter, she shoots you a look of utter contempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

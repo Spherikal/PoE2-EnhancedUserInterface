@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_adaryc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So, it is you. I could not think of a reason why your ghost should haunt the Deadfire, save to haunt me, and that smacks of arrogance." 
+
+Adaryc smiles crookedly at you - something which causes the soldier beside him to regard you with bemused curiosity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Another collection of spirits, [Player Name]?"
+
+"The rumor was that Caed Nua was destroyed, and you with it. I was sorry to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Adaryc? I thought you'd go back to Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Should have known you'd turn up once Eothas did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I have no idea who you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I've never seen a temple like this. The Morning Council wouldn't approve, but... It is beautiful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A safe assumption. But then, I might say the same. Wherever the gods work their intent, there you find the Watcher of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Truly? I remember very clearly that I made a fool of myself. But then, perhaps encountering another Watcher holds no great novelty for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"When the priests spoke of Eothas' return, I volunteered to come, along with a few of my men.
+
+"I think the Morning Council was content to have me out of the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"That's putting it all very simply. But then, I suspect few of us have simple reasons for coming to the Deadfire."
+
+He regards you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Still fretting about your Watcher abilities?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'm tracking down Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"So, his appearance has renewed your faith as well! 
+
+"I think, for once, I am content to wait. If our god wishes to speak with us, wishes anything of us, he will give us a sign. The priests pray daily for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Sorry, Adaryc. I lost your sword along with my castle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That sword was only meant to keep you alive through your ordeal. It's fulfilled its purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I &lt;i&gt;was&lt;/i&gt; dead. Berath brought me back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The gods have a purpose for you. That much has always been clear."
+
+Adaryc seems to be speaking entirely in earnest. There is a trace of envy in his voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"All this time, only to fight again? So be it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Don't tell me you had another vision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"No, nothing like that. But then, it was hardly necessary.
+
+"The Dawnstars have witnessed our lord's return firsthand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What do you want from Eothas, Adaryc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I would know if he has a plan. For... Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Seem to remember he already had one. Just wasn't any good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Until then, I can be of help to the Dawnstars. The priests know His will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes, play the jealous child. All you knew of his plan was that &lt;i&gt;you weren't part of it&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Eothas had something he wanted to get done, and he chose Readceras to pay the price. Yet here you are, begging for more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Edér, stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Adaryc, enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No, I... I apologize. Starting arguments really is the last thing I intended, when I came here."
+
+Adaryc takes a step back, red-faced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're right, that was uncalled for. I apologize."
+
+Adaryc takes a step back, red-faced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Yet I was scarcely off the docks before the Vailians were eager to use my condition for their profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I don't know. I came here on a pilgrimage, of a kind.
+
+"Neketaka is full of spirits. And the &lt;i&gt;sea&lt;/i&gt;... Where to begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"...You are a Watcher still, yet you are neither mad nor killed. It's good to see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What news of Readceras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Each missive from the Deadfire raises new tumult. Some believe our Lord restored, while others doubt.
+
+"We've done penance for many long years. None of us know what forgiveness ought to look like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Doesn't seem like Eothas has his mind on forgiveness these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I found the man behind my Awakening, and put my past lives to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Berath scraped off the rough spots, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Adaryc gestures, and the soldier turns away. 
+
+He steps in closer toward you, as if to share a conspiratorial whisper, but you notice that he is looking elsewhere - behind you, around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I think he's onto something there. Maybe all this is happening because the gods are playing a joke on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Likewise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And you aren't menacing innocent townspeople anymore, I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ha. No, the Iron Flail has no official business in Neketaka. No siege weapons. I'm here as a man of the faith.
+
+"And to... make good on some of my mistakes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I would not say it is a &lt;i&gt;jest&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Why you're so devoted to a jumped-up Engwithan, I'll never know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Just as I will never know why you delight in being so baldly heretical!" 
+
+Adaryc sighs, venting his discomfort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"[Player Name]..." 
+
+Adaryc raises a hand to his temple, looking stricken. He shakes his head, rather than continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I wouldn't be doing this if Berath hadn't charged me with the task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Then your path is clear. The gods know much that we do not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Perhaps so, but you were worthy of Berath's attention." 
+
+He looks thoughtful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Adaryc's mouth twitches into a begrudging smile, and he tips his head in acknowledgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The cure you sought, and which I was weak enough to doubt. See, there - determination will win out every time.
+
+"And now you are onto new challenges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm here to conquer the Deadfire for the Dyrwood. I think I'll build my next keep here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hey, that's good thinking. And then when Eothas comes back and smashes it, we can get the drop on him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Adaryc shakes his head, looking off into the distance with an expression of aggrieved resignation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You will have to fight the other nations of Eora for it, by the look of things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Perhaps that suits you better, [Player Name], but I am not here to strengthen the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Leave] "See you around, Adaryc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Take care. And may the Shining God light your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Eothas is killing people everywhere he goes. I have to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I see. [Player Name]... I will say only that this, too, must have a purpose. The Shining God would not bring such destruction without cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You may be shameless, but are not your allies devout?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Feel free to leave me out of this. I'll go shopping for a god if and when I need one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"It would be most confusing if Ngati's chosen was anything but devout. But I say I am open to anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The gods may serve a purpose for kith, but that does not mean we must close our eyes to what they really are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I better get back to you later on that one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I would rather see a temple razed to make space for cattle grazing than preserved for prayer. Does that answer your question?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"It's not my place to make the Watcher right with the gods. I only got to worry about mine's pleasure - or displeasure - with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You mean an aspect of him, anyway. It's the nature of Gaun, you know, who was always a part of Eothas. Death and rebirth lead to difference - to change. 
+
+"What's returned can never be exactly the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"An... interesting point, sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Adaryc greets you with a slight bow. He waits patiently for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Self-loathing is a blight on the soul, Adaryc. Don't make your journey through Hel darker than it has to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I... You're right, of course, sister."
+
+Adaryc stands up a little straighter, as if scolded. He shifts uncomfortably, his gaunt face drawn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Sister." 
+
+Adaryc turns toward Xoti, bowing his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Blushing, Xoti tries not to preen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"And why do these spirits follow you? More blood on your hands?
+
+"We were never friends, I know, but when they told me your keep was destroyed, I was sorry to think that you were dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I did, in time. Once I thought I'd summoned up the words to explain what happened in the White March. 
+
+"None of it made much sense to the Regency, but my men stood by me. If I was mad, so were they."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Adaryc's jaw tenses, and he looks away, shifting uncomfortably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"The Deadfire is home, for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Of course. I... did not think. It must be difficult, to see it so changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Stop him?" 
+
+Adaryc glances at Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"The plan is to ask him real nicely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Then... You've received some sign? None of the priests here have..."
+
+He trails off, looking uncomfortable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Knowledge is profit enough for most animancers, Adaryc. The pires are simply a bonus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What good are disciples who sit around and do nothing? Our god walks the Deadfire and still people idle and doubt?" She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'm suspicious of anyone who demands unquestioning loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Then let me say only that I command The Iron Flail, sworn to stand against new threats to Readceras.
+
+"But I am here only as a pilgrim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Say what you want about Dyrwoodans, but at least they got a will of their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Boys, boys, stop. You're both beautiful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Yet if this were punishment for our failure, surely he had worthier targets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"There's no sense picking over old wounds."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_backer_npc_marofeto_liano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You find a man dressed in worn, dirty leather armor. His long, scraggly beard is encrusted with salt, his curling hair has clearly not seen a comb in some time, and the toenails of his bare fear are cracked and torn.
+
+The only thing of any value that he carries is an amulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oh. Greetings." He hesitates a moment before saying more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hello."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You humor an old man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Might I help you with something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I was a proud man once. A Goldpact Knight. Then I took a job, and it- it went poorly.
+
+"I could no longer stay with the order after... &lt;i&gt;that&lt;/i&gt;." His eyes take on a faraway look as he remembers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Could you teach me what you've learned in your years wandering the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I taught you what I could. You want a free education, go join up with the Dawnstars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You would ask an old man to share his wisdom? Well, I suppose I could... for three thousand copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He tells you what he learned about making - and keeping - a bargain in his years as a Goldpact Knight, showing you how to tell when a merchant knows his wares are of poor quality or overpriced.
+
+When he's satisfied you won't get fleeced by the next back alley charm dealer you come across, he sends you on your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Be on your way, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"In the years since, I have wandered the length of the Deadfire, dedicating my life to self-discipline and abstention from worldly distractions. It is only through suffering that the soul becomes strong, do you understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"That's it...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well... I &lt;i&gt;am&lt;/i&gt; waiting for someone. But I do not know when they will arrive or who they will be when they get here.
+
+"All I know is that they are a seer, and they seek me. So I wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Then how will you recognize them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Good luck with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I will not, but it does not matter. I have this amulet here, and I yet draw breath. &lt;i&gt;That&lt;/i&gt; is all I need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Can I have it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Brandish your weapon.] "Amulet, huh? I could use one of those."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You should have faith that this seer will find you without it. That's the true test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"...No? Someone is coming for me, and they will know my amulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I should hope that you do, young man."</DefaultText>
+      <FemaleText>"I should hope that you do, young woman."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Fools rely on luck. I have this amulet here, and I yet draw breath. &lt;i&gt;That&lt;/i&gt; is all I need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"F-fine! Take it!" He tugs the amulet hurriedly from his neck and shoves it into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Perhaps... perhaps you have a point." He gently tugs the amulet off over his head. He holds it in his palm a moment, his expression unreadable, then hands it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Just... please, take good care of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I will not, but that does not matter - &lt;i&gt;they&lt;/i&gt; will know me. I have faith in that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I do not need luck, I have &lt;i&gt;faith&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I have nothing more to give you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I have already given you my most prized possession, and you ask for more still?
+
+"Fine, I will show you what I can... for three thousand copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I... suppose..." He looks at you quizzically, perhaps unsure why you've asked him such a personal question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The old man's eyes dart between your face and your hand where it hovers just over your weapon. His hands begin to tremble.
+
+Though he maybe have been a knight once, he has grown frail in his old age, and he doesn't look capable of besting even a child in a fight, let alone a Watcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Fine by me. Find me if you need me." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Thank you, traveler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Enhance Insight and Intimidate] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

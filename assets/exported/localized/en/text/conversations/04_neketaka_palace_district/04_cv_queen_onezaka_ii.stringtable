@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_queen_onezaka_ii</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>378</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It is high time that we spoke away from the exhaustive filter of the court." 
+
+The queen has affected a far more relaxed posture. A pair of tigers lounge indolently beside her seat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I expect we have much to discuss." Onekaza nods for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The Vailian serpent has lost its head, the Rauatian shark its teeth. We have made it too costly for either of them to tarry in the Deadfire." The queen grins with fierce pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Assassin! I curse you by all the powers of the Deadfire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I say that the days of shielding myself behind polite smiles are at an end." 
+
+Onekaza curls her lip in a restrained snarl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You make a habit of turning up uninvited."
+
+The queen has affected a far more relaxed posture. A pair of tigers lounge indolently beside her seat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Since you are so eager to visit my garden, I will inform the guards that you are afforded the rights of a guest. Try not to abuse my hospitality again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Your purpose and your temperament seem well-paired. Welcome to my garden." She nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"This is the city of my ancestors, and it whispers every truth to my ear. I knew death would come wearing an outsider's face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"This is your mistake to regret. Consider your choices from Tangaloa's maw." 
+
+Gesturing to her attendants, Onekaza moves to attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Every corner of the Deadfire babbles of the devastation from Magran's Teeth." The queen wears a furrow down her brow that looks fixed in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I bring news from the Watershapers Guild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I wanted to discuss your little plan with the powderhouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me about Neketaka." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Why do you put up with the trading companies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You keep interesting pets, highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Are we ready for the final push to Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'm ready to set sail for Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Fine beasts, are they not? Gifts from the Wapūa - a tribe of proud animal trainers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I bring news from Ori o Koīki."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"My brother speaks of your journey from Motare o Kōzi. Mostly he mourns the loss of his expedition."
+
+Onekaza looks out on the city and sighs through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I should have sunk your ship before you made port." Onekaza exhales sharply through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Leave now. Before I have you thrown from the walls." The cold severity of her gaze leaves you in little doubt that she means it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Your kittens will make for a fine cloak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Has any of this maneuvering made a difference?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"If the hazanui must report of resources gone to waste, it will have been worth it. If the Vailians are discredited and cut off from the homeland, it will have been worth it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I just wanted to look around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Leave] "Forgive the intrusion. I'll be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You mentioned something about recruiting the Wahaki tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Neketaka is older than our memory. We found the great city in ruins, and the Kahanga have spent generations replacing every cracked stone." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I have always known that Ukaizo was no myth."
+
+She balls her fists in her lap, squeezing tightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Because we are the shrub in the shadow of an old growth." Onekaza looks away and sighs through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"With every high tide I ask Ngati if we are ready. She always leaves me to answer for myself." Onekaza's lips part in a smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I could send birds to every ranga and rally them to our cause, but Neketaka needs more than strength. 
+
+"We need pure Huana fury. We need the Wahaki." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"All that remains for us is to pave the way to lost Ukaizo." Onekaza closes her eyes and nods, the mere words a refreshment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Then look. Take in every delight - within reason - but do not waste my time."
+
+She dismisses you with a casual wave, but you catch a trace of amusement in the gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The queen inclines her head in understanding and looks away. In stark contrast, the tigers follow your every motion as you depart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"We are united in the search for Ukaizo. You will go with the full support of the crown - after Eothas and the homeland of the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Thank you for standing with us, Watcher. My brother and I are honored to deserve your trust." She dips her head slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The Huana deserve better. I think you can give that to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"They made a habit of underestimating you. I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I never liked Castol much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I never liked Alvari much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I need to reach Ukaizo. Working with you is my best chance of getting there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"The Vailians were too busy with their noses in ledgers to see their doom approaching." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ekera, let us show them how wrong they were to underestimate us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"We've dealt a blow to the trading companies. What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You will lose any hand that you lay on my cats, monster!" 
+
+She hisses through her teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I am afraid my pets do not appreciate strangers. Or spies, for that matter." She strokes the neck of the closest tiger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Under Woedica's gaze do we keep order. Atop Ngati's seas are we tested. From Rikuhu's bowels do we carry wisdom back to the tribe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"The gods &lt;i&gt;want&lt;/i&gt; this for us, I say. We have come this far to restore order and earn back our empire." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'd be honored to sail under your banner in the search for Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"The Huana already lost Ukaizo once. I doubt Vailia will make the same mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Rauatai has an equal claim on Ukaizo. You're wrong to exclude them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I'm not ready to commit to this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I invite you into my confidence and you turn against me?" Onekaza eases back in her chair, taking you in with narrowed eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Crossing the waters of Ondra's Mortar will not be easy. The open sea is cruel and the storms do not forgive." 
+
+Onekaza thumbs her chin and considers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I've changed my mind. I'd like to help the Huana reach Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You make this appeal after colluding with enemies of the crown?" 
+
+Onekaza narrows her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"For what should I put my trust in scoundrels when I have good warriors on my side?" 
+
+Onekaza crosses her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I say you do not devote yourself to enemies of the crown... Ekera, there is hope for you yet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"The Huana are my people, too. I tire of seeing them suffer for the profit of outsiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"We are united in the search for Ukaizo. You will go with the full support of the crown - after Eothas and the homeland of the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"For too long my brother and I shouldered the burden of the trading companies. Now we can focus on what matters in the Deadfire." 
+
+The queen raises her head and flares her nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Eothas is heading for Magran's Teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"A messenger from the jaws of Tangaloa speaks with the voice of wisdom and change, I say."
+
+She raises her brows at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"It is fitting that yours should be the voice that tells of Hasongo's fate. What did you see there?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"From Port Maje to Hasongo to Magran's Teeth. Eothas follows a rich vein of adra. 
+
+"It takes him northeast, to more... interesting territory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"There are many leagues between here and Hasongo. I trust you have packed for the journey?" She raises a quizzical brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I need directions. Which way to Hasongo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"There. You have it from a queen. Safe travels, Watcher." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I must keep the city's peace, and I have only so many arms and eyes.
+
+"While the Deadfire screams, I would see Neketaka outlast the storm to come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I have no desire to help the Huana cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What do you need from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I only came here to warn of what's to come. The rest is up to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"So be it. But the time may come when you realize that you are short on allies and in dire need of them. My offer stands." She dismisses you with a wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You return intact. Ngati is not always kind to those who travel upon her domain." Onekaza touches her brown and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Nāga took over the colony after Eothas drained the adra. I killed them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Some nāga occupied the colony after Eothas drained the adra. I let them live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Forget what I saw. Eothas is heading for Magran's Teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"The snakes are on edge. Where comes this new boldness..." 
+
+Onekaza thumbs her chin and narrows her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What of Eothas? If you know why he terrorizes the Deadfire, speak on." The queen nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"He needs more luminous adra. Magran's Teeth is the next logical step."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"He makes for Magran's Teeth, but I believe that is only a waypoint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Impressive. They gave my troops some trouble when we first built the lighthouse." She nods approvingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"You did what?! My troops spent blood fending them off the first time, and now they've seen our defenses!" She snarls, cold fury burning in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>&lt;ispeech&gt;Far be it for me to complain if they make trouble for outsiders.&lt;/ispeech&gt; 
+
+There is a weariness to her thoughts that she doesn't bother to hide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"And from there? 
+
+"Your highness, we must address this threat immediately. The Vailian Trading Company's interests are at risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Lives have been lost, Canta Nicese. Let us think of them first before we concern ourselves with your return on investment." 
+
+She nods respectfully to Hazanui Karū.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>&lt;ispeech&gt;How a man speaks during crisis shouts his priorities.&lt;/ispeech&gt;
+
+Onekaza turns her gaze to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I cannot send ships to Magran's Teeth any more than I would send paper dolls to a furnace." 
+
+She arches her fingers together, staring intently at the point in space where they meet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"If you make preparations in Neketaka, I say we can help each other." She sits up straighter and regards you with a level expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Even in a time of crisis, you seek to recruit agents to pursue your own ends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"On the contrary. &lt;i&gt;We&lt;/i&gt; need someone who can get things done around the Brass Citadel.
+
+"And this Watcher is exactly that kind of person."
+
+She looks you in the eye and gives you a slow nod. It looks like an invitation to speak later.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>&lt;ispeech&gt;You see the stakes, I hope. Land and adra cannot be enjoyed when no one lives to cherish them.&lt;/ispeech&gt; 
+
+She nods subtly so that none but you notice the gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Unless the esteemed hazanui possesses a cannon with the power to cripple a god?" She turns to regard Karū.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Never underestimate the ingenuity of Rauataian engineers. 
+
+"Unfortunately, their labors have been focused elsewhere." She frowns, rubbing her broad jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"More's the pity." She sighs with genuine regret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Onekaza puts up her hand in a bid for silence. She closes her eyes until the murmurs die down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Her gaze darkens. Onekaza eases back as any amity she cultivated during your exchange is quickly overwritten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Tekēhu, we still have need of Ngati's chosen." She makes a beckoning gesture toward the throne. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"I... ekera, I will weigh the matter." He turns to you wearing a look of dismay.
+
+The queen's hand falls as if the strength had left it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Now, what is it you're after?" She beckons you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"It would be safer for everyone involved if you left us. Now. You may return if I call on you." She makes a terse shooing motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"The boldness of foreigners." She shakes her head and strokes the nape of a tiger's neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Sail west from Neketaka's harbor. I would tell you to watch for a lighthouse, but Hasongo's adra has gone dark. Take care that your ship does not run aground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"If you have spent any time in the Deadfire at all, the myth of lost Ukaizo can be no mystery." 
+
+Onekaza leans forward in her chair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Of course. It's the origin and destination of all Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"The chart on Motare o Kōzi seemed to treat Ukaizo like the center of the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Tekēhu believes he can find Ngati's original covenant on Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"The Harapo Epic romanticized Ukaizo, but speculated that it would be found again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Wasn't it the capital of the old Huana empire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I don't know much about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ekera, good. Then you understand why we must get there first." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ekera. And with good reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"My watershapers would thank him for such a boon, I say." 
+
+Onekaza nods to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Ekera, you have the right of it. Some of us would see its purpose restored."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"They say the beaches of Ukaizo spanned impossible horizons and its towers graced the light of distant stars..." 
+
+She blinks up at the sky, her gaze tracing an unseen shape. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"My... Ngati would want me to recover what we left behind." 
+
+Tekēhu frowns as he chooses his words with care.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"You know the goddess' heart. 
+
+"When you find what you seek, I hope you remember those who showed you the way?" 
+
+Onekaza nods, looking to Tekēhu for some affirmation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ekera... to be sure, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Opening his mouth to speak, Tekēhu reconsiders and closes it again, turning to you with a look of alarm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Of... course, highness." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Ekera. They say that anyone who saw Ukaizo would suffer to be apart from it." Her gaze wanders to some far-off point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Your tribe taught you nothing, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"The Príncipi need to solidify their place in the Deadfire. Ukaizo should go to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Go, then. Enjoy your new allies. Profit and hold their custom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"If you can help me get to Eothas, I'll help get you to Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"I hope we do not stand around wasting each other's time?" The queen narrows her eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Busy yourself making up your mind. I will make preparations to launch an advance force. 
+
+"With or without you."
+
+Onekaza motions to the stairs down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"For what do you do this?" Tekēhu raises a shaking hand to his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"My queen... I say you must reconsider. Mother Ngati is not in the habit of offering second chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"For what do you deserve to cradle the future of my people in your hands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"I don't see anyone else helping you better than I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Your enemies will fear me. Fear is my gift to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Never mind. I retract my offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"You are dismissed, Watcher. Go your own way, or sail back to the Dyrwood for all that it pleases the court." 
+
+Onekaza motions toward the stairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Ekera, ekera." She sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Madness is not a quality that I seek out in my subjects... but it will do." 
+
+Onekaza nods slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Then you must think so little of the crown." She closes her eyes and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>[Attack] "I just want to see you look upon Ukaizo once before I conquer it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Warriors! I say we are betrayed!" 
+
+The queen rises from her throne, fixing you with a penetrating glare. Her cats lick their chops and rise with her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"We could do worse than settle for Berath's chosen, I admit." A slight smile rises to her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Because I'm you're only hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Then let us get to work." She nods, resolute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"My scouts tell me that you sail from Ori o Koīki." The queen raises her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I wish to discuss the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"We are the stewards of the Deadfire. Our ancestors made this pact with the goddess Ngati long before Ukaizo... before the island vanished." 
+
+She closes her eyes and bows her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"I wish to know more of our people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"How long have the Huana been here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"You mentioned a pact with Ngati." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Speak on. A friend of the crown should be well-informed, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"How long does coral grow?" Onekaza chuckles to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"The one which taught us to shape water." A light, youthful smile overtakes her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Aruihi thinks I should feed my enemies to them alive and screaming. Ekera, I have given it thought." 
+
+She pats Tangaloa on her head. Not content to let the attention go astray, Kohopa shifts over until his ears are under the queen's fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Who built Neketaka?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"This is a Huana city, but the trading companies are both represented here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"The Huana, of course. The mark of our ancestors runs deep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Mm." Onekaza considers your reflection, nodding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"First a question of my own." Onekaza steeples her fingers and observes you closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Neketaka is the future, a path ahead for the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"You occupy this place which you found but did not build. Time will tell if it is a good fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"To be honest, I'm still getting my bearings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"There are angles of this city I cannot see from my garden.
+
+"What place has Neketaka in the great pattern of the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"This city is not how the tribes would live. Walls stand between neighbors and the beach is too far to walk comfortably." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Ekera, my thanks for your perspective. I say you give me much to consider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"My ancestors were inclined to agree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"I should tell Aruihi to send more philosophers to the palace." Onekaza smiles, sighing through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Neketaka is not the stones on which it rests. If you would know the city, speak to its people." 
+
+Onekaza nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"That depends on a great many things. Ukaizo is still a way's off from Neketaka." The queen gives you a weary smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"When we take back the island, we will know ourselves again. This is my promise to the tribes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Even the gods may protest, but this city blooms from the wealth of foreigners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"We should speak about the Gullet's food shortage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Now, with that out of the way, if there is nothing else?" 
+
+Onekaza raises her brow and waits for you to speak up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"The trials ahead will make this seem the scattering of toy soldiers - but in the eyes of history, your work will be the death knell of their incursion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Ekera, somewhere in the abyss she blinks her enormous eyes with approval, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Did I do your mother justice, Tekēhu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"It is said that Ngati bound her four guardians to protect the islands, the adra, the seas, and the tribes. In return, she gifted them the forms of watershaping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"For so long as our promise is kept, the goddess gives us dominion over water." 
+
+Onekaza touches her brow with reverence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Ukaizo looms on the horizon, bridging the past with the future. 
+
+"Together, we will show the Huana how to cross it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"The Vailians will not be making our work easier. They breathe money and exhale vengeance like it is second nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Now that Rauatai has your measure, you must be prepared to stare down the barrel of a cannon. I hope your courage is stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"The worst of the trading companies are behind us, but the Príncipi yet remain. I am thinking they will not make our work easy or simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"It is said the tribes assembled when Kohopa took his first mouthful of Amira's hatchling. And we will be here until the sea rises above our heads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Awfully cozy how the tribes get to use the endorsement of a goddess in a land dispute." 
+
+Maia folds her arms and furrows her brow, a knowing smirk crossing her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"If that is all you see, then Ngati's lesson is lost on you." 
+
+Onekaza shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>&lt;ispeech&gt;May I live to see Rauatai's conceit unravel them from within.&lt;/ispeech&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Ekera. To Ukaizo and the prosperity of the Huana." 
+
+Onekaza inclines her head and raises her fingers to her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"What I need is a lasting peace that will outlive my dynasty, but I will accept peace of mind for now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"If we could accomplish both at once?" The queen tilts her head back and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"May Amira's feather grant you favorable wind, and may Tangaloa open his jaws to our enemies." 
+
+She covers her heart with one hand and touches her forehead with the other. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"But I did not expect an outsider to show us the way. Ngati makes fools of us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Just as I knew that one of our people would lead us back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Just as I knew that Ngati's chosen would lead the way." She inclines her head to Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>He nods to Onekaza wearing an uncertain frown and simply waits for the moment to pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>She pauses to fix Tekēhu with a stern, calculating look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"I put my trust in Ngati's chosen. May the trickster goddess show mercy to her people." 
+
+Onekaza nods and looks toward you more favorably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"I named them Kohopa and Tangaloa, which makes the priests very unhappy." She grins to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Walls and districts are not how we would build a city today, but this place has echoes of the past." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"The Vailians were very... forthright in their desire to carve out a permanent outpost, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"When cannon shot echoed across the seas, the crown opened negotiations with Rauatai's armada. A healthier alternative to war." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"My brother thinks I am too lenient with our visitors. I say I will accept even this uneasy balance." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Aruihi would have me force them back to their ships. I say it is better to feed my allies under a single roof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Once we have the support of the Wahaki, my canoes will stand against any trading company ship." 
+
+Onekaza smiles to herself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"I could send birds to every ranga and rally them to our cause, but Neketaka needs more than strength. 
+
+"We need pure Huana fury. We need the Wahaki." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"The Huana are strong, but our foes are stronger, richer, more relentless still.
+
+"I say that the gods have delivered us an advantage we sorely need." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"You butcher my watershapers... sabotage the hopes of Neketaka? Ekera, but this palace is no sanctuary for the likes of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Can't we talk about this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>She simply raises a finger to silence you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Leave before I am forced to take action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"I say the sacrifice is a worthy one if we chart a course to Ukaizo in my lifetime." 
+
+She nods, raising her fingers to her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Speak freely, herald of Berath." Onekaza opens her palm and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"If you interfere with my plans, there will be nowhere safe in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Kohopa, Tangaloa - welcome our guest."
+
+She nods down to the cats. They fix you with attentive stares that cause many of the courtiers and attendants to gasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Good Kohopa, good Tangaloa..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"They're not budging until the alpha shows her teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>[Back away a step.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Nothing to fear, I say. If a queen cannot wrangle two cats, what right has she to the Deadfire?"
+
+She drags a hand over both of their massive heads. They lean into the gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Watch out. When these things lick, well... I hope for your sake you're not ticklish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"You travel with a brave crew, Watcher." Onekaza smiles up at Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Ekera, but you have a way with the wild. And diplomacy, I say."
+
+She smiles as her cats look to her for approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Get those beasts away from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"No love of the wild. Ekera, or do you fear what you cannot control?" She squints at you, nodding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Something you and the hazanui share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"My children, Kohopa and Tangaloa. It is to them that I answer when dignitaries do not pound at my door."
+
+She pats the heads of the massive tigers, smiling as they lean into the gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>[Move in to pet them.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Go on Edér, you take the honors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"If it's all the same, I'll keep my distance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Can we get on with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"I think I speak for all of us when I say we'd be honored to pet your children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Ekera. Even in times of peace, my people come before my cats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>Her tigers raise their heads to observe you, each heavy breath wafting the lingering scent of a recent meal. 
+
+They endure your gesture with indifference. The queen nods with approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Trick with cats, course, is you gotta ignore 'em first. Get 'em interested..."
+
+Edér rocks back and forth on his heels, averting his gaze from the cats. Yet, every few seconds he slips up and peeks at them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"We are of one mind. My mother taught me to bait an enemy into the open, give it comfort and confidence." 
+
+Onekaza smiles up at Edér before returning her focus to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Ekera, as you will."
+
+She eases back in her chair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"After so much death, to return only with muddied boots..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"I mourn the loss of our history to Rauataian spies, but that is a queen's burden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Scholars pore over your findings as if a charcoal rubbing could build a bridge to Ukaizo. I have learned to restrain my optimism." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"And what does Tekēhu say to this?" She pivots in her chair to face Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"If he should find his mother's mark on Ukaizo, see that he brings it back to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"For what do the tribes not fight each other? For what are we united if &lt;i&gt;not&lt;/i&gt; to take back lost Ukaizo?" 
+
+Onekaza shows her teeth. It's difficult to tell if she's smiling or grimacing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Chuckling to herself, Maia shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"You have thoughts, soldier?"
+
+Onekaza shoots her a withering look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Vailia came here to make some coin. Rauatai followed to catch up with Vailia. Now the Huana are scrambling to catch up to Rauatai." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"It'd be funny if it wasn't going to get so many good people killed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Anyone who stands in our way is a wave to be crested. Your superiors should know this already."
+
+Onekaza flares her nostrils and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"At night, I even... ah, but it is nothing."
+
+She waves the matter aside as if brushing at a moth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Have you been dreaming of Ukaizo, highness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"If we could get to the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Ekera... Since I was a child." Onekaza slowly exhales through her nose. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"When I close my eyes, I stand before the gates of Ukaizo. There are always... three. For what would there be three gates?" 
+
+She furrows her brow and shakes her head - clearly a question she has asked herself many times before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Do your dreams ever wake you in the dark of the night... to find yourself trembling and tangled in blankets soaked with sweat? Do you ever open your eyes, feeling both fearful and sick?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Blinking, Onekaza folds her arms and looks from Xoti back to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"I do not say I am meant to go. But the gods... they want the Huana to return and reclaim what we lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"The gods certainly aren't above picking favorites." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Ondra has a plan for you. Pray on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Ekera, I have and I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"You'd need a capable ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Maybe prayer would get us across?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"I would need watershapers to tame the furious seas and muzzle the wild storms." A knowing grin slowly spreads across her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"No, I say. Ngati teaches us that even the mightiest ship can sink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"The Mataru have tried. Their voices were as shells dropped in the abyss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"And our future, I say. If we can but reach to grasp it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"If this city is a reflection of the past, it's a poor one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"I've seen what lies at the bottom. It isn't pretty, highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Bottoms seldom are, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"My priests would say that the path forward is behind us. At times I wonder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Do we still speak of the city? I have lost track." Tekēhu winks.
+
+Onekaza only rolls her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>[Attack] "Your crown is forfeit. The city is mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"That necessary, talking like that? I may be on your side but you don't always make it easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"To stand against a countryman is a terrible thing. May the sea open its maw to swallow you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Take the helm of your ship... captain. My fleet will follow and watershapers will clear the way through Ondra's Mortar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"And the enemy's fleet, if it comes to that."
+
+Onekaza narrows her eyes on the horizon and nods to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Do not return unless you bring your senses. And pray that my mind is unchanged when you do." She waves you off, grimacing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Your captain has made his choice, Tekēhu."</DefaultText>
+      <FemaleText>"Your captain has made her choice, Tekēhu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"When my people know their past, their future will soon follow." The queen grins fiercely and favors you with a nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"If it was our attention you wanted, I'm sure you have it now. Belfetto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Their respect and restraint would have sufficed, but I will settle for their fear." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"I'm trying to picture a Vailian serpent. With some kind of feathered hat and one of those collars with the ruffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"I would not be so confident. A wounded behemoth is often the most dangerous." He twists at the hem of his garment, clearly on edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"You are a fool if you really believe my country lacks the resources or the resolve to continue their ventures here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Ekera, it takes a strong arm to rattle two coconuts loose from the same tree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Because this will never find a way to bite you in the ass." 
+
+Maia simply stares straight ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"I never once doubted you'd do it. Ain't nothing can stop my Watcher on the warpath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Clever work, this. Clean and tidy as a smuggler's logs."
+
+The blue orlan chuckles.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"When my people know their past, their future will soon follow." The queen grins fiercely and favors you with a nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"You've been in my head since we first met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Ah... ekera, but listen how the Watcher flatters me!" 
+
+Onekaza chuckles to herself and shares a smile with the attendants in earshot. 
+
+When her gaze swivels back to you, a presence like a storm cloud settles over your thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>&lt;ispeech&gt;I cannot plant a seed in untilled soil. Ekera, I want for there to be trust between us.&lt;/ispeech&gt;
+
+She raises her eyebrows to make sure you're paying attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>&lt;ispeech&gt;The trading companies send spies to every corner of the mountain. I say there are places they cannot go.&lt;/ispeech&gt;
+
+Masked beneath a casual gesture of scratching her cheek, Onekaza taps the side of her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>[Think at her.] &lt;i&gt;I understand, highness.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>[Think at her.] &lt;i&gt;If you can't feel at home in your palace, communication is the least of your concerns.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"But you did not climb all the way up the mountain to pay compliments, I say."
+
+You feel a light tug as the mental connection breaks - for now.
+
+Onekaza settles back in her chair and nods to you, her eyes straying to her attendants only briefly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>&lt;ispeech&gt;You and Aruihi think alike. This is my oasis, I say - not my prison.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>She rolls her eyes and massages her temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"The watershapers started it, really/"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"For what do you do this?" Tekēhu raises a shaking hand to his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Your captain needs a nudge toward reason, I say."
+
+She nods to Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"If Ukaizo exists. Even your own people doubt the legends. An ancient city, greater than Neketaka, brimming with luminous adra, and all built by the Huana thousands of years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"It is a good thing our ships are pushed by wind, not certainty.
+
+"My people will grasp for the unknown if it means standing against yours." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"You sure that's wisdom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Revelation comes from unlikely places, soldier. I say you should have learned this on the battlefield." 
+
+Onekaza nods to Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"The hazanui sends her regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Rauatai will protect the Deadfire better than you ever did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"It doesn't have to end this way. Surrender and outlive your reign."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"You have won nothing today. Ngati will tear through Rauatai's fleet with a fury that mortals cannot know." 
+
+Onekaza rises slowly, her gaze boring into you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"I would give myself to the sea before I allowed my homeland to be wrested from the tribes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"My guards informed me of violence at the Watershapers Guild." Onekaza looks beyond you and narrows her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Tekēhu, it goes without saying I expect you to report back. Go with Ngati's luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"This is too important and my guards are spread too thinly. 
+
+"Get to the bottom of the matter and there will be recompense once the dust has settled, ekera?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"My queen. By my mother's hanging lamp, it will be done." 
+
+He inclines his head. Onekaza merely nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"If some outsider plot has infested my guild, there will be nowhere safe in the Deadfire..."
+
+She trails off, nodding to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"I'll be back when I know more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Watcher. Something on your mind?" Onekaza raises her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"They tell me Hasongo is still cloaked in shadow." Onekaza raises her brow and gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Watcher. I hope you are enjoying my city?" Onekaza lifts her gaze to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Speak on, I say. Time can be made for guests." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"The herald of Berath is welcome, I say." Onekaza inclines her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"A guest is always welcome, I say." Onekaza smiles and sits up straighter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"Watcher, you honor me." Onekaza inclines her head and touches her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"What say, burglar? Thanks to you I must negotiate with Arkemyr for more security."
+
+Onekaza grins and shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"What say, Watcher?" Onekaza raises her brow and gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Speak, I say." Onekaza exhales through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"For what do you show yourself here?" Onekaza folds her arms and waits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Your presence wilts my garden, I say. Speak quickly." Onekaza narrows her eyes. Her tigers let out a low growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"The savior of dragons. What say?" Onekaza blinks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"What say, binder of dragons?" Onekaza settles back in her chair and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"For what do you approach me, slayer of dragons?" She gestures for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Friends of Rauatai are rarely friends of the throne, but I will hear you." Onekaza nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"The traders call you a friend. I hope the crown can do the same?" Onekaza raises her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"No? Just me then...?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Curious company you keep, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"I'm to meet him at the great volcano of Ashen Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"If he fears neither ocean nor magma, I wonder that anything can stop him." Onekaza thumbs her chin and considers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"In the deepest memory of the tribes we have told stories of Magran's Teeth. 
+
+"Embellished sailor's fables, ekera, but not without some truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"My people speak of treacherous seas, lakes of fire, and the ancient warriors hammered to life on Magran's anvil."
+
+Onekaza props her chin on her fist and looks you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Do not depend upon them seeing you as kin."
+
+She tips her head with a knowing smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Ashen Maw is the grandest and most accessible of the peaks. 
+
+"It is the sharpest tooth in Magran's jaw. Prepare yourself for a fight." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"I will, highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"Any chance of support ships to accompany [Player Ship]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Ekera, would that our resources were not so entangled in other parts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"And Eothas marches on Ukaizo while I juggle armloads of enemies. 
+
+"This is no coincidence. Ngati is testing me, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"It certainly feels that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Do you think you're equal to the challenge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"If I am not, then Ngati will close her jaws around me.
+
+"I will live to taunt her and keep my people safe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Tapping her chin, Onekaza nods and weighs the matter. At length her even expression spreads into a pleased and knowing smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"If Eothas makes for Magran's Teeth, I say the Rathun will grind him to dust for the praise of their warrior matron." Her brow rises with interest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"Even if they fail, it will be an enemy cleared from my plate.
+
+"This is the gratitude of Ngati, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Rathun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"I doubt anyone could even slow Eothas down, much less stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"The fiery children of Magran, devoted to their mother with a fanatic's zeal. 
+
+"Bothersome, but the least of my troubles now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Optimism has not abandoned me yet, Watcher. But I note your thoughts on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"So, Watcher - do we unite and sail for Ukaizo?" Onekaza eases forward in her throne and studies you, unblinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Raising a finger for patience, Onekaza continues reading a recently unsealed missive. 
+
+She shakes her head and slowly brings her gaze up to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"This is about the explosive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>[Lie] "I lost the bomb you gave me. May I have another?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>She narrows her eyes. The tigers at her side mirror the gesture and lick their chops. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"I should have sunk your ship before you made port." Onekaza exhales sharply through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>"You bear witness to the work of the gods. It seems they are not finished with you yet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Waste no time, Watcher. Mairu's silence troubles me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"If you want to reach Ukaizo first, you're going to need allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Ekera, ekera." She sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"Waste no time, Watcher. Mairu's silence troubles me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"What do you need from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

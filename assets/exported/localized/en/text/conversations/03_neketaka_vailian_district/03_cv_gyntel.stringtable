@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_gyntel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hail and welcome to the Wild Mare, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Now, what can I do for ya?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm looking for more... intimate entertainment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You're in luck, friend. The Wild Mare employs a number of courtesans skilled in satisfying a wide range of tastes and interests."
+
+He throws you an exaggerated wink and points toward the stairs behind him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Have you seen a group of Royal Deadfire Company soldiers in here?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Aye, they're up on the balcony, outside. Noisy bunch."
+
+He pinches the bridge of his nose and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You see anything you like, you let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hey, fishboy! What'd I tell you last time? You're not allowed in here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ekera, have we met?" Tekēhu frowns, worrying one of his hairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oh, have you forgotten our little altercation so soon? How convenient for you." He levels Tekēhu with a steely glare and begins to count off on his the man's indiscretions on his fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll vouch for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Alright, but if he gets up to any more mischief, it's your purse on the line."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ekera, punish me appropriately if I misbehave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He raises a fourth finger. "Then, when I shoved you out the door and told you not to come back, you tried to &lt;i&gt;kiss&lt;/i&gt; me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He raises another finger. "Then, when I refused to serve you any longer, you stole a bottle of my finest wine from behind the bar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You'll find 'em upstairs. They handle their own coin, too, so no need to go through me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Be seein' you." He gives you a little wave and returns to his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"If this is some kind trading company squabble, take it elsewhere, right? My staff already have more work than they need, and blood's damnably difficult to get out of the rugs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He raises one finger. "Last you were here, you got drunk as a hagfish in a barrel of mead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>He raises a third finger. "You drank it all, then clambered onto the stage, pushed the dancer off, and serenaded the crowd with a sloppy rendition of 'My Wahaki.'"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Why does that not surprise me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hah! Classic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You'll have to teach me that one later, Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Frankly, I'm surprised someone hasn't killed you yet." Gyntel plants his hands on his hips and does his best to loom over the large aumaua man, though the effect is less than impressive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then I suggest you keep an eye on the bill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Don't see why we have to vouch for him. This fella already knows he's fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I did have a few lingering questions about keeping fish boy around. Now, not so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Watcher, do you not find it odd that you need to vouch for Tekēhu in his &lt;i&gt;own city?&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You and me, lad, we be spending our next shore leave together, believe you me."
+
+He grins, all crooked teeth. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>A strangled sound escapes Xoti's throat as she flushes from neck to forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hey, maybe you could, uh, loan me to Tekēhu? Just for a bit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>A jovial man at the bar grins and motions you closer. His arms are corded with thick muscle and crosshatched with scars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ekera, at least one of us is amused." Tekēhu furrows his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ekera, as if this pit could afford good honey wine." Tekēhu furrows his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ekera, how could I let you poison your clients? Ngati has not deigned to bless a drop of what passes through here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"If that was his finest, I say it was charity." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"&lt;i&gt;Clamber?!&lt;/i&gt; These legs. Do. Not. Clamber." Tekēhu grits his teeth and points to his thighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Apologize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Though he looks as if he's about to protest, Tekēhu thinks twice and holds his silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>A deep frown cuts across his face the moment he spots Tekēhu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Well, Gyntel? Care to apologize to my friend here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'm not done!" He roars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"This one's on you, Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'll hold you to that, you slippery bastard." Gyntel turns away with a huff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I'll hold you to that, you slippery bastard." Gyntel turns away with a huff, a faint blush coloring the tips of his ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'm looking for more... intimate entertainment."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

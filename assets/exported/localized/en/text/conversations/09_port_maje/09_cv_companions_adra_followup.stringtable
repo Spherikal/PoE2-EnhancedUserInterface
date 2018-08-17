@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_companions_adra_followup</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you return to the world, you feel a hand on your back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"That was amazing! Where'd you go? What'd you see?! 
+
+"Don't try and hold back on me, 'cause I felt something happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You all right? C'mon, we just got you back."
+
+Despite his tone, you can see genuine concern in Edér's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The last time I saw you like that, you'd just suffered an Awakening. 
+
+"Is everything all right?" His eyes search your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Not even a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Heard you say that before. Had something to do with a two-thousand-year-old lunatic talking to you in your dreams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He forces a polite smile but continues to watch you with apparent concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"If you say so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Well, if &lt;i&gt;you're&lt;/i&gt; not sure, now I'm worried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>His brow furrows with worry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"It's better to get it out of your system. I'll wait."
+
+She crosses her arms over her chest, watching you with concern. After a moment passes without any retching, she relaxes her stance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What went on in there, anyway? You touched the adra and just... froze. Then you let go and the whole thing lit back up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I've seen you commune with souls of the dead, but this looked altogether different. 
+
+"What happened?" His gaze flickers to the brightly glowing adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"All right. So what happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I saw Eothas. And he saw me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eothas tethered himself to the luminous adra, and I connected to him through the essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You're asking me?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Already? Moving things along rather quickly this time, aren't we?" His eyebrows rise with sly mischief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You - well, he - really?! I knew it! I mean, that's great, Watcher. Ain't it?"
+
+Xoti can barely contain herself, jumping up and down as she stumbles over her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Not sure if that's good or bad, but he didn't kill you, so I guess we can call it good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I don't suppose you could deduce where he's going next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What'd Gaun say? Is he going to meet us? What do we do next? He charged you with a divine calling, didn't he? Just like he's done for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Don't suppose he told you what he's up to, did he? Or at least where he's going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"He was headed toward another pillar of luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"All I know, is we got to help my god. If he's looking for luminous adra pillars, I say we head him off at the next one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Well, you're the one who's been floating around talking to gods, but it seems like if Eothas is using this luminous adra, we need to look for more of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Perhaps we could search other sources of luminous adra. He certainly seems to have had business with this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I wonder what he's after, and why he's been giving me these dreams. 
+
+"The things I've seen - they leave a mark on your soul." She rubs her arms despite the balmy air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How hard can it be to find... in a chain of thousands of islands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"At least he'll be easier to spot than Thaos." He turns away from the pillar, giving you a half-smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lie] "Yeah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wait, are you going to puke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Lie] "Yeah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Well, don't aim it this way!" Xoti takes an exaggerated step back, eyes wide as she waits for you to bend double. 
+
+When nothing happens, she relaxes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Not even a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You sure? 'Cause you look a little green in the face."
+
+She crosses her arms over her chest, watching you with concern. After a moment passes without any retching, she relaxes her stance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I may not know what Gaun's got planned for me. But clearly he wanted me to meet you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eothas turned tail as soon as he saw me! Not so tough now, is he?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"How I've missed your... colorful retellings." He grins with sly mischief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Pretty sure I've dreamed about my god squashing you like a bug, Watcher." She snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Maybe he was embarrassed to meet someone with a head even bigger than his."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Thousands of suffering souls were trapped within Eothas. I was powerless to help them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But... surely Eothas wouldn't cause such harm on purpose. Would he?" He blinks at you and swallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I don't believe the god of rebirth wishes souls to suffer. If he's harvesting them, he's got a plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yeah."
+
+Edér punctuates the brief statement with a troubled sigh. He turns away and rubs his beard in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"After seeing the agony that follows in Eothas' wake, I'm more determined than ever to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Typical. Just when I'm on the verge of getting some answers from a god, he cuts me off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"They've got to employ their priests somehow." He grins with sly mischief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Have you tried listening more and blathering less? That's what my ma used to say to me." She bites at her bottom lip to hide her brash grin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"At least you got some. That's more than most folks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Guess this is why &lt;i&gt;I'm&lt;/i&gt; captain. He's moving toward luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"He's after luminous adra. And we're gonna stop him before he gets there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I saw more luminous adra in his path. But he told me not to follow, that 'something beautiful is coming.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wonder if he said the same thing to people in Readceras twenty years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Then it's a good thing I'm not in the habit of following orders anymore." He casts a rueful glance at the pillar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Did you tell him I was with you? I think that'd change his mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You - well, he - really?! I knew it! I mean, that's great, Watcher. Ain't it?"
+
+Xoti can barely contain herself, jumping up and down as she stumbles over her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Already? Moving things along rather quickly this time, aren't we?" His eyebrows rise with sly mischief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Not sure if that's good or bad, but he didn't kill you, so I guess we can call it good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I don't believe the god of rebirth wishes souls to suffer. If he's harvesting them, he's got a plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"But... surely Eothas wouldn't cause such harm on purpose. Would he?" He blinks at you and swallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Yeah."
+
+Edér punctuates the brief statement with a troubled sigh. He turns away and rubs his beard in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

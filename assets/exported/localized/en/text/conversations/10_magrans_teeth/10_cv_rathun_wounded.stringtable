@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_rathun_wounded</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Slumped against the stones of the bridge, a giant clutches at his bashed-in chest. It's a mess of sinew and blackened iron bones, fiery blood flickering between his splayed fingers.
+ 
+Thickly rasping a breath, the warrior lifts his heated gaze to your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hnnn..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He closes his ember-hot eyes, a relieved sigh rushing from his chest as you brew up and then tip a vial of poison to his lips. The icy, slushy mixture takes effect immediately, dousing his flames with a sweep of hoarfrost through his veins. It leaves his face cold and ashen and dead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Extinguished or crushed... us all... defiler..."
+
+He struggles to speak. The agony of a slow death blazes through the scrawls in his skin, shrouding him with a veil of fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I need to get to Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave him be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The Maw splits... spewing rock and flame... to fight the defiler. I caught an errant boulder. To protect the brenthís."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Mercy kill by administration of poison.] "Drink this and rest easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Finish him.] "This is going to hurt you more than it hurts me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The Rathun glowers as you approach, dagger glinting from the light of his flames. 
+
+He grasps for you with a meaty, blood-burned hand, but his swipe is clumsy and weak. You effortlessly shove his arm to the side before stabbing the knife into his already ruined chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dragon rises... Magran descends... to face the defiler... Tell the bathor in the keep..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You twist the blade, slicing again and again while he grunts and slumps further against the gritted stone at his back until he moves no more - nor makes a sound - his hands lying limp on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Xoti swings her lantern back and forth over the warrior's body until a large, shimmering cloud of essence sifts up and into her lantern. She grunts, the lantern dipping in her hand as if heavier momentarily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That was worth doing, even if we got nothing in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You ought to let me do the mercy killing, Watcher. That many cuts - it's not the easiest of ways to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"There's a cleaner way of doing these things. I'm not saying it's always better... but cleaner." Maia shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"A right good action you did there, cap. Here's hoping we don't be ending up needing that poison, though..."
+
+He frowns at the giant corpse.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Uhng..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He chokes, liquid fire trickling from his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Servants of the defiler god... Damn you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Damned... reaper of souls and god of lies, Magran's most foul enemy..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>More blood-fire licks from the Rathun's cracked chest, slowly charring his arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Finish him.] "Eothas sends his regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You're a fire giant, an elemental servant of Magran's. Aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What &lt;i&gt;are&lt;/i&gt; you, creature?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"A kindred, if larger, soul..." He wipes fire blood from his mouth with a palm that could crush a kith's skull.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I am but one... of Magran's elite champions... birthed from her flames. Soon... reunited in glory..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You are not mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>With a single clean swipe, you slit the warrior's throat. As his fire-blood rushes from his veins, the glowering scrawls in his skin fade into darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

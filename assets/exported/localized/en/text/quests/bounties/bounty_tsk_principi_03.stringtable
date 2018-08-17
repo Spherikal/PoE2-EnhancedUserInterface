@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_principi_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Rock-Stomper Rodul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Rock-Stomper Rodul&lt;/b&gt; and take his ship's triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Udita&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Udita&lt;/b&gt; has hired me to track down &lt;b&gt;Rock-Stomper Rodul&lt;/b&gt;, a Vailian captain in command of the galleon &lt;b&gt;Goat's Horn&lt;/b&gt;. There's a bounty to claim in exchange for evidence of the captain's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Rock-Stomper Rodul&lt;/b&gt; is often found sailing &lt;b&gt;Goat's Horn&lt;/b&gt; in the open waters &lt;b&gt;east of Neketaka.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Rock-Stomper Rodul's bounty is mine to claim. I can accept the reward with &lt;b&gt;Udita&lt;/b&gt; at &lt;b&gt;Lifter's Refuge&lt;/b&gt; in Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Rock-Stomper Rodul and claimed the reward for his bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

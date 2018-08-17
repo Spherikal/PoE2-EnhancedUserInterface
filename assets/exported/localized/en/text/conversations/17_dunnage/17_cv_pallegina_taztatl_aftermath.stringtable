@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_pallegina_taztatl_aftermath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Buffan vi! Postenago! Are you mad?! You attacked when there was no reason to and now Giacolo is dead because of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Postenago! Are you mad?! You attacked when there was no reason to. It's a miracle Giacolo even survived!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Madiccho. Tatzatl left us no choice. And I couldn't save Giacolo. Still, thank you for trying, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tatzatl was a fool to provoke such a fight. Even so, it's a miracle that Giacolo survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I am disappointed we were unable to save Giacolo's research, but thank you for helping me save the man himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I honestly don't know what those pirates would have done to Giacolo if we hadn't arrived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"And now we've saved not only the man, but his research as well. Agracima, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I was a fool to follow you in the Dyrwood and a bigger fool to think you could help me save Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"If I never see you again, di verus, it will be too soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm sorry. It seemed like the best option at the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Smirk.] "Funny how miracles happen everywhere I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bazzo!" She spits at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Mouth hanging open, she holds her hands upwards and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"It was not."
+
+She turns her attention to the rattled animancer, then back to you. She calms herself before continuing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Still, we survived. &lt;i&gt;He&lt;/i&gt; survived. Agracima, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"P-p-pallegina? Is th-that you m-my girl?"
+
+The old man's face widens into a broad smile as he holds out his arms and awkwardly gambols toward Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Pallegina kneels down at Giacolo's approach and places her head against his chest, her arms around his thin frame. She closes her eyes and smiles as he holds her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I thought th-those p-pirates would have been the e-end of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Not if I could do something about it. I owe you too much to let something happen to you over some nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A shadow of concern falls over the old man's face. His forehead grows thick with worried wrinkles and he gently pulls Pallegina to her feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"M-my girl, what Tatzatl said is not nons-nonsense. He had good reason to be af-afraid."
+
+He looks to you for confirmation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Of course. Animancy has too much dangerous potential to just let anyone research anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"No. Tatzatl was upset over nothing. Progress should not be limited by fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"There is a danger, yes. Animancers just need to be responsible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Giacolo sighs. "Sadly, many are not. And as a g-group, we have no ability to monitor and reprimand th-those who act irresponsibly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Research should not be restricted, but use of the technology, y-yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No, no, no. There is cause for c-c-concern! If caution does not limit us, what w-will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The old man frowns at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"This is no t-time to shrug your shoul-shoulders and scratch your head! This world will pass you by as others make d-d-decisions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Di v-verus, it's not like I enj-enjoyed being grabbed by those p-p-pirates, but they saw where the world was heading and they put their hands on the wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"But who should decide how it should be restricted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"And you should not be expected to. Who would even be capable of doing such a thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"&lt;i&gt;Should&lt;/i&gt; animancers be limited? If so, by whom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tonderie! A group of pirates hardly have the authority to tell animancers how they should behave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"In the interest of safety, rulers should limit the use of animancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Animancers should organize themselves to prevent their colleagues from getting out of hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The public should decide how animancy should be limited."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Pallegina and Giacolo both turn their heads to look at you, eyebrows raised, before slowly looking at each other. It takes only a moment for them to both burst into laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ac, that is funny, Watcher. Let the public decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm certain they would come up with intelligent regulations. The p-public!"
+
+The old man laughs so hard he momentarily descends into a coughing fit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Perhaps the ducs &lt;i&gt;would&lt;/i&gt; be wise enough to regulate animancers without driving them away from the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ac, that is the danger. When Aedyr and the Dyrwood began restricting animancers, researchers simply moved east, to the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"How would that work? Would animancers submit to the authority of other animancers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Perhaps, perhaps. Old age has a few benefits, my girl. One is a measure of respect from your younger colleagues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"If we attempted to guide them with a gentle hand... ac, perhaps."
+
+Giacolo strokes his chin and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"But a light and wise hand to steady our course... perhaps that would be a good thing. Ac, perhaps."
+
+Giacolo strokes his chin, falling deeper into thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"No, they shouldn't. No one should regulate animancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Giacolo chuckles. "I admit, it is nice to hear s-someone so su-supportive of our work, but... I think that is extreme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"We have gone far without rules to guide us, but perhaps the time has come for a bit more s-structure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Pallegina considers both your words and Giacolo's in turn. She nods her head and turns her attention away. You soon realize she is lost in thought.
+
+The moment passes quickly enough. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Well, it appears we are done here. We should see you back to Neketaka, Mestre Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I ap-appreciate all you have done, both of you." He smiles, nods, and shuffles off toward the docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Yawn obnoxiously.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Giacolo coughs and Pallegina rolls her eyes at you. Both shake their heads and mutter to themselves in Vailian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ac, ac. Before I g-go, I want you to have this, aimoranet. An amulet of my own invention. It resonates with g-go-godlike souls. Even severed, there is enough magic in your chime to activate its power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>He holds up a beautiful amulet on a slender chain. A oblong adra stone gleams in its center. As he lowers it into Pallegina's hand, he cups his other hand around hers and gently squeezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Pallegina smiles and nods to him before letting him go. There is sadness in her eyes, but she regains her composure quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Tears brim at the edges of Pallegina's golden eyes, her inner membranes swiftly wiping them away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I will always remember what he did for me, what he tried to do for me, for... my kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"To think that Tatzatl and his crew were willing to kill for this, for the mere &lt;i&gt;possibility&lt;/i&gt; that Giacolo's research could be misused. Did they really have that much to fear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Of course. Animancy has too much dangerous potential to just let anyone research anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"There is a danger, yes. Animancers just need to be responsible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"No. Tatzatl was upset over nothing. Progress should not be limited by fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"But who should decide how it should be restricted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It does raise the question. If anyone were to restrict animancers, who would even be capable of doing so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ac. I concur. I am glad that we put an end to him and his crew. I only wish that it had not cost Giacolo his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I suppose that says it all. Their fear dies with them... and sadly, with Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She casts her eyes on the old man's crumpled form one last time. She can only bear it for a moment before flinching away and turning to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Let us leave this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"In the interest of safety, rulers should limit the use of animancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Animancers should organize themselves to prevent their colleagues from getting out of hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The public should decide how animancy should be limited."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Pallegina slowly turns her feathered head your way. The inner membranes of her golden eyes blink once before she lets out a weak laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ac, that is funny, Watcher. Let the public decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"How would that work? Would animancers submit to the authority of other animancers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"There is a great danger to that. In Aedyr and the Dyrwood, rulers fear animancy because they do not understand it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"And because of this fear, they attempt suppress animancy. Or to kill animancers for practicing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Still, I would prefer that to it being regulated by kings and priests who would rather kill an animancer than attempt to understand what they practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I doubt the public would behave much better than Tatzatl and his crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Pallegina's attention returns to Giacolo's dead body. She casts her eyes on the old man's crumpled form one last time. She can only bear it for a moment before flinching away and turning to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

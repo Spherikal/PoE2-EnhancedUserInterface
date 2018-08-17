@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_si_town_exploration</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A series of flimsy docks connects scattered stretches of dry land. On all sides you are flanked by the hulks of splintered, wrecked ships. 
+
+A thick fog sits upon the water, obscuring the path in all directions. The only sounds you hear are the lapping of water, and your own footsteps upon the narrow, rotting planks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The eerie quiet is broken by the barking of a dog, somewhere off to your left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Whistle for the dog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Keep silent as you approach.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Your whistle is met with renewed barking - and then a sharp whine, abrupt and shrill. 
+
+After several moments of silent, you hear a running tread upon the docks. A dog bounds from the fog, its dark fur matted with blood. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You press onward, wordlessly. 
+
+Suddenly, a hair-raising growl rumbles out from the fog, only a few paces ahead of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Through the fog, you can make out the lean shape of the dog, darting to and fro.
+
+Still barking, the dog comes running in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Stand your ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Hide within the shadow of a wrecked ship.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You dart back into the darkness, seeking refuge behind a splintered mast and a heap of rotting barrels. 
+
+Scant moments later, the dog wanders past. It sniffs at the air, and you see then that a portion of the dog's snout has been eaten away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Two figures stumble after the hound, their maws stained red. Out of the fog they are revealed for what they are: Withered, rotting, human only in silhouette. Darguls.
+
+They halt, swaying, at the sight of you, but make no further move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Two figures stumble after the hound, their maws stained red. Out of the fog they are revealed for what they are: Withered, rotting, human only in silhouette. Darguls.
+
+They halt, swaying, at the sight of you, but make no further move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>From the darkness of the fog a third, robed figure emerges, a twisted staff raised high in their hands. 
+
+A flash of light emerges from the staff. As you look on, runes seared into the darguls' foreheads flare to life, glimmering like beacons in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Snarling, the darguls rush for you, their blood-slick claws slicing at the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Keep hiding.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Seize the advantage and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You leap out, weapons drawn, and the two figures recoil in fear, nearly stumbling in their haste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The peculiar group passes you by, disappearing into the fog as suddenly as they arrived.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

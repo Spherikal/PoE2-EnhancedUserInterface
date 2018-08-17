@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_burning_building</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In the higher reaches of Neketaka, slanting shanties and buildings of foreign design fall away to be replaced by colorful, open homes with wide wooden doors boasting intricate reliefs. Rather than pester you for a bit of coin or a bite of food, the children here try to sell you tickets to a play or extol the benefits of the public baths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You burst through the back door onto an almost abandoned street. A group of ragged kith holding torches are the only people present. You note one of them holds a bulging sack stained with blood.
+
+One of the kith, a broad-shouldered human in a tight-fitting mask, scowls. "Got ourselves a hero, seems. Sadly for you, the boss were clear on us leaving no witnesses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The boss sent me to make sure you idiots don’t stand around gawking at the bonfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attack] "This is for the people in the house."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The woman on the right, a scarred elf, glances at the masked leader. "Think he sent someone to check up on us? Sounds like him, don't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dereo and I have history. Sheathe those weapons and I'll forget you drew them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attempt to flee.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Kill the witnesses and scatter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Your party follows, breaking through their formation and sprinting down the streets, a downpour of knives and torches clattering past. 
+
+As you flee, you turn to see that [SkillCheck 0] cradles a bleeding arm. Your compatriot stumbles against a wall, forehead cracking against the bricks.
+
+Thankfully, the gang, perhaps sensing that the guard could arrive at any time, doesn't give chase, instead retreating into the alleys from whence they came.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You blaze a serpentine path down the cobbled streets, dodging a storm of thrown knives and torches. 
+
+The gang, perhaps sensing that the guard could arrive at any time, doesn't give chase, instead retreating into the alleys from whence they came.
+
+With the thugs gone, your adrenaline cools and, like a magic trick, unveils a severe burn that you must have received during the escape.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Torches whiz by, clattering and skittering across the cobbled street, embers sparking after your feet. 
+
+The gang, perhaps sensing that the guard could arrive at any time, doesn't give chase, instead retreating into the alleys from whence they came.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A heavily-built aumaua uncrosses his thick arms and raises a hand. "Ekera, it's that Watcher, isn't it?"
+
+The masked man blinks from him to you. "[Player Name]?" He jerks his head towards the building. "These fools owed Dereo too much for too long. We're just reclaiming what's his."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A heavily-built aumaua who had hung back uncrosses his thick arms. "We're not the idiots. You're the idiot. Idiot."
+
+"Kill them all," the masked man says. 
+
+The arsonists advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Get out of here. Now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Set up an ambush while they are confused.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The leader's brow knits, but he gives you a curt nod. With a final uncertain glance, the arsonists flee into the shadowed alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You've seen their type before hanging around Dereo. By the way they handle themselves, you infer that they were most likely hired by him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dammit. I hate when the boss holds shit back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You turn a corner and plunge into commotion. One of the great homes crackles before you, completely ablaze. Most of the Huana stare, enraptured by the flames, but a few cry out or run for the fire brigade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Put out the torches with frost magic.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Enter the house.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Examine the house.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Summon a storm to quench the flames.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You turn away from the house and continue down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Your fingers and lips twist alike as you coax the local essence into a frigid spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] chants, and you feel the balmy tropical air plunge into coolness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The powerful blast of cold extinguishes the torches, leaving a slick coat of rime on the eaves around them, but the flames have already spread into the depths of the home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You call upon the spirits of the sky and sea, and the clouds gather above you, roiling with essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0] chants, calling on the spirits, and the sky above you darkens ominously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The sky breaks open, dropping a deluge of water that sends the intricately-attired Hauna fleeing for overhangs and archways. 
+
+Thick steam billows from the house as the water pours down the eaves. The fires seem largely quenched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The home seems no different than others in the district, though perhaps a bit larger than average. Bright blue paint flecked with white accents peels over sturdy stone... where it hasn't already been blackened by the fires.
+
+The large front doors are open, coughing smoke into the streets, and you think you can make out shadowy movement within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The home seems no different than others in the district, though perhaps a bit larger than average. Bright blue paint flecked with white accents peels over sturdy stone... where it hasn't already been blackened by the fires.
+
+The large front doors are open, coughing smoke into the streets, and you think you can make out shadowy movement within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You plunge through the open doors, an arm raised protectively over your mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Fresh torches lie on the eaves above... It seems this was the work of arsonists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Smoke surrounds you, and the heat plucks at your skin, curling your hair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Thick steam hangs in the air, soaking your clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Then you see the bodies...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sprawled out in the main room are three corpses. Two lie on the floor, wounds from small, thin blades still oozing blood. A third is draped over a long, low chair, her body punctuated by crossbow bolts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Pursue the arsonists out the back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Investigate for clues.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Search for the presence of spirits.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Loot the bodies.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Flee the house.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>A faint trail of bloody footprints mark a path towards the back of the house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Nothing seems unusual. Except for the bodies that clearly weren't killed by flames.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Grinning, the thugs draw their weapons, spreading to surround you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You open your Watcher senses, seeking the presence of spirits...
+
+You feel pain buffeting you, the stabbing agony of blades biting into your skin, the heavy strikes of crossbow bolts. You hear footsteps, the Gullet bastards who killed you, fleeing through the back door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>It seems someone got to the bodies before you. Their purses have been cut from their belts, their jewels roughly torn from their fingers and ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You take flight, running from the house. You burst onto the street and into the crowd, coughing raggedly and wiping soot from your features.
+
+"Does anyone survive, ekera?" an old Mataru woman draped in the bright robes of Amira asks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The essence of the spirits &lt;link="stringtooltip://cyclopedia/56"&gt;roils dangerously&lt;/link&gt;, fed by the physical flames and feeding them in return.
+
+The vision fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sensing your presence, the spirits cling to you like a buoy on a rough sea.
+
+The vision fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I'm afraid not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Go see for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The woman nods. "Thank you, our foreign friend, for your efforts all the same. It isn't much, but take this with our blessings."
+
+She presses a bag into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The woman frowns as she slowly nods. "Amira's sharp eyes guide you, stranger." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The woman's eyes fall. "I see. All the same, thank you for your efforts. This isn't much, but please accept it."
+
+She presses a bag into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You turn your back on the blackened building and continue down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You should get out of here, before the Mataru arrive." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Back off, assholes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I can forget everything I saw here. For a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You glance back at the smoldering house before continuing down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The leader frowns, eyes sliding the length of your body. He finally looks to the thug with the bag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The thugs laugh. "You must be fully rum-sodden to think we're giving you a bent copper pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The toughs look to one another, uncertain. The unattractive elf takes a step back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>One of the toughs looks to the masked man. "This asshole just call us assholes?"
+
+"I think the asshole did," he responds. "Seems to be in need of some more holes, if you ask me."
+
+The arsonists advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Give him a share of the loot, Murk."</DefaultText>
+      <FemaleText>"Give her a share of the loot, Murk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The tough named Murk frowns, digs out a few trinkets from the bag, and tosses them at your feet.
+
+"We'll be going, then," the masked man says, eyes on yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Attack] "Too bad it's not enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>You bolt, dodging past the arsonists.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_qst_crew_members</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Helping Hands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for members of your &lt;b&gt;crew&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;The Defiant&lt;/b&gt; has run aground, and its crew is dead or scattered. There may be more &lt;b&gt;survivors&lt;/b&gt; to be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>A crew will be of use in maneuvering the ship. Perhaps there are &lt;b&gt;survivors&lt;/b&gt; somewhere on the &lt;b&gt;beach&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I found &lt;b&gt;Irrena&lt;/b&gt; on the deck of the Defiant. She'll need a hand getting down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Irrena&lt;/b&gt; has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>One &lt;b&gt;survivor&lt;/b&gt; was seen heading towards a nearby &lt;b&gt;cave to the north&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Beodul&lt;/b&gt; wandered into a trap. He'll need my help getting out again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;Beodul&lt;/b&gt; has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I found &lt;b&gt;Eld Engrim&lt;/b&gt; by a road leading east. He seems to be doing fine for himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;Eld Engrim&lt;/b&gt; has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Irrena's&lt;/b&gt; made it off the Defiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I got &lt;b&gt;Beodul&lt;/b&gt; out of his predicament.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;Vela&lt;/b&gt; has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Chitupec&lt;/b&gt; has survived the wreck of the Defiant in one piece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Chitupec&lt;/b&gt; has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>My old crew's dead and gone. Maneuvering the ship may be more difficult on my own, but at least my company is improved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I didn't have the time to waste on finding my old crew. I left them on the island.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I couldn't save all of my old crew, but at least I won't be managing the ship entirely on my own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>We lost plenty of people in the wreck, but I managed to find a few of the old crew. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

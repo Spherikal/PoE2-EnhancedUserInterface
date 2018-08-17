@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_takuro\15_qst_hunting_season</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hunting Season</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Defend &lt;b&gt;Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Travel to &lt;b&gt;Bentbranch Bog&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find and kill the &lt;b&gt;druid leaders&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to &lt;b&gt;Fleet Master Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Return to the &lt;b&gt;druids&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A pack of enraged animals led by a group of &lt;b&gt;druids&lt;/b&gt; has attacked the Royal Deadfire Company port of &lt;b&gt;Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>A Royal Deadfire Company soldier warned me that &lt;b&gt;Sayuka&lt;/b&gt; was under attack by &lt;b&gt;druids&lt;/b&gt; and wild animals. I doubt the druids will know I'm not a Company soldier, so I should help defend the port - if only to save my own hide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I helped the Royal Deadfire Company soldiers fight off the druids attacking &lt;b&gt;Sayuka.&lt;/b&gt; I should find out whether &lt;b&gt;Fleet Master Okaya&lt;/b&gt; survived the encounter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I abandoned the port of &lt;b&gt;Sayuka&lt;/b&gt; during the druid attack. The fight is surely over by now, so when I have time, I should see how &lt;b&gt;Fleet Master Okaya&lt;/b&gt; and her soldiers fared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fleet Master Okaya said the druids' leaders are holed up in &lt;b&gt;Bentbranch Bog&lt;/b&gt; deep in the interior of Sayuka.
+
+The soldiers she sent to investigate failed to return, so she's asked that I travel to the bog and eliminate the &lt;b&gt;druid leaders&lt;/b&gt; myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>When I arrived at Bentbranch Bog, I discovered that the soldiers Fleet Master Okaya sent were slaughtered by the druids.
+
+Killing the &lt;b&gt;druid leaders&lt;/b&gt; should put an end to their conflict with the Royal Deadfire Company in Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I killed the druid leaders as &lt;b&gt;Fleet Master Okaya&lt;/b&gt; requested. I should let her know the deed is done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>I killed Fleet Master Okaya as the &lt;b&gt;druids&lt;/b&gt; requested. I should let them know the deed is done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The &lt;b&gt;druids&lt;/b&gt; told me their attacks on &lt;b&gt;Sayuka&lt;/b&gt; won't end until &lt;b&gt;Fleet Master Okaya&lt;/b&gt; is dead. I could kill her myself, but if I do, I'll become an enemy of the &lt;b&gt;Royal Deadfire Company&lt;/b&gt; for good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I wiped out the druids to protect Sayuka. Fleet Master Okaya was overjoyed that logging operations can now being in earnest, and she rewarded me well for my efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>The Royal Deadfire Company has ordered that I be killed on sight. I doubt Fleet Master Okaya wants my help with Sayuka's druid problem any longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I killed Fleet Master Okaya, so I can no longer help her solve Sayuka's druid problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I killed Fleet Master Okaya as the druids requested. They should be free from the Royal Deadfire Company's intervention - for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

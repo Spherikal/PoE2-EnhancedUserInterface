@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_bs_botaro_banishing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Please, I did nothing!" 
+
+You see a man being dragged along a rickety boardwalk toward a rusty cage that swings over the abyss. He strains against the guard's grip.
+
+The guard delivers a savage backhand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Enough! Or do you wish to consign her to the Old City, as well?" The warrior casts a meaningful glance at a woman standing a short distance away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Biha! I'm sorry, I-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Your tongue flops like a dying fish - I tire of its stink. Lower him down!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let him go!"
+
+She screams at the guards, but she doesn't dare approach.
+
+The man notices her. His face lights up with shame.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

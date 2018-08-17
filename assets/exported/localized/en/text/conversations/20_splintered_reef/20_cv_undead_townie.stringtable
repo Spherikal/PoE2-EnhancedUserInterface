@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_undead_townie</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Well, hello there!"
+
+The woman greets you with a cheery smile, the effect of which is marred somewhat by her only having half a face. She scrubs, unperturbed, at some glasses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Guessing you just came in."
+
+As she speaks, you notice a strange mark upon her forehead - a kind of symbol, or rune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You mean you... don't want to eat me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Yes, I've just arrived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"This place... You're all monsters!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What? That some kind of joke, sweetheart? 
+
+"Well, we welcome all sorts here. This is a peaceful town, and we've no cause to start any trouble with anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Always happy to see new faces. We're a long ways from everywhere, and not many folk are so keen to risk the voyage. 
+
+"You're just in time for the harvest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Now, calm down, sweetheart. You've been out on the sea too long, I reckon. Caught yourself some sunstroke, maybe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Might be you'll feel more polite once you've had some rest and refreshment. Come by then."
+
+Shaking her head, she turns away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Help yourself to some ale while you're waiting. Zulka ought to be here soon with the day's catch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Good to see you again. Thinking of staying on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Have a drink, love, it'll ease your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What's that symbol on your forehead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What? Have I got something on..." 
+
+She turns her glass, frowning at her reflection. Seeing nothing of note, she shrugs and gives you a wry look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Looks like we have someone new in town."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

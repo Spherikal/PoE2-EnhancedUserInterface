@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_cv_aeldys_spy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, you there! Psst, lovesome! Chance a gander this way."
+
+A trader with sun-burnished skin and straw-like hair loosely pinned into a tumbling rat's nest, waves both hands eagerly in your line of sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bloody devil, I said be looking over here now! Are you deaf or just daft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hello, lovesome. Hear I a jangle of coin in your pocket?"
+
+A trader with sun-burnished skin and straw-like hair loosely pinned into a tumbling rat's nest, waves both hands eagerly in your line of sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Now, if I were a wagering woman, I'd say Aeldys sent you to help me outfit just such travelers. Aye?" 
+
+The trader sidles closer, glancing conspiratorially around before continuing in a more hushed tone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"During my station here, I've spied signs of illegal activity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"But slavery is legal in the Deadfire, is it not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What can we do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Enslaving people of the Deadfire is illegal. It's the selling of slaves from elsewhere that isn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We can start by exposing Crookspur's illicit trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"If we could free the natives who've been detained - before they're carted outside of the Deadfire, the illegal trade would be exposed, weakening the entire trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Should you feel so inclined to help, know that my captain would personally see you compensated."
+
+The trader tugs the collar of her tunic aside enough to flash you the brass glint of her suolenet - one which bares the insignia of Captain Aeldys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Moreover, we'd ruin Furrante's ploy with the slavers, whatever it may be."
+
+She smirks meanly, rucking her scar across her cheek. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'll do what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Let me think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why does Aeldys care about any of this? None of the Príncipi sworn to her have been enslaved, have they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aeldys won't abide these slavers to persist - not on her seas." Seafol thumbs the puckered skin curving her temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Furrante sent me to help the slavers, not to undermine them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What'll it be, gent?"</DefaultText>
+      <FemaleText>"What'll it be, madame?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You'll find the natives - the illegal stock - deep within the fortress, kept from sight. 
+
+"There're routes to the inside, but most stand heavily guarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I fail to see how that's any concern of mine. I'm merely curious about your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Kith trafficking is legal in the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"That's all I needed to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Lips pressing a taut line, Seafol scratches thoughtfully at the tighter line of her scar where it touches the corner of her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'd like to take a look at your stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You mean aside from the bit about Crookspur being the capitol of slave commerce in the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Is there a high demand for slave labor within the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Aye, a most profitable one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Do your best to ignore her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Glance in her direction.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Flash her a lewd gesture as you continue walking.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Turn and glare at her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Aye, now I see why Aeldys likes you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Did you say 'Aeldys'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You must make a fine profit off of kith trafficking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Seafol clenches a fist by her side. When she scowls at you, her scar blanches starkly against her skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Swabby, I don't make the laws." She traces the scar snaking her right cheek, fingers splayed in a searching sort of manner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You're an abolitionist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Mind what sort of words you care to toss around - especially about a trader making a profitable go of it at Crookspur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lower your voice.] "I only meant, it would be in your best interest to gain an ally for your endeavors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Raise your voice.] "It sure would be a shame if the owner of this operation found out about your - !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Come on, the wares give it away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"A pity, but I can't fathom what you mean. So you might as well drop it and save us both the pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Make no mistake, lovesome." After a cautious glance around, Seafol leans closer to mutter her next words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"There's a reason the master doesn't let buyers into his dungeons.
+
+"If a certain someone were to sneak in, following a certain cavern beneath the fortress, you might savvy why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Now, I know Furrante sent you." She takes a deep breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>When the trader speaks again, her voice comes from several paces closer, and as a harsh hiss, to the right of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>At your response, the trader throws her head back and heartily guffaws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She cracks you a knowing smile and rocks back on her heels, waiting a heartbeat before she speaks. 
+
+This close, you can see how her nose and cheeks are dashed with freckles. She turns her head to the side, and you get a good look at the puckered scar that curls from her right temple, and down to the corner of her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Did I? Did I say what now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Have a looksee. You won't find a grander market for your labor needs than Crookspur - nor finer elusion wares than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Thought that might catch your attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Please, do be calling me Seafol." She thrusts a calloused hand out for a shake.
+
+This close, you can see how her nose and cheeks are dashed with freckles. She turns her head to the side, and you get a good look at the puckered scar that curls from her right temple, and down to the corner of her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Now, then, you must call me Seafol. It's a pleasure to make your acquaintance, gent."
+
+She thrusts a calloused hand out for a shake.</DefaultText>
+      <FemaleText>"Now, then, you must call me Seafol. It's a pleasure to make your acquaintance, madame."
+
+She thrusts a calloused hand out for a shake.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What are elusion wares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Lockpicks, noisemakers, chisels and crowbars, maps, compasses, hardtack, spy glasses, potions of invisibility."
+
+She ticks the items off on her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You know, your typical, basic, expected survivalist gear."
+
+She smiles sweetly, blinking wide and innocent eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"For the more courageous traveler..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Buyers sail from far and wide to bid on the... particular slaves here. Which is why you find me now selling my particular wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Oh, aye. As you wish, lovesome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What sort of particular slaves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"The kind you won't find elsewhere. Have a looksee inside, and I bet you'll savvy my meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I simply work around them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A whosie-whatsit?" She sputters, scar mottling a harsher white.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Most of the chattel are shipped in from elsewhere. From lands far from the Deadfire. But they're sold here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"And here they'll stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Bloody Hel! You're an insufferable sort, aren't you? Crank it down!"
+
+She tamps her hands through the air, gesturing for a lower volume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>When she pulls back, her jaw is clenched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You the contact?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"That I am." She scratches along the uneven ridge of her scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"But there are others - captains with as much clout within the Príncipi - who would favor you, should you thwart the slavers rather than bolster their operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Slaves that oughtn't to be slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What sort of illegal activity?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"We can't be letting this stand." She scrubs a hand over her mouth. 
+
+Then, shoring her determination, she sidles closer before continuing in a more hushed tone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Any slaves you free are welcome to sail with us." She tips her chin in affirmation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"We may not see eye to eye with some of the old bloods in the Príncipi. We're too rowdy for their refined palates. But we value freedom and loyalty above all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Furrante can burn and sink for all I care. His scheming won't help the Príncipi. It's for his benefit and his alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You may have better luck sneaking in through the sea caverns dotting the shore.
+
+"One of them leads into the fortress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sure, but do it real quiet-like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"For the more courageous traveler..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I got a skiff ready for the slaves you send out. We'll make fast for Deadlight."
+
+She winks, flirting with the thought of a dangerous getaway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"After that? Who but Ondra knows. Maybe I'll see you around Dunnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ahoy! Over here!"
+
+A trader with sun-burnished skin and straw-like hair loosely pinned into a tumbling rat's nest, waves both hands eagerly in your line of sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"A little seabird told me that Kua's met a bloody end. Couldn't have happened to a crueler bastard.
+
+"So I greatly thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You see, my captain sent me to recruit any able-bodied slaves here. After I helped them escape, of course. Seeing as you've gone and helped our cause, even if inadvertently, I'm sure she'll want to commend you. 
+
+"Pay a visit to Aeldys in Fort Deadlight, if you're wanting for a right fine ally."
+
+She winks, the gesture puckering the unsightly scar that stretches across her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'll be off, then. You've given me just the distraction I need to jimmy some cell doors." Temple to mouth, her scar twists from a wicked grin as she bows.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_cv_nemnok_defeated</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As fizzling energy dissipates and the dust of battle clears, all that remains is a shattered amulet and a tiny, injured imp. 
+
+The chanting of acolytes ends with a gasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"ARGH! BROKEN FOREVER. EH... NO! YOU NO KILL NEMNOK, EH?! KIND NEMNOK?" 
+
+The imp cowers back and raises its claws, shuffling closer to the edge of the pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What just happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attack] "Yes, kill Nemnok."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"SCREE! NO! NO DRAG NEMNOK THROUGH BERATH'S TINY DOOR! "
+
+The imp hooks its claws and howls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"AMULET MADE NEMNOK SMART... SMART ENOUGH TO READ MAGIC BOOKS! ALL GONE..."
+
+Nemnok clutches its head and lets out a prolonged howl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Just go. I don't want to hear about you causing any trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"TO ME, MY PETS! MY... MY PETS?" 
+
+Nemnok glances around the chamber, but the acolytes remain motionless, looking on in mute disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"EH! STUPID GROUNDMEAT FALLS FOR EASIEST TRICK! NOW DIE!" 
+
+Cackling, Nemnok mutters an incantation. A curl of smoke rises from between its wide, grinning jaws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attack] "Time to step on this little annoyance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You... you &lt;i&gt;shamed&lt;/i&gt; mighty Nemnok!" 
+
+The young acolyte blinks in disbelief. At first his hand strays toward his weapon, but he lets it drop with a sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Head back to where you came from. I doubt the Barrows will get any safer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Go back to your father, Kaali. There's nothing for you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"This mountain was my home." Sighing, Kaali rubs his brow in a way that seems beyond his years. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"EH?! EH. NO! WHY? WHY WHY WHY!" 
+
+Balling its claws into fists, Nemnok beats the sides of its head and fills the cavern with an anguished cry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Look, just get out of here. This is sad enough already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Attack] "Gave you a chance, imp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"EH. MAYBE BEST." Sighing, Nemnok flutters from the chamber as former acolytes observe the departure in stunned silence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Smart choice. Sorry about your god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I wish I could say these things happen. They don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"There's a whole world of people out there been let down by their gods. So if nothing else, kid, won't be hard finding folks who can relate."
+
+One side of Edér's mouth stretches into something like a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Too choked up to respond, Kaali simply nods at Edér before turning and making his way from the sanctum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You're... adorable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"CURSE YOU, GROUNDSTINK! MOST MIGHTIEST OF ALL IS NEMNOK, EH!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Aw, how can we stay mad at you, little guy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>A small &lt;i&gt;pop&lt;/i&gt; echoes in the chamber. You can't be sure, but Nemnok appears slightly smaller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"NO! NO, NO NO! NEMNOK'S AMULET, NEMNOK'S WONDEROUS JEWEL!"
+
+Scrambling, Nemnok picks up the two halves of the now oversized medallion and tries to fit them together. The metal pieces fall apart the instant Nemnok lets them go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"NASTY ARKEMYR NEVER TAUGHT IMPS TO READ... HOUSE FULL OF BOOKS! EH!"
+
+Nemnok kicks a stone, sending it clattering into the pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"NEMNOK STOLE HIS PRETTY JEWEL. LEARNED TO READ. GREW STRONG! GREW BIG! EH!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I suppose Arkemyr didn't want you to get out of control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"AWFUL MAN HURT IMPS! EH!" Nemnok spits into the pit, his tiny chest heaving up and down. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"THIS A TERRIBLE DAY... NEMNOK NOT SMART ENOUGH TO REMEMBER HOW SMART NEMNOK WAS."
+
+The imp stares down at its claws, lost in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Maybe it wasn't fair, but look where it's brought us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"EH! NEMNOK WAS BEST GOD... HAD EVERYTHING. LOST IT ALL, DID POOR NEMNOK."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"NEMNOK SAID... SOME DAY, HE FLY BACK AND FREE THE OTHERS... GIVE THEM BOOKS, TOO."
+
+Sighing, Nemnok looks off to the distance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Now I feel bad. Would you like to join me in my travels?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Blinking up at you, Nemnok cocks its head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"NEMNOK WAS GOD. NEMNOK HAD RICHES, ACOLYTES, POWER...
+
+"NOW MUST BE PET?" 
+
+The tiny imp grimaces at the thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"There's money in my pack if you ever feel like cozying up to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Forget I said anything, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Attack] "Ungrateful imp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Edging closer, Nemnok inspects your belongings and wrinkles its nose. 
+
+Offering the tiniest of shrugs, Nemnok opens the flap to your travel supplies, climbs inside, and rests its head on a small mound of copper pires. 
+
+Moments later you hear gentle snoring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"NO! NO... NEMNOK HUMBLED. NEMNOK... STARTED FROM WORSE BEGINNINGS. EH!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

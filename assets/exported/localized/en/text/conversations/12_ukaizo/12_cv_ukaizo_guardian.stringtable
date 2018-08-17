@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_ukaizo_guardian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The creature stares down at you with only dim recognition of your presence. Water drips down the tip of its mallet-like head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;So alone. Never alone. Is Ukaizo... breached?&lt;/ispeech&gt;
+
+A voice paws at your mind in a clumsy, unpracticed fashion. You feel something like the mental equivalent of a squint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I have &lt;i&gt;returned&lt;/i&gt; to Ukaizo, if that is what you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attack] "Whatever you are, you're standing in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;We are the Gates of Ukaizo.&lt;/ispeech&gt;
+
+The construct rolls its gaze toward the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;Return? Impossible. The old ones are dead.&lt;/ispeech&gt;
+
+The construct leans down to peer at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;We guard the silence of Ukaizo. You are a disturbance.&lt;/ispeech&gt;
+
+Bronze plates grind together with a discordant shriek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"This island is my people's birthright. I'm here to reclaim it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attack] "I don't need your permission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;The silence of Ukaizo will be restored. Time will dismantle your bones.&lt;/ispeech&gt;
+
+Nodding, the construct attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Be that as it may, I'm not leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;There is nothing to inherit but bones and sorrow.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;Ukaizo is closed. The Gates are barred.&lt;/ispeech&gt;
+
+A wave of heat emanates from the guardian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Before we settle this, I want answers about Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;Our covenant with the old ones does not forbid questions.&lt;/ispeech&gt;
+
+The construct hesitates, its joints creaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I didn't come to fight, but if you bar the way then I have little choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Attack] "If the gates won't open, I'll tear them off their hinges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;You chose death when you set your bearing, traveler. Prepare yourself.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"So no one has been here since the devastation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Lunging forward, the construct attacks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;The chosen people of the Deadfire called Ukaizo home.&lt;/ispeech&gt;
+
+It stares off to the distance, fixating on one of Ukaizo's many spires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;The outsiders were their contemporaries. Full of wisdom, ingenuity, and terrifying ambition.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"That sure sounds like the Engwithans. Guess they got around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;The outsiders passed from the world. None of them remain.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Not all of them passed. But we got the one they left behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>&lt;ispeech&gt;Outsiders augured the doom of the old ones. The rift unmade them both.&lt;/ispeech&gt;
+
+A deep thrum of power echoes from somewhere beneath the construct's carapace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What caused the rift?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;None but the green colossus, whose every footstep disturbs tranquility.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The Engwithans. Of course.
+
+"Only they would create a monster and bind it to guarding their secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Engwithans. They made you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;They did not create us. They united us as one.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;You? No, daughter of Amira. Us.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The construct fixes on Edér with a quiet mixture of irritation and curiosity. Finally it steers its focus back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;Now you know, and nothing you have learned can spare you from our obligation.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"And the Engwithans turned this thing against my ancestors?" Tekēhu touches the spot on his brow and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>&lt;ispeech&gt;Necessary, son of Ngati.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Enough of this. Let me through or die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Attack] "Your doom is long overdue, ancient one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;When the last screams of the old ones faded, only we remained.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>&lt;ispeech&gt;The living were meant to forget Ukaizo. Nothing can be gained of remembering it.&lt;/ispeech&gt;
+
+Amid the general ire of the construct's thoughts, you feel a sharp jab delivered to your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>&lt;ispeech&gt;The son of Ngati deserves to carry truth to Berath's Wheel.&lt;/ispeech&gt; 
+
+The construct nods in Tekēhu's direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What use is being an ancient guardian if you can't tell stories of the past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"If I rest my legs while we chat, it'll make for a better fight for us both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Attack] "You too will be forgotten in time, ancient one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>&lt;ispeech&gt;Your heritage is not ours to deny.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I do not plan on joining my mother in the Beyond this day, ancient one." Tekēhu turns his gaze over to you and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I was under the impression that dragons loved to talk. Humor me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;We will... indulge ourselves before shredding your name from the long scroll of existence.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>&lt;ispeech&gt;A challenge would be a welcome distraction. Take your reprieve, doomed one.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>&lt;ispeech&gt;If a diversion is how you would spend your last moments in this life, so be it.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;The old ones and the outsiders traded, collaborated, learned, and built together.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;We are depleted of stories, trespasser.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>&lt;ispeech&gt;By now you are rested, and there is little more to tell.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;This... idle chatter was a refreshing change of pace.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>&lt;ispeech&gt;May your journey through the Wheel be an informed one.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Yeah, by a colossal god made of adra. Where have you been?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;Here. We have been here.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The Gates of Ukaizo regard you in disgruntled, calculating silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>&lt;ispeech&gt;The outsiders coveted ancient Ukaizo. Its occupation was a hindrance.&lt;/ispeech&gt;
+
+The construct cranes its head around as if following the movement of passers-by.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;Machines were built on a foundation of outsider lies.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"What were these machines?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>&lt;ispeech&gt;Ones which drew the spirits of the dead through a sieve.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>&lt;ispeech&gt;Finally, the outsiders fashioned a guardian to stand vigil over their work.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>&lt;ispeech&gt;Our bond with the old ones compelled us to trust their allies.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>&lt;ispeech&gt;We were ordered to slam shut the Gates of Ukaizo for all time.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"What happened when the machines went active?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;ispeech&gt;The outsiders vanished from the world, leaving the old ones dumbfounded.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>&lt;ispeech&gt;Quiet gave way to chaos. Storms battered the seas. The sleeping hearts of mountains awoke with fury.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"You were complicit in the death of my ancestors. Justice comes for you, creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>&lt;ispeech&gt;Your principles do you credit, but you have sailed here to die.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>&lt;ispeech&gt;When the machines were nearly done, the outsiders constructed bodies of flesh and bone.&lt;/ispeech&gt;
+
+Stretching its neck out, the construct mimics a height greater than its own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Bodies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>&lt;ispeech&gt;Skeletons now, their remains littering great Ukaizo.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The construct stares on impassively, and then offers the slightest of shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Tekēhu, what say we dismantle the creature that stood by and watched the downfall of the Huana?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ekera, let it be so." Tekēhu narrows his eyes and squares his stance for a complex form. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>&lt;ispeech&gt;You are the first kith to visit the shores of lost Ukaizo, and you will be the last.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;Your lineage is far removed from this place, but this is home all the same.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>&lt;i&gt;Tell me or I will pry the knowledge from your mind.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>&lt;ispeech&gt;Curious. The old ones had stalwart powers of concentration, but nothing like yours.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I don't get the impression you intend to let me live, so where's the harm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;If you desire is to spend your last precious seconds in idle chatter, we will not stop you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;We hope this puts your brilliant mind at ease.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Whoa, that's, uh... Where would you even stab something like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"What manner of creature &lt;i&gt;is&lt;/i&gt; this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Madiccho, is that some kind of... animat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ekera, and I thought I was the master of first impressions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Stay close, Ishi. That's one heavy bird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I'm not too proud to admit when I'm scared... terrified, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Aye. Sure. That. Whatever that be. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>The construct turns to the sound of speech, showing only dim awareness of the meaning. It swivels its head back around to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>&lt;ispeech&gt;They offered us a trade - eternal life for eternal service.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I'm just trying to reach Eothas. He's the one you want." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>&lt;ispeech&gt;Eothas has disturbed the bones of Ukaizo. The old pacts permit him to pass, but you will go no further.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"My people came from here long ago. Let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I'm working with the Huana. This is their island."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Give me access to the luminous adra and this can end peacefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"If you think I'm a disturbance wait until my friends arrive with their cannons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I'd really just here to claim anything of value that isn't nailed down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>&lt;ispeech&gt;We have heard the bellow of iron, smelled the explosions of powder. Your allies will sink beneath the waves.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;Once, but no longer. The old ones forged the cornerstone of Ukaizo, but outsiders built around it.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>&lt;ispeech&gt;Our kind protected the bones of the Deadfire before the first ships landed on Ukaizo. We do not surrender our vigil.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>&lt;ispeech&gt;No. No one remains, no one returns.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>&lt;ispeech&gt;You should have stayed away and treasured your life over gold and gems.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_coming_to_terms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Coming to Terms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Talk to &lt;b&gt;Luca&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Luca&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Convince the &lt;b&gt;Vailian Trading Company&lt;/b&gt; to nullify the contract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to &lt;b&gt;Luca&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to &lt;b&gt;Tawenu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to &lt;b&gt;Tawenu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Tawenu&lt;/b&gt; wishes to renegotiate the &lt;b&gt;Duape tribe's&lt;/b&gt; contract with the &lt;b&gt;Vailian Trading Company&lt;/b&gt;. The deal will legally pass ownership of their lands to Vailian control upon the death of their ailing chieftain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tawenu has had little luck navigating the trading company's bureaucracy. 
+
+Since he was thrown out of the office, he asked me to intervene on his behalf. I can start by speaking with &lt;b&gt;Luca&lt;/b&gt; inside the &lt;b&gt;Vailian Trading Company offices&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tawenu is dead. Hopefully that solves &lt;b&gt;Luca's&lt;/b&gt; problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Luca&lt;/b&gt; insists that the contract with the &lt;b&gt;Duape tribe&lt;/b&gt; is perfectly valid. I'll have to find some way to convince him otherwise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I convinced Tawenu to leave. &lt;b&gt;Luca&lt;/b&gt; should be relieved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I was able to secure the Duape's rights to their lands. &lt;b&gt;Tawenu&lt;/b&gt; should be pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>&lt;b&gt;Luca&lt;/b&gt; has been killed. That puts an end to any hope of a legal solution to this matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Luca wants me to convince &lt;b&gt;Tawenu&lt;/b&gt; to leave well enough alone. Now it's a question of which of them is in the right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>It seems that &lt;b&gt;Luca&lt;/b&gt; has a penchant for heavy drinking. I wonder if I can use that to my advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've acquired &lt;b&gt;Luca's key&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I've replaced the original contract. Let's see if that moves negotiations forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've made changes to the original contract. Hopefully the new terms are convincing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Apparently Tawenu presented Luca with a forged contract. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;Luca&lt;/b&gt; keeps the Duape's original contract in the &lt;b&gt;Archives Room&lt;/b&gt; of the Vailian Trading Company headquarters. The building is diligently guarded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Luca&lt;/b&gt; frequents the local &lt;b&gt;tavern&lt;/b&gt; after hours. I might catch him there and loosen his tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Luca&lt;/b&gt; confiscated Tawenu's forged contract and locked it away in his &lt;b&gt;chest&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to this quest has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I was able to come to terms with the clerk. Tawenu was overjoyed to know that his tribal lands were safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I tried removing the villager's problem in the most efficient way possible. He didn't appreciate it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I got rid of the villager on the clerk's behalf and was paid for my trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I was able to get Tawenu's tribe out of trouble. He was overjoyed to know that his tribal lands were safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

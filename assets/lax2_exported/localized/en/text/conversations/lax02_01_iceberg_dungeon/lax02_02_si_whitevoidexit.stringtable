@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_si_whitevoidexit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A cyclone of snow rises behind the Beast. The storm grows, crackling like a bîaŵac, and a howl rises with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bright blue liquid drips from the Beast's wounds. Gobs of spit fall from its mouth.
+
+As you watch, a piece of its rotting carcass tumbles to the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>With a featherlight touch, the storm bears you upwards toward a shimmering tear in the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Beast's eyes glow. The light flickers, then strengthens, and the creature's wounds slowly knit themselves together.
+
+The Beast stands without effort, and a cyclone of snow rises behind it. The storm grows, crackling like a bîaŵac, and a howl rises with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Through the tear, you catch a flickering, indistinct shape you vaguely recognize as the Altar of Decline.
+
+Rymrgand expels you from his realm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Rime grows across the Breach, bolstered by the frigid winds of the Beyond. Soon, the heavy coating of ice has covered the portal entirely, though faint glimmers of light still shine beneath its surface.
+
+You can no longer sense the tug of the White Void. The Breach is closed at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The cyclone thrusts you through the portal and back into your body.
+
+Your limbs are stiff, having suffered the frigid winds of the Breach for quite some time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why are you such a jerk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wait! Do you know what Eothas plans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What's going to happen to the Harbingers now that the Vytmádh's closed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"How will you contact me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wait! Is there any way I can stop Eothas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Can you stop the sun from rising?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It is my nature, as annoying divinities is yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It is my nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"They will leave this place, or they will stay. It matters not.
+
+"Their end will find them in time, as will yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Change. Chaos. Kith will call it what they will.
+
+"It is an end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You will know when I do. The manner is not important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Farewell, Watcher of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Get on with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The howling winds resolve into deep, resounding laughter that echoes within your ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Why didn't you just kill me? I thought you possessed infinite power here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Swat you as I might a fly? You would have learned nothing from that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You &lt;i&gt;do&lt;/i&gt; amuse, Watcher. The others have that much right."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

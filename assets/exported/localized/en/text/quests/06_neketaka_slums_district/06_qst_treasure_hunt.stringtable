@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_treasure_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Cornett's Call</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Get the &lt;b&gt;Cornett of Waves&lt;/b&gt; from &lt;b&gt;Takano's villa&lt;/b&gt; in Serpent's Crown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Meet &lt;b&gt;Gwenfin&lt;/b&gt; in the &lt;b&gt;Undercroft&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a &lt;b&gt;temple of Ondra&lt;/b&gt; in the &lt;b&gt;Old City&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Report back to &lt;b&gt;Gwenfin&lt;/b&gt; at the entrance to the &lt;b&gt;Undercroft&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to &lt;b&gt;Dereo&lt;/b&gt; in the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Meet a mysterious figure in the &lt;b&gt;Narrows&lt;/b&gt; of the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return the cornett to &lt;b&gt;Dereo&lt;/b&gt; in the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to &lt;b&gt;Dereo&lt;/b&gt; in the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Find the mosaic &lt;b&gt;Dereo&lt;/b&gt; seeks in the &lt;b&gt;Old City&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dereo the Lean&lt;/b&gt;, a crime lord in the &lt;b&gt;Gullet&lt;/b&gt;, seeks a valuable artifact known as the &lt;b&gt;Cornett of Waves&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dereo asked me to get an artifact called the &lt;b&gt;Cornett of Waves&lt;/b&gt; from the Mataru, &lt;b&gt;Takano&lt;/b&gt;, who owns it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; waits for me - and the cornett - in the &lt;b&gt;Undercroft&lt;/b&gt;, near an ancient, Huana-style door.
+
+Dereo told me to reach her via a &lt;b&gt;lift&lt;/b&gt; in &lt;b&gt;Delver's Row&lt;/b&gt;, which is separate from the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Apparently, the mosaic Dereo's looking for is in an &lt;b&gt;old temple&lt;/b&gt; somewhere in the &lt;b&gt;ruins&lt;/b&gt;. 
+
+&lt;b&gt;Gwenfin&lt;/b&gt; asked me to tell her where it is once I find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I found the temple of Ondra and saw an elaborate mosaic of a place called Ukaizo embedded in the wall. This must be what &lt;b&gt;Dereo&lt;/b&gt; was looking for.
+
+&lt;b&gt;Gwenfin&lt;/b&gt; waits to hear from me at the passage between the &lt;b&gt;Undercroft&lt;/b&gt; and the &lt;b&gt;Old City&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Gwenfin is on her way to secure the temple. She asked me to give &lt;b&gt;Dereo&lt;/b&gt; the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>A messenger told me that someone important wants to see me. 
+
+I was told to head into the &lt;b&gt;Narrows&lt;/b&gt;, turn right, turn right again, and go left at the bend, looking for signs of svef use. If I meet resistance, I can say &lt;b&gt;Dereo&lt;/b&gt; sent for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I acquired a conch instrument carved with symbols of Ondra - this seems like the "cornett" &lt;b&gt;Dereo&lt;/b&gt; wants. 
+
+He's waiting for it in the &lt;b&gt;Narrows&lt;/b&gt;, the tunnels that surround the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I found the temple of Ondra and saw an elaborate mosaic of a place called &lt;b&gt;Ukaizo&lt;/b&gt; embedded in the wall. This must be what &lt;b&gt;Dereo&lt;/b&gt; was looking for.
+
+He promised a reward once I find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Dereo wants me to find a mosaic in the &lt;b&gt;Old City&lt;/b&gt;. Now that Gwenfin's gone, I'll have to hope I know it when I see it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; wants the cornett more badly than he lets on. He said it's valuable, but he didn't elaborate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>There's a mural in the &lt;b&gt;Old City&lt;/b&gt; ruins depicting two conch shells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found a conch inscribed with Ondrite symbols in the &lt;b&gt;Old City&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; is outside an ancient Huana ruin in the &lt;b&gt;Undercroft&lt;/b&gt;, near the fort there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I've hired &lt;b&gt;Rust&lt;/b&gt; to acquire the &lt;b&gt;Cornett of Waves&lt;/b&gt; for me. The assassin will need a full day to get the job done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; thinks I can use the cornett to open a door by the Ondrite statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; said a related artifact, the &lt;b&gt;Cornett of Depths&lt;/b&gt;, was lost when the &lt;b&gt;Old City&lt;/b&gt; sank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>I'm not the first to attempt this job. &lt;b&gt;Dereo&lt;/b&gt; originally hired someone else, but she didn't come through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Ateira&lt;/b&gt;, the mercenary &lt;b&gt;Dereo&lt;/b&gt; originally hired, ambushed me on the way back from &lt;b&gt;Takano's&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>In the temple, I found a wall carving with two sockets. Each was the right size and shape to fit the cornett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>According to &lt;b&gt;Takano&lt;/b&gt;, a similar conch was lost when the &lt;b&gt;Old City&lt;/b&gt; sank. Several Ondrites perished alongside it, doomed never to rise unless the shell did.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>In the temple, I found a wall carving with two sockets. Each was the right size and shape to fit the cornett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Specifically, the lift is next to &lt;b&gt;Ernezzo's shop&lt;/b&gt; in &lt;b&gt;Delver's Row&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>&lt;b&gt;Takano&lt;/b&gt; isn't especially attached to the &lt;b&gt;Cornett of Waves&lt;/b&gt;, and he's short on coin. Perhaps he'd be willing to sell it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>I've killed &lt;b&gt;Gwenfin&lt;/b&gt;. It's up to me to figure out how to use the cornett and get what &lt;b&gt;Dereo&lt;/b&gt; wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Dereo was pleased when I told him about the mosaic of Ukaizo. He warned me to keep my findings a secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Someone critical to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; is looking for a mosaic in the &lt;b&gt;Old City&lt;/b&gt;. The cornett will lead me to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>A person of influence has taken an interest in me. I've been asked to meet him in the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

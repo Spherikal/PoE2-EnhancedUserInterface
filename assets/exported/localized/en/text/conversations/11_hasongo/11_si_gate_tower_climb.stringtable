@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_gate_tower_climb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Loose masonry mars the southern wall of the gatehouse. Some of the protruding bricks look prominent enough to climb. 
+
+Yet the stonework feels slick with sea spray and slime moss. You estimate a difficult climb. 
+
+And a dangerous fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Climb the tower.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Toss a grappling hook to the top of the wall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I don't suppose that will be especially quiet." Aloth scans the walkway around you and the eerily still water behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"That's gonna clang real hard when it hits," Edér says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Captain, I can think of two ways to draw unnecessary attention. This is the worst one." 
+
+Maia observes your preparations with a hand raised in caution. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wait. Unless these snakes are hard of hearing, they're going to hear that hook halfway across Hasongo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oi, cap. Metal hook. Stone wall. You be looking to catch every eye and ear on watch?"
+
+Serafen shakes his head. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A noisy disturbance, I say. Is there not a quieter grappling hook among your gear?" 
+
+Tekēhu tips his head and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Careful. Any noise could draw unwanted attention," Xoti says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you swing the grapple, you realize that the hook will probably make some noise. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Toss the grappling hook.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The grappling hook lands with a loud clang.
+
+No sooner have you pulled it tight than you hear splashing and hissing behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The grappling hook lands with a loud clang. 
+
+You look around, but you don't see any cause for alarm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You give the rope a quick tug to secure it and climb up. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Your rope dangles over the side of the wall. The grapple is still firmly attached.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Climb down the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You descend to the base of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A rope dangles from the top of the gatehouse. It feels secure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Climb the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You ascend quickly and easily to the top of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Loose masonry mars the southern wall of the gatehouse. Some of the protruding bricks look prominent enough to climb. 
+
+Yet the stonework feels slick with sea spray and slime moss. You estimate a difficult climb. 
+
+And a dangerous fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You ascend quickly and easily to the top of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You're halfway up when your feet slip out from under you.
+
+You kick around for a foothold as you try to maintain a grip on the jagged stone above you.
+
+Unfortunately, your strength gives out. Your hands slip from the wall, and you land at the base of the tower with a sharp pain in your ankle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You're halfway up when you hear a gasp below.
+
+Looking down, you see [SkillCheck 0] holding feebly to a jagged stone, his feet dangling over open air. 
+
+As you watch, his hands slip from the stone, and he lands at the base of the tower with a pained yelp.
+
+You have no choice but to climb back down after him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You're halfway up when you hear a gasp below.
+
+Looking down, you see [SkillCheck 0] holding feebly to a jagged stone, her feet dangling over open air. 
+
+As you watch, her hands slip from the stone, and she lands at the base of the tower with a pained yelp.
+
+You have no choice but to climb back down after her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Climb down the tower.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Use a grappling hook to climb down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You descend to the base of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You're halfway down when your feet slip out from under you.
+
+You kick around for a foothold as you try to maintain a grip on the jagged stone above you.
+
+Unfortunately, your strength gives out. Your hands slip from the wall, and you land at the base of the tower with a sharp pain in your ankle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You're halfway up when you hear a gasp above.
+
+Looking up, you see [SkillCheck 0] holding feebly to a jagged stone, his feet dangling over open air. 
+
+As you watch, his hands slip from the stone, and he falls past you to land at the base of the tower with a pained yelp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You're halfway up when you hear a gasp above.
+
+Looking up, you see [SkillCheck 0] holding feebly to a jagged stone, her feet dangling over open air. 
+
+As you watch, her hands slip from the stone, and she falls past you to land at the base of the tower with a pained yelp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You secure your grappling hook under the lip of the wall and climb easily down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You ascend quickly and easily to the top of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You descend to the base of the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

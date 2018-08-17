@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_shrine_thieves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You notice a small pavilion containing a large, weathered statue of stone a little ways off the path. It appears to be a Huana shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Desecrate the shrine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave the shrine and continue your travels.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The sculpture portrays a flamboyantly feathered bird of paradise. Its long body coils around a spherical egg. A few flaky remnants of paint cling stubbornly to the stone.
+
+It represents Amira - the Huana's rendition of Hylea.
+
+An inscription runs along the shrine's base - "The faithful strive always, as swift as the albatross and as agile as the osprey."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You open your eyes to the sound of strange, rapid clicking and grunts nearby. 
+
+A lone xaurip pokes and prods your belongings, sniffing at your supplies.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The statue bears the shape of a nude woman with the head of a monstrous fish. 
+
+It portrays Ngati - the Huana's rendition of Ondra.
+
+An inscription runs along the shrine's base. "The surf smooths stones, but also crushes them into sand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A pair of stone eels twist up the sculpture. Each eel's mouth clings to the other's tail, creating an unbroken circuit. 
+
+It portrays Rikuhu - the Huana's rendition of Berath.
+
+An inscription runs along the shrine's base. "Some flee. Others fight. Rikuhu consumes all."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The craftsmanship of the statue is remarkable, but time has worn down its features. 
+
+You cannot discern who this shrine was dedicated to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Shoo, now! Get out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The xaurip lets out a frightened chirp and flees into the undergrowth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The creature's head whips around, its diamond-shaped pupils tightening on you.
+
+It lets out a series of high chittering barks, and you hear other forms moving towards you through the foliage. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Manipulate the xaurip's mind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The small wilder goes rigid for a moment, swaying on its feet, before it begins to - somewhat aimlessly - lumber from the camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Sneak behind the xaurip and attack it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The reptilian wilder makes no notice of your approach, and it crumples beneath your strike to its head.
+
+You disarm it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The creature's head whips around, its diamond-shaped pupils tightening on you.
+
+It lets out a series of high chittering barks, and you hear other forms moving towards you through the foliage. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The xaurip emits a celebratory squeak and roots through your pack. It digs out some morsel and gnaws at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Let it leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The xaurip clicks quietly, abandoning your pack and scratching its head with a clawed hand. It looks around, sniffing the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Dirt crusts the statue, and bright, strange pigments have been slathered across its surface, gracing the deity with reptilian features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Pray at the shrine and rest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You kneel before the shrine, whispering your prayer to the cool stone. 
+
+It offers no answers, but you feel calmer as you rise to your feet and set about making camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ancient and eroded, it crumbles beneath your onslaught, and fragments of the statue break off and fall to the ground. Having thoroughly disfigured the shrine, you shove it, and it topples over.
+
+All that remains of the shrine is a stone platform and a pile of rocks.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Approach and identify it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Meditate on your travails and rest.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Leave the shrine and continue your travels.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Set camp and rest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"When Ngati sinks your ship, I know who will be spared." Tekēhu crosses his arms and grimaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"If only Hylea herself were as easily toppled as this shrine."
+
+Pallegina observes your work, her golden eyes gleaming with satisfaction.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Working through some authority issues, are we?" Aloth inspects your handiwork with a wry expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Seated at the shrine, you steady your breathing and allow your muscles to loosen.
+
+You organize your thoughts, setting them in order. 
+
+When you stand, everything seems less perilous or more attainable. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>A noise rouses your from your slumber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Waste of time," Pallegina loudly mutters during your prayer. She fumes from the path until you've finished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Strength flows from captain to mother to son, and gratitude follows it back, I say." Tekēhu clasps his hands and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Aye, cap. Nothing fathom-headed bout staying square with the old salt who brought you back to life."
+
+Serafen smirks and drops to his knees beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Search the surrounding area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The area around the shrine is clear and may prove to be a good place to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Investigate your surroundings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You go in search of other xaurips...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Go back to sleep.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The hours pass without complication, and you wake and continue your journey. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Chant to it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The xaurip looks at you as you begin to chant your phrases, its head canting slightly to the side, muscles tense.
+
+As you continue, however, it begins to sway slightly in rhythm with your words. It takes a few careful hops nearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Spear in hand, it shuffles towards the sleeping form of a companion...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Feed it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Attack without warning.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You offer it rations from your pack, but nothing seems to appeal to the small wilder.
+
+It hops from foot to foot.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>It sniffs at the offered morsel, then snatches it from your hand before hopping back a few feet.
+
+The xaurip shoves the food in its mouth, gnawing on it even as it backs tentatively away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Let it leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Its eyes on yours, the xaurip chirps quietly and sets down a few items at the edge of the campsite, its spear and shield included.
+
+Then it bolts into the undergrowth.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Draw your weapons and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Caught entirely by surprise, the xaurip crumples under your attack, falling still at your feet.
+
+You disarm it.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The statue portrays a creature akin to a stelgaer, though a spider's head juts from its right shoulder and a large-tusked boar's from its left.
+
+It portrays Toamowhai, the Huana rendition of Galawain.
+
+An inscription runs along the shrine's base. "Stalk. Slay. Survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Xaurip tracks appear in the softer soil around the area. They appear relatively fresh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Dirt crusts the statue, and bright, strange pigments have been slathered across its surface, gracing the deity with reptilian features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Your dog figurine joins in your barking, and the xaurip chirps in fright as it flees into the undergrowth.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

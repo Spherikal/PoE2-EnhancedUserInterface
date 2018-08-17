@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_tsk_books_of_power</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Lost Grimoires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bring &lt;b&gt;Bipara's grimoire&lt;/b&gt; to &lt;b&gt;Nemnok&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring &lt;b&gt;Menzzago's grimoire&lt;/b&gt; to &lt;b&gt;Nemnok&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring the &lt;b&gt;Brawler's&lt;/b&gt; grimoire to &lt;b&gt;Nemnok&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retrieve the &lt;b&gt;swamp witch's grimoire&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retrieve the &lt;b&gt;fampyr lord's grimoire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Retrieve the &lt;b&gt;ancient lich's grimoire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nemnok&lt;/b&gt; asked that I retrieve three grimoires of power from beyond the &lt;b&gt;Drowned Barrows&lt;/b&gt; .
+
+The written instructions spell out which books Nemnok desires - a grimoire from a &lt;b&gt;swamp witch&lt;/b&gt;, one from a &lt;b&gt;fampyr lord&lt;/b&gt;, and another from an &lt;b&gt;ancient lich&lt;/b&gt;.
+
+It's up to me to track them down in the Deadfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Bipara's grimoire&lt;/b&gt; is mine. &lt;b&gt;Nemnok&lt;/b&gt; will want this returned to the lowest level of the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that &lt;b&gt;Manzzago's grimoire&lt;/b&gt; is in my hands, &lt;b&gt;Nemnok&lt;/b&gt; will like to see it returned to the lowest level of the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The &lt;b&gt;Brawler's grimoire&lt;/b&gt; is mine. &lt;b&gt;Nemnok&lt;/b&gt; will want it returned to the lowest level of the &lt;b&gt;Drowned Barrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>This grimoire is said to be in the clutches of an old woman in a &lt;b&gt;far-flung swamp hut&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>This grimoire belongs to an undead spellcaster who resides in a '&lt;b&gt;graveyard of listing ships&lt;/b&gt;.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>This grimoire can be found in a lich's &lt;b&gt;well-hidden library&lt;/b&gt; somewhere in the &lt;b&gt;Deadfire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have returned &lt;b&gt;Bipara's grimoire&lt;/b&gt;. &lt;b&gt;Nemnok&lt;/b&gt; allowed me to choose a reward from the hoard at the base of the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I have returned &lt;b&gt;Menzzago's grimoire&lt;/b&gt;. &lt;b&gt;Nemnok&lt;/b&gt; allowed me to choose a reward from the hoard at the base of the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I have returned the &lt;b&gt;Brawler's grimoire&lt;/b&gt;. &lt;b&gt;Nemnok&lt;/b&gt; allowed me to choose a reward from the hoard at the base of the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I killed Nemnok.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I retrieved all three grimoires for Nemnok. He is pleased with me. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

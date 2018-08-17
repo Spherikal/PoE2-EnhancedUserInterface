@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_quest_4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You tell Aloth about the past life you glimpsed in Ruāsare's soul - about her long-ago meeting with Thaos, his warning about the ruins, her decision to execute him, and her mandate to the Wahaki to defend their territory from outsiders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You look as though you've seen something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Back there, with the chieftain... did you see something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Did you find anything on Ori o Koīki?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Then the Wahaki are the Painted Masks.
+
+"They've been serving the Leaden Key's interests for two thousand years without even knowing it." Aloth blinks, working through the implications. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"That's like what he told the Glanfathans. 
+
+"Bet he didn't expect they'd kill him for it. Would've loved to see the look on his face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Di verus? That was the same story he told the Glanfathans. At least the Wahaki made him pay for his lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Though not, it seems, in the way Thaos intended." He frowns, rubbing his chin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"People doing the wrong thing for the wrong reasons for thousands of years without even realizing it. Doesn't get more Leaden Key than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That is little comfort. They were still doing his bidding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Half clever trick, though. I ever need a thing done for two thousand years, I mayhaps look into it meself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Now that's just wrong." Teeth gritted, she shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What are you thinking, Aloth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Few plans work out perfectly. Thaos got the Wahaki to help him guard the ruins - that's what matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"He just got lucky it worked out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Thaos had schemes within schemes. He knew what he was doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Belief is a curious thing." He crosses his arms, settling back on the balls of his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Once, the Wahaki believed they were guarding themselves against the Engwithans - Thaos' people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Yet over time, they became hostile toward all outsiders." A thoughtful furrow splits his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Is it?" His frown deepens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What of it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It's a logical extension of what they learned from Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"With all that's changing in Deadfire, who knows what they'd believe in another few hundred years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Stories and messages change. Thaos only had clarity about his because Woedica reincarnated him whole every time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Look around. Their environment surely pushed them in that direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It's not just that the Wahaki misread Thaos' original message. It fundamentally changed them." He purses his lips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"They went from being a large and well-connected tribe to a much smaller one defined by isolationism."
+
+Worry burrows into the shadows and creases on his face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"But don't you wonder if bearing that message was part of what made Thaos who he was?" He raises an eyebrow and falls quiet for a moment. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Yes, but it didn't stop there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Perhaps they would have reacted differently to it without Thaos' intervention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Or who they'll be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And this has got you thinking again about the consequences of your intervention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"But what does this have to do with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You can't attribute two thousand years' worth of change to one incident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Even small events can have great consequences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Y'see all the ninnying I suffer from this lad? A right chore 'tis, rattlin' around in his noggin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You know me too well, [Player Name]." His wry grin doesn't quite banish his air of melancholy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I've been chasing the Leaden Key, trying to undo the harm they've caused. 
+
+"But what if I'm only making matters worse?" Private agony muffles his voice. His breath catches in his throat as the full weight of his words hits him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Might... I be to blame? Have I made a grievous mistake in getting involved?"
+
+Through his scars and lines and newfound purpose, you catch a glimpse of the Aloth you knew five years ago - scared, alone, and desperate for direction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Perhaps not, but I suppose we'll never know what would have happened without Thaos' meddling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You're responsible for the consequences of your actions, intended or otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"No. If you didn't try at all, you'd be responsible for the harm the Leaden Key continues doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Consider how poorly Thaos understood the Wahaki. How much less do you understand the Leaden Key?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"No one can know everything, so we've all got to do the best we can with the resources we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Thaos accomplished his goals, just not the way he originally planned. Your problem is looking for specific, immediate results."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You don't have to reform the Leaden Key - without Thaos, it will change in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You've got to answer that on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You don't have to destroy the Leaden Key - everything falls apart eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I suppose that's true. It's an intimidating thought, but a heartening one, too." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Where to begin? So little that I expected to find a conclave of black-clad minions in the middle of the Deadfire." He utters a self-deprecating laugh, then falls silent, thinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"When you put it that way, mine does sound like a rather flimsy excuse, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You're right. Perhaps I've been unrealistic in my expectations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"And I should stand by and simply allow it to happen?" He's quiet for a moment, thinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He chuckles. "That's what I was afraid you'd say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Perhaps it was wrong of me to assume that I knew the proper course of action. Or, indeed, how to bring it about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Well. Knowing the gods came from kith, it's easy to see how the world became such a... complicated place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"It was always too comfortable to leave the hard decisions to others. To simply follow along." 
+
+He cocks his head in reflection and inclines it toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"But I can't imagine he thought he'd destroy an entire generation, either. Not in the beginning, anyway."
+
+He clasps his hands and presses his lips together, trying to formulate a thought.
+
+When he opens his mouth again, he speaks as if he's choosing his words carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"The strange thing is, this whole ordeal has given me some sympathy for Thaos.
+
+"Not that I condone his actions, of course." He quickly clears his throat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He smiles wryly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"There are few people I would consider 'lucky' for being burned alive. 
+
+"But I see your point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"From what you described, it certainly didn't seem that way, but I'll concede that Thaos was wilier than most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"They're living in Engwithan ruins. Thaos certainly didn't intend that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"No, I don't suppose he did." His frown deepens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Troubling, isn't it?" The shadows on his face darken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I've been hunting the Leaden Key, trying to shape them into a force for good. 
+
+"But what if I only make them worse?" Private agony muffles his voice. His breath catches in his throat as the full weight of his words hits him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I must say, that's a disconcerting thought. If that's true, then every decision we make is fraught. Nothing is certain."
+
+He's quiet for a moment, thinking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Perhaps I was wrong to think I could unmake a two-thousand-year-old organization. Or that it would be a straightforward task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Perhaps I was wrong to think I could change a two-thousand-year-old organization. Or that it would be a straightforward task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It seems I've been as misguided as Thaos ever was." The tips of his ears redden, and he favors you with a chagrined look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"We're always trying to impose our own order or vision upon it.
+
+"Perhaps it would be better off if we stopped altogether." He raises an inquisitive eyebrow at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Don't be so hard on yourself. You're nothing like him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Thaos never had the sense to see his mistakes. Correcting them now is what matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Nothing to do but move forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I don't know about that..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>A little smile softens his features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Definitely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Possibly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"That sounds like a recipe for chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He shrugs thoughtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"It's not as though that's up to you or me, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Anyway, thank you, [Player Name]. This has lifted a great burden from my shoulders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Then let's get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Now, I want to talk to you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"But perhaps you're right. After all, how did I think I could overcome two thousand years of work in a single lifetime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Perhaps it was naive to think I could reform a two-thousand-year-old organization in a single lifetime.
+
+"But it's worth it to try." A little smile brightens his features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Perhaps it was naive to think I could dismantle a two-thousand-year-old organization in a single lifetime.
+
+"But it's worth it to try." A little smile brightens his features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I'm glad you've recovered your sense of purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"That's the spirit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Just remember not to be too hard on yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You probably can't do worse than Waidwen's Legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Thank you for your rousing show of confidence." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What I mean to say is he thought he was doing the right thing. Even at the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Perhaps so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Thaos was wicked. His actions were proof enough of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Then his example is a cautionary tale for you. We should learn from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"We all justify our actions somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Indeed not. I've got Iselmyr for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I shall try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"A prudent suggestion." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I only wonder now what sort of decision you'll have to make when we finally confront Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Me, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I'll make him answer for what he's done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"We'll find out when we reach him. No point in guessing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I trust there's a reason for what he's doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"As long as we can restore what's been damaged, the rest doesn't matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I don't doubt you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"A reasonable point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Then you have more faith than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Agreed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He sighs. "I worry things aren't so simple. Still, perhaps you're right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"At any rate, it will be a relief to move forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"True indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"But I suppose that doesn't make the effort any less meaningful, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He chuckles. "That's what I was afraid you'd say."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_bathhouse_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah, the prodigal troublemaker returns." The steward rests his hand within easy reach of a long, well-cared-for stiletto.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"That's reasonable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"That's double the original price! What changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Arms and armor are not allowed in the bath, as you are well aware." The steward offers you a knowing smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Remove weapons and armor] "Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Weapons and armor are prohibited while in the bath. I have told you this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Please, enjoy the baths. When you are ready to leave, I will provide you with a towel." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Leave.] "Not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Exit Bathhouse] "Fine, I'll leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The cost of enjoying the bathhouse's unique offering is 1000 copper per session." The bathhouse steward crosses his arms and smiles. His look holds an invitation but a warning, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Why so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"A prudent question." He draws himself up to his full height and puts his hands behind his back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'll pass for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Next you'll tell me luminous adra grants the bather eternal life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Would that it were so! Ganor would make good money, and perhaps I would receive a raise, yes?"
+
+The bathhouse steward chuckles heartily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ganor seems a generous man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"When have you ever known men such as Ganor to share their spoils?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You, I like. We see eye-to-eye on many things, I suspect." He lets out a bark of laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"That's generous of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I have known worse, it is true." The bathhouse steward smiles, but his smile is tight at the edges and doesn't reach his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tekēhu! A pleasure to see you back so soon. On whose copper do you visit this time?" The bathhouse steward does nothing to conceal his bemusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Today I thank mother Ngati for my captain's deep pockets." 
+
+As the chuckles fade, Tekēhu favors you with a sidelong glance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ekera, perhaps later. A man must have his secrets." Tekēhu winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ganor may tell you more, if you're curious. He is something of an amateur alchemist, in addition to being a businessman of remarkable skill and insight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I admire your nerve!" He laughs from his belly, his hand splayed across his broad chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You refer to the 'disruption,' I assume?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Attack] "Admire this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"No need to play coy with me. You think your activities a secret?" He snorts. "Hardly. Where you walk, trouble follows. It is known."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Yes, you've caused us no end of trouble. Ganor-"
+
+The bathhouse steward starts to say something else, but catches himself, and glances over your shoulder to check that Ganor is out of earshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"May I keep the bathing attire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"It is rather fetching, is it not? And I must admit, it does suit you."
+
+He looks you up and down, then winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Surely they won't notice the loss of just one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Leave.] "I'll keep it on a while longer, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Alright, if you're so keen on it, just the one." He laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Arms and armor are not allowed in the baths. Should you wish to bathe, you will need to change into our bathing attire."
+
+He hands you freshly laundered bathing garments still smelling of the khapa leaves they were dried with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Please, enjoy the baths. When you are ready to leave, I will provide you with a towel." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Friend! You have been here quite a while." He chuckles. "Not that I blame you, not that I blame you."
+
+He flaps his hand in a conciliatory gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Pay] "I'd like to stay a bit longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I mean... if we've all got to get naked, we've got to get naked." She laughs awkwardly, cheeks burning as she glances to Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"At the academy, all of the brothers had to bathe together. It went about as well as you might expect."
+
+Staring off into the distance, Pallegina begins to disrobe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I don't have to get naked, do I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I trust you intend no further mischief, for both our sakes.
+
+"For you, a special price. 2000 copper."
+
+His wide, wry smile displays his teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"'What changed?' Ah, that is a good one. You are bold &lt;i&gt;and&lt;/i&gt; funny - a dangerous combination."
+
+He turns his face from you, pretending to wipe a tear from his eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ganor, he knows how to hold a grudge, you understand. 'You see that one again,' he said, 'you charge them double.'"
+
+He smiles sheepishly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Here you are, change into this."
+
+He hands you freshly laundered bathing attire still smelling of the khapa leaves it was dried with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Unfortunately, I must ask you to pay once more if you would like to continue bathing. Or perhaps you would like your gear back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The bathwaters are infused with hand-refined luminous adra, which promotes a holistic balance of the humors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Because of luminous adra's remarkable qualities, it is also a significant investment to both supply and maintain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Now, to business. The price of this marvelous experience is 1000 copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"A small discount for you, friend, for making me laugh. 900 copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"But only one, lest the attendants have my hide. They are quite serious about the towels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ekera, you do not wish to cross them, trust me." His eyes widen in conspiratorial glee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Alas, the bath attendants would be most unhappy were I to so freely give it away. I must regretfully say no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Do you wish to change into your usual attire now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Now, you will change, or I will have to escort you from the premises."
+
+The steward rests his hand on his hip within easy reach of a long, well-cared for stiletto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I... see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"No, I'm afraid not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Stronger than he looks, I say. An accomplished underwater wrestler." 
+
+He raises an eyebrow and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Will you be enjoying a dip in the waters, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Would you care to enjoy the bath's offerings? The price is 1000 copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Please, enjoy the baths. When you are ready to leave, I will provide you with a towel." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>He waves you off with a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

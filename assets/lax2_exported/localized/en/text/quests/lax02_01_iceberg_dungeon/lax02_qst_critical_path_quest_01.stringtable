@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>An Honored Guest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Read the wax-sealed letter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Journey to Harbingers' Watch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak with Vatnir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Investigate the disturbance outside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find Vatnir in Harbingers' Retreat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A &lt;b&gt;letter&lt;/b&gt; sealed with the symbol of the god &lt;b&gt;Rymrgand&lt;/b&gt; arrived for me. I should read it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>A messenger delivered a &lt;b&gt;leather scroll&lt;/b&gt; sealed with the &lt;b&gt;emblem of the aurochs&lt;/b&gt; to my ship. I should read it when I have a chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>A group calling themselves the &lt;b&gt;Harbingers of Dusk&lt;/b&gt; have invited me to attend a feast in my honor. I don't know who they are or exactly what they're celebrating me for. 
+
+If I'm to find out, I must travel to &lt;b&gt;Harbingers' Watch&lt;/b&gt;, the group's outpost at the &lt;b&gt;Dead Floe&lt;/b&gt; - an expanding &lt;b&gt;iceberg in the southern seas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've been informed that &lt;b&gt;Vatnir&lt;/b&gt;, leader of the Harbingers of Dusk, can often be found preaching in a chapel located inside the &lt;b&gt;settlement's central building&lt;/b&gt;. He should know why I've been summoned here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Vatnir's sermon on my role in the end of the world and death of all things was interrupted by a loud commotion outside. The Harbingers were strangely elated by the noise. I should find out what's going on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; never made it outside. Now that I've slain the Harbingers' messenger - a decaying dragon - I should find the godlike and ask him what's going on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; is no longer in the sanctuary, but since I didn't see him outside, he must still be within &lt;b&gt;Harbingers' Retreat&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I exposed &lt;b&gt;Vatnir&lt;/b&gt; to the &lt;b&gt;Harbingers&lt;/b&gt; as a fraud. He fled, but not before mentioning a temple deep within the iceberg - a temple containing a tear in the fabric of reality that could serve as an entrance to the &lt;b&gt;White Void&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; told me of a temple frozen deep within the iceberg. Supposedly this temple contains a tear in the fabric of reality - an entrance to the &lt;b&gt;White Void&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I killed &lt;b&gt;Vatnir&lt;/b&gt;. With his dying breath, he mentioned a temple within the iceberg containing a tear in the fabric of reality - an entrance to the &lt;b&gt;White Void&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>A group called the &lt;b&gt;Harbingers of Dusk&lt;/b&gt; have invited me to a feast in my honor at &lt;b&gt;Harbingers' Watch&lt;/b&gt; in the &lt;b&gt;Dead Floe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

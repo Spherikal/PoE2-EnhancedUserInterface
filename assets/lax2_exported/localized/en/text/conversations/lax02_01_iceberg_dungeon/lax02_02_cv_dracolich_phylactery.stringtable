@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_dracolich_phylactery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>260</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The beast's blazing eyes glare down at you. Her spiritual presence beats upon your face like the heat from an open blast furnace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;You came, courting oblivion. Remarkable.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Shrouded yourself in the souls of the dead, have you? I sense them clinging to you like snails to a stone.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;You've supped from the ruined realms that echo in this empty place. Glutted yourself upon their entropy, as I did once.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;And without any effort made to protect yourself from this place. From me. Almost unbelievable. Almost.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;It matters not. Nothing matters. I shall claim your essence and use it to escape this place.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why are you doing this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Let go. Take your respite in the Void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Your relic - it's a phylactery, right? It's sustaining you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Have you considered taking the fight to Rymrgand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You again claim to be trapped here, but I fought you at Harbingers' Watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm hunting a god. You think I'd let a &lt;i&gt;dragon&lt;/i&gt; stand in my way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;Why wouldn't I? Would you not, were you trapped here?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Would you not strive to escape this monotonous void?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;You witnessed the pull of this place. I cannot escape its gravity. &lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Not without more essence.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;I've taken what I dare from the echoes. Despite their resilience, they remain victims of this place.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;The souls you wear put the lie to your words!&lt;/ispeech&gt; 
+
+She rears back and bellows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The dragon exhales slowly through her nostrils, deflating as she does. She lifts her head upwards, as if she might peer out of the Beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;Is that why those others cling to you? Your benevolence?&lt;/ispeech&gt;
+
+The dragon's head cranes to the side as she peers down at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;No, little kith. You will indeed aid me, but not in the way you suggest.&lt;/ispeech&gt;
+
+The creature's wings flex, the brittle bones and dry flesh cracking in the cold air as it advances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;I've no more time to waste on you. A god requires slaying.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;Yours is the mewling of a cub. Let's not prolong this further.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;ispeech&gt;I came here for it. An object of such potency that it defies the deified.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"How do you propose to take my essence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"'Nothing matters?' It sounds like this place has made you a part of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Attack] "Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The creature's laughter echoes in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;It seems the little kith is not quite the fool that it appears.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;Such cleverness, little kith.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>&lt;ispeech&gt;It matters not what &lt;/i&gt;you&lt;i&gt; do. My actions merit greater significance.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;In the eldest manner. Via consumption.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;The relic shall contain your spirit, shielding it against the White Void.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;You shall survive. After a fashion.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Which relic would that be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She waves a claw towards the object floating above the pedestal between you and the dragon. Palpable energy pulses from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;The anchor. It persists here, when all other things decay to dust.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What - what is that thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I sense dozens - perhaps hundreds - of minds contained within that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Got meself a bad feeling 'bout that bob, cap. Feels all filled up with souls and hungering for more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;My own protection. They destroy that which threatens their dominion, as they did those who came before me.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You sought a power to rival the gods? Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Deified? Not deific? You know then the truth of the gods creation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>&lt;ispeech&gt;As they would have you, had you not cast yourself into this void.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;Obviously. My mother was older than your manufactured gods are now when she hatched me.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;ispeech&gt;Think you our kind oblivious to the workings of kith?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Who did you mean by 'those who came before you?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>&lt;ispeech&gt;My elders. When I was yet young, three dragons of inimitable prowess ruled these seas.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>&lt;ispeech&gt;So impressive were they that the gods enlisted them in defending their great working.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>&lt;ispeech&gt;The elders accepted, and then they vanished. The gods had betrayed them. Entrapped them. Murdered them.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The oldest Huana legends speak of three guardians, but..." Tekēhu pinches his hair in thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The great reptile's head cants to one side as she eyes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;ispeech&gt;Aren't we well-studied, little kith?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;What of it? Plotting some bit of cleverness?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Careful, Watcher. She's starting to think you dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let me by, and I'll carry the relic from this place. You'll be free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"So I don't need to destroy you... I only have to destroy it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Can you teach me to fashion my own?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The dragon's gaze shifts briefly to Ydwin and back to you again. Violet light flickers within its nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>A quiet chuckle rumbles within the beast's long throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Just a scholar's idle curiosity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>&lt;ispeech&gt;Then let us hope it sated.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>&lt;ispeech&gt;I could teach you much, were I so inclined. I am afraid, however, that we will not be afforded the opportunity.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;You think you would succeed where the god of decay and endings has failed?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;No. It shall persist forever, and I with it.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;Still, no advantage in leaving such things to chance...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>A quiet chuckle rumbles within the beast's long throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;To what end, little kith? Why would I do such a thing? For that matter, why would you?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You want to be free of this place, don't you? I'm a Watcher. Helping lost souls is what I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I have my own quarrels with the gods. You'd be a welcome ally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I had hoped to learn what you have to teach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I mean, it's either that or I kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"On second thought, maybe that wasn't such a great suggestion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Better you realize it now than later, I suppose." He sighs and pinches the bridge of his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The beast stares down at you. She does not appear amused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;How very ambitious of you.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;I could teach you much, were I so inclined. I am afraid, however, that we will not be afforded the opportunity.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"We could have the opportunity. We could have forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She cranes her neck, lowering her head towards you. Her breath reeks of rotten meat and mildewed tomes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Silence hangs on the air as the dragon considers your proposal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The dragon snorts, puffs of violet flame flickering about her nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;No. I think not.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;As pleasant as this diversion has been, the time comes to conclude our conversation. Farewell, little kith, and welcome to oblivion.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The dragon snorts, puffs of violet flame flickering about her nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;You? You who so clearly wear your devotion to your deity upon your spirit?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>&lt;ispeech&gt;You do, don't you? What plans have you for us, our alliance of two?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I once served Berath willingly. They lost my devotion when they held my life hostage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eothas killed me, destroyed my home, and consumed the souls of those I held dear. I will never forgive him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Deity. Singular. The rest get no devotion from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"We start by killing Eothas. And this time we make sure he stays dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"We make sure everyone knows the truth about the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"We gather power and knowledge until we can challenge them on their own level."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>&lt;ispeech&gt;In taking corporeal form, he has made himself vulnerable...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hey, now. I'm on board for stopping Eothas, but if you're really planning to kill him, we're gonna need to talk things over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Did I hear you right, Watcher? Gaun's the reaper, not the reaped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt;I am amused. And intrigued. I do not remember when I was last either of those things.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;You have convinced me. Take the relic. Let the pair of us shake Hel itself.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;An interesting proposal. And very ambitious.&lt;/ispeech&gt;
+
+The dragon lapses into silence, apparently considering your words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>&lt;ispeech&gt;How... uninspired. And disappointingly naïve. The kith will believe what they choose, not what is true.&lt;/ispeech&gt;
+
+The dragon roughly shakes her massive head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Pardon? Surely I must have misheard you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Is this truly our purpose, captain? I am feeling oddly... misled." Tekēhu furrows his brow and studies you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Magran's the goddess of fire. I think she'll appreciate watching the other gods burn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You think Skaen doesn't want to see the gods torn down? He &lt;i&gt;hates&lt;/i&gt; them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Pretend you to know what Wael desires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>&lt;ispeech&gt;Ah. That explains the mark upon your soul. I had thought it willingly accepted. Interesting.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Silence hangs on the air as the dragon considers your proposal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;Nor should you forgive such betrayal.&lt;/ispeech&gt;
+
+The dragon examines you, craning her neck to do so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Well Hel, Watcher. It ain't his fault you built a house on top his head. You can't hardly expect the sun not to rise, can you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Is that all it takes to get on your bad side?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Nor should you be expected to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;What tactic would you have our alliance of two employ against gods?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I try to help where I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I'm not beneficent. I just fix what's broken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'd get lonely without my phantasmal friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I've made my offer. Take it or leave it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>&lt;ispeech&gt;I have known a few Watchers in my centuries, each unique, the only commonality their mad insight.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;I remain unconvinced.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>&lt;ispeech&gt;And you would add me to your menagerie.&lt;/ispeech&gt;
+
+The great beast harrumphs, violet light spilling from her cracked mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The beast's mouth curls at the edges, revealing rotten teeth - each longer than a stiletto. Her laughter rings in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;You would fix me, then?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>&lt;ispeech&gt;You amuse me, little kith. You have no idea how long it has been since I last laughed.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>&lt;ispeech&gt;I smell it on you. The cloying scent of compassion.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I would free you of this prison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Rymrgand doesn't want you here, and you don't want to be here. It seems some fixing is in order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Maybe 'fix' was the wrong word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"These spirits are just the beginning. You should see my crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I'd help you, if I you'd let me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I've already got a pet dragon. I'm looking for an ally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>&lt;ispeech&gt;This situation satisfies no one, does it?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;ispeech&gt;Very well. You may take the relic.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>&lt;ispeech&gt;I shall watch. And I shall listen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>&lt;ispeech&gt;Give me no reason to reclaim it.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Let's be off before it changes its mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Well done, captain! And here with me thinking you were just another pretty face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Most impressive. I thought a violent confrontation a near certainty. Happily, I am proved wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You never seek the more straightforward solutions to your dragon problems, do you? Ekera, I respect this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I saw that, Ishi. Drop it. Now." 
+
+Maia points at the ground until Ishiza reluctantly opens his talons and lets the relic fall back to where he found it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Good. I was not looking forward to fighting this creature. Now let us &lt;i&gt;go&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I admit I'm impressed. So, uh, are we finished in this place? Can we leave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Do you know how long you've been down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The beast's nostrils flare as she arches her back, her wings flexing and twitching towards the tips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>&lt;ispeech&gt;Years. Decades. It matters not.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Try centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I think it's been a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>&lt;ispeech&gt;So I had noticed.&lt;/ispeech&gt;
+
+Her hind claws gouge furrows in the rime-crusted ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;Centuries...&lt;/ispeech&gt;
+
+The dragon drops to all four paws, her head bowing slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;I expected a century, but not multiple.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"You sound tired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I'm sorry I brought it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You should probably just give up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"For frost's sake! Could you not at least &lt;i&gt;attempt&lt;/i&gt; to sound convincing?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>&lt;ispeech&gt;I disagree.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>&lt;ispeech&gt;You sound small. And edible.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;What's done is done.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>&lt;ispeech&gt;Do battle with the Beast of Winter? To what conceivable end?&lt;/ispeech&gt;
+
+She leers at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"If you're so great and powerful, killing a little old god shouldn't be too tough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"To be free of this place? To consume his essence? Perhaps to become a god yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"It'd be better than waiting around here, wouldn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Her head swings down, a single blazing eye casting its light across your features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>&lt;ispeech&gt;Do you mock me, little kith?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Only a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Not at all. You've been in Rymrgand's home for all of this time, and he hasn't been able to kill you yet, has he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Are you mad?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Well then. I hope your amusement was worth it, Watcher."
+
+Ydwin's hand strays to her weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Merla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"You know, you might have gotten me into position first." 
+
+Maia shakes her head and slowly reaches for a gun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Aw, for fuck's sake, cap."
+
+Serafen reaches for a weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mirke giggles wordlessly, then hiccups. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Her enraged roar reverberates within your ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>&lt;ispeech&gt;It does not follow that he fears me. Still... it is curious...&lt;/ispeech&gt;
+
+Her head rises, canting slightly as she considers your words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"It is like I am not even here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I'm happy to help, if you need the assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Everything ends. Rymrgand included."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>&lt;ispeech&gt;Do not think that I don't recognize what you intend with your words, little one.&lt;/ispeech&gt;
+
+She growls, long and low.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"If kith created the gods, it stands to reason that they can be destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>&lt;ispeech&gt;You would have me eat Rymrgand? To pluck him from the Void as I might a heifer from a field?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>The dragon snorts, purple light flickering within her nostrils. 
+
+You're not sure whether or not she was amused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>&lt;ispeech&gt;That a thing is possible does not render it trivially easy.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>&lt;ispeech&gt;Still... if I am to move against him, it needs be now, at the height of my prowess.&lt;/ispeech&gt;
+
+The dragon raises her head, straightening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Why not? He's nothing but essence, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"He &lt;i&gt;is&lt;/i&gt; an aurochs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;That a thing is possible does not render it trivially easy.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Di verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I'm not sure what else I can say. Maybe you win, maybe you don't. But at least you tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>&lt;ispeech&gt;And yet...&lt;/ispeech&gt;
+
+Her head bobs, eyes dimming slightly in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"It won't be easy, but you can theoretically syphon the god's essence, dividing it between yourself and your relic. What you can't contain between the two, you can destroy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"It's not... impossible." Aloth chews a knuckle as he thinks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Now I didn't follow all of that, but if Rymrgand ain't broken you down yet, maybe he can't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;Yes, I've heard your words, little kith.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"The fact that Rymrgand has not yet managed to defeat the dragon nor destroy its phylactery suggests it may be able to contain the god's power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;Even you must understand that inaction is sometimes the wisest action.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;Even you must understand that inaction is sometimes the wisest action.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You can't just sit around here doing nothing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I didn't take you for a whimpering coward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Shrug] "Suit yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Not everyone lives at the same pace. You never think of those quiet years at Caed Nua and wish you could have it all back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>&lt;ispeech&gt;You will not goad me into throwing away my existence.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>A low, long growl issues from the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Why haven't you given up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Her head twists fluidly, angling first one eye down upon you, then the other. With a prolonged grinding crunch, her left rear claw digs into the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>&lt;ispeech&gt;You ask why I do not allow myself to die? Are you so eager to meet your own end, knowing that nothing awaits beyond?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>&lt;ispeech&gt;I will happily introduce you, if you so desire.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"We don't desire. Not even a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Look at yourself. You're already dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Point taken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>The dragon glowers down at you, claws slowly retracting from the ice as she relaxes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>&lt;ispeech&gt;No,&lt;/ispeech&gt; she hisses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>&lt;ispeech&gt;So long as will persists, so too does life!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"This isn't life! You're desperately clinging to an eternity of endless, futile struggle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>The dragon's head whips back, recoiling as if struck, and she bellows, her roar shaking the air within your lungs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I'm sorry. That was uncalled for. I don't have any answers for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Specified 0] glances at you askance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>She drops her snout again, mouth curling back over browning fangs. Her growl vibrates your bones. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>&lt;ispeech&gt;Tell me then, little kith, what you would have me do. What would your wisdom demand of me?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>&lt;ispeech&gt;Then you have no purpose!&lt;/ispeech&gt;
+
+The dragon roars again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Oh gods oh gods oh gods."
+
+The ice crunches beneath his tread as the godlike stumbles backwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"It's always the glowing ones that cause the trouble, ain't it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>She glares at you, her eyes a pair of smoldering coals. You feel her arcane senses rove over you, laying you bare to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>&lt;ispeech&gt;You said it has been centuries. I tell you, it has felt like so much longer.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Rest then. You've earned it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>&lt;ispeech&gt;I like him more than I like you, little kith.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>&lt;ispeech&gt;I died the moment I passed into the Beyond. Everything since has been... futile.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"That's fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"You just don't know him that well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Vatnir sighs and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>&lt;ispeech&gt;I am so... very, very tired.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"A tragic, if accurate, assessment. I cannot help but wonder if there was something more we could have done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Somehow this ending don't feel all that happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I... yes. Well done. Let us continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"What we have here is a creature that ought to learn to forgive itself. Get that sorted out and you can move on with a clear conscience." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"I think I had this nightmare once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Are we dead as well, then? By your logic? ...Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>&lt;ispeech&gt;And what would you do with forever?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Explore everywhere. Learn everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"What &lt;i&gt;wouldn't&lt;/i&gt; I do? Forever's a long time to experience a lot of things. And people. And positions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Serve you faithfully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Whatever I damn well please, skull-face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I don't know, but I'll have plenty of time to figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>The dragon snorts, then shakes her head roughly.  It almost gives the impression that she's chuckling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>The dragon's tail curls, then lashes the ground behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>The dragon snorts, then shakes her head roughly.  It almost gives the impression that she's chuckling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>The dragon snorts, then shakes her head roughly.  It almost gives the impression that she's chuckling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>The dragon snorts, then shakes her head roughly.  It almost gives the impression that she's chuckling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>&lt;ispeech&gt;An unexpectedly wise answer, little kith.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Well... I- I suppose there would be much to learn."
+
+Aloth looks quickly away. A crimson blush colors the tips of his ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Don't mind me, captain. I'm just curious to see where you go with this." 
+
+Maia brushes off her palms and takes a step back to observe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Captain, you might have spoken to me first. I am not beyond considering the possibilities." Tekēhu squints up at the dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Well, Hel, Watcher. Let's all just pretend like I ain't here." 
+
+Hands on her hips, Xoti exhales, sending aloft an errant strand of hair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>&lt;ispeech&gt;Disappointing, but not unexpected.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Silence hangs on the air as the dragon considers your proposal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>&lt;ispeech&gt;You're rather more intriguing than I expected, little magician.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>&lt;ispeech&gt;You clearly possess some cleverness, little kith. But are you clever enough?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>&lt;ispeech&gt;Very well. You may take the relic.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>&lt;ispeech&gt;I shall watch. And I shall listen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>&lt;ispeech&gt;And perhaps you will eventually prove your worth.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>&lt;ispeech&gt;One would think you rather more eager for death than eternal life.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Ekera, it is nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>The great reptile's head cants to one side as she eyes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_damaged_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Though largely intact, there seems to be a leak somewhere within this construct. A trail of sweet-scented green fluid winds down the machine's carapace. The ice beneath it is blackened as if burned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Investigate the leak.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Syphon fluid from the construct.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave it be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A panel on the side of the device allows access to its inner workings. Within, you can see the reservoir from which the fluid oozes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You contrive a simple syphon from some tubing and basic physics, allowing you to draw a large measure of fluid from the construct without disturbing it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You carefully withdraw a measure of fluid... but not quite carefully enough. Gears turn and springs stretch, and you just barely manage to get your hand - and the precious fluid - out of the machine intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You carefully withdraw a measure of fluid... but not carefully enough. You tear your hand - and the precious fluid - from the machine, but not before it opens numerous gashes in your skin. Your blood spatters the snow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>With a grinding sound like a falling portcullis, the construct's attention turns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Scoop fluid from the construct.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Scoop fluid from the construct.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Gears, cogs, and similar mechanisms fill the inside of the machine, however, and a false move might result in maimed fingers - or worse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_sanza</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh! Hello! Welcome to my shop! It's such a pleasure to see a new face!"
+
+Sanza bounces back on his heels, a wide grin plastered on his worn face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hm, yes, well, next time- ah, next time you will not give me a coin purse reeking of rat piss, understand? Or I'll charge you twice the rat. Ah, rate! Twice the rate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Now, if that's all, I wish you a good day. Thank you for your, ah, distinguished patronage. Do come again. Perhaps with silvers.
+
+"Give them a spit shine, at least. That's a good lad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How might I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"The great explorer returns! You are always welcome here, my friend. Please, make yourself comfortable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Certainly, certainly! It would be my pleasure. Of course, it's mostly books and knick-knacks. Maps, I do on commission, you see..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Oh, I'm a cartographer! I make maps. I'm not half-bad at it, either - and may the gods forgive my immodesty for saying so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"It used to be I would take to the sea and do a bit of charting myself, but I haven't the time. Too many maps need making!
+
+"A shame, too. There's a whole swath of the Deadfire I've yet to see!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Welcome back, welcome back! It's a pleasure to see you once again. Tell me, how is the sailing? Smooth? Nothing to delay your expedition, I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Please, I'll give you what you want! J-just leave me alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I'm quite keen to write a book, in fact! Oh, but I won't trouble you about that. Excuse my nattering on, won't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You said you're writing a book?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'm putting together an explorer's account of the Deadfire! Or at least the part of it Queen Onekaza's tribe has laid claim to.
+
+"My book will be the first of its kind! The Explorer's Club will go &lt;i&gt;mad&lt;/i&gt; for it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm not exactly the most &lt;i&gt;powerful&lt;/i&gt; fighter, or I'd do it all myself. 
+
+"Still... wouldn't it be wonderful? An explorer's guide to the Deadfire! Someday.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hey! That's... that's mine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Could you maybe put that back? Please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Oh dear. I... I needed that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"My sweet Kaleb! You- you monster!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Do you... sleep here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ah, hah. Sometimes." He touches a hand to his forehead and blushes scarlet from his neck to the tips of his ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nice dog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You think so? He is a magnificent beast, isn't he?" Sanza's face splits into a broad grin bright enough to light the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"He's been a bit low lately. Between you and me, I think he's heartsick for the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Married to the work, you know. I just get so... so &lt;i&gt;engrossed&lt;/i&gt; in my maps, and next I know, it's morning!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sharing a bed with a few maps is good sight better than sharing with Kaleb, I'll tell you that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"If you need a map of any settled region of the Deadfire, I'm your man. And my commission rates are quite generous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You'd think ship captains would be a bold-hearted bunch. I offered fair recompense!"
+
+Sanza folds his arms, sighing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Sanza looks away. A wistful smile plays at the edge of his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"He always hogs the blankets." He rubs the back of his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Yay! I'm gonna be the most famous 'splorer EVER!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Surely the Huana have already charted the region. You can't ask them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ah, well, it's possible they have, but they won't tell me a thing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Don't want interlopers tromping all over their land, I suspect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You ever wonder if they might have a point?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I can't say I've ever given it much thought!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Give it some thought." Tekēhu folds his arms and glowers down at Sanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I've got a bold heart and a ship. Need a hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Good luck with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Do you mean it? This is - wow! I can't thank you enough!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Once you're back, I'll start filling in my map and adding your findings to the book!
+
+"Oh, this will be &lt;i&gt;wonderful&lt;/i&gt;!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"The idea is to explore all the islands that haven't been charted yet, or even named. That falls to you, aimico!
+
+"You can't tell me you've never wanted to name your own island!"</DefaultText>
+      <FemaleText>"The idea is to explore all the islands that haven't been charted yet, or even named. That falls to you, aimica!"
+
+"You can't tell me you've never wanted to name your own island!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A pity, really. I promised credit! An inscription in the frontispiece, even."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"O-oh, don't look at me like that. Secrets are all well and good, but it's that much easier to make a tribe disappear when there's no evidence of them on the map."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"...Or, well, that was the idea. It's a fiercely dangerous enterprise, in point of fact, and nobody will agree to chart the islands for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Who would you be selling these guides to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Why, everyone! That's the point, isn't it?
+
+"Ac, I have to pay for parchment and materials, but my prices are very reasonable, all told!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"If it pays, I'll take the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"It's a lot of ground- I mean, water - to cover, and some of these islands are in &lt;i&gt;very&lt;/i&gt; dangerous waters."
+
+Despite his words, the gleeful expression on Sanza's face has not faded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Don't worry, I planned it all out. We'll get your feet wet, first. With a little experience under your belt I'm sure you'll get a taste for it! 
+
+"Nothing will stop us! I mean, you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nothing that's going to stop a seasoned captain like yourself, of course! Oh, I can't wait. I've planned this all out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I've got some material for your book."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ah, how exciting! Let's see here... Goodness, that's not what I was expecting. And so close to Port Maje!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I could not have hoped for a better partner in this endeavor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wonderful! I can't wait to... Oh, is that a little fish-man you've drawn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wow, I've always wondered what was over there. I made a list. Fire giants, giant fire ants... Fire snakes wasn't on there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Wow, I've always wondered what was over there. I made a list. Fire giants, giant fire ants... Fire snakes wasn't on there.
+
+"...Wait, this means-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"About your book..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Yes? I'm afraid I've made little progress on that front, if you were hoping for a copy." 
+
+Sanza's sigh is theatrically mournful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I thought we could start with the waters around the Company outpost at Port Maje. 
+
+"There are... two islands in the region, and nobody's taken much notice of them yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Once you're back, I'll start filling in my map and adding your findings to the book!
+
+"Oh, this will be &lt;i&gt;wonderful&lt;/i&gt;!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"No need to wait that long. I've already been out that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Leave.] "I should be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You... you what? 
+
+"Why, that's incredible! Gellarde! Imagine, if you had never wandered into my shop! What an opportunity lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You've done wonderfully! Oh, this book will be the best thing since Cassini's &lt;i&gt;Adventures&lt;/i&gt;, and that was all romantic &lt;i&gt;rubbish&lt;/i&gt;-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Here- your pay, my friend. We're only getting started, of course. There's more to see!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tikawara next, I think. How does that strike you? It's a little Huana village, out to the southeast."
+
+"Three islands this time, all nameless and unloved. They form a little triangle around Tikawara, if you squint..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'll be waiting!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"You've done it! You've really- oh, I see, you're playing a joke. 
+
+"That's unkind of you, I have to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Your well-deserved pay, of course! 
+
+"Why stop here? We're making good headway, and you've certainly proven yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'm sending you far out west, this time. Past Port Maje, past the Wakara Reef, and even the Kangati islands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nobody's been out that way in ages. All manner of dark stories. 
+
+"I'm sure you'll be fine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I had already set the coin aside for you. I knew you wouldn't let me down!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"We're getting into deeper water, now. So to speak. 
+
+"We call the islands along the east of Magran's Teeth the Burning Shoals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"As you might imagine, it gets a little hot over there. Two of the islands haven't been surveyed yet. 
+
+"You'll want to sail northeast from the docks to reach the islands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Put some nice pictures in that book and you've got your explorer right here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"We're so close! There's only one corner of the map left!"
+
+Sanza fusses briefly with his pockets, then his belt, before handing you a bulging coin purse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Kaleb, no... I'll walk you later..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'm perfectly useless without my rest, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Only, it's for good reason... The waters in those parts are... Well, this region is probably why I had so much trouble finding help, before you came along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Time to set out for the Razai passage, out to the northwest. There are several islands out there nobody's done more than ogle at from afar. 
+
+"I know you can do better!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You've done it! You've really done it! Oh, I could kiss you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Wink] "Any time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Calm down, buddy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Sanza flaps a hand dismissively, blushing to his ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"This... This is going to put both our names in the history books! I'm sure of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Enjoy your legacy as a footnote." Maia chuckles and elbows you in your ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"For what would anyone want their deeds in cold ink when they can live on in song?" Tekēhu glances between you and Sanza, puzzled all the while. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Never fear, [Player Name]. It's the unseen deeds that matter most." He nods reassuringly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Di verus? Does he really not know who you are, Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"This be the least of the interesting stories bout the captain. It ain't even got a brothel in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"He really doesn't know who he's talking to, does he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I'm nearly done putting everything together! Come back later, and I'll give you the very first copy of The Explorer's Guide to the Deadfire!"
+
+Sanza clasps his hands together, all but dancing in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Here - your very own copy of the book, as promised!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"...Don't you think?"
+
+Sanza shrinks away from Tekēhu's gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

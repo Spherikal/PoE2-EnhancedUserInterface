@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_undead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Symbols of Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with &lt;b&gt;Captain Furrante&lt;/b&gt; in &lt;b&gt;Dunnage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Travel to the &lt;b&gt;Sacred Stair&lt;/b&gt; district in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find the resting place of &lt;b&gt;Yseyr the Berathian&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Locate the tomb of &lt;b&gt;Yseyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to &lt;b&gt;Captain Furrante&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Captain Furrante&lt;/b&gt; has sent a messenger to summon me to &lt;b&gt;Dunnage&lt;/b&gt;. The Príncipi, head of the Consuaglo mes Casitàs, wishes to discuss a potential business opportunity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The head of the Príncipi's Consuaglo mes Casitàs waits for me in his tower at the pirate settlement of &lt;b&gt;Dunnage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The only lead to &lt;b&gt;Lucia Rivan&lt;/b&gt; lies buried somewhere in the &lt;b&gt;Sacred Stair&lt;/b&gt; in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Now that I have arrived in Neketaka's Sacred Stair district, I need to find out where &lt;b&gt;Yseyr the Berathian&lt;/b&gt; was buried.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've entered a complex of catacombs under the Temple of Berath. This should be the place where &lt;b&gt;Yseyr&lt;/b&gt; was buried.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Now that I have learned of Lucia Rivan's past, &lt;b&gt;Furrante&lt;/b&gt; will want to know of my findings. 
+
+Rivan returned from the dead after being killed by Yseyr. The Berathian tracked the Fonferrus, losing the ensuing fight at the Battle of Dusken Isle. Yseyr retreated to Neketaka and became undead to safeguard the powerful sword that Rivan wielded during her defeat - the Engoliero do Espirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have learned that there is a temple dedicated to &lt;b&gt;Berath&lt;/b&gt; within the &lt;b&gt;Sacred Stair&lt;/b&gt; at Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kasu mentioned that &lt;b&gt;Yseyr&lt;/b&gt; was entombed here, somewhere in the &lt;b&gt;Hanging Sepulchers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've read part of the Eulogy to &lt;b&gt;Yseyr&lt;/b&gt;. His champion, &lt;b&gt;Faywden&lt;/b&gt;, the Lady of Vigils, rode to battle wielding a mace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I've read part of the Eulogy to &lt;b&gt;Yseyr&lt;/b&gt;. His champion, &lt;b&gt;Borthwn&lt;/b&gt;, the Lord of Heldengate, fought the undead with a spear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>A massive door, flanked by two skeletons clad in ceremonial armor, bars passage into an ancient chamber inside the &lt;b&gt;Hanging Sepulchers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I've learned that &lt;b&gt;Yseyr&lt;/b&gt; rests under the &lt;b&gt;Berathian temple&lt;/b&gt;, in a place called the &lt;b&gt;Hanging Sepulchers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>The entrance to the &lt;b&gt;Hanging Sepulchers&lt;/b&gt; is outside the &lt;b&gt;Temple of Berath&lt;/b&gt;, on its lower walkway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I told Furrante about a new lead to the nature of the Floating Hangman. Lucia Rivan lost her life and powerful sword to Yseyr the Berathian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The &lt;b&gt;Floating Hangman&lt;/b&gt; of the Deadfire is no mere legend. The banner of &lt;b&gt;Lucia Rivan&lt;/b&gt;, a Darcozzi paladin of old, flies on the mast of this galleon. &lt;b&gt;Furrante&lt;/b&gt; wants to find out more about Rivan's past and so learn how to fight this unnatural threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

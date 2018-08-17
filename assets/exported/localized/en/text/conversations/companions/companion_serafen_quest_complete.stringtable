@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_complete</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An eyebrow the blue of the open sea rises over an iris the warm green of the shallow surf. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You be boring a hole in me with them eyes, cap. I'd offer an ouble for your thoughts, but I prefer not to make deals I ain't got no intention to keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I could say the same of you. You doing okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I know things could have gone better back on Sayuka, but they could have gone worse, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You wanted to talk? Talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I don't have time for this nonsense right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I be fine, actually. Strange though it be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Fine, cap. Don't be sparing me no thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Aye. We could've gone and done something we couldn't be taking back."
+
+He rubs the bridge of his nose.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Could they've, cap? A good man lies dead. A man who mattered to me more than, well, more than most anything. And to what end?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You be a strange fish, cap. Sometimes you ain't half bad. Other times you be a right poxy cog-sucker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I suppose it would keel haul you twice over to be acting half decent for a change."
+
+Scowling, he rolls his eyes.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Aye."
+
+With a meager shrug he turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"If you want to talk, I'll listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Not sure there be much to say, captain."
+
+He looks away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Then let's shove off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You found out you were inadvertently aiding the trade of slaves. That couldn't have felt good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"There are rules, Serafen. Remaro knew them. He broke them anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Remaro's not gone, Serafen. He's merely rejoined the wheel. He'll move on and be born again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The gods set trials before us, Serafen, some far more difficult than others, but none impossible. For good or ill, we have their particular interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Best you face it. Remaro died because he was a traitor. A traitor to you, and to your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm deeply sorry that you had to experience that. If there's anything I can do, you need only tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"At least you've got someone to stay with if you ever travel out west. Had that myself, until someone broke my castle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Shut your ballast hole already. Everyone's got shit to deal with. Yours isn't worse than anybody else's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It's not ideal, and it won't make everyone happy, but this resolution is what'll make the most people happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"We need to tell the Consuaglo about Bastian's slaving. To set the record straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Remaro did the right thing, you know. Those slaver bastards deserved what they got!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Remaro did the wrong thing, whatever his reasons. You can be better than that. You can make the Príncipi better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Don't suppose we could collect on the Príncipi's bounty anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sayuka was a tough break. Only thing to do is to pick yourself up and keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Aye, cap. Didn't feel at all good. Right brilliant you are."
+
+He winces.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Gods, I know, cap. Remaro saw to it my learning of the laws of the sea were damn near cyclopedic. Just wish I understood why - after all that - he went and broke them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Guess we'd better be seeing to your big blue friend then, aye?"
+
+Hands resting on his weapons, Serafen turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"All who tread the sea possess some faith, cap. Some of us be having a little less than others."
+
+He shrugs.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You ain't even with us!"
+
+He throws his hands up. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Things ain't usually as black and white as you be suggesting, but I'll be keeping your understanding of the world in mind, Captain Watcher."
+
+He turns from you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I... be appreciating the sentiment, I suppose."
+
+He rubs the back of his head and looks away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ha! That be a point and a half. Mayhaps I'll go find meself Remaro one of these days. After we've done dealt with everything here."
+
+With a grin and a soft chuckle, he turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Heh, aye. Too bad I be having no interest in seeing the old salt again."
+
+He sighs and turns from you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The orlan's lime green eyes blink as if you'd slapped him, then narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aye. Suppose we take our victories where we be finding them."
+
+He sighs and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Despite it all, cap, I be right glad to be serving with you."
+
+He bows and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Might could. Without a head, though, that'll be a right hard con."
+
+He chuckles softly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It be the shit like this that turns us old salts hard."
+
+He stretches and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"It be the shit like this that turns us old salts hard."
+
+He stretches and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The orlan's lime green eyes blink as if you'd slapped him, then narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Guess I'll be charting those waters meself. With your help, of course."
+
+He grins, salutes, and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Or mayhaps we did just that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sorry bout that. Weren't fair to you."
+
+He scuffs a boot against the ground.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He looks to you, holding your gaze with his. He snorts quietly, nodding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"This conversation be well and truly over."
+
+He turns from you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"This conversation be well and truly over."
+
+He turns from you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Aye, cap. Much as I hate an honest word, some truths ain't for burial at sea."
+
+He smiles.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That and more beside. I'm sure Remaro made it quick and painless, the soft old salt."
+
+He smiles.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mayhaps. But be our rules too loose or too strict? Who's got the right of it, and who do we hoist our sails behind?"
+
+He sighs and rubs his temple.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Nodding, the orlan expels a long, slow sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

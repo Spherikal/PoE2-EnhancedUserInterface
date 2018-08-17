@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Increases Might and Resolve by {0:triggervalue:straight} until the end of combat each time a party member is knocked out. Stacks 4 times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>{0:value} All Defenses on Hit. For each Hit, the caster gains {0:extravalue} All Defenses (Stacks {0:triggervalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Your soul is sustaining lingering damage from an attack while Veil-Touched</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Gain {0:value:percent} Hit to Crit every {0:interval}. This effect is reset on a successful Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>(Current Bonus: {0:value:percent}) Gain {0:extravalue:percent} Hit to Crit every {0:interval}. This effect is reset on a successful Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Attack Speed increases as Health decreases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Walking leaves a small AoE that Hobbles enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>On Hit or Crit, the wearer's next successful attack does additional Freeze Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>The wearer's next successful attack does additional Freeze Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>{0:value:percentbonus} Damage against Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>{0:value} Penetration after taking Freeze Damage. Stacks {0:extravalue:straight} times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Weapon attacks deal best of Crush/Freeze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>{0:value:percent} chance to apply a random Tier 1 Affliction to a nearby enemy after being Hit by an Affliction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>On Kill, the duration of Hostile Status Effects on nearby enemies are increased by {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Critical Hits have a {0:value:percent} chance to freeze the enemy for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze/Pierce damage to enemies around the target</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Large Shield Weapon Proficiency now grants a {0:value:percent} chance to deal Freeze Damage when Missed in Melee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>{0:statuseffects} each time the wielder is missed. Stacks 5 times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Requires 2 hands to wield, but deals increased damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Scoring a Critical Hit on an enemy causes them to take Raw Damage over time. Whenever that enemy deals damage, the duration increases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Enemies killed while under the effects of Scales of Justice damage nearby enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Enemies killed while under the effects of Scales of Justice heal nearby allies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>{0:value:percent} chance to apply Corrode Damage over time when Hit with weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Bonus Hit To Crit Chance with the Twin Eels. Chance increases with the wielder's Religion skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>AoE Heal on scoring Kill with the Twin Eels. Heal amount increases with wielder's Religion skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>{0:value:percent} chance to launch an interrupting Crush Damage AoE on scoring a Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>{0:value:percent} chance to launch an interrupting and Immobilizing Crush Damage AoE on scoring a Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>{0:value:percent} chance after scoring a Crit with a melee weapon to reduce the target's weapon Penetration by {0:extravalue} for {0:triggervalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>When the wearer is knocked Unconscious, they deal significant Burn Damage to nearby enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Nearby enemies have {0:value:percentbonus} Stride for {0:extravalue:duration} after the wearer scores a Hit with a Disengagement attack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>The wearer gains bonus Engagement as their Health decreases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>{0:value:percent} enemy Crit to Hit chance with non-Veil Piercing attacks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>{0:value:percentbonus} incoming Damage from non-Veil Piercing attacks</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

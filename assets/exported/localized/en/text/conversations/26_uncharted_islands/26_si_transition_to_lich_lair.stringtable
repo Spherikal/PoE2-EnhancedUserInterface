@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_lich_lair</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you traverse the island, you arrive at an area that appears to be untouched by kith hands.
+
+Lush plants grow in riotous abundance around the entrances to several caves, and you can hear the sounds of animals and insects over the crash of waves on the beach behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>When you walk closer, however, you notice that one of the cave entrances is too uniformly structured to have been created by nature alone.
+
+Inspecting it reveals a doorway carved into the aperture of the cave, though a door no longer stands there now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This quiet area of the island looks no different from the last time you ventured through it. You return to the sunken ruin along the same overgrown path.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

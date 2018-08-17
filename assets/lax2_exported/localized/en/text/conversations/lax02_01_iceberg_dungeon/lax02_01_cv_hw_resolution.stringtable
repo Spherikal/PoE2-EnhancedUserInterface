@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_hw_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You return, Duskspeaker. Harbingers' Watch shuddered as if wounded. What occurred at the Vytmádh?" His trio of ice blue eyes search your features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Duskspeaker! The entire iceberg - it shook as if you'd stabbed it. What did you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You need not worry about her. She's not coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"These are your people, Vatnir. Care to handle this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You jest! The beast's truly gone? And the Vytmádh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Lie] "The way remains open. With time, the ice will consume the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The portal closed. Your iceberg's not going to grow any more. In time, it'll probably melt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The messenger is dead? But, what of the Vytmádh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Then we have time." The priest raises his bandaged face towards the cloud-thickened sky. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sisters. Brothers. We return from beyond the realm of Rymrgand. Can I do justice to its desolate beauty? I think not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It was Rymrgand's will that the dragon that menaced us be dispatched, and so it was!"
+
+A few of the Harbingers exchange confused glances, but Vatnir continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The Beast of Winter is well pleased by our faith! Soon we shall all be rewarded with respite from our troubles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"All of you need to pack your ships and leave this iceberg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"So it occurred, and so shall it be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Shrug.] "Close enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hafjórn has guided you in my absence. I would ask that he continue to do so, that I might continue my journeys with the Duskspeaker and spread the truth of Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"But - but you &lt;i&gt;met&lt;/i&gt; the Beast of Winter! Surely you understand the importance of our work here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh." Hafjórn turns towards the other Harbingers, glances back to you, then looks to the gathered kith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I entered the Void and communed with the Beast of Winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You... truly? With the Beast of Winter himself? And the dragon? What became of the dragon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The dragon's not coming back. That's all you need know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Brother Vatnir... please regale us with tales of your journey!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Rymrgand has not finished with us, brothers and sisters. We must prepare the way, for winter always returns!"
+
+With heads bowed, the Harbingers pray to the Beast of Winter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Do we stay here? Do we leave? What would Rymrgand have us do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Leave] "I've done enough for you. Figure out the rest on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You have to decide that for yourselves. I hope you do what's right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Rymrgand doesn't need you here, and the dragon wasn't his messenger. You should probably leave this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You're doing fantastic work here! Continue walking the righteous path, brothers and sisters!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Thank you, Duskspeaker. May you find respite in Rymrgand's embrace!"
+
+With heads bowed, the Harbingers pray to the Beast of Winter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The Harbingers scowl at you. One spits on the frozen ground. Another closes her fists, her knuckles cracking in the cold. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That's... well, it's incredible. Almost unbelievable. And Rymrgand's messenger? What became of the dragon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"All glory in all decay! All praise the Beast of Winter!"
+
+The gathered Harbingers raise their voices in a chorus of cheered prayer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"But what is our next step? What would the Beast of Winter demand of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vatnir raises a limp hand in greeting while coughing into the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Hafjórn watches your approach from within his gore-spattered hood. He fidgets, picking at one of his gloves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vatnir immediately launches into a violent fit of coughing, but manages to nod in response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nodding excitedly, Hafjórn looks to the others around him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Merla. Fantastic." Ydwin sighs, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wait, what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I'm, well, I'm to come with you. I'd like to come with you. If you'd have me. Please have me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Absolutely not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>His mouth falls open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Are you... are you certain? Can I not change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Entirely certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"These people need you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Don't you have a cult to run?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>With a sigh, Vatnir's tripartite gaze falls to the frozen ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh, please do not encourage them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I mean, I am returned to you, to guide you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Hafjórn can take care of them. I know you don't &lt;i&gt;need&lt;/i&gt; me, but I can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Fine, you can come along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The answer is no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The godlike's lipless mouth twists into the semblance of a smile. He turns back to his community.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Is that a yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I go forth to spread word of these miracles. Keep this place safe in my absence!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Considering that most of their houses were boats to begin with, they could just flip everything upside down and be ready to go." 
+
+Edér nods to himself. The villagers only gawk at him in silence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You've not yet led us astray, Brother Vatnir. We'd be fools to doubt you now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Truly this is a blessed day! All hail the Beast of Winter! All hail the Duskspeaker!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vatnir frowns but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Like Vatnir said, Rymrgand's pleased. Your work here is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I &lt;i&gt;killed&lt;/i&gt; the Beast of Winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What work would that be exactly? Seems to me you mostly sit around fishing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You are entirely beneath Rymrgand's notice. Nothing you do can please him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Listen you pointy-eared idiots! Get off of this iceberg! Go! Now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Gasps rise from the crowd of Harbingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'll do the same to you if you don't get off this iceberg!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You failed. He's dead. There's no reason to stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The gathered Harbingers shrink away, wilting before your threats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>One of Ydwin's pale eyebrows arches at you from above a carmine eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The crowd begins to break apart, muttering to one another as they mill back towards their dwellings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Someday you'll get yours, Duskspeaker. There's no ending Rymrgand until endings themselves end."
+
+Hafjórn's head falls as he turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Do not be so quick to judge an uncomplicated life, captain. The gods do not love you any more or less than they do these folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"We protect the temple! We sing the songs of winter and call down the cold!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Then stay and protect it. I don't care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Nervous whispers envelop the crowd as the Harbingers look to one another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Hafjórn rubs the back of his head as the other Harbingers look to one another for guidance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You're a real... well, a real not nice person, Duskspeaker."
+
+The hooded elf turns from you and joins his coreligionists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Uh, good job, everyone. Let's pack everything up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Chatted with the gods. Killed some monsters. Standard Watcher fare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"But what of, what of Rymrgand's messenger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Can you at least tell us what became of... ahem... Rymrgand's messenger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The Harbingers exchange nervous glances at your silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Becoming right rote, it be. Makes a lad half consider taking up religion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It &lt;i&gt;is&lt;/i&gt; becoming something of a routine occurence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"We could always change it up by chatting with the monsters. Give it a thought." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Good practice for when we catch up to Gaun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Show them the phylactery.] "She's in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"She tried to fight Rymrgand. It didn't work out for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I talked her to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I killed her. Again. She's very, very dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Don't worry about her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"But... the dragon is the messenger, is it not? Brother Vatnir - you were there. What did you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Don't - ? That's a tall order! You went to the temple, right? You have to tell us &lt;i&gt;something!&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Don't worry about it? But, but what of the Vytmádh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Your little white gate isn't important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"It was, well, illuminating." He coughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Turned out that old lizard was just afraid of Gaun's sickle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Some of us are more used to it than others." Maia playfully jabs you in the ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The Harbingers exchange worried glances as a murmur rises among their number.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>The Harbingers recoil from the relic. Some stare at it in wide-eyed terror or curiosity, while others avert their gaze from the object.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"She's not - you can't just - Ugh! What about the temple? No harm came to the Vytmádh, I pray?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Fair enough, I - suppose, but what of the Vytmádh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Sweet hoarfrost and dead gods... that's all that's left? Did you... did you harm the Vytmádh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Incredible... and the Vytmádh? Does it persist? Or did you hide it in a box somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Where is Brother Vatnir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"The Beast of Winter tested him, and he was found wanting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Back at my boat, I think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"He's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"He's decided to join my crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Oh. Uh. Sure. What... what happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"It's important to us! It's everything to us!" a hooded Harbinger calls from the crowd. The others nod vigorously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Then it's truly over. There's no reason for us to stay here, is there? What - what are we to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>A dozen hooded heads droop in defeat. You can almost hear your own heartbeat in the silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>The Harbingers look to one another, relief visible on the few hoodless faces. Vatnir steps forward and raises a hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The Harbingers gape as you turn away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Some of the Harbingers exchange worried glances, while others nod at your words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"We'll... we won't hold your words against you, Duskspeaker. You've clearly been, well, addled by your hardships."
+
+Hafjórn sighs sadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"We, well, there's work to be done. Perhaps you'd better go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Ydwin sighs and rubs her temples with both hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ydwin chuckles quietly as she pushes her spectacles up her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I'm certain they will, given their fantastic record of decision-making thus far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"The Watcher's not mistaken, brothers and sisters. Find better uses for your talents. Rymrgand needs you elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Should we... should we perhaps get dinner started?" one of the Harbingers asks another. He's answered with a noncommittal shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>With heads bowed, the Harbingers pray to the Beast of Winter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

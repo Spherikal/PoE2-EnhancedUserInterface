@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_exit_pylons_destroyed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Water floods into the ruins. You have just enough time to pull on your diving suit before the water crests your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Though you're in no danger of drowning, you're not yet safe. The rumbling deep in the ruins doesn't subside but instead grows louder by the moment. You dart out the window opposite the pylon and start the long swim up to your waiting ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Partway up to the surface, you notice that it's getting harder and harder to take full breaths, and the bulk of the diving suit is now starting to weigh you down. Something is very wrong with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Shrug off the suit and make a mad dash for the surface.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Examine the suit for damage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Rig a quick fix for the helmet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A quick once over reveals that a rent in the helmet is letting water in, reducing the amount of air being cycled by Iverra's magic and thus making the suit heavier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You swim for the surface as fast as you can, feeling exposed now without the diving suit. Eventually you see light up above just as you begin to see spots in your vision. You finally break the surface and gulp down fresh air before clambering aboard your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You swim for the surface as fast as you can, feeling exposed now without the diving suit. Before you even see light from above the ocean, you begin to see spots in your vision. As your vision goes black you push forward with a burst of speed born of desperation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Barely conscious, you break the surface of the water and greedily fill your lungs with fresh air before clambering aboard your ship, exhausted but alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>With no time to spare, you tear off a piece of cloth from the suit and quickly wrap the damaged portion of the helmet. Water continues to trickle in, but at a much reduced rate and you eventually make it back to your ship fully intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You tear off a piece of cloth from the suit and attempt to wrap it around the damaged part of the helmet. Try as you might, you can't get the water to stop flowing in. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You continue to swim for the surface, growing more and more sluggish from the suit's weight and lack of air. At long last, you finally see light of the surface. You break the surface and clamber aboard your ship, exhausted but alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

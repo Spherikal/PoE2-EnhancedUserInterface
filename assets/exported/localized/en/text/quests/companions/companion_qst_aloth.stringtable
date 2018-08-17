@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Painted Masks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wait for &lt;b&gt;Aloth&lt;/b&gt; to explain further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Watch for signs of the "&lt;b&gt;Painted Masks&lt;/b&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sail to &lt;b&gt;Ori o Koīki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Search &lt;b&gt;Ori o Koīki&lt;/b&gt; for signs of the Leaden Key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tell &lt;b&gt;Aloth&lt;/b&gt; about what you saw in &lt;b&gt;Ruāsare's&lt;/b&gt; soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sail to &lt;b&gt;Ori o Koīki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Aloth&lt;/b&gt; has spent the last five years trying to reform the Leaden Key into a force for good, but the task has proven difficult.
+
+He wants my help to find a Leaden Key cabal in Deadfire that may provide him with much-needed insight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Aloth&lt;/b&gt; mentioned that he's been tracking the Leaden Key. He promised to tell me more once he's had the chance to review his notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Aloth&lt;/b&gt; told me about an ancient Leaden Key cabal in the area known as the "&lt;b&gt;Painted Masks&lt;/b&gt;."
+
+He said no one in the region seems to know that name, so our best hope is to keep an eye out for signs of the Leaden Key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I found evidence that the &lt;b&gt;Wahaki&lt;/b&gt; attacked the merchant ship. &lt;b&gt;Aloth&lt;/b&gt; still thinks the symbol painted on the sails is evidence of a Leaden Key connection.
+
+Perhaps we can learn more on &lt;b&gt;Ori o Koīki&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've reached &lt;b&gt;Ori o Koīki&lt;/b&gt;, and there are strange signs of a Leaden Key presence, from the mask-like face paintings of the Wahaki to the artwork. 
+
+I may be able to learn more by looking around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I found a memory of &lt;b&gt;Ruāsare's&lt;/b&gt; past life as a long-ago chieftain of the Wahaki. It seems &lt;b&gt;Thaos&lt;/b&gt; came to scare her people into abandoning the Engwithan ruins. 
+
+She executed Thaos instead, yet their interaction cemented the Wahaki's suspicion of outsiders. Thus, the tribe has unintentionally served the Leaden Key's interests for almost two thousand years.
+
+&lt;b&gt;Aloth&lt;/b&gt; will want to know about this. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>&lt;b&gt;Aloth's&lt;/b&gt; description of the "Painted Masks" reminded me of the &lt;b&gt;Wahaki&lt;/b&gt;, a Huana tribe.
+
+We may be able to learn more at &lt;b&gt;Ori o Koīki&lt;/b&gt;, their home island.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>We came across a drifting ship. The crew was dead, but &lt;b&gt;Aloth&lt;/b&gt; thought they might be connected to the Leaden Key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I decided not to investigate the ship. &lt;b&gt;Aloth&lt;/b&gt; was disappointed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I read the soul of one of the dead crew. They were simple merchants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>We couldn't determine who killed the crew, though it's likely they're somewhere in the vicinity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>We met a group of &lt;b&gt;Wahaki&lt;/b&gt; at &lt;b&gt;Motare o Kōzi&lt;/b&gt;. They wore face paint, but we were unable to learn more from them. We'll have to look for answers elsewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Aloth was humbled by the story of Thaos' mistake. He considered whether he's been misguided in his efforts with the Leaden Key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Aloth was encouraged by the story of Thaos' unlikely victory. He seemed heartened to know that even his imperfect efforts regarding the Leaden Key may mean progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Aloth&lt;/b&gt; has spent the last five years trying to dismantle the Leaden Key, but the task has been more complicated than he expected.
+
+He wants my help to find a Leaden Key cabal in &lt;b&gt;Deadfire&lt;/b&gt; that may provide him with much-needed insight.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

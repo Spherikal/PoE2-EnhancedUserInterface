@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ikawha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Seated upon a chair before the bonfire, Ikawha looks considerably more comfortable here in her home village. She prods absently at the coals with a long stick.
+
+Ikawha's lined face is pocked with fading scars, but there's no hostility in her calm appraisal as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"May Amira's winds blow sweet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"There are enough Mataru here to defend the village. You are safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I am for friendlier fires. If you would speak, seek me out in our village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mokeha is causing trouble in town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I thought you should know that I found some Huana at the digsite. They were killed when Eothas arrived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Did your people see the giant?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I thank you for delivering this news. I will tell their families, and we will mourn them together.
+
+"But you will journey on, into the god's wake. I wish you luck, outsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Do you not benefit by this? You are an outsider, too. 
+
+"The Kahanga would say we are of one people. I have not found it so."
+
+Ikawha's mouth twitches faintly with subdued mirth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I wonder if you imagined you would return, the day you left these islands behind." 
+
+Her mouth twists with some small amusement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I am told that the people of the Republics have little love for their cousins in the old country. Or perhaps it is the other way. 
+
+"It is not so different for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How nervous poor Clario must be, to find that Ondra has set a man of Rauatai upon his island."
+
+A smile tugs at her mouth.</DefaultText>
+      <FemaleText>"How nervous poor Clario must be, to find that Ondra has set a woman of Rauatai upon his island."
+
+A smile tugs at her mouth.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"For many years, I had only ever seen one of your kind. 
+
+"And then - the Vailians come, and many things change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I have had it shown to me, on a map, the lands at the edge of the world. 
+
+"I did not ever think to meet a man from such a place."</DefaultText>
+      <FemaleText>"I have had it shown to me, on a map, the lands at the edge of the world. 
+
+"I did not ever think to meet a woman from such a place."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"They told me what became of your ship. I say again that you are lucky. It is the only ship that survives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I could protect Port Maje, or else its ships, but not both. Perhaps Clario thinks I chose poorly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Mokeha is proud, like her father. Each day this alliance tests her patience. 
+
+"What has happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Those who try to steal fish from Ngati's jaws come to lose their hands." 
+
+Ikawha regards you with weary suspicion, glancing pointedly at the offering bowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Pocket the coins.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Put back 10cp] "Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Me? I didn't take anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ikawha turns back around, and her shoulders shake with quiet laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It is only a warning." 
+
+She turns back around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Pretend to return the coins.] "Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ikawha's mouth twitches with amusement. She raises her eyes to the nearby totem, murmuring something her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Is she your daughter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I just need her to return what she stole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ikawha sighs deeply, and folds her hands in her lap. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mokeha is no thief. She has all she needs here. What need has she to steal?"
+
+Ikawha's tone does not brook argument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"She nearly killed a man!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mokeha could have killed him, if she wished to. Is it not enough that he lives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Leave] "Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"She shares my blood, my caste... my temper. But she is a daughter of the tribe.
+
+"It is... different, among our people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>For all her stillness, Ikawha's face is dark with rage. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I welcome you into our village, as I have all Clario's people. And this is how you repay my trust?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Mokeha attacked me. I had no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"She got in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"It was what she deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm sorry, Ikawha. I did not mean for things to end in violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I will permit you to leave in peace. You are fortunate for that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"For what? A tavern brawl. For this you have killed my daughter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Leave this place. You are not welcome - not you, nor Clario's people. 
+
+"If there are storms to come, Port Maje will weather them without my help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Perhaps Ngati sends a sign. I have been a fool, to have endangered my people."
+
+"For what? Useless trinkets and foul company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Then I say you will not leave here alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"It doesn't look like the storm did much damage here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Some of it is mere luck. Most of our canoes were here, by the shore. 
+
+"We did lose one of our voyagers. It will take some work to replace it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Better than it may seem. Clario can be reasoned with, especially if one approaches him with coin in their pocket.
+
+"He is not a cruel man. I suspect he might even enjoy life on the Island, if he were free of his masters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I guess you and the governor don't really get along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why do you allow these outsiders to stay here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Yes. One of the old titans, say the priests. 
+
+"Ondra is angry, though why our priests do not know. I am only glad it has journeyed elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That giant is Eothas. I need to know where he's going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Truly, the sons and daughters of every empire have come to the Deadfire. 
+
+"You are far from home, Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"In time, we will leave this island for another. 
+
+"If they wish to make houses of stone, to settle here and await far greater storms... What is it to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A titan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ngati- &lt;i&gt;Ondra's&lt;/i&gt; realm harbors many great beasts. 
+
+"They say the ancestors of the Kahanga tribe, and so their queen, hold pacts with such creatures. My priests wonder if this is her doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Berath has sent me to track the giant down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Can you help me free my ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yes. But it will take Clario's assistance. 
+
+"Convince him, and I will aid you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Why wait on Clario's word?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I'll do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You are one of his people, now. It falls on him to protect you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Good. Then that is settled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A worthy task, for a priest of the god of death. If I can help you, I will. And then, perhaps you will speak kindly of us to Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Eothas? Is it redemption you seek, then? You risk much, to chase a god across the sea. 
+
+"The Dawnstars, too, wish to meet this god. What if he does not wish to be found?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Which way did it go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I do not know. Most fled the sight of it, and Clario has provided little information. 
+
+"This was the subject of our argument. Perhaps he will tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Clario mistook you. My people say that Port Maje is the scene of slaughter. 
+
+"Are you a pirate in truth? Or do the gods send you, like the giant, to bring death to our island?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"The Vailians must be mistaken. Speak with her. You will see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You can turn her in, or wait for the Vailian mob to come and kill her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Mokeha is one woman. You need to do what is best for the rest of the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"About Mokeha..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ikawha inclines her head, and motions for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I see...
+
+"Governor Clario would call it superstition. I know you speak truth. Are there worse omens, than to hear that the God of Rebirth has brought death upon your people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"But you mean the Vailians, of course. The traders.
+
+"They come with ships, guns, medicine. Wine, and food. We gain from helping them, and lose little." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"When the traders come again, with supplies and guards, they will look to our village for answers. Perhaps blame us.
+
+"Unless you are dead when they arrive."
+
+With that, she rises from her throne, and the nearby guards move into position beside her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"To a Storm Speaker, the storm is a friend, gentled by a word. And Sātahuzi is blessed with several Storm Speakers. 
+
+"We were able to shield the village from much of the weather."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I've tried speaking to her, but I'm getting nowhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I see. What is it you wish for me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Maybe you could smack some sense into her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"She needs to go to Port Maje and face justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I am the one who told her to go and learn more of the Vailians. To make peace. 
+
+"I do not think my advice has worked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Why? What are their laws to us? The Vailians do their best to cheat us in every contract.
+
+The Vailians would not treat her fairly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"If you want to keep the peace with Clario, this is the only way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I promise that she will get a fair trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You said it yourself. Your people have come to rely on the traders for supplies you can't make yourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"She lives in your village. She's your responsibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"If you wish something from Mokeha, my advice is to trade for it. Is that not how the outsiders get everything they need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'm not sure yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Return once you are certain. I will help if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Perhaps you are right... But I know what the Vailians will make of this victory. 
+
+"They will drag Mokeha before a crowd. Humiliate her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's for the best, Ikawha. Trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"A few thrown tomatoes never hurt anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I see you trade very freely with your honor."
+
+Ikawha's tone is dismissive, but her expression remains solemn. She taps the arm of her throne with her clenched hand, thinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Very well. I will send Mokeha to face judgment. 
+
+"If the Vailians see that we respect their laws, perhaps they will begin to respect ours as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Then... I agree. 
+
+"The Vailians will see that we respect their laws. Perhaps they will begin to respect ours as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Why do business with the Vailians?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ekera, do not all people trade for the same reason?
+
+"The Vailians have brought us guns, medicine. Wine and food. Some of them, we have even convinced to help with the canoes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"My people have come to enjoy these things. The medicine has helped many of the children recover from fever. 
+
+"We gain from this peace. So long as Clario keeps his Company masters away, we lose little." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"If they wish to forego trade for the sake of one man, then so be it. I will explain this to Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Who cares what the Vailians say? She'll be back here soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"It is late, outsider. Get some rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

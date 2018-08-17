@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_dragon_prison</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Shadow Under Neketaka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the &lt;b&gt;guild&lt;/b&gt; for &lt;b&gt;Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find &lt;b&gt;Mairu&lt;/b&gt; in the &lt;b&gt;sanctum&lt;/b&gt; beneath the guildhall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrieve &lt;b&gt;Guildmaster Mairu's&lt;/b&gt; rod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Uncover the threat to the &lt;b&gt;guild&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Decide what to do with &lt;b&gt;Scyorielaphas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Speak with &lt;b&gt;Queen Onekaza&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Speak with &lt;b&gt;Guildmaster Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Speak to &lt;b&gt;Guildmaster Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Retrieve &lt;b&gt;Guildmaster Mairu's&lt;/b&gt; rod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>With matters in the Deadfire reaching a boil, &lt;b&gt;Queen Onekaza's&lt;/b&gt; watershapers must be ready for anything. In spite of the pressures from all around, the head of the &lt;b&gt;Watershapers Guild&lt;/b&gt; does not answer the queen's summons. 
+
+Onekaza needs someone to find &lt;b&gt;Guildmaster Mairu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nāga have attacked the guildhall and the first floor is littered with bodies - none of them &lt;b&gt;Mairu&lt;/b&gt;.
+
+She might need help holding her forces against this attack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Guildmaster Mairu&lt;/b&gt; is leading a counterattack against the nāga incursion in the &lt;b&gt;sanctum beneath the Watershapers Guild.&lt;/b&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>In her dying breaths, Mairu indicated that an important &lt;b&gt;rod&lt;/b&gt; was taken, presumably by the nāga. She suggested that the rod was the key to preventing something from escaping the &lt;b&gt;sanctum&lt;/b&gt;.
+
+She also began speaking some sort of prayer, but was unable to finish it before she died. It may have something to do with the &lt;b&gt;door&lt;/b&gt; she mentioned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've retrieved the Rod of the Deep Hunter. According to Mairu, I can open the &lt;b&gt;stone door&lt;/b&gt; near the &lt;b&gt;entrance to the sanctum&lt;/b&gt; and finally deal with whatever is behind the tremors and the attack on the guild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;Scyorielaphas&lt;/b&gt; seeks freedom from the guild that long ago ensnared him. He makes promises of deepest gratitude, but releasing him could hamper the education of acolyte watershapers and cause unknowable havoc besides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The &lt;b&gt;queen&lt;/b&gt; will expect a full report on the events that occurred at the Watershapers Guild. She can be found in the &lt;b&gt;rooftop garden&lt;/b&gt; of &lt;b&gt;Kahanga Palace&lt;/b&gt; in Serpent's Crown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I've found &lt;b&gt;Guildmaster Mairu&lt;/b&gt;. She's looks like she's been badly injured.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>&lt;b&gt;Guildmaster Mairu&lt;/b&gt; can be found at the &lt;b&gt;Watershapers Guild&lt;/b&gt; in Periki's Overlook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>The spirit of Guildmaster Mairu told me to seek out a &lt;b&gt;rod&lt;/b&gt; stolen by the nāga and use it to open the stone door by the entrance to this &lt;b&gt;sanctum&lt;/b&gt;. She wishes for me to strengthen a set of wards, though what they guard is still a mystery. 
+
+She said that the words of &lt;b&gt;Periki's Devotion&lt;/b&gt; will open the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've felt the strongest tremor yet. If I leave the guild now, it'll be too late to stop whatever is behind all this chaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>There is a &lt;b&gt;stone door&lt;/b&gt; by the entrance to this hidden sanctum, but I don't have the means to open it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The full text of &lt;b&gt;Periki's Devotion&lt;/b&gt; is as follows: 
+
+Pitied is Ngati, Lady of Lament.
+As the pearl orb of the heavens crosses her view,
+Her eyes well with tears as constant as rain. 
+But the moon's skyward journey continues apace,
+The lovers' affection as ephemeral as fingers touching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>According to &lt;b&gt;Scyorielaphas,&lt;/b&gt; the Rod of the Deep Hunter is the key to his freedom and can siphon power from the wards encircling his &lt;b&gt;prison.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Scyorielaphas&lt;/b&gt; warned me against wasting his time. He will summon more nāga - and find another escape route - if I delay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>In exchange for his freedom, the dragon implied that he will assist me in a time of need. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>The tremors are increasing in strength. If something is about to escape the &lt;b&gt;guild ruins&lt;/b&gt; as Mairu believed, it's going to happen soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>I have read the manuscript which describes &lt;b&gt;Periki's Devotion.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>I found a copy of &lt;b&gt;Periki's Devotion&lt;/b&gt; in the ruins of the guild archive. These were Guildmaster Mairu's parting words - they must be important. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>I chose to engage &lt;b&gt;Scyorielaphas&lt;/b&gt; in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>&lt;b&gt;Mairu&lt;/b&gt; is dead, but her spirit remains. I should speak with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I set Scyorielaphas free upon Neketaka. This was the right thing to do, but I cannot anticipate what damage my choice might cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I decided to keep Scyorielaphas imprisoned. He was too dangerous to set loose upon Neketaka, and watershaping is too critical to the security of the city to chance it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I fractured Scyorielaphas' soul and set him free. The Huana may not be pleased that I unshackled their prisoner, but the power of watershaping is uninterrupted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Scyorielaphas is dead, his strength ripped from the watershapers. The Huana will not be pleased, but at least their prisoner is 'free,' after a fashion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>A sea dragon escaped the clutches of the Watershapers Guild. I had no part in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The &lt;b&gt;Watershapers Guild&lt;/b&gt; withstood a bloody attack, leaving the main hall littered with nāga bodies. Considering how the Huana hold their watershapers in high esteem, the Neketaka authorities would want the matter investigated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>The spirit of &lt;b&gt;Guildmaster Mairu&lt;/b&gt; told me to seek out a rod stolen by the nāga and use it to open the &lt;b&gt;stone door by the entrance to this sanctum.&lt;/b&gt; She wishes for me to strengthen a set of wards, though what they guard is still a mystery. 
+
+She said that the words of &lt;b&gt;Periki's Devotion&lt;/b&gt; will open the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

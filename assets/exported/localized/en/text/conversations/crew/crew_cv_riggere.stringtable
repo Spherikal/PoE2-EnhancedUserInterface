@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\crew\crew_cv_riggere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ado, stranger! Or is it captain? You have the carriage of a captain. A noble bearing, all around."
+
+The man in the cell wobbles slightly as he steps forward, fixing an eager smile and glassy gaze upon you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Aimico! Is it conscience or simple reason that compels you to return? Which thorny sentiment pricks at you? 
+
+"Free me, and be rid of this pain."</DefaultText>
+      <FemaleText>"Aimica! Is it conscience or simple reason that compels you to return? Which pricks at you the hardest? 
+
+"Free me, and be rid of this pain."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What did you do to end up in there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I did no one any harm! I am at the Kraken's Eye so often Thorel should pay &lt;i&gt;me&lt;/i&gt;. I sample every bottle for quality.
+
+"My loyalty has given him airs. I would have paid what I owed, in time. Had I the coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You walked out on a tab, Riggere. Nothing to boast of.
+
+"And &lt;i&gt;then&lt;/i&gt; you crawled up to the governor's estate, pissed on the steps, and resisted arrest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Do you know your way around a ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Do I know ships, he asks. I know every vessel on these waters. Every one. From the galleon to the... to the... every one of them, sir.
+
+"You have enemies? These fists will drive them into the waiting arms of the sea goddess."
+
+He clenches his fists, raising them above his head for emphasis.</DefaultText>
+      <FemaleText>"Do I know ships, she asks. I know every vessel on these waters. Every one. From the galleon to the... to the... every one of them, madam.
+
+"You have enemies? These fists will drive them into the waiting arms of the sea goddess."
+
+He clenches his fists, raising them above his head for emphasis.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Merla, I do not remember that at all. Ha. Right on the steps?
+
+"I am sorry for the last. I tell you, Savia, I cannot help my magnificent reflexes. You were being very grabby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You taunt me with your freedom, aimico. It is cruel."</DefaultText>
+      <FemaleText>"You taunt me with your freedom, aimica. It is cruel."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I could use you on my crew. What do you need me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The ice-hearted guard, she has set my fine at four hundred pires. I have... none. I flounder here until the debt is paid." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Your hands are scarred, but your face isn't. You must be well-trained."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ah, well. I followed the path, once. I may have... wandered a little. 
+
+"The sea, the strength in my hands... all the rum I can drink. To these things, I devote myself."
+
+He touches his brow with mock solemnity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Agracima, captain! See you at your ship!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Gellarde! Ah- Eccosi. Meet me by the market."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vidório! What a scene!
+
+"You have rescued me, frero! I could feel the very walls closing in on me. And then, freedom!"</DefaultText>
+      <FemaleText>"Vidório! What a scene!
+
+"You have rescued me, sérre! I could feel the very walls closing in on me. And then, freedom!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Welcome aboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"It is an unkindness to leave a sailing man ashore. What remedy for a fixed horizon and a dry throat but the bottle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Agracima, casità, for taking me on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Di verus? Haha! You will not regret this, mestre- no, &lt;i&gt;Captain&lt;/i&gt;! 
+
+"Sound the ship's bell and I will be there! Ac, I can hear the ringing already..."</DefaultText>
+      <FemaleText>"Di verus? Haha! You will not regret this, mestra- no, &lt;i&gt;Captain&lt;/i&gt;! 
+
+"Sound the ship's bell and I will be there! Ac, I can hear the ringing already..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What do you say? Will you return Riggere to the sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Any suggestions on how to get you out of there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"A matter of coin. Four hundred beautiful coins. 
+
+"...That, or the key, yes? The door is the thing." 
+
+Riggere leans in to wrap his fingers around the bars of his cell, rattling them to no effect. He sets his forehead to the bars, sighing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You think me idle, to ask this of you and do nothing? I have scratched, sir, a little mortar from beneath the bars at the window at every chance.
+
+"The, ah, stonework, it is very strong. I can do nothing by hand. With tools, perhaps. With... explosives, for certain."</DefaultText>
+      <FemaleText>"You think me idle, to ask this of you and do nothing? I have scratched, madam, a little mortar from beneath the bars at the window at every chance.
+
+"The, ah, stonework, it is very strong. I can do nothing by hand. With tools, perhaps. With... explosives, for certain."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hahaha! Sweet freedom!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Norgund, in the Kraken's Eye, he carries many such useful items.
+
+"All for legitimate use, of course. Animancers, they love explosives."
+
+He raises his brows, and grins toothily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You were the very spirit of justice. I must repay you.
+
+"Let me come with you! I am a good man to have aboard a ship. Ask anyone. Not Savia. Anyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Apretta, you must free me. I am a creature of the sea. I am not meant for this dark place.
+
+"I will dry and wither like a landed fish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The commander, she guards the key like a jealous wife. It would take steady hands to slip it from her pocket.
+
+"That is, if you have need of keys at all." He turns a finger in small circles by the lock, and winks clumsily at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"A prayer, mestre, to thaw the commander's heart? 
+
+"A joke, a joke. The gods themselves could not move her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What is a little piss? Look at him, his animal must urinate on everything. Does he raise a fuss?" 
+
+Riggere flaps a hand in your direction. </DefaultText>
+      <FemaleText>"What is a little piss? Look at her, her animal must urinate on everything. Does she raise a fuss?" 
+
+Riggere flaps a hand in your direction. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Poor Savia. She did not deserve such a fate."
+
+Riggere stares at the watch commander's corpse, his affable expression replaced with a somber grimace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I have a ship ready to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I guess you'd better start running, then. Goodbye and good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ah, a relief. You have left me little choice- We sail under your flag, then, away from this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"When my ship gets fixed, I could use another deckhand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"It is settled, then. I will find this ship of yours- when you are ready, we will flee this place together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Of course, that the guards will now assume that you and I were of one mind on this business.
+
+"Perhaps this is reason enough to join forces, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Agracima, casità, for taking me on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"No reason not to let me out now, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Agracima, casità, for taking me on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Riggere gives you a quick nod and avoids meeting your gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Do you know your way around a ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Do I know ships, he asks. I know every vessel on these waters. Every one. From the galleon to the... to the... every one of them, sir.
+
+"You have enemies? These fists will drive them into the waiting arms of the sea goddess."
+
+He clenches his fists, raising them above his head for emphasis.</DefaultText>
+      <FemaleText>"Do I know ships, she asks. I know every vessel on these waters. Every one. From the galleon to the... to the... every one of them, madam.
+
+"You have enemies? These fists will drive them into the waiting arms of the sea goddess."
+
+He clenches his fists, raising them above his head for emphasis.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You see, how fate has brought us together?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Agracima, casità, for taking me on."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

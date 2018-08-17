@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_belda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Merla. Ezzali is sharper than she lets on if she knew we were coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We won't get far while Vilami is on our tail!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'll see myself out. Better get back to Martino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Good work. That old veteran put up a spirited fight." Belda greets you with a weary grin, clutching a wound in her side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You need a hand?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ezzali's dead, by the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Good, because I'm not carrying you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Let's go, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Backup plan! No witnesses!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Surrender now and I offer you mercy. I make no promises that I'll follow through." Vilami grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Lay down your arms, thief. The odds are in our favor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"There's no need for you to die today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You will live again. Try to make fewer mistakes next time around." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Attack] "We didn't come to parley, Vilami! Kill them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If you don't mind, I'm not finished deriving a little joy out of this life." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'd be intrigued if I thought for a second that Ezzali means to spare me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She squeezes off a shot at Captain Vilami. The bullet catches him in the arm, and he reels away with a pained cry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"For your lives, boys! At them!" Belda raises her pistol and readies to fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"The odds can turn when you're distracted by too much talk." Belda winks and raises her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Merla. Di verus? I was just here to rob her.
+
+"Then again, I guess you're not so worried about the guards." 
+
+She nods at the corpses around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Now you're hunting for my last nerve. Just don't lock it behind you, bazzo."</DefaultText>
+      <FemaleText>"Now you're hunting for my last nerve. Just don't lock it behind you, right?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ah, it's touching that you care. Just... leave the window open. I'll see myself out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"After you." Belda rises to her feet, wincing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You head up those stairs and her people will cut you down. I suggest you head out the way I came, out the window in the room down that way.
+
+"I can take care of myself. Just need a rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"This... aheh, didn't go exactly as planned, did it?
+
+"If Ezzali didn't know you were crossing her, I'll bet she's figuring it out in a hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vilami, look out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Captain Vilami deftly steps aside as Belda squeezes off a shot from her pistol. The bullet misses its target by a wide margin. 
+
+Vilami nods to you with gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Merla again. Any chance of resuming negotiations? Thought not."
+
+She cocks her pistol and signals to the other thieves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"We'll return what we don't end up using. Just so there's no hard feelings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"If we're going to be in the habit of helping criminals, I'm glad this lot is more polite than the Doemenels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I have had enough of this stupid feud. I can only hope this brings an end to the nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"If we are robbing Vailians to aid Vailians, what do we achieve here then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"This ought to be fun. I've been meaning to teach Ishi how to crack a safe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"We really doing this, helping a thief? Now, don't look at me like that. I just had to ask."
+
+Xoti tosses her hands up in defeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You know we be entitled to ninety percent of every cocked-up heist we set aright, aye? Deadfire's Third Law, it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The burglar slowly brings her hand closer to a weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'm relieved we haven't lost sight of the important work before us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'm not leaving until I check out that vault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You're mad, hanging around here with Vilami's blood is still on your boots. 
+
+"No wonder Martino sent you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Anything you can get away with, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

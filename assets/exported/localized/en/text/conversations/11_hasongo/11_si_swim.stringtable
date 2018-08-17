@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_swim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The stairs descend to a flooded hallway. The water is clear, and the passage seems to continue for quite a ways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Swim into the passage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As the passage begins to grow dim and the water cloudy, you reach an intersection where the walls are spiderwebbed with cracks. 
+
+The hall continues to the left and to the right. The way on the left is dark. There's a faint glow to your right, but still, dark shapes obstruct the passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Orient yourself in the passage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your finely-honed sense of direction tells you that the hall to the right leads west, while the route to the left seems to bend southeast, back toward the docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Go left toward the barricaded room.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You swim down the hall and through the now-open door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The hallway curves around until you reach a door. It's swollen with water and stuck in place.
+
+You give it a cursory tug, but it will take more effort to pull it open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Pull the door open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You plant your feet on either side of the doorway and pull at the handle. 
+
+After several sharp yanks, it flies open, revealing stairs to the surface. You swim up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Use a prybar to open the door.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You wedge the prybar into the doorjamb and, bracing your feet against the ceiling, push all your weight into it. 
+
+The door pops open, revealing stairs to the surface. You swim up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Go right toward the dining hall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The route is much easier this time. Now familiar with the various obstructions, you navigate them easily enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You pull yourself past the corner and into a labyrinth of carnage. Debris from half-collapsed walls and shattered barricades clogs the tunnel. Corpses, weighed down by armor and bloated with decay, bob and hover in the open spaces. 
+
+You kick off the rubble to propel yourself forward. Even so, the way forward is more taxing than you'd initially thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Swim onward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You navigate the obstacles with deft strokes and powerful kicks, reaching another intersection with a wood-paneled wall and a ruined green banner.
+
+Seeing the promise of air and light on your right, you push toward it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Go back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You turn around and swim back, but your lungs are already burning by the time you reach the intersection.
+
+You continue on and surface in the kitchen, gulping gratefully at the fresh air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Swim back to the kitchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Stay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You step into the water. It's cool around your ankles.
+
+The stairs descend to the darkened, flooded passage. You are confident you remember the way back to the kitchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Swim back to the kitchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You retrace your route, feeling your way along stone walls and following gentle currents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Stay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The wooden steps are warped and waterlogged, groaning underfoot. Scum floats atop the surface of the water, which feels oily against your legs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Swim into the passage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>After just a few feet, you reach a wood-paneled wall with a green banner that billows gently in the current.
+
+The hallway continues to your left - the section on the right has collapsed. The way is dark, and it appears to be constricted with debris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Go left to the kitchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The route is much easier this time. Now familiar with the various obstructions, you navigate them easily enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Go down the dark hallway to the left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Swim back to the dining hall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Stay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You press on, and by the time you have a chance to regret that decision, you're too far ahead to turn back. 
+
+Your vision begins to darken. You pull and kick your way ahead, ignoring your burning limbs and focusing everything on the rapidly fading light. 
+
+Just when you think you can hold your breath no longer, you see light on the right and break the surface, your abused body trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You press on. [SkillCheck 0] appears to be struggling, but by the time you notice, it's too late to turn back.
+
+The exit is still a gray blur when you see the panic in [SkillCheck 0]'s eyes. You grab one of [SkillCheck 0]'s trembling arms and pull your companion toward the light. You reach a wood-paneled wall with a ruined green banner when you see the exit on your right. You push toward it.
+
+Once out of the water, [SkillCheck 0] doubles over and vomits a mouthful of seawater, trembling with exhaustion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Orient yourself in the passage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Your sense of direction is sharp enough that you know the hallway to the right leads west while the left passage leads east.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Go back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You turn around and swim back, but your lungs are already burning by the time you reach the intersection.
+
+You continue on and surface in the dining hall, gulping deep breaths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Pull the door open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Specified 0] braces against the doorway and pulls at the handle. 
+
+After several sharp yanks, it flies open, revealing stairs to the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You plant your feet on either side of the doorway and pull at the handle. 
+
+The door doesn't budge, but the effort thoroughly exhausts you.
+
+Having spent most of your strength, you're forced to spend the remainder frantically swimming back to the kitchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 0] braces against the doorway and pulls at the handle. 
+
+The door doesn't budge, but the effort thoroughly exhausts [Specified 0], who is starting to look frantic.
+
+The party is forced to swim back to the kitchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>When you reach the cracked wall and the first blush of light, you turn right and kick toward the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You pull yourself past the corner and into a labyrinth of carnage. Debris from half-collapsed walls and shattered barricades clogs the tunnel. Corpses, weighed down by armor and bloated with decay, bob and hover in the open spaces. 
+
+You kick off the rubble to propel yourself forward. Even so, the way forward is more taxing than you'd initially thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Swim onward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You navigate the obstacles with deft strokes and powerful kicks, reaching another intersection with a wood-paneled wall and a ruined green banner.
+
+Seeing the promise of air and light on your right, you push toward it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You press on, and by the time you have a chance to regret that decision, you're too far ahead to turn back. 
+
+Your vision begins to darken. You pull and kick your way ahead, ignoring your burning limbs and focusing everything on the rapidly fading light. 
+
+Just when you think you can hold your breath no longer, you see light on the right and break the surface, your abused body trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You press on. [SkillCheck 0] appears to be struggling, but by the time you notice, it's too late to turn back.
+
+The exit is still a gray blur when you see the panic in [SkillCheck 0]'s eyes. You grab one of [SkillCheck 0]'s trembling arms and pull your companion toward the light. You reach a wood-paneled wall with a ruined green banner when you see the exit on your right. You push toward it.
+
+Once out of the water, [SkillCheck 0] doubles over and vomits a mouthful of seawater, trembling with exhaustion.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_tuaha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>An aumaua clutches the hilt of a long sabre sheathed at her belt, her attention moving among the passers-by without ever settling anywhere for long. She stands as motionless and watchful as an owl.
+
+She turns to Maia and flinches, shaking her head subtly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Been a while, Tuaha. You're looking... healthy." Maia attempts an easy shrug, but it comes off looking forced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Don't say my name. Is he still there?" Tuaha hisses each word under her breath. She tips her head to indicate just over her shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Scan the crowd, see if anything stands out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The occasional pedestrian crosses your view, but everyone seems to be going about their business without tarrying for long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Just as you decide to give up, a passing Huana raises his eyes from scribbling on a page of notes. He pockets the parchment and steps back into the obscurity of the crowd. The gesture is innocuous enough, but the speed and ease of it leave you in doubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Well?" Tuaha addresses you through clenched teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We've grabbed someone's attention, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I knew it." Her grip on the sabre tightens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tuaha, I'm getting you out of this. We've pulled each other out of worse snags." Maia pats Tuaha on the arm, an attempt at encouragement that only causes her to flinch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Easy to say when it's in the past. This stalker is relentless, and he's always watching..." Tuaha rubs her palms together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What can you tell me about whoever is following you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"As I said before - he's Huana, and I've seen him scribbling on a sheaf of notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Like any good tail, he's indistinguishable from anyone else wandering around Port Maje. Probably why they picked him for the job." Tuaha's lip curls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sit tight and I'll get this sorted out. Whatever happens, he won't bother you again. Just... try and act casual?" Maia gives her an encouraging shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I will stand perfectly still and fill my heart with the words of our national anthem." Tuaha nods, resolute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"That's... yeah, that's exactly what I meant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"He's Huana - average height - and I've caught him scribbling on a sheaf of notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What happened last time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Complications. But that was a long time ago." Maia shares a knowing look with Tuaha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"No need to relive ancient history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"We don't really have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I don't see anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Of course he's gone by now." Tuaha glances over her shoulder and frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Lie] "By Skaen's eyes, he's coming!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Captain, that's enough." Maia shoots you a glare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Who are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm being followed. A man - Huana, I think - has tailed me for three days. He takes notes and looks for any excuse to watch what I'm doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You're sure he's not just a secret admirer?" Maia frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Quiet, soldier. My life - and more importantly, this operation - are on the line here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Can we get this over with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Until we get rid of my tail, I have nothing to do with either of you." She crosses her arms and turns away, projecting an air of obliviousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Come back with Maia or not at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Is he dead, or must I handle everything myself?" Tuaha crosses her arms and waits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You don't have to worry about your tail any longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Is this so?" Tuaha blinks, saving any hope for when she hears it from Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How do you and Maia know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"There's no easy answer to that. I was her commanding officer on a number of voyages. Later we were absorbed into the trading company, and found ourselves on more even terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I taught her how to distill mare's milk. She taught me how to read a Vailian sundial. It has been a most... useful acquaintanceship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You can just say we're friends... good friends." Maia nurses her brow and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Leave me be. I am waiting for a friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I have exhausted my use for you. Be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You saw that too, right?" Maia nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Maia, your choice of company has me worried." Tuaha scrutinizes you with open disgust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"We'll find your stalker and get rid of him, one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What are you doing that has him so curious?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I need to think this over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Just take your missive and go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Maia, I hope your... friend here can see his way to reason." Tuaha folds her arms and waits.</DefaultText>
+      <FemaleText>"Maia, I hope your... friend here can see her way to reason." Tuaha folds her arms and waits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Captain, I have my doubts about leaving this to chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You've never heard of giving your life to a cause?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I trust that a stalwart soldier like Tuaha here can get the job done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"While you're searching your feelings, some of us have a job to do." Tuaha turns all of her attention away from you and toward Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Just trust me. What could go wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm insulted that you would think otherwise. We are all prepared to sacrifice for Rauatai." Tuaha squares her shoulders and stands taller. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Maybe once we know for sure what our sacrifice can achieve..." Uncertain, Maia shifts her gaze from you to Tuaha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"If it means a peaceful Deadfire and prosperity for the homeland, then I accept the risk." Tuaha accepts her instructions with a steady hand and an eager expression, nodding to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Your... confidence in me is not misplaced. Maia, your captain has a keen eye." She nods sharply to Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sometimes. I wish I shared his confidence." Uncertain, she frowns at you.</DefaultText>
+      <FemaleText>"Sometimes. I wish I shared her confidence." Uncertain, she frowns at you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Maia, I think I would prefer to handle this through you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Company business." Maia and Tuaha blink as they say it as the same time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Company business." Tuaha clears her throat into her fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Who's your shadow? I'll string him up by his thumbs before he lays a hand on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Well he's obviously not one of ours, unless Atsura sent someone to monitor me. Must be working for the... other side." Tuaha aims an anxious glance in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Don't you get it? My shadow has been WAITING for this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I don't care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"We can look into the matter of your stalker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"This could get Tuaha killed, and letting a company mission fall into the wrong hands... it could be dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Maia and Tuaha exchange a meaningful and thinly-disguised look of uncertainty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"And I don't have your luxury of choice. Whoever is following me could have a blade with my name on it." She shrugs, showing little emotional attachment to the matter one way or the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Did you get a look at him at least?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"We took care of it, just like I said we would." Winking, Maia holds out Atsura's missives.
+
+Tuaha snatches the papers away with a blur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Glancing over the pages, Tuaha licks her thumb to turn each sheet. She nods, muttering under her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Everything seems to be in order. I'll see to it that these are addressed in good time." The edge of her mouth creeps up into a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What did Atsura send you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Let's be off." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"We should be going. It's been an absolute delight." Maia clasps her hand, but Tuaha winces at the contact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"That's... enough of that, soldier. Atsura will know your performance was adequate." She pulls back, wiping down her palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"And you, Watcher. Rauatai thanks you for your service." She bows stiffly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'm supposed to pass these down the line and into the next set of hands. More of what you've done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"That's discretion for you." She tips her shoulder with a lopsided shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"That doesn't exactly answer my question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"That's classified." Maia rolls her eyes as she and Tuaha say the same thing at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Maia. Here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"'Other side?' Maia, care to elaborate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I get it. I'm not supposed to ask questions, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Not everyone in the Deadfire lays out the welcome mat for Rauatai. That shouldn't be any surprise." She frowns, considering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You catch on quick. We'll talk later, okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Accepting anything from Atsura - even a requisition for a new cannon - could put me in danger." She turns to Maia, wearing a doubtful expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"That stalker acted like he was a spy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Maia and Tuaha exchange an uncertain glance, mirroring each other's frown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Doesn't it? That's all the answer I have." Tuana tips her head, studying you with genuine curiosity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Maia... we're discussing what happened here later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Yeah. Yeah, I thought we would." Shrugging, Maia delivers a hard and meaningful salute to Tuaha, even as the other Rauataian turns - acting in every way a stranger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I got your stalker's notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Let me see those." Tuaha accepts the sheaf of notes and begins flipping through the pages, shaking her head all the while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"My schedule, my quarters, my... other habits." Blushing, Tuaha crumples one sheet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Good work. Now that I have this, I can elude our Huana friend. Maybe even feed him some 'facts' to draw him away from the scent." She taps her chin, smiling a little as the possibilities unfold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Hm. A good thing he's dead, or I'd have to kill him for good measure." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

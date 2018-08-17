@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_culture_clash</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Burning Bridges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find &lt;b&gt;Mokeha&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Confront &lt;b&gt;Mokeha&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to &lt;b&gt;Rinco&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to &lt;b&gt;Rinco&lt;/b&gt; with the coin purse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to &lt;b&gt;Rinco&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tensions are running high between the &lt;b&gt;Huana tribe&lt;/b&gt; and the &lt;b&gt;Vailian settlers&lt;/b&gt; of &lt;b&gt;Port Maje&lt;/b&gt; in the wake of the storm. One of the Vailians claims to have been violently accosted by a Huana warrior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rinco, one of the vendors at the local market, claims to have been having a friendly round of cards at the tavern when he got into a fight with &lt;b&gt;Mokeha&lt;/b&gt;, a high-ranking Huana villager. 
+
+He came out of that fight the clear loser. Bedridden, Rinco's asked me to retrieve the money Mokeha stole, in exchange for a portion of the winnings. 
+
+Rinco suggested I could find Mokeha in the &lt;b&gt;Huana village&lt;/b&gt; to the &lt;b&gt;northwest of Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found &lt;b&gt;Mokeha&lt;/b&gt;, the ill-tempered Huana warrior. Now to convince her to relinquish her prize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Mokeha is dead. That may give &lt;b&gt;Rinco&lt;/b&gt; some satisfaction, if nothing else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I have &lt;b&gt;Rinco's&lt;/b&gt; coin purse, and can return it to him at his &lt;b&gt;home by the harbor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I convinced Ikawha to hand Mokeha over to the guards. It may please &lt;b&gt;Rinco&lt;/b&gt; to hear that the situation's being handled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ikawha mentioned that &lt;b&gt;Mokeha&lt;/b&gt; has always been partial to carvings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Mokeha&lt;/b&gt; had a different version of events. She says that &lt;b&gt;Rinco&lt;/b&gt; refused to pay her when she won the card game. When she insisted, he insulted her. As far as she's concerned, the fight was a matter of honor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critically important to the completion of this quest has been killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I took care of Mokeha and returned Rinco's property. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>It took some persuading, but I managed to get Mokeha to see reason. She and Rinco will never be fast friends, but this should at least keep things from souring further between the Vailians and the Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I decided to let Mokeha keep the money. Rinco won't be pleased, but it's not as if he can do anything about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I decided not to trouble myself with Rinco's problems, and took his money for myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I convinced Rinco to leave Mokeha alone. He's not happy about it, but at least this won't escalate any further.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

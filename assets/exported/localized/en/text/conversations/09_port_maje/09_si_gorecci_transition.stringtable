@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_gorecci_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you make your way along through the side streets of Port Maje, you come upon visible traces of the storm's passing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Many of the houses here boast cracked window panes and sagging awnings, and you pass narrow streets strewn with foliage and debris.
+
+The cobblestones beneath your feet are still slick with water and silt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Before long you are ankle-deep in sucking mud and loose stones.
+
+The flooding only worsens up ahead, where the water level rises to the knees. Most of Port Maje's residents have fled this region for dry land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>But the murmur of raised voices ahead, and the occasional splash, suggest that you are not entirely alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

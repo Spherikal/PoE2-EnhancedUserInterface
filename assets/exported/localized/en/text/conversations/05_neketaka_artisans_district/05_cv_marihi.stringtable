@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_marihi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I say you look like someone who wants protection &lt;i&gt;and&lt;/i&gt; a certain something about presence, ekera?" 
+
+The Huana woman scans you up and down, nodding as she measures your proportions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"If you need iron or steel - maybe even something lighter - I've got plenty in stock." She smiles and tips her head toward her wares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Periki's Overlook is an interesting place for an armorer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ekera, they wouldn't put a... 'traditional' smith here unless she brought something special." She sighs and glances toward her tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I keep it interesting working with exotic materials like shark leather, since there's some demand and little supply." She shrugs, running her hand across a length of hide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Holler if any of the iron or steel laying around catches your fancy.
+
+"Or if you need something repaired, I'm happy to take a glance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"It isn't every day that I cater to your kind, but I like a challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Worry not. I can hammer any plate to fit the right size." She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Last time you showed your face here you left with a swollen thumb." She raises her brow upon spotting Tekēhu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ekera, you swing the forge hammer with... such grace, I say." Tekēhu mutters and fluffs back his hair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"A better compliment than you paid last time. I'll take it." She turns her focus back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"My clients want everything engraved and beautiful. Wasn't why I got into the business, but it keeps my debtors happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Show her the shards of the Whispers of Yenwood.] "Can you do anything with these?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Curious metalwork, I say. These engravings..." 
+
+Marihi runs her finger along the faint Glanfathan runes. Enraptured, she sways on the spot until she shakes herself back into the moment, clearing her throat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'd like you to repair the Whispers of Yenwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ekera, I will get started at once. 
+
+"Have a seat. This will take time." 
+
+Squinting and biting her lower lip, Marihi takes a closer look at the weapon shards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"My friend, your handsome blade is restored. A good thing it was made of exceptional steel." 
+
+She balances the weapon on her palms and sighs down at the craftsmanship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Forget I asked. 
+
+"This is no small challenge. Fifteen hundred pires is the price." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Such a shame to see it go. But go it must."
+
+She relinquishes the sword with care. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"My thanks, Marihi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If you're ever in need of spare coin, I'd be happy to take that off your hands. Enjoy it in the meantime." She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Show her the shards of the Blade of the Endless Paths.] "Do you think you can reforge this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ekera, such fine work..." She peers closer and runs her finger along the engravings, squinting to make them out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It is not beyond my skill to reforge this, but it is close. Let us say fifteen hundred pires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Here, repair the Blade of the Endless Paths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I will get started at once! Kindly wait and I will be with you soon." She gathers up the shards and chuckles, excitedly spinning a forge hammer in her hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Your unusual blade is restored. Ekera, but I saw such strange visions in the light of the forge... ah, no matter."
+
+She hands you a familiar estoc, grinning all the while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"My thanks, Marihi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It is for these moments that I labor, my friend. May you be satisfied with your strange metal." 
+
+She inclines her head and touches her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Show her the shards of the Blade of Endless Paths and the Whispers of Yenwood.] "Can you do anything with these?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ekera, but these wonders have suffered greatly! I say you must take better care of your things." 
+
+She sets down the shards and frowns at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Something about the metal... it yearns to bond as one. 
+
+"I &lt;i&gt;could&lt;/i&gt; join all of these pieces into a greatsword for three thousand pires."
+
+She lifts her gaze to meet yours, the excitement of a challenge in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Combine the shards and craft the greatsword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ekera! When you swing this beauty you must make sure to you tell your foes that Marihi sent you!" 
+
+She gathers up armloads of shards and gestures for you to wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Whispers of the Endless Paths! A most brooding and gloomful weapon, I say."
+
+She passes you the greatsword with a proud sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"This is some fine work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm honored to have the trust of such a fine customer. Do not hesitate to bring me another challenge, ekera?" 
+
+She inclines her head and touches her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"A god stepped on my castle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Lie] "Swung it too hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She narrows her eyes as if weighing the truth of your words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"How did you ever manage to break this wonder?"
+
+She clutches the shard, giving you a look full of accusation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I know, believe me. So what do you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It's not wise to question how I use my weapons, Marihi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I say I could repair these to their working order for fifteen hundred pires each."
+
+She thumbs her chin and considers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ekera... as you say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"May it chop your enemies into fine pieces for the delight of Tangaloa."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

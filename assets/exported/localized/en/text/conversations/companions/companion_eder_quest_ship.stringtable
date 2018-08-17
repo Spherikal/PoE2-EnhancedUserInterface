@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_quest_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>196</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"No, no, we're too late! Look for Bearn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bearn? Bearn? You see him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This is him. He's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"A gift from Eothas! Glorious death is our path to him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Most of 'em are dead. Do you see Bearn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"The others have drunk, Bearn. Their souls make their way to Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"This isn't the time for hesitation. It's the time for faith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Come. Let us show him together."
+
+The man uncorks a vial hanging from his neck filled with a viscous fluid of earthy red. He raises it and waits. 
+
+With unsteady hands, Bearn uncorks an identical vial hanging from his own neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No, no, no, no, kid!"
+
+Edér has stepped forward. His palms are outstretched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bearn nearly drops the vial. He catches awkward hold of it between his forefingers.
+
+His gaze drifts up to Edér. He stares with dull eyes, as if he's trying to place him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What is this? You aren't one of my flock. How did you get here?"
+
+Edér ignores Bosc, keeping careful eye contact with Bearn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Lower that. Let's talk."
+
+Bearn waits, the vial now clutched in one hand at chest height.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"We found evidence Bosc is a phony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Hear us out. Decide once you've heard all sides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You have doubts about this. You're questioning, just like your mother must've taught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You don't have to do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"That's right. That, uh, that vision of his, he got it from another Dawnstar."
+
+Bosc scowls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You can't let him decide for you. You know what Elafa would think of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Your mom knew how to spot a fake. What do you think she'd say about him?"
+
+Edér nods toward Bosc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You've, uh, you've got a lot to live for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"No, that's not right. He would never..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"She... isn't here to decide for me, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"How could I know? She left me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I would be alone in this world were it not for the light of Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The vial in Bearn's hand hovers now just above waist height.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bearn stares down at the liquid in the vial, watching it lap against the sides with the trembling of his hand.
+
+He draws it above his shoulders, held out before him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What is faith if it isn't tested? These people are willed here by Eothas to challenge you. Make him proud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I will make him proud."
+
+It sounds almost like a recitation.
+
+Edér's mouth is open but he has no answer. He looks to you, desperation in his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Your soul won't pass to Eothas. It will pass into adra and through the core of the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Your leader has read too many parables. The gods seldom have cause to test our faith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"The Shining God shows himself and asks for what he wants. He has no need of blind faith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Listen, the gods aren't really gods. They were built from the souls of ancient kith. You have to believe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You can trust a Watcher to know something about that.
+
+"You won't get a choice with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Maybe he's not testing faith. Maybe he's testing if you can think for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Faith went by the wayside soon as he turned a Readceran's head into a pillar of light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I know that's a lot to take in... and maybe harder to believe than anything your cult leader is saying..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"But- Surely a god can claim my soul when it draws near..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But our faith, isn't that what the gods ask of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"If only he could share his vision with me. This could be so much simpler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Yes... it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bearn's hand lowers. It hangs at his right side, the vial dangling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bearn holds the vial at chest level, and looks prepared neither to drink it nor to drop it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bearn draws the vial up within inches of his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Eothas has come just as I said he would. There will be no other chances."
+
+Edér fumes at Bosc, his hand drifting toward his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"He must be in need, to reach out to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Effigy's eyes, kid! You think your tiny soul's gonna change his fate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"As a Watcher I will pin your soul to the floor. You will never reach Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Edér is right. On the margin, the impact of a single added soul would be infinitesimal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The contribution of a single unremarkable person to a great movement is easily replaced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I doubt you'd be missed if you stayed behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"And we'll smack it around awhile, too, on behalf of your mother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Right, that's, uh, that's the basic idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You're a young man, just finding your place. Leave the dying to people like this dung heap."
+
+He indicates Bosc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Uh, what he means is, you're probably more valuable to Eothas alive."</DefaultText>
+      <FemaleText>"Uh, what she means is, you're probably more valuable to Eothas alive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You'd keep me from my destiny, out of spite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But he- he has called for us..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Tending fields while he marches to change the world? Unlikely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bearn's expression shifts suddenly. He looks like someone who's been slapped hard across the face.
+
+His fingers relax, and the vial clatters to the ground, spattering the deck with what might easily be mistaken for a gruesome bloodstain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The vial in Bearn's hand hovers now just above waist height.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bearn stares down at the liquid in the vial, watching it lap against the sides with the trembling of his hand.
+
+He draws it above his shoulders, held out before him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bearn raises the vial to his lips and inverts it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"History doesn't look kindly on deserters, Bearn. Nor will your god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hard to blame his deserters - they got to live. Meanwhile his last 'vanguard' got burned right out of the world, bones and all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I've come this far. How could I be forgiven for failing him now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The gods oppose Eothas, and I have their ear. When they stop him, it's not his forgiveness you'll need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Eothas led my people from one state of ruin to another. Don't be so eager to follow him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Commanders who order their troops to die for their own glory deserve no loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm sure he'll come to forgive you in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Look at you. You're short, underfed, untrained. And you think Eothas needs you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Eothas doesn't deserve your life. Or even your crazy leader's. Not till he starts making some sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"He's the god of redemption. You'll be all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I never figured I was worthy of receiving his explanation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"No. Redemption and forgiveness are different. Redemption is making up for your failings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bearn's hand lowers. It hangs at his right side, the vial dangling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bearn holds the vial at chest level, and looks prepared neither to drink it nor to drop it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bearn draws the vial up within inches of his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It's now or never, Bearn. Will you abandon your god, or will you come to his aid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Edér looks to your group.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Who exactly demands this sacrifice, Bearn? Eothas? Or him?" He stares at Gaderian with naked contempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Listen to me. You gotta listen, kid. Bearn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You can build something in his honor, like I did. A town. A temple. A good life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You can help his followers, like I did. There's so many hurting out there. So many lost, or outcast, or hunted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bearn's expression shifts suddenly. He looks like someone who's been slapped hard across the face.
+
+His fingers relax, and the vial clatters to the ground, spattering the deck with what might easily be mistaken for a gruesome bloodstain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Bearn raises the vial to his lips and inverts it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Eothas forgive me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"No, no! Stop!"
+
+Edér is too far away, and can only watch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Edér takes what sounds like his first breath in a while.
+
+His fingers trace over his mouth and beard in a rhythm of reassurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"As you wish, then. Abandon your god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"For betrayal there can be no forgiveness. You will receive not his mercy but his justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Don't you got somewhere you need to be, Bosc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"All acts can be forgiven by a truly benevolent soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"In all likelihood Eothas will be defeated again, whatever his plans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The decision is made. There is no point in fearing an outcome beyond reckoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"There's no fate that can't be cheated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"If you're having second thoughts, I can help you follow through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Not a one."
+
+Bosc smiles and raises his vial toward Edér in toast. He downs the fluid in a single gulp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"The Shining God will light the way."
+
+He barely gets the sentence out before the first spasms wrack his frame. A reddish froth bubbles from his lips and he collapses to the floor, flopping and arching like a netted fish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Think he's all right? He looks a little seasick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"If only he'd died before he got everyone else involved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Not in much of a condition to lead a charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'd kill him again if I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Too bad religious fanatics don't often carry much in the way of valuables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Bearn stares silently at Gaderian Bosc. Spittle bubbles on the lips of the corpse are still popping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Lucky you weren't stronger, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"The gods might have rights to our souls, but they got no right to our lives.
+
+"Seems to me they'll take from you whatever's not nailed down, if you let 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I could devote my entire life to Eothas and it would never redeem this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Edér swallows and tries to say something. In the end he just nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"For right now, let's just get you home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Bearn's breath catches in his throat. He tries again, but the passage is already constricting.
+
+He leans over his knees, but loses his balance as tremors begin to move up his legs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Induce vomiting with your fingers.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Edér, dump the contents of your pipe down his throat. Don't ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Administer taru taru combined with ripple sponge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I don't know if I can help him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>You rush to Bearn, whose body now convulses head-to-toe. His jaw is clenched tight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Wasting no time, Edér lunges for Bearn, whose body has begun to convulse. He jams his pipe into Bearn's froth-leaking mouth and twists it upside-down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You rush to Bearn, whose body now convulses head-to-toe. His jaw is clenched tight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Bearn's body now convulses head-to-toe. Reddish froth collects at the corners of his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Eothas, this boy has shown his faith. Do you truly need his soul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Wael, I place this boy's fate beneath your always-varying gaze and submit to your unknowable judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Berath, this boy owes no toll to the Pallid Knight. Will you not spare him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Magran, this boy has completed his trial. I ask you to intervene on his behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Skaen, O Quiet Slave, this boy was a victim of one more powerful than he. Will you act on his behalf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Then, lifelessly, Bearn's body is brought to its feet as if by invisible strings. His mouth opens, and reddish-brown liquid floats outward from it in the shape of a snake. 
+
+The snake slithers to the ground. It blinks at you with many eyes, then dissolves instantly into a puddle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Bearn's lifeless body remains still on the ground. No help is coming for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Impossibly, sunlight begins to pour in through cracks in the decks above. The light rays crawl across the floor and focus brightly on Bearn from all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Bearn's seizures quickly worsen. He writhes and shakes on the ground. His head pounds rapidly against the deck, his breath an interrupted gasp. 
+
+After a few moments, it stops altogether - and the seizures with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>A peal of high-pitched, horrid laughter wends its way through your mind like a dragging talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>A desiccated voice blows through your mind like a cloud of dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Try to help.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Do nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Bearn's seizures quickly worsen. He writhes and shakes on the ground. His head pounds rapidly against the deck, his breath an interrupted gasp. 
+
+After a few moments, it stops altogether - and the seizures with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Bearn takes a sudden deep, forceful breath that ends in a fit of coughing. Then he takes another breath, and another.
+
+He is alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The tightness releases in an upwelling of warm rusty fluid that ejects violently from his mouth and pours down your arm.
+
+His spasming slows but his breath is still constricted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"So be it. The boy's toll shall be paid with a portion of the Hollowborn souls you returned to the Wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>You rush to attend to Bearn, but find there is little you can do to save him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>You stand there watching while Edér rushes to Bearn, who's collapsed to the ground.
+
+Edér looks over Bearn, then back to you, shaking his head, at a loss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"That's a miracle like I've never seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Why- why am I still here?"
+
+Bearn's expression is pinched and upset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Whatever Eothas had in store, it was cold and destructive. It wasn't for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Eothas' cause may have been worth joining. But you're too young to make that choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"You were conflicted. Eothas deserves soldiers who are sure of themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"We saved you, ungrateful child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I should be there. I should be there! I made my choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Well, we made you a better one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You're gonna have a long time to think about whether you chose right.
+
+"It's not as clear as you'd think, trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Edér cries out, frustrated, raw.
+
+He puts a hand to his face and looks down into it, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"What was this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"He gave his life for something he believed in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"He was the victim of a madman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Eothas used him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Maybe he really is going to help Eothas achieve something worthwhile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I guess he did. 
+
+"Wish he didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"A madman who might really have had a vision from his god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I'd like to believe that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Edér kneels next to Bearn. He puts his hand on the boy's shoulder.
+
+After a moment, he rises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"We should go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I could never make up for abandoning my god in his time of need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"During the Saint's War, me and my brother, we had a choice to make. It was just like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"We saw it different, he and I. He chose our god. I didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I'll never see him again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"And I don't know where his soul is now, but I don't think Eothas was around to save it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You're gonna stay here. There's better ways to serve your god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Maybe not a statue ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Edér looks at Gaderian Bosc with a cocked head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"That would've been me. If I were stronger, it would've been me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Force his windpipe open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Braving sour, putrid fumes, you inhale deeply and then exhale directly into Bearn's mouth as hard as you can. 
+
+You repeat it, over and over, losing count several minutes in. Bearn's vital signs continue to dim, until his body stops convulsing altogether.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Then, all at once, Bearn's body reanimates, wheezing and hacking and gasping for air, his eyes flung wide.
+
+The fit settles, and for the moment Bearn appears to have stabilized.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"If one day Eothas comes asking where you were when he needed you, you can point him to me. 
+
+"He and I, we got things to discuss anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>A wave ripples upward through Bearn's body and he retches brownish liquid in a wide arc. He drops to his knees and continues until there is nothing left to spit up.
+
+His convulsions reduce to tremors, and then disappear. His breathing steadies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Timing your move between spasms, you manage to wrench open his mouth and slide your middle finger down his throat.
+
+Pushing deep, you feel the slippery flesh tighten around your finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Timing your move between spasms, you manage to wrench open his mouth and thrust an antidote down his gullet, snatching back your hand before the next spasm causes him to bite down.
+
+You stroke downwards on the outside of his throat until it relaxes and he swallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Judging the color and consistency of the liquid Bearn consumed, you suspect it's venom from an Aedyran tree viper, and know that taru taru, when combined with ripple sponge, can mitigate its absorption and counteract some of its effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Bearn drops to the floor and continues to convulse. However, you can hear his breath finding more room through a dilating windpipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The seizures run their course and finally release their hold on Bearn, who lies on his back, breathing steadily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Bearn's seizures quickly worsen. He writhes and shakes on the ground. His head pounds rapidly against the deck, his breath an interrupted gasp. 
+
+After a few moments, it stops altogether - and the seizures with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Bearn's seizures quickly worsen. He writhes and shakes on the ground. His head pounds rapidly against the deck, his breath an interrupted gasp. 
+
+After a few moments, it stops altogether - and the seizures with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bearn's seizures quickly worsen. He writhes and shakes on the ground. His head pounds rapidly against the deck, his breath an interrupted gasp. 
+
+After a few moments, it stops altogether - and the seizures with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Bearn and Bosc are both dragged to their feet by cruel, unseen hands. Their struggles for breath become choking cries of agony as their clothes and skin are rended in long strokes as if from an invisible lash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"What did you do?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Blood begins to seep from the corners of Bearn's eyes, then from his nostrils, ears, and mouth. 
+
+The last sound from each victim is a shrill, blood-choked scream. They collapse in ragged piles on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"We're all so trusting. Our gods don't deserve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Not just that he's helping Eothas. But that Eothas is doing something good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>In two labored gulps, it's empty.
+
+Bosc, with a satisfied smile, follows his disciple's lead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Come on, say something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Bearn, sometimes you need to make a decision for yourself. Your superiors don't always have the right answers. Believe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Your thoughts be more knotted than Rauatai rigging, lad. The farmer be speaking sense for once. Better to live for a god then die for one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>In one final, rigid convulsion, his breath stops and his body settles heavily on the deck in an unnatural pose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I have seen evidence of the true nature of the gods. You are wise to question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Beware of men who claim the authority of the gods. They often have little care for mortals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Edér's right." He takes a deep breath and glances to you.
+
+He looks as if he can't believe he just said that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I don't see him. Let's check downstairs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"C'mon, if he's here, he's belowdecks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Interlopers! In glory is the Lighted Path revealed to us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Kid, don't do this! Stay back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_betrayal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Honor Among Thieves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Confront &lt;b&gt;Aeldys&lt;/b&gt; at &lt;b&gt;Fort Deadlight&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak with &lt;b&gt;Aeldys&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to &lt;b&gt;Furrante&lt;/b&gt; in Dunnage's &lt;b&gt;Balefire Beacon&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Decide Aeldys' fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Defeat &lt;b&gt;Furrante&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Offer &lt;b&gt;Aeldys&lt;/b&gt; Furrante's terms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Remove &lt;b&gt;Furrante&lt;/b&gt; from power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Speak with &lt;b&gt;Aeldys&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Read &lt;b&gt;Aeldys' soul&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Give &lt;b&gt;Furrante&lt;/b&gt; Aeldys' terms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Speak with &lt;b&gt;Captain Furrante&lt;/b&gt; at &lt;b&gt;Dunnage&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Speak with &lt;b&gt;Aeldys&lt;/b&gt; at &lt;b&gt;Fort Deadlight&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Speak with &lt;b&gt;Aeldys&lt;/b&gt; at &lt;b&gt;Fort Deadlight&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Furrante&lt;/b&gt; has charged &lt;b&gt;Aeldys&lt;/b&gt; with having committed crimes of defiance, negligence, excessive cruelty, and sedition against the &lt;b&gt;Príncipi&lt;/b&gt;. &lt;b&gt;The Council of Captains&lt;/b&gt; has voted to execute Aeldys, however, she is the only one who knows the means for which to summon the &lt;b&gt;Floating Hangman&lt;/b&gt; - information Furrante needs before Aeldys can hang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Furrante has tasked me with carrying out the execution of &lt;b&gt;Captain Aeldys&lt;/b&gt;. She's holed up in her refuge, &lt;b&gt;Fort Deadlight&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Furrante&lt;/b&gt; believes &lt;b&gt;Aeldys&lt;/b&gt; has been withholding information on how to control the Floating Hangman. He needs this information before she can hang for her crimes. She's imprisoned at the top of the &lt;b&gt;Balefire Tower&lt;/b&gt; in Balefire Beacon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I learned how to summon the &lt;b&gt;Floating Hangman&lt;/b&gt; from reading Aeldys' soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Aeldys has destroyed her research on the Floating Hangman. Unless she's convinced to share this information the only way to gather it is by reading her soul after she's died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've freed Aeldys from the guards who held her captive at the top of the &lt;b&gt;Balefire Tower&lt;/b&gt;. Only &lt;b&gt;Furrante&lt;/b&gt; and his loyal council members stand in our way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Furrante is willing to offer &lt;b&gt;Aeldys&lt;/b&gt; a lighter punishment - exile instead of death - if she gives up the information she has about the &lt;b&gt;Floating Hangman&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Aeldys is prepared to work with me to control the Floating Hangman. First, &lt;b&gt;Furrante&lt;/b&gt; must be deposed. The captain continues to lead the Príncipi from his fort of &lt;b&gt;Balefire Beacon&lt;/b&gt; in Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>It came to a violent end. Furrante and his loyalists are dead. I'll let &lt;b&gt;Aeldys&lt;/b&gt; know that she is free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Aeldys was executed for treason. &lt;b&gt;Furrante&lt;/b&gt; has asked me to read her soul in order to uncover the information she hid about the &lt;b&gt;Floating Hangman&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Aeldys has agreed to take Clussa's Voyage in exchange for what she knows. Hopefully, &lt;b&gt;Furrante&lt;/b&gt; will agree to these terms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>The Príncipi leader has bid me visit him in the &lt;b&gt;Balefire Beacon&lt;/b&gt; of Dunnage. Something of vital importance to the interests of the Príncipi has taken place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>I've dealt with Furrante on my own terms. The old council leader no longer has any sway on the Príncipi. &lt;b&gt;Aeldys&lt;/b&gt; will assume leadership once I let her know of the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>I've dealt with Furrante on my own terms. The old council leader no longer has any sway on the Príncipi. &lt;b&gt;Aeldys&lt;/b&gt; will assume leadership once I let her know of the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; is convinced &lt;b&gt;Furrante&lt;/b&gt; will never step down once his power is absolute. She suggested breaking her lose and taking the fight to Furrante, once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; has offered to take Clussa's Voyage in exchange for the information she knows about the &lt;b&gt;Floating Hangman&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I convinced &lt;b&gt;Furrante&lt;/b&gt; to let &lt;b&gt;Aeldys&lt;/b&gt; leave &lt;b&gt;Dunnage&lt;/b&gt; on Clussa's Voyage, as long as she reveals the means to summon the &lt;b&gt;Floating Hangman&lt;/b&gt; and never sails under the Príncipi banner again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; is willing to give up her information if &lt;b&gt;Furrante&lt;/b&gt; steps down from his position on the &lt;b&gt;Council of Captains&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I tried reasoning with &lt;b&gt;Aeldys&lt;/b&gt;, but she wouldn't see it my way. As long as &lt;b&gt;Furrante&lt;/b&gt; is in charge, she'll die before giving up the information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I took matters into my own hands and killed &lt;b&gt;Aeldys&lt;/b&gt;. In doing so, her soul revealed to me the means to summon the &lt;b&gt;Floating Hangman&lt;/b&gt;: a Darcozzi oath spoken over the sword while at sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>In lieu of the charges pressed against Aeldys, Furrante had her executed. All dissent among the Príncipi has been silenced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I was able to find evidence of Furrante's involvement with the slavers - a crime punishable by death in the Príncipi. With that knowledge I was able to convince the Príncipi that Furrante should be executed in Aeldys' stead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>In light of the charges pressed against her, I was able to convince Aeldys that her best bet in regaining her honor was to undergo Clussa's Voyage and take her chances with the storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>In lieu of the evidence of Furrante's treason, he agreed to give up his position as head of the Príncipi as long as the truth never came to light, leaving Aeldys to take over the Council of Captains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I decided to end Aeldys' life. Now Furrante may lead the Príncipi without further obstruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I decided to end Furrante's life. Aeldys may now take over the Council of Captains and lead the Príncipi across the Deadfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>I decided to kill both Aeldys and Furrante, sealing the fate of the Príncipi now that they have no one to lead them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>I left Aeldys behind at Balefire Beacon after agreeing to help her. Furrante won't take kindly to our actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Furrante&lt;/b&gt; and &lt;b&gt;Aeldys'&lt;/b&gt; differences have come to a head, and Furrante has asked that she answer for her crimes against the &lt;b&gt;Príncipi&lt;/b&gt;, sending me as his executioner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; admitted to destroying any evidence of the modern name of where &lt;b&gt;Lucia Rivan&lt;/b&gt; and &lt;b&gt;Yseyr&lt;/b&gt; did battle years ago. However, she did it as a precaution to keep &lt;b&gt;Furrante's&lt;/b&gt; hands off it once she was certain it was the right location. Now that she is, she is prepared to work with me to find it. All that is left is to deal with Furrante who stands between her and a new era for the &lt;b&gt;Príncipi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>I've received a letter from &lt;b&gt;Furrante&lt;/b&gt;. He has summoned the &lt;b&gt;Council of Captains&lt;/b&gt; to &lt;b&gt;Balefire Beacon&lt;/b&gt;, in Dunnage, and has asked me to meet him there as soon as possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

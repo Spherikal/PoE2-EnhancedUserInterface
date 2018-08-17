@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_okauro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An armored Huana turns and looks you up and down. She holds this motionless pose across a long and contemplative silence. 
+
+Finally she draws out a single pire and balances the coin on her knuckles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hunter. Do you come to serve your coin bond?" Okauro folds her arms and studies you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What say, traveler?" Okauro turns to face you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Payment for heads. It could be no simpler, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What bounties do you have available?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Do you have any other hobbies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I am a paladin of the Goldpact order. Since taking my oath, I have never been absent of work and duty for longer than an afternoon." 
+
+She stands rigid and raises a fist over her heart, but something in her manner softens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If you would forge a coin bond, I know of people on these islands who must die. 
+
+"Their fate is already decided. The coin wishes only to collect." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Dhwgras the ascetic is wanted for crimes against his monastic order. His people have made a coin bond for his death." 
+
+She holds a pire and lovingly inspects its edge, running her index finger along the curve. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Onadere the siren haunts the rocky shore and steers ships to a watery grave. The surviving crews of a dozen vessels have rallied their coin against her."
+
+She holds a pire up to the sky and admires how it catches the light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ikorno, a wizard of great cunning, slays Mataru warriors in single combat. Some accuse him of being an agent of Rauatai. 
+
+"They have forged a coin bond to see him killed." 
+
+A pair of coins sit on her palm. When she passes her other hand over them, only one remains. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The Rathun warlord Urnox Breinth has been terrorizing merchant ships across the archipelago. He seems to think the islands require his protection." 
+
+She sets pires in the gaps between each of her splayed fingers and admires the effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Give Dhwrgas' head.] "One dead ascetic for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Give Onadere's head.] "Sailors can rest easy. For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Give Ikorno's head.] "I brought justice to the wizard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Give Urnox's head.] "His flames have been extinguished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Then our clients have transmuted gold into justice!"
+
+She inclines her head as she passes you a heavy pouch of coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Your coin bond has muffled a killing song. Excellent work." 
+
+She clasps your hand in hers as she passes you a pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Imagine what we could make of these isles if more Huana knew how to use coin as a weapon?"
+
+She tucks the severed head under her shoulder and nods, passing you a pouch of coin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"There is great power in a promise kept. And great rewards." Okauro hefts a mighty sack of coins and deposits in your arms without hesitation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You have served your coin bond with distinction. Go and line your pockets with riches exchanged for promises fulfilled.
+
+"I will do the same." 
+
+Okauro inclines her head and touches her brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Go and serve your coin bond. Enrich yourself on vows fulfilled." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Before I go I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'll return with his head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Speak freely, I say." She pats a heavy purse at her side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'll return with her head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You are bonded to bring me the head of a bounty already. Do not overtax yourself!" 
+
+She chuckles and passes a jingling purse between her palms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"By the time you return with evidence of your duty fulfilled I will be ready with more work." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'm still hunting for Urnox the Rathun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm still hunting the wizard Ikorno."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'm still hunting for Onadere the siren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'm still hunting for Dhwrgas the ascetic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The coin bond is patient. It knows that you are committed to your course." 
+
+Okauro's lips crease with the ghost of a smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I will be here when you are ready." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I always serve the highest bidder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Lately the gods tend to steer me around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me, are you someone who walks the path that coin lays out before you?"
+
+She arches her fingers in a wave, causing the coin to flip from one knuckle to the next. 
+
+She seems enraptured by the motion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ekera. You understand better than most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"In death they steer your soul, but in life you are bound to coin." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Transmuting actions into payment is the alchemy that orders our world. All things turn on the axis of a &lt;i&gt;coin bond&lt;/i&gt;."
+
+She touches her brow with her free hand as she says the word. Her coin continues its winding journey uninterrupted. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I enjoy getting paid, if that's what you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I pay bounties so that death can bring order to life. Would you help me continue the cycle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Then you deceive yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'll give it some thought first." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I should be going. Right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Weigh the matter. You will arrive at the same place, I think." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Know that we &lt;i&gt;honor&lt;/i&gt; our bounties by letting them take part in a mechanism as old as Berath's Wheel."
+
+She rests her hand on the pommel of her weapon and nods, surveying the district with pride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"The orlan wanders the wilderness on the island of Crookspur, northwest of Neketaka." 
+
+She closes her fist around the pire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"She can be found in the western isles of the great Kua o Rikuhu chain." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ikorno pages through his grimoire in the central isles of the Kua o Rikuhu chain." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"He was last seen taking shelter on an island in the southern midpoint of Magran's Teeth. 
+
+"The coin does not wish him to stifle trade. Enemies have bonded their funds to see this monster slain." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You have proven to me that you know the value of a coin bond. There is more work for you, if you'll have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"We are not finished. Your bond is needed again, and if your purse has room we may help each other." She raises her brow and waits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Our work is almost finished, your bond nearly exhausted, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I also enjoy knitting. On occasion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Waste of money. If he was one of our agents he wouldn't have gotten caught." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It is not for us to say what is right or true - only to keep our vows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nice doing business with you, Okauro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"It goes without saying, sister. Of course." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Try and steal her coin.] "Maybe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You snatch up the coin before it can vanish into Okauro's fist. 
+
+Or you thought you did. Closer inspection reveals your hand is empty. 
+
+Okauro smiles and holds your gaze. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The coin vanishes into her fist before you can close the distance. You accidentally brush hands with Okauro, who looks deeply into your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The next time payment crosses our hands, let it be in the execution of a bond. A vow. A bounty." 
+
+Holding the coin in two fingers, she lays it flat in your palm and leaves it there. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Sorry. I won't try that again. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

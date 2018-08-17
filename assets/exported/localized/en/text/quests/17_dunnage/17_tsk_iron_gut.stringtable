@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\17_dunnage\17_tsk_iron_gut</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Iron Gut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak to &lt;b&gt;Rosanella&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Acquire the ingredients for &lt;b&gt;Ondra's Bile&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to &lt;b&gt;Iron Gut Pietro&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Iron Gut Pietro&lt;/b&gt; swallowed a valuable gemstone - &lt;b&gt;Ngati's Black Tear&lt;/b&gt; - to avoid its theft, but now he's unable to pass it through his system. I've offered to help him "retrieve" the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Talk to &lt;b&gt;Rosanella&lt;/b&gt; at the &lt;b&gt;Radiant Court&lt;/b&gt; about a medicinal concoction that might help Pietro purge the gemstone he swallowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Rosanella gave me a list of the ingredients for Ondra's Bile - a &lt;b&gt;rotten hagfish&lt;/b&gt;, an &lt;b&gt;unripened palm stone&lt;/b&gt;, and a vial of &lt;b&gt;fire kelp extract&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Bring the ingredients for Ondra's Bile to &lt;b&gt;Pietro&lt;/b&gt; at the &lt;b&gt;King's Coffin&lt;/b&gt; in Dunnage. And then stand way, way back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I should look around &lt;b&gt;Lifter's Refuge&lt;/b&gt; for any rotten hagfish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>One of the merchants at the &lt;b&gt;Radiant Court&lt;/b&gt; might have unripened palm stones for sale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Rosanella told me that I can purchase fire kelp extract from the &lt;b&gt;King's Coffin&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I acquired a &lt;b&gt;rotten hagfish&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I acquired an &lt;b&gt;unripened palm stone&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I acquired a vial of &lt;b&gt;fire kelp extract&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Jacob Harker&lt;/b&gt;, owner of the &lt;b&gt;King's Coffin&lt;/b&gt; in Dunnage sells fire kelp extract for 250 pires a bundle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Iron Gut Pietro vomited up the gemstone and gratefully gave it to me after wiping it clean.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

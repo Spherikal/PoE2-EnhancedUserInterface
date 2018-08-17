@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_bm_alleys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>227</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You enter a dim alleyway that reeks of urine and torch smoke. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Explore the Narrows.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Go to Delver's Row.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Go to the Gullet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Go to Dereo's hideout.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You leave the hustle of Delver's Row behind you and fade into the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A long passage stretches to your left and right. Shadows move in the guttering torchlight, but they're nothing more than shapes at this distance.
+
+The chatter and bustle of the Gullet continues behind you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The tunnel broadens into an exit.
+
+Through the passage, you hear the tumult of the Gullet - the shouting, wailing, and laughter of hundred of Roparu. The stink of garbage wafts toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Exit to the Gullet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>This tunnel ends, but another branches off.
+
+The only sounds are the crackling of torches and the steady drip of water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You trudge along the darkened passage and reach an intersection.
+
+The tunnel branches off to the right. You hear the distant murmur of voices down the darkened path, but see no one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The alley winds on ahead of you.
+
+To the right, you hear the din of a multitude and smell the musk of many bodies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You come to a door. It's as solid as the stone around it, with no handle and no knob.
+
+It's deathly quiet on the other side. You rap gently on the door, and the sound echoes as if in a wide, empty space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>This tunnel ends, but another branches off.
+
+The only sounds are the crackling of torches and the steady drip of water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The stone floor is littered with fish bones and bread crusts and stamped with footprints in all shapes and sizes. 
+
+Voices echo down the passage ahead of you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The passage opens into a large cavern. Below you, ramshackle buildings crowd together like broken teeth. A maze of streets winds between them, some barely wide enough for two to pass abreast.
+
+And yet throngs of people fill the narrow streets and tiny plazas, their voices rising with the smoke of hundreds of torches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Explore the neighborhood.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The stone floor is littered with fish bones and bread crusts and stamped with footprints in all shapes and sizes. 
+
+Voices echo down the passage behind you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The alley winds on ahead of you.
+
+To the left, you hear the din of a multitude and smell the musk of many bodies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The tunnel branches to the left. 
+
+The floor around the entrance is spattered with something as thick and dark as tar.
+
+It looks like svef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>On your left is an abandoned merchant stall displaying cheap jewelry.
+
+The path continues ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Inspect the merchant stall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You trudge along the darkened passage and reach an intersection.
+
+The tunnel branches off to the left. You hear the distant murmur of voices down the darkened path, but see no one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You trudge along the darkened passage and reach an intersection.
+
+The tunnel branches off to the left and right. You hear the distant murmur of voices but see no one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>A handful of guards emerge and block your way, crossing their thick arms over their chests.
+
+One of them spits a viscous black glob at your feet. He rolls a dark plug between his teeth. 
+
+"Better head back, friend. It's invitation only past here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The guards nod and let you pass, chomping loudly on mouthfuls of svef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>At the end of the passage is a stately door crafted of polished mahogany. Through the small slit in the door, you catch flashes of fire-cast shadows and bright textiles. The scent of sandalwood and cinnamon oil come to you on a warm draft.
+
+Whatever's beyond the door is likely far more elegant than anything else you've seen near the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Enter the hideout.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Attack the guards.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Dereo sent a messenger for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The floor around you is stained with dark wads of phlegm. The alley curves away to the right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>A tunnel opens to your right. Rats squeak and skitter away at your approach.
+
+The way before you corkscrews into darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>On your right is an abandoned merchant stall displaying cheap jewelry.
+
+The path continues ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Rats flee your path as you trudge back down the tunnel. You reach an intersection that continues to your left and right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Go through the curtain behind the merchant stall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You're walking along when several hooded figures materialize out of the darkness. 
+
+"Not so fast. You gotta pay a toll if you wanna visit Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Attack] "Then I'll pay in steel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Dereo the Lean granted me safe passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You peer through the curtain at the tunnel beyond. It continues to the left and right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The guards in the tunnel nod and let you through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>You continue on, and the rough stone changes to smooth cobbles under your feet. Wan lamplight shivers ahead, as yellow and tremulous as fear itself.
+
+Before you is a narrow cavern that writhes with shadows and echoes with the music of jingling coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Enter Delver's Row.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You make your way forward, feeling the walls to guide yourself in the darkness. 
+
+Your hands come away slimy. You smell something foul further down the tunnel - the stench of loosed bowels and the metallic tang of blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Search the body.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>A tunnel opens to your left. Rats squeak and skitter away at your approach.
+
+The way before you broadens in the torchlight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You find a small note stuffed in the dead man's pockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>At the end of the tunnel, you find a body slumped against the wall. Stab wounds rend the corpse's clothes and flesh, and its arms and knees twist at unnatural angles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You pick your way down the worn, uneven stairs and descend into the hubbub below. 
+
+Huana men, women, and children surround you, all laughing, haggling, and quarreling over one another. You notice a few foreign faces - Vailians, Aedyrans, and even a few Rauataians slipping through the crowd. A heady mixture of frying fish, unwashed bodies, and accumulated refuse permeates the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You pass a busy stall where a man serves murkbrew in chipped shells. A rich, nutty aroma rises on plumes of steam.
+
+You hear a gasp of surprise behind you and see a small group of people huddled together, chattering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>You come across a Roparu man and woman sitting on a rooftop, watching the activity below. 
+
+They're passing a pipe back and forth and talking quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>You find yourself in the middle of a shop-lined street, packed shoulder to shoulder with the people around you. You can barely move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>You take it all in, moving through the masses without incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Return to the Narrows.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>You trek back toward the tunnels, leaving the cavern behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Continue exploring the neighborhood.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>You come across a corner where a pair of thugs - a man and a woman - have surrounded a Huana man. He has a potbelly and a nervous expression, and he's backed himself as far into the corner as he can.
+
+The thugs advance. "It's an exchange. You pay us, and we don't hurt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>But you know how pickpockets operate.
+
+You keep your hands over your valuables. As a passerby brushes against you, you feel a hand reach for your purse. You grab its wrist and pull the thief toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>You feel a hand brush your leg as you push through the crowd. You reach down and find your purse lighter than it was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>As a passerby brushes against you, you feel a hand reach for your purse. But you're faster.
+
+You snatch a narrow wrist and pull the would-be thief toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Before you is a Huana child. Her eyes are wide with terror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Intimidate the child.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Let the child go.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Steal the child's money.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Teach the child better technique.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She rubs her wrist, backing away from you. At last, she takes off, darting under and past the long legs of adults.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She's wary at first, but she slowly draws closer as she watches your quick, practiced movements.
+
+With your encouragement, she mimics your deft maneuvers. She does quite well.
+
+She thanks you with a mischievous smile and turns to go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You snatch the coin purse from the child's hip. She makes a grab for it, but you push her away.
+
+She slinks away, giving you a final, rueful glare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>You push her down in the street, calling her a thief and a scamp. You warn her not to come near you again. 
+
+A small crowd looks on. They whisper to one another, looking at the child and shaking their heads. You're not the first person to encounter this young thief. 
+
+The child finally gets to her feet and scrambles off, wiping tears from her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The child disappears among the crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>A Huana man stifles a cough. He rubs his bare chest and grimaces. 
+
+"What can I do? All day I chew blood moss, but still it gets worse."
+
+His friend shakes his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>An elderly man shakes his head. "Any with eyes can see they do not build ports for our sake. Yet the queen allowed their fort in the city!"
+
+The woman next to him clucks. "Ekera, the palace is so high, even her head is in the clouds."
+
+Another man shrugs. "At least the Rauataians will drive the other foreigners away. They make too much trouble for the other tribes. Then they flee and crowd us here."
+
+The others murmur in agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Three women hurry along, their arms full of laundry and their voices low with gossip. 
+
+"They say Biha charmed a Rauataian captain! The same who threw Botaro into the Old City..."
+
+"Do you get your fish and your news from the same heap? It was a Príncipi man she took up with."
+
+"You both blunt your teeth on nonsense! The slavers in the Undercroft took the poor woman..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>A middle-aged woman holds a shell of murkbrew. "...My husband's sister cleans the company offices at night. She hears the clerks' talk, ekera."
+
+The man with her shakes his head. "But with their big ships and fancy buildings-" 
+
+She blows the steam from her shell. "They have barely enough to afford them! Their rangas back home grow anxious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Before you can hear more, the teeming masses sweep you further down the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He gnaws the end of the pipe nervously. "My neighbor disappeared near the Undercroft weeks ago." 
+
+She shrugs. "Always smugglers and pirates lurking there. Some of them turn to slaving."
+
+He nods, taking a puff. "That's for what I stay away from Delver's Row. Plenty of bad sorts there."
+
+She holds her hand out for the pipe. "Ekera, but they are the only sorts who pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>You leave the opulence of Dereo's hideout behind you and return to the dank and drafty tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The Narrow stretch before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Listen in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Leave him alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Back off, or I'll show you how the Spindle Man died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Keep walking.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>One of the thugs acknowledges you with a quick jerk of her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>One of the thugs turns to you and looks you up and down. "Or else what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>The thugs look at one another. 
+
+"I'm not taking any chances." 
+
+They hurry away, but not before shooting a final look of warning at their erstwhile victim. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Footsteps hammering a steady pulse, you peel into the Narrows in hot pursuit.
+
+Ahead of you, Rust swears and picks up the pace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>A merchant stall blocks the path ahead. It looms solidly - splintered but sturdy - as you approach. Rust's dead sprint never slows.
+
+Your quarry lunges through the stall's split drapes, legs tucked up tight, body sailing clear of the stand's table top like a shot cannonball.
+ 
+A curtain snags and rips free, showcasing Rust's slipped landing. The assassin slides on the flat stone floor then darts off to the right. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Weaving after Rust, you arrive at an enclosed intersection of paths. 
+
+Without glancing back, the assassin hurtles a thin glass vial at your toes. It hits, cracks, and amber-hued smoke hisses up your legs. In seconds, all visibility is obscured in the tight space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>You've canvased the Narrows - mapped the weave of winding alleys in your mind. The closest outlet is straight ahead of you, making it the most direct route for escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>You stumble blindly through the acrid smoke until it thins enough for you to take a look around. 
+
+The path is deserted - no sign of Rust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Cast a spell to clear the smoke.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Wood cracks like thunder as you crash into the stand. But the structure is sturdier than it first looked, and you end up tumbling forward, ribs aching on impact as you topple the entire stand over. 
+
+You crawl from the wreckage on hands and knees before you get your footing about you and hop back into the chase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Palm flat to the countertop for stability, you easily sail up and over the spread of merchandise. You stick a smooth landing then veer right, close on your target's heels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>You easily sail up and over the spread of merchandise, but your heel skids on the smooth flooring when it hits down, and you feel a sharp twinge in your ankle. Half-hobbling, you veer right, working hard to keep sight of your target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>A gust of wind sweeps the smoke aside, just in time. You spot the back-flung hem of a black robe disappearing down the corridor directly ahead of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>You listen for receding footfall but hear nothing save for the sound of your own heavy breathing. 
+
+There's no telling which route the assassin has taken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>You spot Rust rounding a corner further ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Go left.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Go forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>This tunnel ends, but another branches off.
+
+The only sounds are the crackling of torches and the steady drip of water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Go right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>A door slams shut in front of you. When you near it, Rust's voice rings out from the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[Chase Rust into the darkness.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>The alley opens out into the Gullet. Your target is nowhere in sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>They lapse into silence, smoking peacefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>He takes a long draw on the pipe. "You thought more about the offer?"
+
+She scrapes a pattern in the grit. "Sneaking luminous dust for the Príncipi man? Better than pushing Rauatai cannons, I say."
+
+He blows a long stream of smoke through his nose. "My cousin went to muscle for him. Says he pays well and pays fast."
+
+She picks dirt from under her nails. "Best work in the Gullet. As long as the Mataru and their trader friends don't notice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>She puffs on the pipe. "Found half a silverfin in the heap yesterday. Still with the head."
+
+He shakes his head. "Amira's winds blow sweet for you." 
+
+She sighs, wreathing her head in smoke. "No winds down here. You got to dig. Always the good stuff gets buried by scraps, ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Laid out are various trinkets made from junk - necklaces strung with fish bones and shoe buckles, and bracelets made with shards of broken glass. 
+
+But the curtain sways and flaps as if stirred by a draft.
+
+You twitch it aside and discover a secret passageway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[Retrace your steps to the exit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>You return the way you came and make your way out of the Narrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>You check the tunnel one more time to make sure no one is watching. 
+
+Then, you slip behind the curtain and into another passageway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Laid out are various trinkets made from junk - necklaces strung with fish bones and shoe buckles, and bracelets made with shards of broken glass. 
+
+Apparently, this stuff isn't even worth stealing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Laid out are various trinkets made from junk - necklaces strung with fish bones and shoe buckles, and bracelets made with shards of broken glass. 
+
+But the curtain sways and flaps as if stirred by a draft.
+
+You twitch it aside and discover a secret passageway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Laid out are various trinkets made from junk - necklaces strung with fish bones and shoe buckles, and bracelets made with shards of broken glass. 
+
+But the curtain sways and flaps as if stirred by a draft.
+
+You twitch it aside and discover a secret passageway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Hide and keep quiet. The Mataru already threw that sick Dawnstar into the Old City. They will not spare you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"The Dawnstar lady, she has medicine! Go and see her quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I doubt Dereo the Lean would be happy to hear you're making trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"I slaughtered a company of Goldpact Knights at Fyrna's. I'll take you on just for fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"The Mataru are coming. You'd better run unless you want to see the bottom of the Old City."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Everyone knows you don't rough up your own neighbors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"This isn't worth it. How much are you really going to make off a few poor Roparu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>The thugs consider your words and nod. 
+
+"He's right. Let's head to the surface. Plenty of money floating around the bathhouse."</DefaultText>
+      <FemaleText>The thugs consider your words and nod. 
+She's right. Let's head to the surface. Plenty of money floating around the bathhouse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>The Huana man thanks you and nervously scurries off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Robbing a man who has nothing! Have you no shame?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>The two thugs look at each other. 
+
+"Can't afford it. But maybe our friend here can help me out..."
+
+They turn back to the cowering Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>You're swept away by a sudden crowd before you can do more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Pay 50 cp.] "Just this once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Good folk, open markets are vital to a healthy economy. Would you turn away a paying customer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>They look at each other and shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Lie] "Last time I came through, there was a man with a scar. I paid him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>They shrug and stand aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>You're walking along when several hooded figures materialize out of the darkness. 
+
+"I remember you. Unfortunately, our mutual friend - the one with the scar - does not. So if you want through, you're gonna pay double."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[Pay 100 cp.] "Just this once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>You leave the bodies behind and melt back into the tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>You wipe the blood off your hands and continue on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>With the assassin dead, you leave the darkened room, shutting the door behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Rust stands before you, face drawn, ready to kill. Rymrgand's Slumber gleams in the assassin's hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Show the suolenet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Show the suolenet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[Leap over the counter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Barrel through the stall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Wood splinters as you crash through the stand. You stumble, kicking the tangled, ripped curtain away. 
+
+Swiftly, you resume your pursuit, legs pumping and powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>[Let Rust escape.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>The sound of Rusts footsteps fade away into nothingness.
+
+You make no move to follow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Behind the door, the room is deathly silent and cold. It takes several moments for your eyes to adjust before you can move forward.
+
+You scan the room from width to length, but there's nothing. No hint of the assassin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[Turn around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[Circumvent the stall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>You slow to a controlled pace as you weave around the stall's display counter. You attempt to regain speed as you sprint to the right, but the few seconds of caution have cost you. You've lost sight of Rust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Having kept close enough to the assassin's heels, even without a clear line of sight you can hear Rust's drubbing footfall. 
+
+The footsteps arrow down the corridor directly ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>You arrive at an enclosed intersection of paths. A shattered vial litters the ground, and further ahead amber-hued smoke fills the tight space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>You spot Rust rounding a corner further ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"The road this way leads to death. Follow me, and you will face yours," the assassin offers as a final warning before his footsteps punctuate his retreat behind the door. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>A slight shifting of the air, a displacement of space or a soft rustling of robes near to your spine causes the hair on the back of your neck to raise.
+
+Someone or something's behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>A second, softer set of footsteps are approaching behind you. They stalk swiftly closer then stop, silent.
+
+The first set of footsteps continue pounding away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>You can't shake the feeling that you're being watched. But when you glance over your shoulder, no one is there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>You return to the darkness and squalor of the alleys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"I was told Dereo could help me reach Mad Morena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>The guards turn to each other and discuss something quietly before one of them gives a nod and disappears behind the door behind him. 
+
+After a few moments the guard emerges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"I'm [Player Name]. Ernezzo sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>[Read the note.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>[Stuff the note in your pocket.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Ulög -
+
+There's a new shipment for your Roparu friends waitin' near the lift in Delver's Row.
+
+Come get the food 'fore the cave stink rots it.
+
+Your mad captain,
+Morena
+
+P.S. Give the old man my regards. I put an extra koīki in there just for him.
+
+P.P.S. Don't say I never done anything nice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Dereo wishes to speak with you, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>You find a secret compartment sewn into the lining of his trousers. It contains a small note and a handful of coins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Nothing of relevance catches your attention this time.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

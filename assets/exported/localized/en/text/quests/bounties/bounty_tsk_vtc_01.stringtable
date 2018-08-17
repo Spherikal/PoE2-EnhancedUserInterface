@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_vtc_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty - Biakara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill &lt;b&gt;Biakara&lt;/b&gt; and take her ship's triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Aenia&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Aenia&lt;/b&gt; has tasked me with hunting down &lt;b&gt;Biakara&lt;/b&gt;, a Huana captain at the helm of the voyager &lt;b&gt;Scale of Tangaloa&lt;/b&gt;. There's a bounty to claim in exchange for evidence of the captain's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Biakara&lt;/b&gt; sails &lt;b&gt;Scale of Tangaloa&lt;/b&gt; off the &lt;b&gt;northeastern coast of Hasongo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Biakara's bounty is mine to claim. I can return to &lt;b&gt;Aenia&lt;/b&gt; outside of the &lt;b&gt;Vailian Trading Company headquarters&lt;/b&gt; at Queen's Berth in Neketaka to collect my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I dealt with Biakara and claimed the reward for her bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

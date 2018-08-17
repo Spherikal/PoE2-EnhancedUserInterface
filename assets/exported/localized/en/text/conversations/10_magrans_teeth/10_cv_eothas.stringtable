@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_eothas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>134</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Watcher. I wasn't sure you'd make it, but there is enough of you in me to grasp that you had a better chance than most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Some would say it's because you have a 'strong soul.' Great deeds come easily to one so spiritually blessed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Or have you become great because of what has been thrust upon you, Watcher of Caed Nua? Herald of Berath? Hound of Eothas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I don't know. Whatever the reason, I'm still standing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"It's in my soul. It always has been. Greatness is my birthright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Each of us simply does the best we can. My trials have made me who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I've had enough of this! I followed you into this damned volcano to get some questions answered!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Even after all these years, countless generations, we don't know, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Good fortune and good people have carried me the whole way. I'd be nothing without them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"There is little evidence to dispute your claim, you who ended Thaos and learned the secrets of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You have done much in this life, it's true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"There! There is the fire of kith that we fear. A fire that burns beneath a god's judging gaze and does not sputter, does not flicker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"As would we all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You have come a great distance for answers. What would you ask of me, Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I need to know why you've come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Can you atone for all of the damage you've done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Give me back the soul you took from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You need to know... or Berath? Or the gods?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The gods fear you have something catastrophic in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"After all you've done, I think every creature that lives and breathes on Eora needs to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[The volcano rumbles and the ground shakes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It seems someone &lt;i&gt;else&lt;/i&gt; needs to know. One who has held me to the flames once before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It seems the gods may have something catastrophic in mind for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"And it would seem even she whose presence shakes the heart of this mountain needs to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I wouldn't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Lie] "I wouldn't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Magran is prepared to take drastic measures to stop you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Do you mean Magran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Magran fears what I will do, just as she feared what I would do in the Dyrwood. But this time... there is no power on Eora or in all of Hel to stop me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"There's no point in feigning ignorance, Watcher. Reading souls has been my job longer than it's been yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Of course. Magran fears what I will do, just as she feared what I would do in the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Understand that what I'm saying is neither a boast nor a challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"No, not now. Not in your lifetime. Perhaps in one hundred generations, the books and tongues of kith will forget the name 'Eothas.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"When I am finished here, you may have it back, though you may find the process... not painful, but traumatic, nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But you have come here for other answers. Why I have returned. Where I am going. Am I answering to you... or to Berath?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"But you have come a great distance for answers. What would you ask of me, Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"What are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Says the one who's killed thousands walking from the Dyrwood to Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'll find a way to stop you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"No, you won't. I made mistakes last time that I have not repeated. I will not be corrupted from my course and neither Magran's fire nor Ondra's beloved moon can harm this body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yes. I am sacrificing lives from this generation for the benefit of those who have not yet been born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Force gods and mortals alike to open their eyes to one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I am going to force gods and mortals alike to open their eyes to one another, and all the powers of Hel cannot drive me from this course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It seems my sister does not like the sound of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'm not here to stop you. I'm just here for answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"That may be why you have come, but you may change your mind when you hear what I have to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Can you be more specific? What are you trying to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Quit dancing around the question!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If that's so, what are you doing this time that will make any difference?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Why is it so important that mortals know that the gods came from the Engwithans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A fair request. I suppose your time is more limited than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I want to return the gods to our original purpose. And to allow mortals to worship us - or ignore us - for what we are, not what we pretend to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"When I entered Waidwen, I did so with the intention of illuminating the history of Engwith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"But even if I had succeeded, my words would have been easy to deny. Belief creates the foundation upon which a mind's reality is built."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"And even your words could be corrupted by the Leaden Key and Hand Occult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"We began with a dream that if we provided guidance to mortals, each generation of souls would grow stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Over two thousand years have passed. Hundreds of generations have been born, lived, and died. If the world has improved under our guidance, mortals should be prepared to understand the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"The time has come for a new covenant between gods and mortals, one forged in the light of truth and understanding between our kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I have not come to speak, to convince, to plead, but to break the foundations of belief itself, to extinguish the lights that maintain the illusions we have created."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"We took on the mantles of gods from legends, and in so doing, made real what was false, crafted truth from fiction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It is what we have tasked them with for thousands of years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"And so have the gods, with their help, maintained this illusion for hundreds of generations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I will leave this place and go to the lost city the Huana call Ukaizo. It is there that all souls pass through the machines of the gods, where all souls pass into the Beyond before beginning their next life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"When I reach that place, I will find our great machines and tear them to pieces. I will smash the Great Wheel until the lights of Hel all gutter and die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"WHAT?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's insane. I hope Magran explodes two volcanoes on you for good measure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I guess that's one way to get a response."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Both gods and mortals alike rely on the Wheel. We depend on it for the souls that give us power. Mortals depend on it for the lives of future generations. Breaking it will force all of us to face the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'm surprised Magran is reacting this way. I would have thought she would appreciate a trial of this magnitude, one that tests us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"An understandable response. Still, I'm surprised Magran is reacting this way. I would have thought she would appreciate a trial of this magnitude, one that tests us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I admit that's not the response I expected, especially given the volcano erupting around us. Still, I'm surprised Magran is reacting this way. I would have thought she would appreciate a trial of this magnitude, one that tests us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"We will fail together or move forward together. Either ending is preferable to the cycle we still find ourselves in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Once again, the gods have put you in a precarious position, Watcher. Considering all the troubles I have put you through, the least I can do is protect you from the wrath Magran has intended for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It's much appreciated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"This doesn't make us even, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I didn't ask for your help and I don't want it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Roll eyes.] "Oh, praise Eothas! What an &lt;i&gt;amazing&lt;/i&gt; gesture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Don't thank me yet. This will be particularly difficult for you, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Perhaps I will have another opportunity to make amends. Until then, this will have to do. Brace yourself, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Then I will save you in spite of yourself. Brace yourself, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"For your sake, I will ignore that. Brace yourself, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I must say, you've been remarkably calm in spite of all this. This next part may test you. Brace yourself, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"The brightest souls can burn out in an instant, and even a pathetic, feeble spark can grow brilliant in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Woe may befall the next god or mortal who stands in your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"But if it weren't for your past with Thaos - with Iovara - you never would have come down this path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"A penance, paid in full, noted by none. That would be my absolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"But this time is different. This time, there is no power on Eora or in all of Hel to stop me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It is the clearest statement of truth I can give you - give Berath - in the hopes of dissuading you from taking actions that may harm others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Like the adra that guides souls from the Here to the Beyond, this form was created to survive the trials of thousands of generations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The other gods may be willing to make similar sacrifices, but they will be in vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I wanted to show all the nations of the Eastern Reach the machines we had used to create ourselves, how we had hidden our true nature from mortals for millennia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Some minds can never let go of that foundation. They would rather hold tight to the world in their mind than accept what they're being told."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"If they have not improved after all of this time, then we have utterly failed in our aims and there should be a reckoning of our faults."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"And if the souls grew stronger, societies would become better, moving ever closer to achieving the potential we believed all mortals have within them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Even their clumsiest attempts to cloud the truth can be easily accepted by those who want desperately to believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"But even a beautiful illusion is still a lie, obfuscating reality even as it points to a transcendent truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Guys and gals, we are literally being touched by the hand of Gaun right now!"
+
+Despite herself, Xoti squeals. Trembling, she sways on her feet as if she might faint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Oh. My. Gaun. Y-you... you're really, I mean, I'm... this can't..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I see you, Xoti. I am glad that we could meet, even if it is under quite unpleasant circumstances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"That we have! And I got a request! Down here. Gaun! L-look how full my lantern is! I've been harvesting day and night for you, my god."
+
+Lantern rattling, sickle gripped so tight her knuckles are white, she waves her arms over head as she shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"My dear Xoti, I do not mean to diminish your presence here, but this is a question that the Watcher needs to answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"That we have! And I got a request! Down here. Gaun! L-look how full my lantern is! I've been harvesting day and night for you, my god."
+
+Lantern rattling, sickle gripped so tight her knuckles are white, she waves her arms over head as she shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"My dear Xoti, I do not mean to diminish your presence here, but this is a question that the Watcher needs to answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Xoti gasps sharply, for once too stunned to blurt out a response. Her eyes are wild, with too much white showing, when she glances from Eothas to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Gaun, wait! Before it's too late - you got to take the souls I harvested for you!" The priestess thrusts her light-pulsing lantern outward, as if waiting for Eothas to take it from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"They are not for me to take. Xoti, you are their guardian now. You are their protector. You have taken responsibility for them, and only you can decide their fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You're just gonna wait for us to forget what you did? That's your penance?"
+
+Edér stands in a broad posture, the one he so often takes when placing himself between friend and foe. His neck is sharply craned to meet the unblinking stare of his god.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"How about you start by giving back the souls you took? 
+
+"Or maybe by apologizing to every one of your followers - especially the ones that died for you."
+
+The molten rock of Magran's Teeth gleams bright orange in his eyes and he looks like a man overtaken by a furious spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You owe this Watcher here. You owe my brother, Woden. You owe Elafa Maesy's boy, and every last one of us that ever followed you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I cannot atone for my mistakes with words alone, Edér. I know this now. It is why I began this journey and why I must move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"You owe this Watcher here. You owe my brother, Woden, and every last one of us that ever followed you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"And you owe me. I never asked you for much. But you owe me better than what you're giving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"What's that mean? You're gonna tell them the truth?"
+
+Edér looks away from Eothas for the moment, his eyes darting back and forth as if between possible outcomes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Whatever you're doing, there's gotta be a better way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Where's that leave us? You're ending the rule of the gods?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"More destruction. You're tearing the whole world apart because you can't make peace among yourselves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You better be sure of what you're doing, Eothas. You better be making things right.
+
+"'Cause either way, we're the ones paying the cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Hey! Eothas! We're not done here. You and I, we're not finished. Don't think you can just move me aside like all the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Maybe you can't be stopped. But on behalf of everyone you've trampled, betrayed, and ignored, I'll be coming to see you again."
+
+Edér spits. In the surging heat, it never reaches the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I know that you have undertaken a noble mission, but I will tell you what I told the Watcher. You need not fear for the lost souls of this world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"As for you, Watcher, why is it you believe you have made it this far?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"He alone was tasked with pursuing me. The gods have placed him in this fire. It is only right that we speak together now."</DefaultText>
+      <FemaleText>"She alone was tasked with pursuing me. The gods have placed her in this fire. It is only right that we speak together now."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"No, Edér. It is not for me to decide if the gods should remain in power. That will be for your kind, for mortals, to decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Edér, there will never be peace among mortals so long as they are unwittingly manipulated by the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The divine enslavement that Woedica reveres perpetuates ignorance, chaos, and violence across the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I only wish to destroy the darkness that surrounds the gods, that you may better see us for what we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Perhaps we will meet again, Edér. Until then, take care of the Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"All that I have done, I have done for your sake. If we do not meet again, Edér, please take care of the Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"And when my work is done, I will leave this world forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"This is really happening, right? G-gaun, your humble priestess is before you! Please, tell me what you require of me. How do I save more lost souls than I can carry in one lifetime?" 
+
+Face bright red, sweat beading her brow, Xoti stumbles precariously closer to the edge. Lantern rattling, she catches herself a mere moment before she would have toppled over.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

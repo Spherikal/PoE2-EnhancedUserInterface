@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_prince_aruihi_huana_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>183</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Does the name Ukaizo mean anything to you?" 
+
+The prince's face is impassive, but he seems to be studying yours with close attention to detail. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do not leave me in suspense, I say! Have you found Motare o Kōzi?"
+
+Aruihi raises his brow and gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll report in later." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Don't mind me as I take down those coordinates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Certain death it is, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Watcher, even if Ukaizo is a myth, Motare o Kōzi is old enough that it may contain some clue about why Eothas is interested in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Hey cap? Be reminding me to drop anchor at the next brothel we pass. Some things I aim to be giving a try afore you go getting us all good and killed."
+
+He rubs the scarred bridge of his nose.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Our tribes are spread across many isles, but it is Ukaizo which binds us.
+
+"Ukaizo... and the knowledge that we must return." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I sent an expedition to Motare o Kōzi, one of the sanctuary isles. They were to retrieve evidence of our lost homeland.
+
+"They have yet to return." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The trading companies would not have thought to look for Motare o Kōzi, but now they are vultures to carrion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Should I expect any resistance?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"There won't be a stone unturned on Motare o Kōzi when I'm done with it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I trust you'll relay my helpfulness to the queen?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Naturally, I say! My sister remembers her friends, and I remember her enemies." 
+
+Aruihi winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'll keep an eye out. No promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"To that end, a local cartographer secured a lead. A breadcrumb to a breadcrumb, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Aye, long with every other bare-mast, bilge-brained treasure hunter twixt here and Old Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I have known sand crabs with a firmer grasp of Aedyran, I say." 
+
+Aruihi furrows his brow at Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Many of my countrymen also believe that Ukaizo is nothing more than a myth, but there are others who would kill to find such a place if it were real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"And kill gladly if but a tenth of the myth was true." 
+
+Aruihi peers at Pallegina before turning his attention back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"They were sites where our ancestors grouped in times of crisis. Constants in changing seas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You have the cartographer Atēpu to thank. He wanders the western shrine if you would know more." 
+
+The prince makes a dismissive wave toward the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Before you go." Aruihi lowers his tone and glances to his left and right. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The expedition. I have reason to believe that they will not be returning to Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"So you &lt;i&gt;are&lt;/i&gt; sending me to certain death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"We found this at the palace doorstep - cut from the robe of the expedition leader." 
+
+He reaches into his pocket and draws forth a wad of red-stained barkcloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"One mystery heaped on another, I say." He drags his thumb over the cloth and frowns to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Let me see that. I might be able to learn something from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Take care if you alight on Motare o Kōzi. My fear is that the island is sanctuary no more."
+
+Sighing, Prince Aruihi folds the cloth with reverence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You forget yourself, but I am more forgiving than my sister." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Nodding, he relinquishes the scrap.
+
+A fragment of essence clings to the fabric like a thread woven too tightly to be unraveled. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Trees tower above you and ropy vines stretch like tentacles across a marshy ruin. It takes all of your strength to trudge through the hip-deep water. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You glance over your shoulder, but the women and men of your company aren't there. Then a shape moves off in the distance. 
+
+You draw your weapon, feeling now more alone than ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The vision departs, leaving you with a deep pit in your stomach and the phantom sensation that nothing has gone as it should have. 
+
+The prince regards you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"The owner of this robe is surely dead. Hold out hope for the rest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nature is restless on this island, but I can guess nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Lie] "I couldn't get a read on it. Sorry." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"She's dead. They're all dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ekera... that is something, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I suspected this. As you say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ekera, but you tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The prince flinches, looking down at the torn cloth like it's a dead spider in his palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Honesty is refreshing, I say... if cruel." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I do not doubt that our rivals race for the same thing. All while we fall behind..." 
+
+Aruihi sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"That did seem like too nice a way to end it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Give rubbing.] "I found this ancient Huana navigational chart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I found an ancient Huana navigation chart, but the Royal Deadfire Company confiscated my copy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The prince accepts the chart in silence, holding it up to the light and poring over every detail with interest. 
+
+His hands tremble as he holds the paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You... let the knowledge of our people fall into the hands of our enemies?" He folds his arms, his expression leaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"If Ukaizo is the next casualty of Rauatai's expansion, Onekaza and I will remember who held the door open for them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Speak on. Pray to Ngati that bad fortune is behind us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Lie] "I didn't find anything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nothing more to report, your highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Nothing? No ruins, no trace of the expedition?" Aruihi puts a hand out to steady his balance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"For what did my expedition give their lives over an empty island... it makes no sense, I say." 
+
+Aruihi pulls the bloodstained cloth from his pocket and studies it, shaking his head.
+
+Stuffing it away, he tosses you a pouch of coins with disdain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"This is much to learn in a day, even for this warrior." Aruihi touches his brow and considers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"When we know enough, my sister will finance a fleetwide search. Not for breadcrumbs, but lost Ukaizo." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"The queen and I make plans for the future. If you continue to make yourself useful, I say there is a place for you in them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I destroyed the original chart. This way, at least no one else will find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"No... you misspoke, I say! The labor of our ancient navigators, after it survived the millennia?" Aruihi shakes his head slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"And to have nothing to show for it... Our ancestors weep, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I killed a Wahaki war tribe that ambushed me outside of the ruin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Strange that they would attack one of their own." Aruihi's brow furrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"An unusual accounting of the isles, I say. Each one measured in relation to..." 
+
+His finger drifts up to the sigil of Ukaizo. Aruihi nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I do not share this lightly, I say." 
+
+He glances at Maia, his attention lingering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Please, speak on. If it looks like I'm taking notes, it's because I am." 
+
+She winks down at Ishiza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Maia, behave yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Maia is not my vassal. She will do as she chooses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Just get on with it. You can trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Should I leave this in the hands of someone I trust instead?" Aruihi turns to you with a look of warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Me, misbehave?" 
+
+Maia clears her throat and wads a sheaf of papers into her pack. She stands at attention, her hands clasped behind her.
+
+Prince Aruihi sighs and turns his focus back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"All the same, I'm not above a good faith gesture." 
+
+Maia folds her papers and tucks them away. The prince nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Tekēhu, I trust you are going? I want the tribes to know that Ngati's chosen stood among those who threw open the gates of Ukaizo." 
+
+He turns a hopeful glance to Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I make no promises of dirtying my hands in some fetid jungle, but I do not protest a calm voyage." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I sent good women and men to die in the name of the tribes and... and a vague hope." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Who could have sent this?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"If you learn in your travels, I hope you will tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I had better be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I had some trouble with the Royal Deadfire Company on the open sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ekera, they would not let you escape with what they could so easily steal." 
+
+Prince Aruihi murmurs under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"But... will they not find the original chart as unprotected as a Roparu food pile?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Assuming they survive the jungle... probably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Not if you send a war party to sink their ships and cut the rest down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Guess I should have destroyed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Onekaza needs our fleet's strength here, in her city!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Even with the help of the gods, our task was unlikely before these complications, I say." He waves you on, eager to change the topic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"At least... at least the wisdom of our ancestors is safe from our enemies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ask. Whatever I know is for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"What makes you think that Motare o Kōzi contains evidence of Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"No further questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Just so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I had questions about Motare o Kōzi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ekera, then you are ready to depart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"The sanctuary isles gave comfort and guidance to sailors on their long journey home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"I am hoping the island can remember its purpose and return us to the home we lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"The barkcloth was a message from the Wahaki to deter any visitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Some will go to any lengths to protect the past. Ekera, my sister and I are no different." He beckons you on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"The Royal Deadfire Company confiscated a copy of the chart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"You... let the knowledge of our people fall into the hands of our enemies?" He folds his arms, his expression leaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"If Ukaizo is the next casualty of Rauatai's expansion, Onekaza and I will remember who held the door open for them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Too much has happened for you to waste words with the royal brother. From now on you work with Onekaza as an honored guest of her rooftop garden.
+
+"Only... be kind to her cats." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"I already found your lost expedition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ekera, but do not leave me in suspense!" The prince eases closer, his eyes wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I've been to the island. Everyone's dead, but I'm still seeking anything of interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Come back when you know more, I say. I would not have their sacrifice benefit anyone but the tribes." 
+
+Letting go of a weary sigh, the prince nods and dismisses you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Ngati's lantern... my team gave everything so that our cause could advance a step." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"May Ngati splinter their mast. And if they survive to land, may the jungle cover their bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Story or no... I make no secret that we search for Ukaizo." He studies you, allowing his words to sink in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"It's the fabled lost island of the Huana." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"I believe it's a sacred island somewhere in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Doesn't sound familiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"It was the island capital of the Huana empire of old. A fable, they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Ukaizo was the home of the Huana before cataclysm and destruction wiped the island from the Deadfire.
+
+"That is the story." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"A lost city, if local fables are to be believed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Fable? No. History, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Ekera, I should hope so."
+
+Aruihi keeps his gaze firmly fixed on Maia. He is the first to break eye contact and refocus on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"The crown has grown too accustomed to warnings, I say." He thumbs the fabric and frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"You conveniently forgot to mention this until I agreed to the mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Convenient? No. The easy path would have left you in the dark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Do you have what you need to find Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Interesting how the ancient Huana treated Ukaizo like the center of the world." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Ngati is one to throw obstacles in our path, but I say that an outdated chart is better than none at all!"
+
+Grinning all the while, Aruihi rolls up the parchment and tosses you a heavy pouch of coins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"If I did, my sister would hold a parade in your honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Thank you, my prince."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Sailing uncharted waters isn't cheap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"What is this, one share of what you paid the expedition?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Ekera. And for you it will suffice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Ekera. I have seen nothing that challenges this notion of theirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Neither is sending two expeditions after one map, I say."
+
+Aruihi raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Ekera, here - for your expenses."
+
+He tosses you a lighter pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"I would not want a combative friend to feel cheated, I say."
+
+Aruihi smiles and tosses you a lighter pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Then this is the last. Ekera, maybe the last we will ever hear of them..."
+
+He touches the roll of parchment with quiet reverence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Maia, I..."
+
+He begins to speak up before Maia silences him with a look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Nice try, prince. If I had that kind of clout with the Brass Citadel, I'd be at the prow of my own ship." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Besides... watching you squirm isn't exactly the low point of my day." 
+
+Aruihi winces and turns away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Frowning, Tekēhu seems ready to contradict you. He thinks better of it and turns away, clearing his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Maia, I..."
+
+He begins to speak up before Maia silences him with a look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Nice try, prince. If I had that kind of clout with the Brass Citadel, I'd be at the prow of my own ship." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Besides... watching you squirm isn't exactly the low point of my day." 
+
+Aruihi winces and turns away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"The chart was hidden this long. What are the chances anyone else discover it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"I say they are higher than ever before! You left tracks in the jungle, ekera?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I expected better judgment from an agent of the crown."
+
+Aruihi folds his arms and presses the bridge of his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"May Ngati thank them for their courage and Woedica for their loyalty.
+
+"May they return to us as rangas." 
+
+Aruihi raises a shaking hand to touch his lowered brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Ekera. The face of an outsider is never welcome in Wahaki company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"For what do they protect Motare o Kōzi when its knowledge could help all Huana?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"One day I will have words with their ranga to settle our differences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"I'll await word from Onekaza, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"May the wind caress your sail." 
+
+Aruihi pats your shoulder and nods, smiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Been a pleasure working with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"You say this now, but Onekaza pays better than her royal pinchfist of a brother!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"An old mosaic beneath the city depicted Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Ekera? Then the city's bowel hides more than I credit." Aruihi thumbs his chin and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Sanctuary isles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"How has the island remained hidden all this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"A question for those with years to gather reeds and scribe their thoughts." Aruihi smooths back his hair and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"It might be that someone or &lt;i&gt;something&lt;/i&gt; on the island does not wish to be found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"In better times than these, I would have been happy to oblige." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Prepare yourself for a hard voyage northeast of Neketaka. Motare o Kōzi is nestled in the Kua o Rikuhu islands, in the midst of a landmass that resembles a storm.
+
+"Like the fall of Ukaizo locked in time." 
+
+Aruihi bites his thumbnail and turns away, lost in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"But on to brighter times, I say! If Ukaizo can be found, then so too will the hopes of our people be made manifest!"
+
+His mask of grief breaks under the pull of a broad smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"I sent the expedition to their fate. And those who followed. Death is on my conscience this day." 
+
+He lifts his gaze to meet yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"They served you admirably. We're a step closer to Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"I wish I had more to show for their efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Ekera. Just so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"May all who fell on Motare o Kōzi slip through the eel's jaws.
+
+"Huana and outsider alike."
+
+Sighing, Aruihi bows his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Setbacks are nothing new to the Kahanga throne. Ngati delights in testing my sister's patience."
+
+Aruihi smiles in spite of herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"All things pass through their final door. When is irrelevant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"She's never far from mine, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"She will call on you when the time is right. Ekera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Your expedition never made it off of Motare o Kōzi. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"What of their findings, Watcher? Did they recover anything... anything about Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>[Give rubbing.] "A riddle on the island pointed the way to Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"I sent good women and men to die in the name of the tribes and... and a vague hope." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"May Ngati thank them for their courage and Woedica for their loyalty.
+
+"May they return to us as rangas." 
+
+Aruihi raises a shaking hand to touch his lowered brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Watcher, I... I take it that none of my people escaped the clutches of that island."
+
+Aruihi hangs his head as the truth becomes apparent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

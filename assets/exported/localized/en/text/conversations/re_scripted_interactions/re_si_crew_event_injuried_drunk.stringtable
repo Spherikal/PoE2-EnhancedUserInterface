@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_injuried_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You stand astride the sterncastle, gazing across the deck of [Player Ship] and out on the sea beyond, when [Specified 1] approaches. 
+
+"There's a problem, captain. [Specified 0]'s been helping themselves to extra rations of grog on account of their injuries. The whole crew knows, and nobody's happy about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"If [Specified 0]'s had extra grog, the rest of the crew deserves the same. See that all hands receive extra rations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tell the others to let [Specified 0] rest. They'll want similar treatment if they're wounded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Haul [Specified 0] abovedeck. One lash for each stolen drink seems fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Along with the grog, any peace you hoped to gain vanishes into the crew's revelry. They enjoy the merriment, and by the next morning, none of them remember their resentment regarding [Specified 0].
+
+Some of them remember very little at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Tensions simmer as [Player Ship] continues its journey.
+
+[Specified 0] remains belowdecks, avoiding the others and praying for a faster recovery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 1] drags the injured [Specified 0] abovedeck, securing the offender to the mast before the crew. You watch from above as [Specified 0] takes a flogging, the lash adding new injuries to old. 
+
+A few of the crew wince and flinch through the ordeal, but once it's over, they return to their duties with quiet satisfaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Specified 0] is going overboard. There'll be no thieving on my ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] summons the crew to the main deck to watch as others tie a rope between [Specified 0] and the bulwark before pushing the screaming, injured sailor from the stern.
+
+Based on the shouting, [Specified 0] manages to survive being towed behind [Player Ship] for a few hours. The rest of the crew struggle to concentrate on their duties, ashen with terror.
+
+When the screams finally cease, [Specified 1] cuts the rope, leaving [Specified 0] to the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 1] blinks twice before a slow smile manifests. "Yes, captain. I'll tell them to report to the grog barrel when they're off-duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1]'s next words catch in her throat. She swallows and finally squeaks out, "Of course, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Yes, sir. I'll haul the thief up." </DefaultText>
+      <FemaleText>"Yes, ma'am. I'll haul the thief up." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Yes, captain. [Specified 0] will be glad to hear it, even if the others won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] nods. "Your orders, captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Let's go deal with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What would you do in my place, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Ask [Specified 0] about the situation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I suppose most captains would lash [Specified 0]. Stealing from ship stores is bad for everyone." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You locate [Specified 0] belowdecks and demand to know why the sailor took extra grog. By way of answer, [Specified 0] unwraps the bandages from around the wound, displaying the ragged, red flesh and purpled skin. 
+
+"It hurts worse than anything, captain. Drink's the only thing that makes it bearable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Cut off [Specified 0]'s rations entirely, and tell the others to get back to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"No more grog for [Specified 0]. Svef will be much more effective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm going to give a sermon on the importance of empathy... and the iniquity of theft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Publicly chastise [Specified 0], then sneak her grog.] "Haul the thief to the deck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Let the crew experience [Specified 0]'s pain.] "Seems like the crew needs a lesson in practical empathy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'll cut off [Specified 0] from the ability to feel pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You have [Specified 0] hauled on deck, making it clear that she'll have no more grog, and if you catch her filching again, she'll skip straight past lashes to keelhauling. By the time you finish, [Specified 0] quakes in terror, and most of the rest of the crew has paled, too.
+
+Later you sneak [Specified 0] a flask, warning her to keep the show of generosity quiet, lest you be forced to make an example of her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You open your mind to [Specified 0]'s, locating the mariner's pain and drawing it out. Wrapping it within your soul, you spread it among the crew, binding them to their mate's suffering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Yes, captain. A few days without grog should balance [Specified 0]'s ledger. A few days more will set things right with the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Yes, captain. A few days without grog should balance [Specified 0]'s ledger. A few days more will set things right with the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Yes, captain. A few days without grog should balance [Specified 0]'s ledger. A few days more will set things right with the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>While you overhear a few grumbled complaints about a lack of maritime justice, most of your crew seem content with your decision, and the tension melts away over the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You gather the crew on deck, [Specified 0] included, and give a prolonged, castigating sermon on the importance of community, empathy, and mercy, as well as the horrors that selfishness and theft have inflicted upon the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Plus it'll cover over any tooth stains with a nice coat of black." Edér nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You descend into the hold and provide [Specified 0] with a tincture including a heavy dose of svef. It should combat the worst of the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>By the end, everyone seems thoroughly ashamed, returning to their tasks with muted solemnity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You descend into the hold and rest your hand on [Specified 0]'s slick forehead, reaching out for the injured sailor's soul. You dull the connections between soul and body, and the sailor goes slack, relaxing for the first time in days.
+
+"Thanks, captain," [Specified 0] whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Quiet oaths and groans that attend the ship's passage for the next few hours, and when you suggest [Specified 0] be taken a ration of grog, nobody raises a word of complaint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Publicly chastise [Specified 0], then sneak him grog.] "Haul the thief to the deck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You have [Specified 0] hauled on deck, making it clear that he'll have no more grog, and if you catch him filching again, he'll skip straight past lashes to keelhauling. By the time you finish, [Specified 0] quakes in terror, and most of the rest of the crew has paled, too.
+
+Later you sneak [Specified 0] a flask, warning him to keep the show of generosity quiet, lest you be forced to make an example of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1]'s next words catch in his throat. He swallows and finally squeaks out, "Of course, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1] nods. "Your orders, captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Punishment is in order..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The crew await your sentence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Consider an unorthodox solution...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>They watch you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Reconsider your options...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>They watch you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 2] descends into the hold and rests a hand on [Specified 0]'s slick forehead. After several minutes, the sailor goes slack, relaxing for the first time in days.
+
+"Thanks, [Specified 2]," [Specified 0] whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>While you overhear a few grumbled complaints about a lack of maritime justice, most of your crew seem content with your decision, and the tension melts away over the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

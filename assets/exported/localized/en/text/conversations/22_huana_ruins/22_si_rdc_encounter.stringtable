@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_si_rdc_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sailing offers a welcome reprieve from Motare o Kōzi until the silhouette of an advancing ship grows clearer in your spyglass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Stand down and prepare for inspection!" 
+
+A commanding voice bellows over the turbulent crashing of waves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Shout] "Parley!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The name is Pai, and I'll speak plainly. You wouldn't be leaving Motare o Kōzi unless you found what we both want. 
+
+"The map." 
+
+He rests his hand on the pommel of his sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "[Player Ship] and everything on it is mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Hold a torch close to a gunpowder barrel.] "Do you want to live forever, Pai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pitiful to see a son of Rauatai shaking down his betters for profit and mischief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hold a moment..." 
+
+Pai leans forward to take in the name of your ship. He blinks once. Twice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Benevolent Aegis draws close enough for you to recognize the crew as hard and disciplined coastal aumaua. One of them separates from the fold and plants his boot on the railing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slip the Huana Chart in your boot.] "I found nothing, but feel free to search [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Leave no barrel unturned! We don't go home empty-handed." 
+
+While Captain Pai bellows his orders, you hope that no one noticed you hiding the chart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>No one thinks to check you. The crew picks over every corner of [Player Ship] and drag their feet back to Pai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The crew spends no time at all picking over your vessel before a call sounds out from one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Maia, any thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"That's Captain Pai's ship. Good man. By the books. Tends to fly off the handle when things... don't go his way."
+
+Maia frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Maia, a delight as ever, but you are on the wrong ship." He offers a broad smile and a Rauataian salute. 
+
+She merely nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Allow him to sail away with the Huana Chart.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Attack] "Not so fast, Pai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Full speed back to base! Mission accomplished." Captain Pai swaggers back to the helm of Benevolent Aegis and chuckles at his good fortune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The winds turn against you as the pursuer closes the distance handily - a Rauataian junk with a standard loadout of five cannons on each side. The flag of the Royal Deadfire Company waves proudly. 
+
+A placard on the hull identifies it as Benevolent Aegis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"My thanks for your diligent work. This will serve our cause well." 
+
+Pai rolls the parchment with care and winks across at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You draw your weapon. Captain Pai raises his eyebrow with interest before drawing his own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Storm their positions and take no prisoners!" He points his sword at you and signals his soldiers to attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"May [Player Ship] sail in calmer waters." He doffs his hat and signals the boatswain to unfurl the sails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Captain... my apologies for the diversion. Have a pleasant voyage." 
+
+He doffs his cap, the amity of his tone never quite arriving at his eyes. 
+
+The ship sails away under a cloud of failure and misgivings. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>When his crew draws back with panicked mutters, Captain Pai holds out his palm to silence them. He studies you wearing a severe expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Be reasonable, captain. We can both get out of this alive."
+
+Pai opens his palms in a show of benevolence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I didn't survive Motare o Kōzi to give up now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Point to a companion.] "Bring me a second barrel so Pai here knows I'm serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Attack] "I have no intention of surrendering quietly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The captain and his crew observe this escalation with mounting dread. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Honesty like that... I admit it's refreshing." By his relaxed posture and pointed interest, he may even respect you for it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Light a second torch and juggle them near the gunpowder barrel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Captain Pai and his crew watch, enraptured and horrified, as the flaming torches dance and twirl over your head. 
+
+Pai is the first to shake himself out of morbid fascination. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Over the sound of his departure, you can hear him cursing the madness of it all as he leaves your vessel to the open sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Let's say he's persistent and leave it at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Fight your way out of this.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I shall have to think twice about practicing my flame spells on board in the future. If there is a future." He looks anxiously to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Good. Make them flinch and you know you have the upper hand."
+
+Pallegina looks to you, then back to Captain Pai, awaiting his next move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"This life is a diversion on my way back to Ngati's watery hall. Do what you must." Tekēhu wears a stoic expression, but a bead of perspiration works its way down his brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I can see this going well." Maia purses her lips and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Were hoping to live until at least next week. Ah, weren't asking me, were you?"
+
+Serafen's left ear twitches.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Second thought, forget the 'good man' bit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He returns Maia's curt nod. They say no more to each other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Close one." In spite of herself, Maia can't stop grinning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Whatever the prince can do with your map, I'd wager the hazanui can do it better." Shrugging, Maia snaps her spyglass shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>A battle cry on your lips, you steer [Player Ship] toward the advancing vessel and prepare for combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Aye! We'll sally back as a right-fierce stripey fiend, I conne it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>A loud percussion followed by the splash of water announces a cannonball fired across your bow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"My apologies, captain. I didn't realize we had friends on Motare o Kōzi already." 
+
+He clears his throat into his fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Weapons trained on you, a crewman snatches the chart and presents it to Captain Pai, who unfurls it and frowns down at the parchment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Nothing?! You lampreys couldn't find your tails!" Pai tears off one of his gloves and throws it to the deck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Retreat! There's a madman at the helm of [Player Ship]!"</DefaultText>
+      <FemaleText>"Retreat! There's a madwoman at the helm of [Player Ship]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"And I hate to deprive you of your prize, but if we seek the same thing then I can't just pretend our paths didn't cross."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Toss him the Huana Chart.] "Be my guest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Captain Pai catches the rubbing and blinks with disbelief as he unrolls it for a closer look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"A welcome surprise. I don't know which of the gods to thank, so here's a down payment on my gratitude!"
+
+He tosses across a pouch of coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Something poking out of his boot, captain!"
+
+Pai blinks in your direction and smiles. </DefaultText>
+      <FemaleText>"Something poking out of her boot, captain!"
+
+Pai blinks in your direction and smiles. </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

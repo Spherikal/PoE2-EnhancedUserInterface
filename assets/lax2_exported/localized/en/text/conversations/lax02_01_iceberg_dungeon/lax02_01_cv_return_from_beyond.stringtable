@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_return_from_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you return to your corporeal form, you feel a strong pulse of essence from the Eye of Rymrgand. The blue jewel seems to pull on the Vytmádh, dragging forth essence from that craw of entropy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The energy swirls around you, then condenses, solidifying into the gear you found in the Beyond. Though composed of frigid, entropic essence given form, this equipment seems as solid as any other arms or armor. 
+
+At least so long as you keep the Eye of Rymrgand near at hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It just- appeared! Incredible! The relic summoned it and maintains its form."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Most intriguing. I wonder if the other gods have blessed similar relics."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

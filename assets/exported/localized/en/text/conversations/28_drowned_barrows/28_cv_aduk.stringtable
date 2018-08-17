@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_cv_aduk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bah. I spit on Nemnok." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Some ink must have leaked through Anniq's skull if she thinks I'll stand idly by..."
+
+Tatok mutters to himself as he presses a fine chisel into the scales of his armor, engraving runes one laborious curve at a time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"No god of mine steals a child." Tatok stops muttering when he sees you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What was that argument about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Our chieftain offered my Kaali to the Drowned Barrows." Tatok spits on his armor and rubs harder at the chisel mark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Interesting set of armor you've got there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Junvik tradition. The names of friends and foes are engraved on its hide." He bangs on his chest, grinning broadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"How do, outlander?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"May the true gods curse Nemnok... and curse me for losing Kaali." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm afraid that Kaali is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I knew this was possible... even likely, when I sent you out there. The fault is with Nemnok alone." 
+
+He passes you a small pouch of coins and resumes his labors, his expression vacant and haunted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"My son returns! The Barrows spat him out." Tatok grins and slaps his son's shoulder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I had something to do with it, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Happy to help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Whatever Anniq says, you are welcome among the Junvik." 
+
+First he tosses you a pouch of coins. Then he grunts and shrugs off his armor, passing it to you with pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Clear your throat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Lean in for a better look at the engraving.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bah! There goes the rest of my day. 
+
+"What do you want, outlander?"
+
+Sparing you a glance, Tatok begins to furiously buff the metal with the edge of his fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"'Yes, mighty Nemnok. No, mighty Nemnok. Enjoy our livestock, mighty Nemnok.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The chisel goes askew and draws a harsh line across the iron. 
+
+Tatok's eye twitches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The runes are finely-made, each the result of meticulous attention to detail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The runes are in the Naasitaq language, at least half of which spell out a litany of violent and colorful curses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Lie] "Watch out, a three-headed Nemnok!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What?!" He shoots to attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Nemnok... accepted him. An honor to some, a tragedy to me." Tatok sighs and wipes his brow with the back of his hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What's Nemnok?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I've heard nothing about a new god. This might bear a closer look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"God of the island. A great terror of a being, but... kind to us, when we follow the rules." He shakes his chisel at the stone idol in the center of the village. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"His likeness is the most any of us have seen. We only meet his ogre minions who guard the isle.
+
+"The children we send... they face him in the mountain." 
+
+He nods toward the northern horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Been with the tribe for generations. Good armor remembers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A false god, you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"He's not perfect, but he's &lt;i&gt;our&lt;/i&gt; god, lass." Tatok sighs up at the idol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I could keep an eye out for Kaali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Hope you get your son back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Next time it'll be Nemnok who pays." 
+
+Tatok chews his lower lip and sighs as he marches toward his hut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The riches of a god's sanctum await any who ventures in the Barrows, but I just want Kaali back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I take it Kaali hasn't returned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nay. I hope he's smart enough to slip free of Nemnok's claws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Tatok's eyes widen and his chisel falls from his hand. He raises a shaking hand to pull on the ends of his beard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"We're talking about a missing kid, Tatok. Your kid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I don't like the sound of this Nemnok."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Lining my pockets with the gold of a skull mountain? Can't pass that up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You'd do that? Being an outlander, I suppose you aren't bound by our ways..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"This Nemnok lives in the Drowned Barrows?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Aye, there in the big mountain. Mighty Nemnok's hall of power." He nods toward the distant peak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Nemnok and the ogres watch over our tribe, keep us safe. But the cost..."
+
+He shakes his head and chisels a deep accent into one of his runes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"This is a handsome village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"We work hard to keep it that way." Tatok sighs and glances to each of the brick huts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Too hard, at times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Outlander. How do you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"How is Kaali faring after his time with Nemnok?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"He's... less than pleased to be home." Tatok frowns to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"The Twinned God would want me to visit a mountain in death's likeness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"The Barrows makes for a sorry pilgrimage, but maybe a fitting one for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I hear that Nemnok is your god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Anniq told me about Kaali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"She tell you about walking him up to the mouth of the Barrows without my say?" He grimaces to the east.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"He'll grow back into it, I suspect. Maybe we don't have a fancy library or stone altars, but... we have heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I do not forget, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The plate was meant for Kaali, but I see now he has no taste for it. He's a priest in training, my boy." 
+
+He winks at Kaali, who shuffles awkwardly to the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Nemnok sure &lt;i&gt;takes&lt;/i&gt; like a god. He demands readers, scribes - anyone handy with ink and quill. My Kaali had the misfortune to be born clever." Tatok grimaces to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The chisel nearly falls as Tatok brings his hand up to cover his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"A curse on that wretched..." Sighing, Tatok looks up at the sky and gathers his wits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Father..." Kaali winces and eases away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I am &lt;i&gt;empty&lt;/i&gt; without mighty Nemnok."
+
+Kaali looks down on his hands and balls them into tight fists. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"You'd... did you say you'd go to the mountain of power? Would you find my boy while you're there?" Tatok pauses his work to blink at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"We send other tithes to the mountain as well. Gold, gems, items of power... if such things interest you." 
+
+Tatok winks and clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I'll look out for Kaali when I'm there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"My thanks, outlander. I have no cause to expect help... but I'll take it where I can." Tatok tentatively inclines his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Such things do interest me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I had more questions about Nemnok first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ask on, outlander." Tatok sighs and gestures for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"If you can help me and help yourself in the process, so much the better." Tatok breathes a sigh of relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"So do I, outlander." He studies the edge of his chisel and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"If only more of the tribe would wake up to the cruelty of it all..." Tatok plants his hands on his hips and glances around the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"My son returns! The Barrows spat him out." Tatok grins and slaps his son's shoulder. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

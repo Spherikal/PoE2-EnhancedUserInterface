@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_si_lift</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This wooden lift grants access to the towering cliffs separating the settlement above from the jungle below.
+
+The lift is currently raised to the level of the plateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Take the lift down to the ground.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>With the help of an elaborate pulley mechanism, this lift can be raised to the level of the plateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Take the lift up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Throw a grappling hook up the lift.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The hook successfully gains purchase and snags onto the lift, bridging the gap between the raised mechanism and the ground with a dangling rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The hook sails short of the lift and falls to the ground. You discreetly reel it back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Climb up to the plateau.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You reach the top and swing onto the plateau, steeling yourself for a worthy battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>This wooden lift grants access to the towering cliffs separating the settlement above from the jungle below.
+
+The lift is currently raised to the level of the plateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A shout of alarm rises among the Wahaki warriors guarding the cliffside. Archers nock back arrows and take aim in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you make your way up the rope, the loud twang of bowstrings announces that the archers have let loose a volley of arrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You use the rope to your advantage, swinging your body at angles that confuse the eye - narrowly avoiding injury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>An arrow sinks into your side with a meaty thunk. You grit your teeth to repress a scream, and it takes monumental effort to ignore the pain as you work your way up the rope. 
+
+A steady trickle of blood falls to the distant ground below. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You hasten your climb, closing the distance too quickly for the archers to anticipate your movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>No one on the plateau has noticed your attempt, though you suspect they would not take to this behavior favorably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The creaking of wood and straining of rope accompany the lift's upward journey. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The lift strains against the ropes binding it, but the pulley bears you slowly to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

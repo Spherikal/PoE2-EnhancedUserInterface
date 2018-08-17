@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_aenalys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A young woman reclines on the cushions, a hookah hose held delicately in one hand. Eyes closed, she sings to herself. Her voice is soft and inviting.
+
+She doesn't move when she hears you approach, but slowly opens her eyes with a lazy smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Have you come to hear some verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Come, lay your head on my breast. I will read to you the work of my favorite poet, Scilba."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How much for your time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"One hundred copper pands. A reasonable fee to experience the sublime words of Aedyr's greatest poets, don't you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'm interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Do you know Scilba? She wrote in the time before Aedyr's marriage to Kulkin, when the kingdom was fire-bright and yearning for a purpose.
+
+"Now, listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"It's futile to attempt to summarize the whole of a person in simple words. How to capture the dreams, the desires of another? Their feel and taste?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave] "Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ship at dawn, its face pressed
+to the sea's slick lips, my sister
+and you, a sailor dyed in lantern light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The wind, my brother's fingers
+pulling at your hair
+his breath hot and boastful
+promising."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"But I appreciate your curiosity nonetheless. I am an actor, trained from childhood. Difficult for you to believe, I'm sure." A teasing smile pulls at the corner of her lips. Her voice is wistful, almost melancholic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It sounds a pleasant life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You, slack-jawed and groaning
+your chin in the hard grip
+of longing, led stumbling
+through the waves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I, a horizon whose borders
+your thumb has not traced
+in years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The work was good when the crowds were grateful and their pockets swelled with coin." She gives you a pained smile and looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I found a more dependable application of my talents here. To touch the hearts of others with my voice... I could not give that up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"My troupe was my family, and we traveled the whole of the Aedyr empire, performing the classic literatures to cheering audiences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"An exquisite poet! This shall be a rare treat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"A pleasant diversion, yes? Visit me any time, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Meet me in my room if you'd like to hear a verse or two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Start slowly, please." Tekēhu pinches his lower lip and smiles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You have my undivided attention." Maia folds her arms and observes, smiling lopsidedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hold on just one murkberry-picking minute! I don't know if you know this about me, Watcher, but I ain't the kind of gal who likes to share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Kahn's looking for someone named Oswald. Sound familiar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What's your problem with Kahn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Oh. &lt;i&gt;Her.&lt;/i&gt; Yes, she is persistent, isn't she? She barged in and began asking me all sorts of inappropriate questions about my customers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"She grew incensed when I asked her to leave. She's no longer welcome in my room."
+
+Aenalys wrings her hands and looks away. Her gaze settles on her armoire in the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I do hope she's not a friend of yours. Her manners are atrocious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'm sure I don't know who you're talking about. Now, please leave." She gestures toward her door and makes a shooing motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What if he's in danger? Don't you care about his well-being?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Lie] "Oswald's run up a debt with the wrong folks. I can help him, but I need to know where he's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"It'll be our secret - no one has to know you talked to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"&lt;i&gt;If&lt;/i&gt; I knew a man named Oswald, and &lt;i&gt;if&lt;/i&gt; that man was in danger, I would still decline to be involved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That- that explains quite a lot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Absolutely not. My clients depend on my discretion. I will not betray their trust simply because you ask me to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oswald has visited oft of late. He's a sentimental old man, and he longs for the words of our homeland, Aedyr. I would often read the old epics to him in their original Eld Aedyran."
+
+Her eyes gain a distant, unfocused look, and a wistful smile spreads across her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"He's grown paranoid recently, however, always muttering about the shadows following him and other such nonsense. It was quite unnerving, frankly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"He came to me in a panic a few days ago and shoved his journal into my hands. He told me he'd be back for it, but... I've not seen hide nor hair of him since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I wonder... Perhaps his journal would help you find him?
+
+"Here, take this key. You'll find the journal in my armoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You should know full well the difficult position you're putting me in, having been a client of mine yourself."
+
+She rolls her eyes and looks away, furtively watching the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Too bad you didn't do something more productive with your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"The people need &lt;i&gt;art&lt;/i&gt;, [Player Name], as surely as they need hearty food and bright sunshine." Aenalys clucks her tongue disapprovingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Evidently I was mistaken in believing a brute like you might understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Now, is there something else I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She chews on a knuckle, brow furrowed, deciding whether she should trust you.
+
+Then she sighs heavily and gives you a sheepish smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"It's clear you care quite a bit for him. Let me help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I wonder... Perhaps his journal would help you find him?
+
+"Here, take this... oh?"
+
+Aenalys reaches for the key she expects to find at her waist, only to discover it's not there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I've told you all I know." She wrinkles her nose in distaste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I seem to have misplaced my key. I can't open my armoire without it."
+
+She gives you a pained smile then looks away, her eyes frantically scanning the floor for her errant key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She casts a nervous glance toward her armoire and frowns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I have nothing more to say to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Rank thievery? Really? Get out! You are no longer welcome here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I saved your friend, Oswald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Not from something too dangerous, I hope!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I have little to give you in thanks... Perhaps you'd be amenable to some establishment gossip, hm?" She raises a well-sculpted brow and gives you a cheery little wink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Konstanten, the masseuse, longs to wander the world again. Every time he threatens to leave, Gyntel begs him to stay, and every time he promises to remain for just a month more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Bribe] "Maybe two hundred and fifty coppers will jog your memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"How dare you!" Her hands ball into fists at her sides, and she fixes you with a glare hot enough to melt iron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Bribe] "My mistake. I meant five hundred coppers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Aenalys cranes her neck to peer over your shoulder, then snatches the coins from your hand and hastily shoves them into a pouch at her waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Aenalys peers over your head, then snatches the coins from your hand and hastily shoves them into a pouch at her waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I wonder... Perhaps his journal would help you find him? One moment, I will get it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"My mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Deal with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Best not make it again."
+
+Her words are angry, but she offers you a grateful smile before bumping your shoulder with hers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Her face flames red, and she crosses her arms sullenly over her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Please, accept my thanks. He's a kind old man - I would have mourned to see something terrible to happen to him." She clasps yours hands and hers and gives them a little squeeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I wonder what he hopes to find out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

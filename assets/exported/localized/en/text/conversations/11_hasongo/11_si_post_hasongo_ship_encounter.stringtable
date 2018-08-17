@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_post_hasongo_ship_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hasongo is a mound of wreckage on the horizon when you see a dozen junks sailing toward you.
+
+Even at this distance, you can tell they are making good speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>One of the ships pulls up alongside yours, and a well-dressed aumaua man approaches the edge of the deck.
+
+You recognize Atsura, the grand secretary of the Royal Deadfire Company.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>One of the ships pulls up alongside yours, and a well-dressed aumaua man approaches the edge of the deck.
+
+You do not recognize him, but he grins cryptically at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>One of the ships pulls up alongside yours, and an aumaua man approaches the edge of the deck.
+
+He gives you a curt nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Our beacon shines again. I suppose this was your doing." He stares fixedly toward Hasongo and the shifting, greenish glow of the adra lighthouse.
+
+He finally looks back at you, distaste etched across his features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Perhaps you'll find a warmer welcome at the palace in Serpent's Crown. The Huana are ever desperate for champions." A sardonic smirk tugs at his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Forgive me, but after your run-in with the hazanui, it seemed prudent to keep my distance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I am Atsura. Grand secretary of the Royal Deadfire Company and special emissary of the ranga nui of Rauatai."
+
+He nods, but he's gazing toward Hasongo with a peculiar smile. 
+
+The adra beacon, visible even here, shines brightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"It surprises me that you have largely escaped notice in the streets of Neketaka. I suspect that will soon change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"It is good to see you again. I see you continue to leave your mark." He is gazing toward Hasongo with a peculiar smile. 
+
+The adra beacon, visible even here, shines brightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What is this about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"A pleasure to meet you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You'd better say your piece and get out of my way. Fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I want to extend the thanks of the Royal Deadfire Company for what you've done here." He raises one hand toward the adra beacon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You've restored a valuable asset. Whether or not that was your intention." He gives you a quick, sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The others at the palace will want to hear of this, no doubt. And you may as well take credit while the deed is fresh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Go to Serpent's Crown in Neketaka. And later, come and see me at the Brass Citadel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I am always eager to forge relationships with such resourceful individuals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"We can discuss your progress with issues of mutual interest there." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Your manners do you much credit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Please, forgive the display. But after the troubling reports from Hasongo, we deemed it best to come prepared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"A pleasure to see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"About that job you gave me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Please, let us discuss that another time. When we have the benefit of privacy."
+
+He clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Though the Huana, I'm certain, have little appreciation for your... gumption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Just so you know, this changes nothing. We do not forgive easily, least of all when it comes to the murder of a grand secretary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"But I would welcome your company at the Brass Citadel. Once I've seen to the ranga nui's interests here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It is a shame you and I cannot work together. Karū and I did not always agree, but she was an ally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"And the Huana will not soon forget that you slaughtered their queen." A sardonic smirk tugs at his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"And the Huana will not soon forget that you slaughtered their prince." A sardonic smirk tugs at his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"But folk say he's going to destroy the cycle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Neketaka is abuzz with praise for your deeds. I'm glad to meet you at last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Your name is an ill whisper in the streets of Neketaka. I have been most curious to meet you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"People in Neketaka say a great deal about you, but no one knows what to think.
+
+"I confess, I have been eager to draw my own conclusions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Neketaka is abuzz with praise for your deeds, as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Though the people of Neketaka are less sanguine about your presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Though no one in Neketaka knows quite what to think of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Though it surprises me that you are still a stranger to many in Neketaka. I suspect that will soon change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Timely of you to show up, boss. I was just scribbling down my daily report."
+
+Maia folds her arms and nods across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I'm afraid it will have to wait until I return to the Brass Citadel." He nods at Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Timely of you to show up, boss. I was just scribbling down my daily report."
+
+Maia folds her arms and nods across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I'm afraid it will have to wait until I return to the Brass Citadel." He nods at Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I need to reach the Ashen Maw in Magran's Teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"There's no time! Eothas went to the Ashen Maw, in Magran's Teeth, so I must follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>It's as though a cold wind has blown over the deck. At the mention of Magran's Teeth, the Rauataian sailors stare at you in shock and horror. Those who are not frozen with their mouths agape are whispering fearfully amongst themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Atsura silences them with an unreadable glare.
+
+He turns back to you with a brittle smile that does not reach his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Forgive my compatriots. Magran's Teeth is a volcanic chain along the northeastern edge of Deadfire.
+
+"It is also among the most treacherous places in the archipelago." He casts a glance back at the anxious sailors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"The waters around it are patrolled by giants said to be born of Magran's own volcanoes. Even our well-armed ships do not venture there." He tilts his head in apology. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"But I suspect Queen Onekaza could direct you to Ashen Maw, if you are set on going there. All the more reason to visit her palace." He smiles cryptically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Were you on better terms with the Huana, I would suggest asking their queen.
+
+"Given the state of affairs, I'm afraid you'll have to find the Ashen Maw yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"There's no time for this! Eothas went to the Ashen Maw, in Magran's Teeth, so I must follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"There's no time for this! Eothas went to the Ashen Maw, in Magran's Teeth - I need to know how to get there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"We may be foes, but I must reach the Ashen Maw in Magran's Teeth for all our sakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>It's as though a cold wind has blown over the deck. At the mention of Magran's Teeth, the Rauataian sailors stare at you in shock and horror. Those who are not frozen with their mouths agape are whispering fearfully amongst themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The captain silences them with a glare.
+
+But as he turns back to you, you see his own fear in the rigid lines of his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"All I know is Magran's Teeth is a volcanic chain along the northeastern edge of Deadfire.
+
+"And the fools who sail close rarely come back." He swallows, trying to hide his disquiet behind a grim frown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"It's said that Magran's own offspring - giants of fire and stone - patrol the waters. 
+
+"In any case, we've never had cause to go." He tries to suppress a shiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I'm sure that Huana queen knows. But after what you did, the only way you're getting into the palace is with your head on some tribesman's spear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"If you're so willing to sail to certain death, I'm sure the Huana queen can tell you where this 'Ashen Maw' is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"So, wherever this 'Ashen Maw' is, you'll have to find it on your own." He recovers enough of his composure to glare contemptuously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I'm sure that Huana queen knew. But she's probably halfway back to the Wheel by now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Then we should go our separate ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Stay out of my way, or you'll be next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Perhaps so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Atsura nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Are you finished?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I suppose not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Clear skies, &lt;i&gt;captain&lt;/i&gt;." He turns his back on you and waves his crew to continue onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"At any rate, I have much to attend to. And it seems you do, as well.
+
+"Clear skies, Captain [Player Name]." Atsura nods as his crew makes ready to sail once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_queen_powderhouse_aftermath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The throne room echoes with nervous muttering. A few heads turn in response to your entrance, but most of the attention is fixed on the tense assemblage before throne, where an anxious-looking Vailian stands flanked by guards. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You expect us to believe that?! This reeks of gutless Vailian subterfuge." 
+
+The hazanui leans forward, staring daggers at Castol. One angry vein bulges at her jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Peace, hazanui. I invited the Watcher here as a witness, and I dare anyone to find a more credible source." 
+
+She sweeps the room with her gaze and nods in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Then the matter is resolved."
+
+As Onekaza prepares to rise, the bustle of courtiers and their mutterings return to a normal volume. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"An ugly business I say, but it is done." 
+
+Onekaza crosses her arms and sighs, but you detect the ghost of a satisfied smile rising to her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Guards, see to it that the director gets home in one piece. Now clear the room!" 
+
+She claps her hands once, the percussion startlingly loud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"A moment." Onekaza regards you across the gap. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"...Your highness, the Watcher is... undiplomatic, but I'm certain we can move forward in the spirit of-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Not so fast, boy. The Watcher's mine.
+
+"This is for my brothers and sisters." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You cannot know what you have done." The queen clenches her hands into fists, though none of her anger reflects in her expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"After so much struggle, it was a moment's work to cripple a nation." Onekaza inclines her head in a modest bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"In this moment, you have proved yourself our most valued friend and ally." The queen bows deeply - spreading a hush through the court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Join me in the garden. I would speak of our future in detail." She makes a welcoming gesture away from the throne room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Done? I've still got dead to bury and a district to rebuild. This is just the beginning for me." She shoots the queen a glare that is almost a warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You are entitled to some recompense, hazanui. The director's holdings rightfully belong to you." She opens her palm in a sweeping gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She grunts. "That'll certainly get me started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Director, you stand between Woedica's justice and Tangaloa's open mouth. Has the time come to amend your statement?" 
+
+She raises her brow and waits patiently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"With respect, your highness, these charges are absurd!
+
+"If that man is being paid, it is not from my pocket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ac, a thousand suoles he offered me. I should have charged ten times that." 
+
+The young man crosses his arms and tips his head at Director Castol, and then glances between the faces of the assembled leaders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The queen raises her fingers to her temples and regards you across the gap, her expression unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That will be enough squawking out of you, merchant." Aruihi aims a silencing look at the director.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Hazanui? I blew up the powder house."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You scheming rat! I'll blow you from the cannons and hang your remains from our walls!" She strains forward, the vein in her jaw pulsing dangerously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Payment for igniting Rauatai's stockpile of black powder. Do we have that correct, Andaccio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ac, it is so, highness." Swallowing, the young man nods.
+
+Onekaza slowly turns to Director Castol, her expression unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I object!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Silence falls over the room as every head turns toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Did Berath give you the authority to dispense law in my court?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;Do NOT ruin this for us.&lt;/ispeech&gt; The queen's fingers tighten upon the armrests of her throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You arrive in good time, I say - after one confession and before another still to come." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Watcher, please state your name for the Kahanga court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"[Player Name], your highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'd rather not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Did you witness the explosion at the Brass Citadel?" 
+
+Onekaza steeples her fingers and nods for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I did, your highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Lie] "I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Watcher, I do not think..." 
+
+Onekaza sits forward in her seat before cutting herself off. Taking in the temperature of the room, she eases back and flattens her expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"WHAT is going on?! 
+
+"Someone murdered my people and left a crater in our stronghold, and I am not leaving until we get justice!"
+
+Her head whips back and forth as she glares at the assembly, unsure of where to focus her rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She holds your gaze across a long and pregnant pause, unblinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Shall we continue, then?" She clears her throat and eases back in her throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;What. Are. You. Doing?&lt;/ispeech&gt;
+
+Onekaza shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Witness it? Highness, I lit the fuse myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The total silence after your statement is as jarring as the echo of a gunshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Watcher, on this point our court cannot tolerate silence." She nods slowly, indicating that you proceed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"So be it. Our witness has recused himself from further testimony." Sighing, the queen raises a finger to her temple.</DefaultText>
+      <FemaleText>"So be it. Our witness has recused herself from further testimony." Sighing, the queen raises a finger to her temple.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"It seems I have wasted everyone's time. To be sure, an embarrassment." 
+
+She shakes her head at you slowly, almost imperceptibly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Well. No offense is taken, highness. The loss of the powderhouse was a great shock to us all. 
+
+"My condolences, hazanui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ekera, then it is as I told our guests before." She passes the hazanui and director knowing looks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Then let's get on with it. I want to know &lt;i&gt;what&lt;/i&gt; the Watcher saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Worry not, hazanui. Under this roof, facts are the coin of the realm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Th-this is madness. Queen Onekaza, I would never do anything to threaten the peace between our people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tell us what you saw, Watcher." She motions for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Lie] "I saw Andaccio in Director Castol's office. I followed him to the Brass Citadel but was too late to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Lie] "I misspoke earlier. In truth, I saw nothing. The director is innocent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I witnessed the explosion because I started it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"W-what? No, that's... That's not- This is some manner of jest. Watcher, tell her!"
+
+Castol stares at you in stunned horror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I knew it! Release this snake to me, queen. I want to see Rauataian justice done." She pins the queen with a furious, expectant glare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"This was an attack on my city, and it falls to the Huana to judge the sentence." 
+
+She presses her back against the throne and tilts her chin up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Sciòderie! This is a lie so transparent that even our rivals must see how absurd it is!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I did it. The Príncipi send their compliments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Everyone here knows my name already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"If we're done comparing cocks, can we get on with the trial?" Her angry glare roves between you and the queen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Castol blinks owlishly behind his spectacles, his mouth dropping open. 
+
+He turns to the queen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"That will be enough, hazanui." Onekaza raises a conciliatory hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"No! You cannot do this! The Songretta, the &lt;i&gt;Republics&lt;/i&gt; will-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Considering the disgrace is on your head, I say not even the Republics will bother to defend you." 
+
+Onekaza's lips part in a satisfied smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You are to be stripped of rank and sent to the Gullet for your remaining years. May the bowels of Tangaloa scour the taint of guilt from your soul." 
+
+Onekaza makes a dismissive wave and her attendants move to close in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Queen Onekaza blinks in disbelief. She knots her fingers together and squeezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I see." She turns her head in Aruihi's direction and shares a knowing look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You scheming rat! I'll blow you from the cannons and hang your remains from our walls!" She strains forward, the vein in her jaw pulsing dangerously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"How... very unexpected. For all of us."
+
+Castol regards you with bemused shock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Esteemed dignitaries, this was not how I..." Finding herself at a loss for words, Onekaza turns her gaze to Aruihi.
+
+He takes his cue at once, stepping forward and clearing his throat loudly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>&lt;ispeech&gt;You idiot.&lt;/ispeech&gt; The queen draws in a sharp breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Step outside, director. Your trial is at an end, I say." Aruihi flares his nostrils and slowly draws his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Try not to scream as you pass through Tangaloa's jaws. It will go faster." 
+
+Aruihi advances on you with a look of focused determination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Not so fast, boy. The Watcher's mine.
+
+"This is for my brothers and sisters." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"What was your price? How much did they pay you to unravel my plans?" 
+
+She props her chin up on her fist and regards you with composed interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Couldn't hear you. I was too busy counting suoles." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Clearly they didn't pay me enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I was supposed to get paid for this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The queen simply exhales through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"To sell out your allies on Vailian credit... there has never been a worse trade." 
+
+The queen closes her eyes and exhales. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Go, sister. I will deal with these traitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The total silence after your statement is as jarring as the echo of a gunshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"But this is... Watcher, what have you done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You scheming rat! I'll blow you from the cannons and hang your remains from our walls!" She strains forward, the vein in her jaw pulsing dangerously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Brother, what say?" The queen eases forward in her throne and fixes on you with concentrated attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I say the Watcher is taking a shortcut through Kohopa." Cracking his knuckles, he signals his guards. 
+
+Everyone else does, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;We could have done so much more for each other. Such a waste.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Justice well-executed, your highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Pausing, Onekaza favors you with a nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"One hopes we can rely on your testimony in the future, should the need arise." Onekaza nods to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Do not concern yourself, sister. Allow me to deal with this one." Focusing his attention on you, Aruihi moves to draw his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The total silence after your statement is as jarring as the echo of a gunshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"I did it. What's more, I made fools of you all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I misspoke. Apologies if I caused any alarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"This cannot be, I say. The Watcher is mad from too much sailing." Her brow furrows in warring confusion and concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"The only fool I see here is the talking corpse." Onekaza shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Fascinating. Madness such as this is beyond my purview. Aruihi?" The queen hesitates to pull her attention away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I don't care for your sense of humor." The muscles in her body slowly untense, but she continues to glare at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I never liked Castol. It was done for convenience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"It is my honor to serve, highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"The difference means little, and your honesty... ekera, refreshing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"And well-mannered. Ekera, we are nicely paired in these dark times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I need my soul back - not another friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"And so you will have it. Ekera, the gods have aligned our paths with good reason." She gives an encouraging nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"As we have your loyalty, so you will have ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"The right thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You should try playing fair for a change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Not by far, though I would not expect you to recognize it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Go and see what becomes of your true alliances. You will find no friends in the Kahanga." 
+
+She points to the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"You sell your own homeland to the enemy. This I cannot abide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ekera, but has anyone extended the same courtesy to me?" 
+
+Onekaza pulls her lips back in a grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Shameful, and nothing to say for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Let's not be too hasty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Stand down or join the trail of bodies in my wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Attack] "No court in Eora can judge me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Watcher, the time for negotiation has passed." The queen touches her brow and says no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Aruihi, I call on you as my headsman to see justice carried out." She nods to her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Does your servitude to the death god go so deep that it would compel you to this?" 
+
+Grimacing, Onekaza shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>&lt;ispeech&gt;We could have done so much more for each other. Such a waste.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"S-so there you have it. A misunderstanding, in the heat of the moment.
+
+"I take no offense - the loss of the powderhouse was a great shock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I think not. Hold your tongue, captain." Onekaza nods and shifts her focus back to the court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Y-your highness, I assure you-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I asked &lt;i&gt;the Watcher!&lt;/i&gt;" 
+
+Onekaza sits forward in her throne. Her voice seems to send a ripple through the court. 
+
+She turns back to you slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"My statement? I think you fished up a mediocre actor, highness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I knew you Vailians had no principles, but have you no shame as well?"
+
+The hazanui leans forward, staring daggers at Alvari. One angry vein bulges at her jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ac, a thousand suoles she offered me. I should have charged ten times that." 
+
+The young man crosses his arms and tips his head at Director Alvari, and then glances between the faces of the assembled leaders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ac, it is so, highness." Swallowing, the young man nods.
+
+Onekaza slowly turns to Alvari, her expression unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I never liked Alvari."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"So, the Watcher witnessed the blast- along with every citizen of Neketaka. 
+
+"What proof is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Watcher... What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>In the midst of that silence, Alvari begins to laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"W-what? This is... your highness, this is a lie! The Watcher lies!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Lie] "I saw Andaccio in Director Alvari's office. I followed him to the Brass Citadel but was too late to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"An interesting performance, highness, but I do have some criticisms. 
+
+"Are we finished? I have pressing matters to attend to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Come, highness, let us not embarrass ourselves-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Your little game of pretend didn't work, highness. That is all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Alvari's eyes widen, but her mouth presses wordlessly into a tight line. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Are we finished? Or are we running down the list of every misdeed in Neketaka to see if something sticks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"WHAT is going on?! 
+
+"Someone murdered my people and left a crater in our stronghold, and I am not leaving until we get justice!"
+
+Her head whips back and forth as she glares at the assembly, unsure of where to focus her rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"You... you coward. You parasite!" 
+
+Alvari's lips curl into a furious snarl. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"You are all making a mistake! The Songretta will come down on your heads like the wrath of the gods themselves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I blew up the powderhouse... because you asked me to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Naturally, since I was following your orders to blow it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[Lie] "I had nothing to do with any of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

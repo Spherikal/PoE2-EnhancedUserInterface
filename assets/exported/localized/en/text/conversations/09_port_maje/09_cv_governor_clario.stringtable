@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_governor_clario</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>309</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man at the center of attention appears to be fielding inquiries from both the gaggle of townsfolk gathered around the platform and a rather severe-looking aumaua woman standing just beside him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Yes, yes, and I think we're all keenly aware of the debt of gratitude we owe to the-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"If everyone would-" 
+
+As Clario's gaze sweeps across the crowd, it falls upon you, where it remains. 
+
+A few more heads turn to see what has caught the governor's attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let's continue this inside, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ah, yes, there you are. As governor, and under the auspices of the Vailian Trading Company, please allow me to officially welcome you to Port Maje." 
+
+He spreads his hands in a subdued flourish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes? Something you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I found some of your animancers. They managed to survive in a protective cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"There is a... site of some considerable value, elsewhere on the island. Of value to the Trading Company, you understand. 
+
+"In point of fact it's the very reason any of us are here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I saw the same destruction Eothas wreaked on Caed Nua. Oderisi is dead, along with all of your animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm sorry. Some of your animancers made it, but I'm afraid Oderisi was killed when Eothas arrived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eothas killed everyone there- and he'll keep doing it. I have to find him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I-I understand your impatience, but... Madiccho, simply tell me, what of Oderisi? His research? 
+
+"Did you find his notes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I... I see. I suppose we are fortunate to have any survivors.
+
+"And Oderisi's notes? His research?"
+
+Clario's gaze searches yours with almost feverish anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Please... I must rely on you. If there is any chance of recovering our work, it rests in Oderisi's hands. His research has made all of this possible.
+
+"Find him- find his notes, if nothing else, and I will do everything in my power to aid you. You will be sailing again within the day. You have my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I can do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"One more thing. If you should recover Oderisi's notes, know that they would be of great value to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"So far I've only found ash. I'll keep looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'm sure you're eager to depart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Please, everyone, remain calm. I assure you, I will do everything in my power to get you the answers you need.
+
+"Our friends among the Huana-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Have offered you hospitality and safety from the storms." 
+
+The aumaua woman folds her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I have personally seen to the safety of your homes. Now, you will do the same for our families."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"What about &lt;i&gt;our&lt;/i&gt; families?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What about the ships? How are we supposed to feed ourselves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"If everyone would-" 
+
+As Clario's gaze sweeps across the crowd, it falls upon you. Your skulking approach has not, unfortunately, gone unnoticed.
+
+His brow wrinkles in amused confusion, and a few more heads turn to see what has caught the governor's attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It's one of the pirates!"
+
+At this alarmed cry, the whole of the crowd turns to regard you. A startled, expectant hush falls upon the gathered throng.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I'm not a pirate!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"And if I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"My ship ran aground, just south of here. I need help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Everyone, stay calm. I think it's clear our guest is nothing of the sort." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hey, you mind if I go get a drink, meet up with you later? Got bad luck with mobs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Look around.] "Where?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Two of my guards reported a ship, flying Dyrwoodan colors, fallen prey to a pirate vessel.
+
+"That would be &lt;i&gt;your&lt;/i&gt; ship, I assume."
+
+The crowd quiets somewhat at that, though you still find yourself the target of a few glares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That would make him lucky. Your own vessels do not usually fare so well." 
+
+The woman regards you with bland curiosity.</DefaultText>
+      <FemaleText>"That would make her lucky. Your own vessels do not usually fare so well." 
+
+The woman regards you with bland curiosity.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"...Quite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Especially you, Mestra Ikawha-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Do not flatter me with Vailian titles. You are distracted with your newcomer and wish me gone.
+
+"But I will not go far, Governor Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Gellarde. As for you, stranger, let us speak at my estate.
+
+"We'll discuss your... predicament."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I just need some repairs, and I'll be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"If I was all that lucky, I wouldn't have crashed here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Per complanca, everyone, forgive me - I believe this matter requires my attention. You have my word that I will keep you apprised of any changes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"So you'll help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"We'll do what we can, of course."
+
+He staves off a few protests with a raised hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Perhaps not. But I suspect some good can come of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Between the storm, the pirates, and the... well, certain strange events, we are all a little on edge." 
+
+He spreads his hands in an apologetic gesture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Strange events?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'm on an important mission. I need to leave the island as quickly as possible!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I understand. You said you could help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"A few... Well, quite a few people here in Port Maje claim to have seen a... giant of some kind. During the storm."
+
+Clario winces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I would call it a flight of fancy, but unless something has tainted every well in the region, I do not think it can be ignored.
+
+"But then, the Deadfire is a land full of such things. You must have heard the stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"That wasn't just a giant. That was Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"A giant? Where did it go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Is that so? You've clearly come a long way. It's not a short journey, from here to the Dyrwood.
+
+"Just what brought you out this way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I'm tracking down Eothas for the goddess Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'd rather not say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I have to find someone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The governor mouths a voiceless 'ah' of understanding, and studies you for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You'll find good company among the Dawnstars, here in town. They have all manner of theories concerning the behemoth."
+
+He rifles casually through a few papers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Why, I haven't the slightest idea. Wherever giants go. Deep beneath the waves, with luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Right. Stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Sea monsters. Ancient tribes. A great many opportunities, too."
+
+He smiles enigmatically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A fearsome task, out here. You have a great deal of water and land to cover. 
+
+"But I see your point - the sooner you are away, the less likely your quarry will slip the net, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>The governor regards you silently for a few moments. 
+
+After an uncomfortably long while you realize he's been waiting for you to laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Chuckle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Smile politely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ha. Yes. A... task for the clergy, perhaps?" 
+
+He considers you for a moment, brows furrowing, then seems to dismiss the matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"That...certainly sounds important." 
+
+He clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>His own smile is rather uncertain. He presses gamely on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Well. To each their privacy." 
+
+A flash of annoyance crosses his face, gone in an instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Yes, your ship. You're stranded, are you? It was a rough landing, by all reports. A wonder you survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Unfortunately, our own ships are in no condition to sail. We've had dealings with the pirates ourselves. They've taken their share of supply ships. 
+
+"The storm saw to those berthed in the harbor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"All that said, I believe I may have a solution. Provided you're willing to help me, in turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Now, to the matter of your ship. You're stranded, are you? It was a rough landing, by all reports."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'm the Lord of Caed Nua. Couldn't I... owe you a favor?"</DefaultText>
+      <FemaleText>"I'm the Lady of Caed Nua. Couldn't I... owe you a favor?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"What could I do for you? I just got here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Caed Nua? A Dyrwoodan castle, is it?
+
+"An interesting proposal, to be sure, but I'm afraid the matter at hand is rather urgent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'd be happy to help in any way I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I'm not interested in making bargains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Indeed. Which means I can spare you, whereas I cannot spare the guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I have the guards on the lookout for pirate vessels looking to take advantage of whatever damage the storm caused.
+
+"We've cannons enough to see them off, but I need every man ready to use them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Marvelous. You've washed ashore like a sign from the gods themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Consider it less a business proposal than a little mutual assistance. 
+
+Not that I would mind having you on as a permanent resident. That is, if you'd find it fulfilling to work on the docks, or in the mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The mines?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Is that some kind of threat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Hardly. But it's the only work to be found, unless you fancy yourself a shipwright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Yes - to my point. I have a matter that needs looking into. Our... business ventures on the island."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Apologies for that little drama outside. These are confusing times, and people often react poorly to uncertainty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"There is a... site of some considerable value, elsewhere on the island. Of value to the Trading Company, you understand. 
+
+"In point of fact it's the very reason any of us are here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You're... familiar with the luminous adra trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I know that luminous adra is supposed to house more concentrated essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I know a little about adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"What's luminous adra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You mean the arena, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What? How did you...? You mean you've been out there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"But, then you must know - We've not heard a single word from our animancers in days. Not even the workers, for that matter.
+
+"Are they... Did you find them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"It's also quite valuable. When refined, it sells for considerable sums. 
+
+"The Trading Company has invested a lot of time and money into locating sites suitable for mining and processing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We - and I hope you understand that these matters require some discretion - have one such outpost on the other side of the island. 
+
+"A successful venture, up until very recently."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"We haven't heard from Mestre Oderisi since. Nor any of his assistants, or the workers... 
+
+"I must know what has happened. If Oderisi... if his work is lost, then everything that we have worked for is at risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Well, luminous adra is to adra what a fine wine is to... well, never mind that.
+
+"The point is that it is a particularly potent material. Suffused with essence. And it is only found right here, in the Deadfire archipelago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"A... mineral, of sorts. I'm afraid my interests lie in the economic implications. 
+
+"As I understand it, luminous adra holds concentrated essence. And it is only found right here, in the Deadfire archipelago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Wait. You mean you're trading in souls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"How valuable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"How does one go about refining adra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Valuable enough to make sailing across the world seem like a sound investment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"We sought to improve the refinement process. To that end we hired some of the brightest minds in the field of animancy and brought them out here to lend their expertise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"That's a... colorful way of putting it. Energy, really, is more apt. It's not quite a matter of digging up the spirit of your old grandmother."
+
+Clario lets out a short, breathy laugh, shaking his head slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"How indeed. That, I'm afraid, will remain a trade secret." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"[Player Name]. A pleasure. I hadn't thought to hear from you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I trust Neketaka has treated you well. ...Or at least with minimal cruelty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Which is where you come in. You need a ship. I need information. 
+
+"See to this for me, and I'll set half the town to work. We'll patch up your ship, and you'll be free to go on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Do you have any idea what might have happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Spin it however you like - the gods are going to grind your soul to bits for this sin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I told you what happened, but you wouldn't listen to me! We could've prepared for this level of destruction.
+
+"But what do I know - I'm just a priestess with prophetic dreams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"The Huana Storm Speakers should have kept the worst of the weather at bay. 
+
+"I... can't imagine what else might have happened. There are wild beasts on the island, but they wouldn't have attacked an active digsite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"And if I find this Oderisi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Why, take his report on the situation and remind him that he's under certain contractual obligations.
+
+"...And relay my deep relief at his good health, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Gellarde. Then we are agreed. I will assign men to keep watch over your ship. 
+
+"You will find the digsite on the eastern side of the island. I'll mark it on your map, here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Fine. If it gets me off this island."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'm a Watcher. I've dealt with adra before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Are you indeed? How very interesting." 
+
+For a moment Clario appears entirely distracted from his point, regarding you with an uncomfortably intense degree of interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Do you know, they'd have a great deal of interest in speaking with you at headquarters. Something to consider."
+
+He finally breaks from his musings, and flaps a hand to dismiss the subject.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Lie] "Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Of course. I suppose you could hardly spend ten minutes in the Deadfire without hearing all about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"The Vailian Trading Company has invested a lot of time and money into locating sites suitable for the mining and processing of luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I know that Luminous Adra is native to the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Can you tell me about Port Maje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"It may not have the grandeur of Ostia or Ancenze, but I am proud of what we have created here.
+
+"We've established strong supply lines, and our research rivals any performed in the Republics. ...On better days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"What about the Huana?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"But why build an outpost here in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"The digsite is a graveyard. Eothas definitely came through there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"At last- Belfetto. Tell me, please- What has happened? How much have we lost? I must... I must know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I saw the same destruction Eothas wreaked on Caed Nua. Oderisi is dead, along with most of your animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I... I see. And the work- Oderisi's notes. Was there nothing of his research?"
+
+Clario's gaze searches yours with almost feverish anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Give him the notes.] "I found these."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I didn't find anything like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Lie] "I didn't find anything like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Of course. Nothing. 
+
+"Nothing to show for &lt;i&gt;years&lt;/i&gt; of investment and planning. Damn. Damn it!" 
+
+Clario turns away to snarl his recriminations towards the floor, a fist clenched at the side of his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I have information for you about the digsite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I don't have a choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"This is the god of light we're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"You... you are too trusting in your superstition. 
+
+"Believe in what you have seen and felt- the death of every man and woman at that digsite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I think Eothas is after adra pillars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Merla. He will ravage every outpost in the Deadfire. 
+
+"That adra is why we are here. Why everyone is here, in truth. The Vailian Trading Company, the Royal Deadfire Company, countless mercenaries..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You'll want to go to Neketaka. Queen Onekaza II rules there, at the Kahanga palace. 
+
+"Anyone seeking to do business in the Deadfire Archipelago must negotiate with her first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Then that's where I'm going next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Who are the Kahanga?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"The most powerful tribe in the region, now that Onekaza II has united a host of them under her rule. 
+
+"Ikawha would disagree. But then, Ikawha contents herself with a spit of land and a handful of followers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Thank you for the help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"It is a strange obligation you are under.
+
+"I understand a little of that. Lucky for you- if I were a more sensible man I would take this for fable and turn you away." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"And for that, you need your ship. 
+
+"I'll arrange it with Ikawha. Between the two of us, I'm certain we can gather the workers we need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"You will want to hire on more crew, if you mean to sail onwards. Neketaka is some distance north, and you've seen for yourself how dangerous these waters are.
+
+"Speak to Thorel at the tavern. He'll know of any sailors in need of work. For supplies, you should go to the trading post."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Bon piacco. It is only right, after all you have done for me. 
+
+"I won't keep you further. You have a long and... very strange journey ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You promised to help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Nothing will stop me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"The queen knows every adra vein of worth in the Deadfire. I'm certain she can help you. 
+
+"...That is, if she agrees to see you at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Some advice - after you have had your audience with the queen, seek out the Vailian Trading Company. 
+
+"They make their headquarters in Neketaka. And the Company always appreciates good help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Is that unlikely?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Neketaka harbors many foreigners, but they count upon a small army of diplomats and emissaries to buy passage with words or coin. 
+
+You have no one but yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"That silver tongue of yours will be put to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I'll send a letter. If nothing else, you can begin on better footing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I have not forgotten. We will get you to Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Safe travels, captain. Do take care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Finally. I'll be glad to be rid of this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Best not to run aground again, no?" 
+
+Clario chuckles quietly to himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"It's certainly the time to start leaning on any important connections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Well, they may be more welcoming of a local. 
+
+"Truthfully, I'm still not certain how it works with the castes. As I understand it, newcomers to the city tend to wind up on the lower rungs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"No patience for conversation, is it? Or perhaps you are still sore from the loss of your ship." 
+
+Clario waves a hand airily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"No need to talk my ear off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Madiccho. I hoped- 
+
+"Never mind. What of the animancers? Oderisi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Nothing yet. I'll keep looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Must I track down the man himself? You know where he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Those were the terms of our bargain, no?" 
+
+"Sientere... But if there is any chance the man lives, I require his safe return. Please. I leave it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Agracima. We have put too much blood and coin into this to... 
+
+"Well. I must hold to hope that there remains some chance of recovery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I know what it's like, settling on new land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Knowledge is the best tool we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"And then one evening a storm rolls in out of nowhere, and my scouts begin to report that a giant has marched its way across the island, towards my digsite.
+
+"What am I to make of that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"You say you are hunting this thing. Well, that is where it went.
+
+You need a ship? I need information. Do this for me, and I will set half the town to work on freeing your vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"They keep to themselves for the most part. We have little reason to interfere. And any Huana willing to work are paid for it.
+
+"We get a few of those. Perhaps village life is too simple for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Scouts reported finding Engwithan ruins, along with a promising adra vein. 
+
+"And the locals were welcoming enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"If you have any questions at all, really- at your pleasure."
+
+Clario sets his arms behind his back, watching you with an expectant smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"You say this is all the work of the titan. Of... Eothas. And you still insist on looking for him?
+
+"He destroyed your ship. Killed my people. Would it not make more sense to sail to the far side of the world and away from all this?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Beat you to it, Clario. Your secret digsite isn't much of a secret. Or digsite, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Gellarde! Then there is hope. Perhaps they can help you find the rest of the team, find Oderisi- our head of research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Nothing of note yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Eothas is using the adra pillars as an energy source. If I can find more, I can find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"It would explain why the giant went for the digsite, rather than attack us in the town. Wouldn't it?" 
+
+Clario sets a hand to his stomach. With the other, he pulls a handkerchief from his pocket to mop at his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I hoped your arrival would present an opportunity to raise Port Maje's prospects from the mire in which they are trapped. 
+
+"But you threaten to bury them outright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Why kill Ikawha? I- &lt;i&gt;We&lt;/i&gt; have worked so hard to forge this alliance. 
+
+"Severing it endangers everything we are doing here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"She attacked me. I had to defend myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Enough, Clario. You're lucky to still be breathing yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I-I... That is... I seek only to keep the peace. Let us remain... cordial to one another, no?" 
+
+Clario tugs absently at his sleeves, occasionally glancing up at the nearby guard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I- I say this only to explain that you have made things difficult for yourself, as well. 
+
+"We will have to move your ship without the Storm Speaker's aid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Eothas is out there, stomping across the island, and you're worried about some research?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Well, if 'Eothas' happens to strike down the council perhaps then I will have time to spare for him!"
+
+Clario lets out a sharp breath, evidently flustered by his own outburst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ha. Do not... Please do not repeat that. 
+
+"We each have our debts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Whatever you believe is going on- you can see it for yourself. 
+
+That is precisely what I want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Get to the point, Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Out there, you'll find yourself a rarity. It is an interesting feeling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Are there many outposts in the Deadfire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"The lands here belong to the Huana, for now. 
+
+"If you ask the Royal Deadfire Company, that will not last."
+
+Clario mutters under his breath, running a hand over his scalp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"The Royal Deadfire Company?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"And the Vailian Trading Company?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Dispatched by the ranga nui of Rauatai himself. 
+
+I suppose news from home is harder to come by, in Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Dispatched by the ranga nui of Rauatai himself. 
+
+That would be their emperor. Or king, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Well. We are not here to rule. We will be here so long as it benefits the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"War does &lt;i&gt;not&lt;/i&gt; benefit the Republics. For the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Any venture of this size is difficult. Even so, the hard part was not convincing people to join us, but weeding out undesirable individuals.
+
+"We lowered our standards, in the end."
+
+Clario smiles wryly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"They say things are very different under Queen Onekaza II. She has unified many of the Huana under her banner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ikawha is one of the last holdouts. 
+
+"It works fine for our purposes. She is easier to negotiate with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"They say things are very different under Queen Onekaza II. She has unified many of the Huana tribes under her banner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Ikawha was one of the last holdouts. If the queen turns her attention to this island, we'll likely have to negotiate with her instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"How are things in Port Maje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"We are doing well enough for ourselves. Life at the edge of civilization has its rough moments, but we are past the worst of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ikawha has asked after you. I think you made an impression."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"The guards have things in hand. We sank one of the Príncipi vessels the other day. A much-needed victory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"And the supply ships have come and gone. Full bellies do much to settle tempers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I've spoken to him, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"And you? Have you tracked down your giant?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"And you? I hear you have been making quite the name for yourself in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"It's a beautiful city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"You're still my favorite bureaucrat, Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"And you? I hear you have been... busy abroad." 
+
+Governor Clario regards you with a carefully blank expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Don't take it personally. Your fellows at the Company aren't as nice as you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"The Deadfire is a fresh canvas. I mean to leave my mark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"That's all the small talk I have time for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Hm. Of course." 
+
+Clario smiles thinly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I'm surviving as best I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"I must wonder at your frame of reference." 
+
+Clario does a poor job of hiding his smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Ha. Flattering. You will forgive me if I keep that to myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"So they say. Perhaps you will come to the Republics one day, so that you have something to compare it to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"That is all we can do, no? 
+
+"I do wish you luck, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Well, the Dyrwood must be sorry to lose you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Perhaps that is for the best, no? 
+
+I jest- You seem determined. I am certain you will find... something, at the end of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"I, for one, am glad to put the business behind me. 
+
+"If he comes back this way, per complanca- do me the favor of sending a warning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"The most powerful tribe in the region, now that Onekaza II has united a host of them under her rule.
+
+"Not a group of people you want to make enemies of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"And for that, you need your ship. 
+
+"I'll arrange it with my people. They'll scrounge up the workers we need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"You will need a crew, if you mean to sail onward. Neketaka is some distance north, and the sea is not something you wish to face on your own.
+
+"You will need supplies, as well. You can find these at the trading post."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Head down to the beach once you are ready to depart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Certainly." 
+
+Clario stands up a little straighter, and clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Not long ago the whole archipelago was beneath notice. A place of warring tribes and grotesque sea beasts. 
+
+"Now it seems that every ruler on Eora wants an island of their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"...Then again, simplicity has its charms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Not a problem. Kith are easy to track."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"All my life I have sought guidance from the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Ac, I do not doubt your faith. I only fear you will cut that life short."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Nearly there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"They must be paying you very well, to bring you out so far.
+
+What is this work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Interesting. Is that why you came? 
+
+"This may be a Vailian Trading Company outpost, but I welcome settlers willing to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Welcome. Or as I have been taught, 'May Amira's winds blow sweet upon you.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>[Play along] "Kea mai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Galohi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"The truth is, you are not entirely unknown around certain circles. By description, that is.
+
+"You left your mark upon the field of animancy. At least, as far as the Dyrwood is concerned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"I'll ask my guards to find some feed for your... animal."
+
+Clario eyes your companion with some concern, then makes a point of ignoring it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"I do not turn from my duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"No, that much has been made very plain to me. 
+
+So be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"I have, actually, heard that one from Ikawha."
+
+He coughs, raising a hand to hide a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"They say life on the island has done terrible things to my Vailian, but my Huana is improving." 
+
+Clario inclines his head, smiling ear to ear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"That's all right. Never fit in much where I came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Sailing to distant places and fighting monsters is what I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"It glows?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Not... not quite. But it is a very valuable type of stone, only found in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"I'm already scared. You're not helping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I hoped you might have come around on the matter since. Animancy is not the sole purview of madmen and sadists.
+
+"Not in those places where science is not held in ridicule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"I hope you have not soured on the matter since. Your support of progress during the trial at Defiance Bay was an encouraging light in a sea of ignorance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"It's not a matter of law. Tampering with the work of the gods never leads to anything but disaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Let me guess. An experiment went awry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"No, no. Nothing like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I rely on my weapons, Clario. Animancy doesn't interest me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"A pity. But it shouldn't hinder you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"I leave matters of faith to the priests. I hope you can set your feelings aside, however- if only briefly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Ac, we are very much in agreement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"I like to stick up for the little guy. That's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"I think that this science has potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Well, perhaps we can work with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Perhaps I should have expected that from a priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>The governor regards you silently for a few moments. 
+
+The silence stretches on and on, until it has grown uncomfortably long. You find your mind wandering, and Clario sighs and clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"The hour is very late, aimico. Come back in the morning."</DefaultText>
+      <FemaleText>"The hour is very late, aimica. Come back in the morning."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"You did? Gods be kind-" 
+
+Clario takes the bundled notes from you with barely-restrained urgency. Within moments he is flipping through the papers, his eyes sweeping back and forth across the pages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Belfetto. Belfetto! We are saved." 
+
+Clario lets out a relieved, almost giddy laugh, looking up with you with a toothy grin. 
+
+A grin he hides, soon after, beneath a cough and a look of some regret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"That is, Oderisi's legacy is not wholly lost. I like to believe the man would find that pleasing." 
+
+He folds the papers once again, and sets his hands over them protectively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Quite the event, receiving one of the godlike in our little town.
+
+"Perhaps it will take the people's minds off recent events."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Clario does not respond at first. There is a new tension in the line of his shoulders, and he looks up without quite looking directly at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"You certainly look the part. I... It is certainly a challenge, isn't it? Even for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"I get it. Things are falling apart and you need me to save you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Ha- I would not put it &lt;i&gt;just&lt;/i&gt; so, but... Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"So. A sloop of modest size, flying a Dyrwoodan flag, bearing a captain matching a... unique description..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"So. A sloop of modest size, flying a Dyrwoodan flag, bearing a captain matching the description given in a half-dozen reports and rumors..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"That would make you the Watcher of Caed Nua, if I had to make an educated guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"You can call me [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"I'm in your reports?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Your sources are out of date. My castle has been destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Di verus? I am sorry to hear it. I was not forced from my homeland, but I know what it is to leave the familiar behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"The Vailian Trading Company and its patrons have business in many regions, among them the Dyrwood. 
+
+"You may feature in only a few reports, but you certainly made an impression."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Clario's jaw tenses, but he otherwise ignores Xoti's tirade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"We will have to agree to disagree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"You'll do it for the Watcher, but not for me? I see how it is."
+
+With a discontented sound, she crosses her arms over her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Yes, why &lt;i&gt;wouldn't&lt;/i&gt; I want a pack of Dawnstars crawling over my adra mine in search of their lost deity?"
+
+Clario darts a quick, sour look in Xoti's direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"I'd like to say the pleasure's all mine. But I try not to lie.
+
+"Don't worry, I'm only here on account of him." She bobs her head in your direction.</DefaultText>
+      <FemaleText>"I'd like to say the pleasure's all mine. But I try not to lie.
+
+"Don't worry, I'm only here on account of her." She bobs her head in your direction.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Of course. I see you've been as quick to involve yourself as ever." 
+
+Clario's tone is polite, but there is a strained edge to his wide smile as he turns from Xoti to address you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"And when was it exactly that your Watcher's senses manifested?"
+
+Clario darts a quick, sour look in Xoti's direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Clario, I need your help. Eothas is looking for adra pillars like the one in the arena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Ac, I see you are eager to be on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

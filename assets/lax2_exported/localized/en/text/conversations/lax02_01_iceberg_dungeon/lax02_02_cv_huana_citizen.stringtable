@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_huana_citizen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>62</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Y-you! Stay away! Have your kind not done enough damage?" The man shrinks from you, terror and anger evident in his wide eyes and the snarl on his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>But the man can't run. His voice cuts off abruptly, and his edges tear, fracture, and fall away. He is replaced with a creature of pure essence.
+
+He turns glowing eyes on you and lunges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"They've returned for us! Run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ekera, a friendly face! For a moment, I thought you one of those wretched outlanders." Relief washes over the man's face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Outlanders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"How so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Where am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"We are the king's council. Ekera, we &lt;i&gt;were&lt;/i&gt;, but are no longer.
+
+"That fool threw us from the palace and banished us from the realm. As if the outlanders' betrayal was our mistake!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The city of Ukaizo, the seat of Huana power in Eora! Well, what's left of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You stand in the great city of Ukaizo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Oh. Right. What was I thinking? Of course this is Ukaizo. Yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Forgive me, I've just returned from a long journey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Why did he banish you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Maybe you should have given him better advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"We dared to say he had made a terrible mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"That's terrible!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It was not our advice that was flawed, but &lt;i&gt;his&lt;/i&gt; judgment.
+
+"We told him not to trust the outlanders, not to trust their sugared lies, but he wouldn't listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The empire- the empire is fallen. If he'd only &lt;i&gt;listened&lt;/i&gt;-"
+
+He breaks off abruptly and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>A look of confusion crosses the man's face. He narrows his eyes, but says nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I say, if you were not here when the outlanders arrived, then you have not been back for seventy five years..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A strange people from across the sea. They came with promises too big for any kith to keep, but the king let them build their machines in the city anyway, the fool.
+
+"Now all lies in ruin, and it's &lt;i&gt;their&lt;/i&gt; fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Their machines- they were monstrous, taller than our tallest buildings. When they turned them on, thousands died in an instant.
+
+"The gods wept, they were so angry. And in their rage, they destroyed the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Leave] "I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Beware the collector - it stalks the waters!" His eyes widen in fright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Why did you run from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ekera, I mistook you for one of those wretched outlanders!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I thought Ukaizo was a myth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"It is as real as you or I.
+
+"Was as real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Gods, the soul collector, it's returned! Run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wait- I had more questions!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hurry! Go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You're mistaken. I'm not a citizen of... wherever this is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I say, have you suffered a head injury?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Whisper to Tekēhu.] "Is he serious? Could we be in Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Anything is possible. Ukaizo vanished from the Deadfire long ago. It may have ended up here." Tekēhu nurses his head in bewilderment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I... see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh gods, what have we done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I say, no one may tell the king anything if he doesn't wish to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Gods, the soul collector, it's returned! Run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>But the man can't run. His voice cuts off abruptly, and his edges tear, fracture, and fall away. He is replaced with a creature of pure essence.
+
+He turns glowing eyes on you and lunges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Doubtful, I say. We know that Eothas is bound for Ukaizo, which tells me it is still a part of the archipelago. Still, perhaps it is best to play along?" Tekēhu shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The man shifts uncomfortably on his feet, casting anxious looks over his shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Outlanders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A strange people from across the sea. They came with promises too big for any kith to keep, but the king let them build their machines in the city anyway, the fool.
+
+"Now all lies in ruin, and it's &lt;i&gt;their&lt;/i&gt; fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"How so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Their machines- they were monstrous, taller than our tallest buildings. When they turned them on, thousands died in an instant.
+
+"The gods wept, they were so angry. And in their rage, they destroyed the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The man shifts uncomfortably on his feet, casting anxious looks over his shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Whisper to Tekēhu.] "Is he serious? Could we be in Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Doubtful, I say. We know that Eothas is bound for Ukaizo, which tells me it is still a part of the archipelago. Still, perhaps it is best to play along?" Tekēhu shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Anything is possible. Ukaizo vanished from the Deadfire long ago. It may have ended up here." Tekēhu nurses his head in bewilderment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"We are the king's council. Ekera, we &lt;i&gt;were&lt;/i&gt;, but are no longer.
+
+"That fool threw us from the palace and banished us from the realm. As if the outlanders' betrayal was our mistake!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Why did he banish you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Maybe you should have given him better advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"That's terrible!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"We dared to say he had made a terrible mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"It was not our advice that was flawed, but &lt;i&gt;his&lt;/i&gt; judgment.
+
+"We told him not to trust the outlanders, not to trust their sugared lies, but he wouldn't listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I say, no one may tell the king anything if he doesn't wish to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"The empire- the empire is fallen. If he'd only &lt;i&gt;listened&lt;/i&gt;-"
+
+He breaks off abruptly and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

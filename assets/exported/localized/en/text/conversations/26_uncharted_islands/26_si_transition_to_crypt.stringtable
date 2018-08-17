@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_crypt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A lush, narrow valley lies below you. You spot an overgrown stone structure built into the valley's side in the distance.
+
+Before the stone structure spreads a broad field peppered with ancient plinths and mounds of cracked stonework.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You quickly navigate the familiar path to the crypt entrance and head inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you move closer, you discover that the stone structure is actually the entrance to a crypt. Though the doorway is thick with mud and as damp as sweat-slick skin, you continue down into the dark.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

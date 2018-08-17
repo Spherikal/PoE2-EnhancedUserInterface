@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\23_vtc_between\23_cv_huana_prisoners</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Please, help me... I do not know how it is you came by this place, but please, you must save us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>At a glance, you take this man to be one of the Huana. His face crumples as you approach, and he sags in his bindings, murmuring repeated oaths of gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"They took someone else. Badema. She must still be in the cages, to the southeast. These... creatures must have a key somewhere. 
+
+Please, help her. I... I think I will be sick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"May Ngati guide you to calm waters."
+
+He staggers for the entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Rikuhu takes his life, and spares mine. Please, let me free. I cannot stay here any longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Untie him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"How did you end up in here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Stay put for the time being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Please, cut me loose! Don't leave me here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I did not believe my eyes... Ekera, Ngati has answered my prayers."
+
+At a glance, you take this man to be one of the Huana. His face crumples as you approach, and he sags in his bindings, murmuring repeated oaths of gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What? Wait! You cannot mean to leave me here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"W-we are just merchants. Traders. The lizards surrounded our wagon, and dragged us here... Tumau is gone, but Badema... Surely she is still here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You are one of those from Rauatai? Perhaps they speak true, then, when they say they can protect us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Does it matter? Cut him loose and ask questions later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Those animals... ate him. My friend. I could only watch..."
+
+He hangs his head, shuddering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ekera, you have my thanks once again."
+
+The man rubs at his chafed wrists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It will be a hard journey back to the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Where are we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What? O-oh... It is an old shrine to Ngati. The priests, they went to Neketaka, and now there are no guards on these roads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I...Two days, with a cart, I think? I am not sure. ...But how is it you do not know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"How far are we from the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"And &lt;i&gt;this&lt;/i&gt; is what animancers consider science? I am not impressed." He folds his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Di verus? Incredible. We did it. We actually did it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Please, cut me loose! Don't leave me here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

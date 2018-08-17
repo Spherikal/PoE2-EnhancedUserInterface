@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si__post_portmaje_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The ring of a bell comes to you on a cold wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The shifting image of Berath settles on the aspect of the Pallid Knight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Does Eothas frighten you, Berath? He should. Magran subdued Eothas' influence once before, and yet he returned."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Magran's glowing lips curl in disdain. "We must find a solution to the problem of Eothas that is neither 'do nothing' nor 'destroy the world.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You look up then into avian eyes. Through them you see clouds of starlings converge and divide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Hylea's feathered crest stands on end. "You- you wretched little creature- !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can't follow Eothas around if you're going to keep dragging my soul into the Beyond whenever the whim takes you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"He's stomping around the Deadfire yanking up souls like a giant adra soul magnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I will send your soul back to the Wheel should the 'whim' take me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What kind of 'precautions' do you suggest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I don't care what you do. Just put me back in my body so I can get this charade over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Magran looks at you as one might a wayward gob of spit on one's shoe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sure, great idea. Can I go now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The Pallid Knight tilts her head to the side and gives you the long-suffering, narrow-eyed look of a parent dealing with a particularly disappointing child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Attempting to end Eothas may only make things worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"He's too dangerous. You have to destroy him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"His vessel may be destroyed, little Watcher, but Eothas is more than the vessel that holds him. He will always return, however we strike him down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"He's draining souls from veins of luminous adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"It's too early to be sure what he plans, but his behavior is suspicious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The Pallid Knight knits her brows. "He does not seek to return to the Beyond? Intriguing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I remind you of our bargain. Time is short, and your soul dangles in the balance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"We will act when it is appropriate to do so, and not before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Follow him, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You fall wildly, endlessly, unable to find your bearings or slow your spin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You feel a resonance in your core, a bell ringing in tune with all the others. Something in you bends, then breaks, and you are borne away on the ringing tide, just another peal among the many.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>An indistinct figure stands before you, flickering between forms like a fire-cast shadow. A fixed, taunting grin. Bottomless black eyes, a yawning chasm in the earth. The aspects of Berath - the Usher and the Pallid Knight - shift in and out of focus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>From out of Woedica's shadow shuffles a hunched, bald man you recognize as the god Skaen. His skin is mapped with swollen lash scars, and breath whistles through the ragged hole in his face where his nose once was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Eothas has been separated from us for too long. Isn't it possible he intends only to gather enough souls to reclaim his realm in the Beyond? He should be welcomed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Skaen shuffles forward. "Yes, yes, we should welcome Eothas' return to the fold. His gratitude we can leverage to cajole him into divulging his plot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Then, when he believes himself to be in our good graces, we do as Woedica suggests and crush him into the earth."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The moment you touch it, your soul slams into your body with all the force of a fall from the top of the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You blink open your eyes and find yourself on the floor of your ship's cabin, alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Do not give me cause to doubt your commitment, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Do not give me cause to doubt your commitment, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Woedica steeples her long, knob-jointed fingers. "We must annihilate Eothas now before he makes a rash decision we cannot easily annul."
+
+She casts a sly look at the Pallid Knight from the corners of her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I acted in haste during the Saint's War. You will not goad me into doing the same now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Woedica waves the gods to silence."Eothas gathers strength. His strength is a threat to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>She stares at you, unblinking. Like a needle drawn to a magnet, you are pulled toward her one compulsory step at a time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"This is bullshit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I'll do what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I only do this because I must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Something must be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"There's no cause to act now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Then what's the point of this exercise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The Pallid Knight gestures for silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Uh, I'm pretty sure we need that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"You would destroy Eora for what, spite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Given her relationship with the moon, I doubt Ondra would approve of that plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"If you think that's the appropriate solution, I won't stand in your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What if he intends to betray you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Woedica stares at you down her long nose. "I would destroy it all in the blink of your wide eye if I believed it would benefit me. Empires can be rebuilt. Souls can be reforged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"As if you could stop me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Woedica throws her head back and laughs. The sound is a dry, rasping bark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Hylea puts a feathered hand to her chest. "He wouldn't! Betrayal is not in his nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Magran grits her black-glass teeth. "That is why we must ascertain his plans before he has the chance to put them into motion!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Your opinion is unasked for and unnecessary, but noted nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"We'll see about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Your opinion is unasked for, but noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Your point is well-made, little Watcher, if self-evident. Eothas has not been known to possess a vindictive nature - indeed, he has occasionally been magnanimous to a fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Absorbed his children? I don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Magran speaks too freely. That knowledge is beyond your ken, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I did not expect such a deliciously ruthless idea from you, Hylea. I am impressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>You are alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>The Pallid Knight steps away from the half-circle of assembled gods. She pulls herself up to a great height.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The words she speaks next come not from her mouth, but from all around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Your debt to me remains unpaid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>And in the distance, above - no, behind you - comes an insistent ringing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>You angle yourself toward it, searching for the sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>A small silver bell appears just inches from your fingertips. You reach for it, straining to still its interminable ringing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Magran stops and balls her hands into flaming fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>A voice echoes from the shape nearest Berath. "Belafa is too large to be moved and Cawldha too quick to be caught, even for a god of Woedica's strength and apparent lunacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Magran's glowing lips curl in disdain. "We must find a solution to the problem of Eothas that is neither 'do nothing' nor 'destroy the world.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Hylea peers down at you, her avian eyes blinking, refocusing, narrowing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"It's been some time, Watcher of Caed Nua. But not time enough for me to forget what you've done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Did you see them on the street, I wonder, those hollow-eyed children bereft of souls? Did you smile when their parents sobbed over their empty, wasted bodies? Did you congratulate yourself for a job well done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Magran casts a sidelong glance toward Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Another of the silent figures steps forward, and the warm, golden light of a summer's afternoon spills across your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Would that you were not Berath's tool, that I might demand my most vicious children rip your flesh from your bones!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The birds circling above Hylea raise their voices in a cacophonous symphony of screeching. Her lips upturn in the smallest, bitterest of smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The tide of bells recedes. You lever yourself up onto your knees and realize - you have been here before. You stand in Berath's realm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>And then, you are not. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>The ring comes again and again, until soon the air is full with the sound of a thousand, thousand bells ringing all at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>And at their back, four indistinct shades hover. You feel an eternity stretch out behind each of them, reaching back to places so distant and yet so near you cannot comprehend their size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I tasked you to discover Eothas' intentions. Tell me what you have learned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>The figure nearest Berath dissolves and reforms in the image of a thin-lipped, ancient crone whose face has felt the melting kiss of fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Watcher." Her voice is the discordant clangor of gongs struck out of time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Her wan face contorts into what, on mortal kith, might be called a smile. On her, the effect is more akin to a rotting pumpkin caving in upon itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Her wan face contorts into what, on mortal kith, might be called a smile. On her, the effect is more akin to a rotting pumpkin caving in upon itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Her sickly-pale skin pulls tight across the bones of her face, as if the shell of this aspect does not quite fit the impossible creature it contains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>He does not speak, but stares up at Woedica with naked loathing plain on his ruined face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"A moon would do the job nicely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Do not forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ondra could do with a new act - her current one has grown rather stale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>The figure beside the aspect of Berath flows forward in a swirling cloud of ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>The ash falls to the tiles and reveals a molten-skinned woman leaning on a monstrous, wicked-edged broadsword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>The figure beside the aspect of Berath flows forward in a swirling cloud of ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>The ash falls to the tiles and reveals a molten-skinned woman leaning on a monstrous, wicked-edged broadsword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"To move against him while his plans are unknown would be the height of foolishness! We must find wisdom in precaution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"It is no business of yours what the gods decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Let's all take a deep, calming breath. Perhaps cooler heads will prevail." Behind Hylea's words you hear the soft coo of doves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Oh. It's &lt;i&gt;you&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Few are the kith who would dare make a pledge to a god and then so brazenly &lt;i&gt;betray&lt;/i&gt; them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Instead, I must send my children to you with a gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"When you return to your ship, dear Watcher, do think of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"So much for 'cooler heads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>You can't be certain, but you think you might see Magran, great goddess of fire, trial, and war... stifling a laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Hylea's voice drops to a low rumble. It catches in your mind like a feather at the back of your throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>The crows, ravens, rooks, and jackdaws siting on Hylea's shoulders cackle mockingly at Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Magran says nothing, though a great gout of steam spouts from her molten skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Eothas has been separated from us for too long. Isn't it possible he intends only to gather enough souls to reclaim his realm in the Beyond? He should be welcomed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Skaen licks the ragged edge of his lipless mouth and grins, then turns to Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"However, if we push him to the brink of reason, there is no telling what he may do. He is, as ever, unpredictable." Something akin to fondness creeps into her voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Both stand in his favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Eothas cannot be killed, but he may be subdued. Yet to do so will take immense power and time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>She begins to pace. Her steps leave little trails of fire in her wake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Even if we manage to destroy his current form, there is the possibility he could return if he has not already absorbed all of his children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>The Pallid Knight casts a cold, cutting glare in Magran's direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText> Her voice takes on a sharp, almost panicked edge. "There is no sensible answer to the question of a resurgent Eothas other than decisive, final action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Though her tone is impassive, the banked fury in her eyes says well enough what she thinks of your interruptions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>The black of the Pallid Knight's iris expands until her eyes are as dark and cold as the void between stars. She bends down and brings her ghostly face level with your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Helpless to resist, you tumble into her impossible eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>The goddess Woedica strides forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Where &lt;i&gt;are&lt;/i&gt; the other gods?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"They see to their own affairs. You will speak to them in time, should you have the need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"You are the kith who attempted to convince my priest, Durance, that I conspired with Woedica's mad ploy to seize power.
+
+"You failed, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>A ribbon of smoke curls from the corner of her mouth, and she turns her attention about to Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ah, and here is the Watcher who let dear, desperate Aelys die instead of putting an end to the man who tormented her.
+
+"Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ah, and here is the Watcher who wiped dear, desperate Aelys' mind. You could have let my followers help her kill the man who tormented her, but you did not. 
+
+"Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Ah, and here is the Watcher who delivered poor, tormented Aelys back into the clutches of her uncle, Lord Harond.
+
+"Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Ah, and here is the Watcher who killed Lord Harond, the man who tormented his dear niece, Aelys.
+
+"Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Skaen pauses, inspecting you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Skaen pauses, inspecting you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Skaen pauses, inspecting you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Skaen pauses, inspecting you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

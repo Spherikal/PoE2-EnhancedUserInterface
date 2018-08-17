@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_fog_deep_sea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The fog manifests out of nowhere, as if wrapped around [Player Ship] by Ondra herself. The crew has started muttering about curses, prayers, and sacrifices even before [Specified 0] approaches you.
+
+"It's odd to see a fog this thick so far from land. It's got the crew spooked." [Specified 0] wipes away sweat with a filthy rag. "I suggest we drop anchor and wait this out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Take us through, slow and steady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hoist sails and drop anchor, [Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The crew breathes a collective sigh of relief as the riggers set to pulling the sails. 
+
+The fog shows no sign of breaking over the course of the evening, but the crew seems to care little, able to relax a bit in their duties.
+
+By the following morning, the fog seems to have thickened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>After a few tense hours, [Player Ship] breaks free of the fog and onto clear, calm seas. A cheer goes up across the deck, and [Specified 0] claps [Specified 1] on the back. 
+
+You exhale a sigh of relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The days pass slowly, tense and frustrating. More than once you see certain doom looming before you in the shape of a rocky islet or a jagged reef, only for it to melt again into mist. 
+
+When you finally breach the morass, the crew muster only halfhearted applause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Given our lack of a dedicated navigator, none of the crew is eager to brave the murk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"But if trust our navigator's skill with the charts, you could always leave it to [Specified 1] to guide us through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Another day passes in the fog, and the hand in the crow's nest calls down to you: "Captain! I think there's something in the water!"
+
+You peer over the bulwark and make out shark-like shadows swarming about [Player Ship].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The days pass slowly, tense and frustrating. More than once you see certain doom looming before you in the shape of a rocky islet or a jagged reef, only for it to melt again into mist. 
+
+When you finally breach the morass, the crew muster only halfhearted applause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The water churns as the nāga breach the surface, scaled hide glistening. A chorus of hisses erupt from fanged maws. 
+
+[Specified 0] draws a blade. "To arms!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Another day passes in the fog, the damp murk muffling the crew as they go about their duties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Another day passes in the fog.
+
+[Specified 4] swears to have seen a whale beneath the waves, starting half the crew to arguing and the other half to praying their thanks to Ondra for the good omen. By dinner, near everyone has taken up a (sometimes bawdy) shanty about the boundless generosity of the Lady of Lament.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Another day passes in the fog, and several members of the crew spend their off-duty with heavy lines and baited hooks. Between them, they catch a few fat fish, and the evening's mess benefits from the bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Another day passes in the fog, and several members of the crew perch among the guard stanchions, lines and hooks in the water. By the evening, they've caught nothing save an earful of one another's most indecorous swears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Another day passes in the fog.
+
+The crew begins muttering among themselves, accusing one another of having earned Ondra's displeasure and earning [Player Ship] this cursed fog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Another day passes in the fog, but not before [Specified 3] and [Specified 4] come to blows over a matter of theology. [Specified 4] thoroughly trounces [Specified 3], who winds up with a cracked rib.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"All hands to stations, [Specified 0]. Let's be out of this fog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"We'll give the fog another day to break."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Another day passes in the fog.
+
+"Skiff to starboard!" One of the hands in the rigging points at an indistinct shape working its way through the fog towards you, carried by the sound of oars churning water.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Yes, captain." [Specified 0] shouts orders, and hands begin groggily climbing the rigging. A few minutes later, the sails come down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The small craft bumps against the side of [Player Ship], and a dead hand grasps at the rail, pulling itself aboard...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The small craft bumps against the side of [Player Ship], and a dead hand grasps at the rail, pulling itself aboard...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Shouted orders ring across the deck, and soon the sails fill with the light wind. The rigging creaks as [Player Ship] plows into the haze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Call up a strong wind in an attempt to disperse the fog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You stride to the forecastle and raise your arms, chanting as you gather the ambient essence into a powerful wind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The wind strikes the fog, and while the haze stirs under the spell, it does not break.
+
+The crew mutter among themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] splits the air with a shrill whistle. "Land up ahead!"
+
+A shoreline lurks near the horizon. You check the charts, and realization dawns: you're entirely off-course.
+
+The island looms nearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You chart your location, only to realize that despite days at sail, you've made no progress at all. 
+
+The ocean stretches towards the horizon in all directions, empty and beckoning. Almost taunting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"By the gods..." [Specified 0] reaches for a weapon. "To arms!"
+
+Only the dead crew the skiff, their bleached bones pulling at their oars, their teeth chattering hungrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It's more of those godsforsaken dead, captain!" [Specified 0] draws a weapon. "All hands, prepare to be boarded!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Specified 3] steps forward with arms raised and begins to chant. The wind rises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The wind doesn't tear through the fog like paper, but it does disperse it somewhat, making it far more navigable.
+
+The crew cheers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Another day passes in the fog, and [Specified 3], having spent the evening in meditation on deck, falls ill. [Specified 4] uses much of the medicine restoring the poor soul to health.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Another day passes in the fog, and the crew finds [Specified 4] standing on the bow, muttering into the fog.
+
+"You see it, don't you?" the sailor asks, voice haunted. "It won't be long now."
+
+The other mates repress shudders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Another day passes in the fog, and a fire breaks out in the kitchens. Luckily the hands get it out before too much damage is done... or before the flames reach the powder barrels. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The fog manifests out of nowhere, as if wrapped around [Player Ship] by Ondra herself. The crew has started muttering about curses, prayers, and sacrifices even before [Specified 0] approaches you.
+
+"It's odd to see a fog this thick so far from land. It's got the crew spooked." [Specified 0] wipes away sweat with a filthy rag. "I suggest we drop anchor and wait this out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The fog begins as a blanket across the surface of the sea, slowly undulating with the water, as if [Player Ship] sails through the stormy sky. It rises consistently, however, and soon it swaddles the deck in dank moisture.
+
+[Specified 0] sighs. "Fog again, captain, and our charts hardly perfect this far out. I'd advise we lay anchor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You woke to a thin mist that seemed to reduce the world to a blurry haze around you, but as the hours passed, the fog thickened into a soupy morass. As the crew hang lanterns from the masts, [Specified 0] locates you on the aftcastle.
+
+"Your thoughts, captain? I'd just as soon anchor here and wait. It's usually safer. Usually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You find [Specified 0], head in hands, sitting on the rail above the forecastle. "Damn fog again, captain." The sailor waves dismissively at the thick, wet air that hems your vessel in.
+
+"Shall we drop anchor? It's what I'd do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The next morning, the fog finally clears, eliciting cheers from the crew, who are ready to get back to work. 
+
+A jaunty shanty rises above the deck as [Player Ship] sets sail.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

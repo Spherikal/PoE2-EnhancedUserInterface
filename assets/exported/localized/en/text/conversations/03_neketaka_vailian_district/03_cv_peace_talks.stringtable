@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_peace_talks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>191</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bardatto and Valera representatives stand arrayed around the dining table wearing expressions of anxiety and resentment. The temperature of the room suggests no more amity than when the discussion began.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I would not willingly welcome a Bardatto beneath my roof for the sake of a jest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Please, let's try not to sabotage this from the outset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Unless one of you is going to pay me a fortune to kill the other, we might as well negotiate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Is that option still on the table?" Martino goes rifling through his pockets in haste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quiet, Martino. Watcher, now would be the time to lay out your reasoning." With an open palm, he gestures for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I know the Valera family has lost ships and resources, which means you can't patrol effectively."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The state of the house is beginning to make sense to me." Ezzali peers up at the rafters with a grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"We're all here to further the Company's operations here in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Stop this at once. You're embarrassing yourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Now I see why the Royal Deadfire Company is outpacing you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"As long as the Valera remembers his place, we shouldn't have any problems." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"My place is in the dueling ring. Care to let the gods decide, Lady Bardatto?"
+
+Martino licks his lips and fingers the pommel of his rapier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I had a look at your records, Ezzali. You're losing shipments to the Príncipi, and half your guards are on the take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Your children are killing each other. Is that what you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Some of us, perhaps. The Valeras only further their own ambitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm amazed you can say this with a straight face, Ezzali." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Once you owned a castle. Things change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Those same children deserve to be avenged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You two have plenty in common! You're both working for the company, you're both single parents..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"My husband is tending to business in Barda. Atello here did a poor job of defending his spouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Damn you! She died defending one of the company's fleets!" 
+
+He places his hands on the table and leans forward to stare Ezzali down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"If you've come to appeal to some spirit of camaraderie, Watcher, you've misstepped. Ezzali is a heartless she-wolf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"There are more Valera dead in that ocean out there than under your roof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Only because you breed like rabbits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"ENOUGH!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Your roar silences the table. Even Martino blinks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How dare you- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It's an open secret, Ezzali. Or do you mean to say you're actually the last to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You're faring no better, Atello. You've lost half your ships to disrepair and aren't building any new ones in a hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Do not think yourself higher than me because my house has seen better days." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ezzali, you're losing more coin by the day to Príncipi thieves and crooked guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You underestimate how much I have to lose. But assuming you're correct, that only proves that the people of Neketaka are not to be trusted." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Because we cannot get capital! A Bardatto blocks us at every turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Do I seriously have to spell this out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'd think a family of privateers could be useful to a woman with pirate troubles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Even if you had a point, the Valera family has plotted to rob me. You expect me to trust them?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I never agreed to that course of action, Ezzali. Had it gone through, I would have returned everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"So I should look to Martino for restitution." She crosses her arms and regards the Valeras expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Cuè? I agreed to none of this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Don't mess this up now, Martino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Martino, you can either apologize or we can sit here discussing the matter for eternity. Is that what you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Mother, perhaps he has a point..."</DefaultText>
+      <FemaleText>"Mother, perhaps she has a point..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Attack] "I only did this to get you all under one roof. Death to both your houses!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Your frustrated cry startles a cat outside, as evidenced by the piercing yowl and scrabbling of claws in panicked departure. Ezzali and Atello study you, equally unimpressed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Not because YOU have been such a forthcoming ally? Curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Gods help me, Atello, but your son raises a point." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"If there were Bardattos here more often, perhaps your roof wouldn't have quite so many holes in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Mother, please... this bickering is beneath us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Indeed. We've run out of reasons to maintain civility."
+
+Ezzali slowly reaches for her belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"It must be said that this is a very dramatic form of suicide." Ezzali crosses her arms and props up her chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You're going to take that from her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"This meeting is beneath us, Tella Nera." Martino smiles across at her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Please, you're all on the same side!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Fine. I give up. Do whatever you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Don't mistake your ignorance for nobility. The Republics need profit, not delusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"As you say, Atello." 
+
+Ezzali calmly draws a weapon and, with a smile, signals her guards to attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Excellent! Now that they've reached an understanding, you can tell them this was all a ruse.
+
+"Right, [Player Name]?" He looks nervously between you all. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ezzali, why shut the Valera family out of trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"One does not arm the competition. Besides, lesser people have made more of themselves without the aid of banks."
+
+Ezzali stops herself, seeming for the moment to doubt her own convictions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vagabonds. The only thing I'll say for Atello is that he is a son of the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"And the pirates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It's not like you've given them a reason to prove their trustworthiness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"The Valera family should make amends for planning to crack the Bardatto vault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"And how do you mean to prove that? Am I to answer for paranoid fabrications?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Don't expect these brigands to admit to anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"From the sound of things, the Bardattos are shutting out their own allies for profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Our allies? I don't think you've been paying attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ezzali made her living off turning on her employers. She doesn't recognize loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You're going to hinge this alliance on an overgrown brat's apology?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You were Goldpact knight once, weren't you Ezzali?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Duty should come first, and vendetta a distant second."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Why fight each other at all? We could all be killing pirates at this very moment!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>For a scant few seconds you hear nothing but the creak of armor and the confused whispering of one of the more distant guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Certainly. Only, YOU are a known associate of the Príncipi. Which makes all this rather suspect, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I suppose you think I'm part of some pirate plot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Di verus? Last I heard you were in Rauatai's pocket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I wouldn't put it past you to finance our enemies, Ezzali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"No. But I could believe that you're arrogant enough to fall prey to one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"My family can't afford to fight two wars. This feud will cost me more than I could ever recoup."
+
+He glances up at Ezzali and back down to his feet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Admirable, but we could serve the Republics better without Atello snapping at our heels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"That's the point. You are distracting yourselves from what's important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Let's negotiate this like any business proposition. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I think you've forgotten who I am. I went out of my way to get us here, and you're wasting my time. State. Your. Terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Can't you kiss and make up like normal people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"We don't need anything from the Bardattos. I see now that this was a mistake." Atello nurses his brow and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Atello, don't make any hasty decisions..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ezzali, please don't try anything..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What started all this in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"We do appreciate your hand in this, but as I said, it's not as if we haven't-"
+
+Atello is silenced by a knowing and meaningful look aimed at him from across the table - from Ezzali. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I want the Príncipi out of the trade lanes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Half of this month's shipments are missing. I'll give you coin and crew for five ships to earn back my investment."
+
+She opens her palms and awaits his response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"So, what's your solution? We square off against each other on a field?" Martino's hand drops to his sword belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Put your weapon away. Adults are talking." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I've learned that if you want to carve a bloody swath through the countryside, you need friends along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Atello, will you put a leash on your son?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Atello, you let your children lash out at the Bardattos. What's your goal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"My goal? To wring out a little respect from this feud before we go under."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"What else? We turned up and proved you didn't need ten generations of inbreeding to get the job done, and the Bardattos took offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"It suits you to play the slighted paupers, doesn't it? Atello Valera insulted me to the governor's face. His son maimed one of my guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I tired of their play at innocence. I have raised up my family through effort and sacrifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"About time. This was going nowhere."
+
+In one quick motion, Martino draws his pistol from inside his coat and fires on Ezzali. Her head snaps back as a bloody spray coats the far wall. She drops to the floor with a heavy thud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Kill the outsider! The guards will want someone to blame!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I've made allies of former enemies before. I think we can all pull together into a stronger force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ac, raised a stir in the White March mountains. The same could be done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"A force, Watcher? To what end?" Ezzali glances at Atello. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Death to the Príncipi, Rauatai, and everyone who stands against us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"The only end there is - profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The expansion of trade and progress in the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I want to help the Huana of this city. I'd like the company to be an earnest ally." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>For a few moments Ezzali only stares, frowning, at the surface of the table. Atello glances at you, his brow furrowing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The Company will bleed us dry. We give our lives, our loved one's lives, and they don't lift a finger to help us. The Bardattos turn their backs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Why shouldn't I teach my children to walk with their heads high?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Ezzali frowns, looking at him skeptically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"And yet, here we are." Ezzali's mouth twists into a dubious frown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I see you've spent too much time in the Bardattos' company." 
+
+Atello sighs and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"A worthy ambition." Ezzali and Atello exchange glances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Atello. I hadn't realized you had a soft spot for the natives."
+
+Ezzali's grim expression fades for the brief duration of the slightest twitch at the corner of her mouth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Just standing here is a loss that I'll have to recoup... starting right now." She snaps her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>From the darkened recesses of the dining room, men and women step forward with blades drawn. 
+
+The nearest drives a blade into Atello's gut. His eyes snap open and he exhales as the wind is knocked out of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Kill them all! No loose threads!" Ezzali draws her blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Yes, well... I'm starting to think those stories were all vastly exaggerated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I'll treat with him like any enemy of note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"I told you this was a waste of time. There's nothing to be said." 
+
+Martino sighs and casually tucks a hand in his pocket. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Enough." Ezzali sighs, and adjusts her stance, cracking her neck and straightening her back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"If we're speaking in those terms... it would be enough to be permitted to do business in Neketaka. We need not cross paths." 
+
+Atello speaks as if he expects the proposal to be rejected outright. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Six ships. With six I will drive the Príncipi from these waters like rats from a fire." 
+
+Atello straightens his spine and nods with confidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Six ships. I believe we just made a deal, Valera." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Then... it's settled?" Atello sounds bewildered by his own words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Atello gives a startled cry, but the Valera guards are already moving to engage the Bardattos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"We came here to discuss peace, but I fear that peace has never felt farther beyond our reach." 
+
+Atello squeezes his eyes shut and releases a heavy sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Ezzali drums her fingers lightly against her scabbard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ezzali, don't you know a chance at profit when you see it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Yes. Yes, I do." Ezzali narrows her eyes suspiciously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Atello strokes his beard. Beside him, Martino scowls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"You make a living putting the right people to work in the right places. What suits the Valera family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I'm not sure where I was going with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>She hesitates, her mouth tightening to a thin line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"They are... passable sailors." 
+
+She waves her hand in a dismissive fashion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Of course, but- " Atello is about to say more, but Ezzali cuts him off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"And if they're out at sea, they can't bother you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Atello, you'd like your ships restored?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The Valera family is hungry for coin, and you have it to spare. Demand an apology, accept it, and move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Ezzali's gaze slides onto Atello.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"This is ridiculous. Our family shouldn't humble before hers! What sort of truce-"
+
+Martino seems poised to continue, but Atello raises his hand in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"You have my sincerest apology, Lady Bardatto. This has gone too far and too long, besides." 
+
+Atello delivers a deep, gentlemanly bow, which Ezzali and Martino observe with mutual astonishment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Ezzali's expression brightens. She turns to Atello, her hostility replaced with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"So it seems. For the time being." Ezzali shrugs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Fine. Fine! I apologize. Is that what everyone is waiting for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Bazzo. A man can only take so much." Martino's hand strays to his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"We don't need the Bardattos! We never have!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Martino will make restitution. You have my word."
+
+Beside him, Martino's jaw drops.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>You hear stifled snickering from the corner. 
+
+When Martino looks over, Orso and Larro feign interest in the carpet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"You did come here to negotiate a peace agreement, yes? I have my doubts." 
+
+Martino snorts and crosses his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Martino grimaces at the prospect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"It's real lonely, otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Or you could all be shoving right off back to the gods forsaken Eastern Reach and leaving the Deadfire fucking be," Serafen mutters, scowling over crossed arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Forgive my son's inclination to seek out easy solutions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"A point on which we are agreed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>A low murmur spreads through the room as the gathered parties scoff and shake their heads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"A noble enough goal." 
+
+He smiles thinly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>You hear more than one person laugh, including Martino. 
+
+Atello, however, only looks surprised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"You run your bank like a crime syndicate! Some of us struggle to tell the difference."
+
+Atello points an accusing finger across the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I see our would-be mediator has arrived. 
+
+"Well, we're here. I hope this wasn't some elaborate, ill-advised jest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"If you're both intent on being uncooperative, then we're done here. Feel free to kill each other." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Time will tell if this arrangement is a favorable one. My hosts - you'll excuse me if I return home." 
+
+She inclines her head, favoring you with a bemused look on her way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Will you consider a... temporary truce, Ezzali?" Atello nervously reaches for a weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>She considers his words, nodding slowly to herself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Ezzali considers this with a skeptical frown, tapping her chin as her gaze shifts between Martino and Atello.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Do we need to talk about why we're here, or..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"If we could open by defining each of your grievances and demands..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Before you can finish your sentence, Atello cuts you off with a hard wave of his hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I'd like to open these proceedings with a prayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Pallegina, any wisdom to impart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Mestra and mestre, as you know, the brothers of the Canc Suolias are often called upon to help mediate conflicts between the ducs, the consuagli asegia, and the great houses of the Republics, such as yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"What a surprise to hear courtly speech under the Valera roof." Ezzali glances at Atello.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"You postenagos hearken to the songs of an armored bird."
+
+Martino aims a hard look at Pallegina, but it promptly softens under the assault of her glare. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Platitudes have a way of arousing his ire... a trait that runs in the family." Atello gives you a warning look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Uh huh. Just keep pretending that I don't have ears." 
+
+Maia flicks a quill over a roll of vellum and raises an eyebrow at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Why be stopping there, Captain Watcher? There be so many things for the killing. Like kittens and rainbows and joy."
+
+He shakes his head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Ekera, but these sharks are no sympathetic audience." Tekēhu clears his throat and steps back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Even money says the Príncipi already be shaking in their timbers at the raw thought of your six fish-stinking ships."
+
+He snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"You think yourself the first to underestimate us, little one?" Atello chuckles to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"No such luck, elf. For him or you."</DefaultText>
+      <FemaleText>"No such luck, elf. For her or you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"I would not presume to suggest your quarrel will be easy to mend, but di verus, during my service, I have seen much bloodier feuds mended with time and patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I have also seen the wrath of the ducs bels turned against those who would cloud the skies of our nation's fortunes with their vendettas. I urge you to seek a remedy for your injuries that produces a lasting peace, for all our sakes."
+
+She dips her feathered head respectfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"We can take it up with the director any time you feel like explaining why your children are intimidating my merchants."
+
+Ezzali opens her palms, in every way composed. She glances over at you, and her mouth turns downward.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

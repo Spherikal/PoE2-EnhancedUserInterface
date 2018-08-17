@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_tsk_delvers_row</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Delver's Row</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uncover the route to &lt;b&gt;Delver's Row&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enter &lt;b&gt;Delver's Row&lt;/b&gt; via the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hidden deep in the belly of the Gullet hides &lt;b&gt;Delver's Row&lt;/b&gt;. Cloaked from prying eyes, criminals and black market traders here peddle their illicit goods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rumors speak of an illicit market in the Gullet called &lt;b&gt;Delver's Row&lt;/b&gt;. Someone is bound to know how to reach the secretive market, should I ask around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I learned that &lt;b&gt;Delver's Row&lt;/b&gt; can be accessed via a secret alley. The alley is concealed behind a curtain in a &lt;b&gt;merchant's stall&lt;/b&gt; in the &lt;b&gt;Narrows&lt;/b&gt;, a complex of underground streets connected to the Gullet's western border.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Pitli suggested that I ask around at the &lt;b&gt;tavern&lt;/b&gt; in the &lt;b&gt;Gullet&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Captain Sedūzo indicated that the &lt;b&gt;barkeep&lt;/b&gt; at the &lt;b&gt;tavern&lt;/b&gt; might know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Biha said &lt;b&gt;Delver's Row&lt;/b&gt; is somewhere in the &lt;b&gt;Narrows&lt;/b&gt;. She also recommended I ask &lt;b&gt;Enoi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Enoi's hut&lt;/b&gt; is just &lt;b&gt;southwest&lt;/b&gt; of Biha's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Enoi told me someone at the &lt;b&gt;tavern&lt;/b&gt; might know how to find &lt;b&gt;Delver's Row&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Fyrna told me I could find &lt;b&gt;Delver's Row&lt;/b&gt; in the &lt;b&gt;Narrows&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>With a little coaxing, Fyrna gave me directions to &lt;b&gt;Delver's Row&lt;/b&gt; - enter the &lt;b&gt;Narrows&lt;/b&gt;, turn right, then go forward until I find a &lt;b&gt;merchant stall&lt;/b&gt;. The entrance is behind a curtain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've found Delver's Row.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

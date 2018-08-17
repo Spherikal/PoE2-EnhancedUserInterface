@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_herbalist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Why, hello. Cuitztli, at your service." She sets down her pruning shears and looks you up and down with a warm smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Welcome back, stranger. If you have questions about my wares, I'm an open book." She nods to you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nice to see a friendly face. Too few of us chanced the voyage south."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aren't you just something?" She plants her hands on her hips and nods up at you with interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm guessing you're already familiar with the herbs I sell. Only brought what I could fit in my pack when I left Ixamitl, so I rely on the local flora to keep supplies stocked." She gestures to a row of orchids and sealed pots. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I can tell that you're new to the Deadfire. Maybe you're still getting your bearings? Some of my herbs can help with seasickness or worse afflictions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What makes you think I got here recently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"It's nothing personal. You just have that 'taking everything in' look about you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What brings an herbalist to Periki's Overlook?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Money is the obvious answer, but I don't think that's what you're after." She smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Probably the same reason why we have a magic shop next door. Periki's Overlook is a great big splash of culture and innovation, there to show travelers that the Huana are ready for the world at large." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Yes I'm an herbalist, but I also pride myself as a florist. I think the city liked the idea of putting a flower shop somewhere visible. It's ostentatious, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Give it time, it'll pass." She reaches to brush a curl of fur behind her ear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Her gaze wanders toward Serafen and lingers there. Then she pulls her focus back to you, blushing slightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ain't no shame in looking, lass."
+
+Flashing a crooked grin, Serafen bows to the herbalist.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

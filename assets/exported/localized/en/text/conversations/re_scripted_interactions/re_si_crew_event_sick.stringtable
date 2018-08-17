@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_sick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] finds you in your cabin. Through the open window you can make out the sound of one of your sailors retching violently.
+
+"If this keeps up, captain, your crew will be in no state to sail. They hardly are as it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The illness starts slow. A cough here, the shakes there. But then it hits the crew hard and fast, washing across the deck like a rogue wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Find the ship's surgeon.] "Care to tell me why everyone on my boat is sick, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What would you have me do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Break out the medicinal stores. Everyone gets what they need until this clears up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Furl the sails and drop anchor. We'll rest this out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Find the ship's surgeon.] "Care to tell me why everyone on my boat is sick, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What would you have me do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Break out the medicinal stores. Everyone gets what they need until this clears up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Furl the sails and drop anchor. We'll rest this out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We'll cleanse the afflicted of these toxins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Pray for divine intercession.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It looks like gut rot," the surgeon answers. "Likely on account of those dead fish you had us put in the hold. Not that I'm laying blame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1] considers. "At the very least you should let the sick get as much rest as possible. If you think we have the medicine to spare, this is as good a time as any to use it."
+
+The surgeon frowns. "For the best results, consider both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 1] coughs violently and spits. "It's the swabbie's hack, captain. I suspect we caught it from that plague ship. It's not likely to kill anyone, but it can leave kith weak and prone to accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Best thing to do would be to medicate. Hopefully we've got the stores to treat everyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You order the trunk of medicines opened up and dole out doses to the crew. Shaking and pale, they thank you, eager to overcome the illness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You move among the afflicted crew like a merciful spirit. With quiet chants and warding gestures you calm the wrath inflicted upon your sailors by the tainted catch. Each thanks you, eager to overcome the illness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Though he doesn't do so entirely without complaint, Tekēhu moves among the crew, gracing each of the afflicted with both his purifying magic and his magnetic charm. He leaves each sailor healthier than he found them, and they thank both of you profusely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The ship comes to a stop as the crew carries out your orders. The crew relax to the best of their ability from their involuntary stations at the ship's rails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Gradually the illness passes, and as the crew's ability to keep food and water down rises, so does their spirits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Under [Specified 1]'s direction, the hands open up the packages of aromatic herbs and mash the leaves up with pestle and mortar. 
+
+Soon each member of the crew wears a swathe of fragrant paste slathered across their chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You call on your patron, the bipartite deity of death, to turn their gaze from the ship and cleanse it of disease. A cold chill falls over the vessel, as a fog rises from the surface of the water. The wind dies.
+
+For nigh on an hour, the ship rests in the foggy doldrums. [Specified 2] swears to hear whispers off the port bow.
+
+Then, as quickly as it came, the fog disperses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Even without other duties to attend to, the crew seems to get sicker. [Specified 4] can't so much as leave the bunks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You want me to pray to an aspect of death?" Xoti's lips quirk in amusement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>In the wake of the display of divinity, you feel purified. The crew sing chants to the gods, happily making sacrifices of any coinage or small trinkets they have on hand.
+
+You sail on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Get everyone back to work. We've got places to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Get everyone back to work. We've got places to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0] relays your orders, inspiring a chorus of moaning from the crew.
+
+The ship sails on under the noisome miasma of illness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The ship sets sail, making poor time with the crew suffering from the bone frost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 5] calls on the gods for aid, and cleansing energy pours through the vessel, fortifying all within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 5] moves among the crew, calmly chanting and performing warding gestures to calm their digestive distress. Each sailor thanks you both, eager to overcome the illness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Let's get them healthy. Drop anchor, and make sure everyone has the medicine they need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You order the sails furled and ration medicine to the sailors. Given both treatment and time to recover, the crew bounces back quickly. When shanties begin rising again from the deck, you know they're ready to set sail again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nothing has changed! Full sail ahead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The crew return to work, but as the bone frost spreads, they become incapable of even simple tasks. With no one at the helm and no one in the rigging, the ship comes to a stop, drifting at the mercy of Ondra. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>With time, the disease runs its course. The crew, however, remain sullen and quiet as they go about their duties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>With a slow shake of the head, the surgeon frowns. "It's the gut rot, captain, same as that plague ship. If we sail with it, we're inviting injuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Rymbán sjüdh," [Specified 1] answers gravely. "The bone frost, from that plague ship. It'll claim lives if we don't treat it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The sickness overtakes the ship like a sudden squall out of the northeast. At any given time it seems that half the crew has one end of their body hanging off the rails and their other in a bucket.
+
+The smell burns your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The crew appreciates the chance to rest, even if the constant coughing leaves them fatigued. Over the next few days, the disease runs its course. By the time the ship gets under sail again, the crew are all too willing to set forth to bluer seas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The ship sets sail, making poor time with the crew wracked by disease.
+
+You hear a cry from the deck followed by a heavy thud. [Specified 3] went lightheaded and fell from the rigging. The hand is now concussed.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The crew return to work, but as the rot spreads, they become increasingly miserable. Many develop open sores, and most have at least one of their eyes swollen shut and crusted over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Within a day, not a single member of the crew can breathe easily. Each coughs their throat raw, spitting bloody globs of phlegm into the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Soon your crew have devolved into mucus-covered wretches with swollen eyes and scabrous rashes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Work slows to a standstill as your crew shuffle stiffly about the decks. Spears of bone bud at their wrists and ankles. When the spears erupt through their skin, they leave red, weeping wounds in their wake.
+
+Groans of agony find you from every corner of the ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] finds you in your cabin. Through the open window you can make out the sound of one of your sailors retching violently.
+
+"If this keeps up, captain, your crew will be in no state to sail. They hardly are as it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] returns with jars of thick, brown thistle tar. The thick salve induces an unpleasant stinging sensation when slathered over the afflicted areas.
+
+Soon each member of the crew boasts patches of gooey brown across their skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] returns from the hold with a small chest containing dark black soil. "Holistic worms," the hand grunts. "They eat away the sickness causing the bone spears. It's neither pretty nor pleasant, but it'll save a life."
+
+Each member of the crew goes to [Specified 1] in turn to have their diseased marrow entomologically excised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You pray to the Child of Light, unable to avoid remembering what brought you to the Deadfire. As you chant, the sky's color shifts to the rose-red of the early dawn. The light falls across the deck, warming those who rest in its radiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You pray to the goddess of the flame, asking her to burn the sickness from your crew. Your head begins to swim as heat takes your body. As the fever rises, you drop to the planks of the deck, vaguely aware of moans of discomfort from the rest of the crew.
+
+It passes, however, and your thoughts clear as the cool wind of the Deadfire dries your sweat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You pray to your patron, the divinity of retribution, reminding him that your crew needs strength to bring low a god. The shadows lengthen, and darkness falls over the ship. Every candle gutters.
+
+[Specified 2] and [Specified 3] swear an unfamiliar figure stalks belowdecks, but a search reveals nothing.
+
+Eventually the unnatural darkness passes, giving way to the natural light of the Deadfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You pray to the God of Mysteries, begging for deliverance from this disease. 
+
+Everything goes dark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>With the correct remedy applied, the crew quickly recovers. Soon they're on deck belting shanties towards the horizon.
+
+You sail on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You snap back to awareness on the forecastle, where you stand with your back to the sea. The rest of the crew glance around, expressions openly confused.
+
+The disease is gone, but so are two days, and no member of the crew remembers what passed during them. 
+
+You never find out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 1] drags a cupped hand across his mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 1] pinches the bridge of her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] reappears. "Sorry, captain. The stores are nearly bare. We don't have the medicine we need for the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0] reappears. "Sorry, captain. The stores are nearly bare. We don't have the medicine we need for the crew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You order the sails furled and run a green flag up the main mast to warn away other ships.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Wait out the illness.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>On deck, the crew glower, the bone spears protruding from their joints making some of them look like heavily armored, animate constructs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>On the second day, [Specified 2] joins [Specified 4] in death. [Specified 0] follows them both the day after.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>On the second day, [Specified 2] joins [Specified 4] in death. [Specified 0] follows them both the day after.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] approaches you some hours later. "Terrible news, captain. [Specified 4] has passed. We'll have [Specified 2] say a few words before we consign the body to Ondra's bosom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0] approaches you some hours later. "Terrible news, captain. [Specified 4] has passed. We'll have [Specified 2] say a few words before we consign the body to Ondra's bosom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0] knocks on the door. "Sorry to bear bad news, captain, but [SkillCheck 0] is showing signs of rymbán sjüdh, the bone frost. That's a nasty disease from the White that Wends, and one known to kill a crew to the last."
+
+The mate looks away for a moment, then meets your gaze. "Your orders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Have [Specified 1] take a look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Confine [SkillCheck 0] to quarters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Can't risk it spreading. I'll throw [SkillCheck 0] overboard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] frowns. "I already did, captain. The surgeon confirmed it. Said the only remedy is medicine and rest, and even then, you risk it spreading."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Medicine and rest, then. See that [SkillCheck 0] gets it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I'm not killing one of my friends! We'll figure something else out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] glances away. "Understood. And in the meantime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The mate performs an unenthusiastic salute. "Yes, captain."
+
+[Specified 0] leaves you, and [Player Ship] sails on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] nods. "It's a hard decision, but it's the right one. I'll make sure... the patient is secured."
+
+When you reach the deck, [SkillCheck 0] kneels before you, bound at the ankles and wrists. Glistening spears of bone protrude from between the ropes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Aloth meets your eye as if he's been expecting this moment. He nods weakly.
+
+"It's the right decision, [Player Name]. Finding Eothas is what matters." He winces and shudders with pain.
+
+"I've done what I can to help. But the rest is up to you - it always has been. Perhaps we'll meet in another turn of the Wheel." He gives you a final, pained smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You do what you gotta do with me. You're the one has to make it to the end.
+
+"But do me this favor. Tell Eothas he's got a lot of good followers. Tell him he still answers to them.
+
+"You tell him he owes 'em." Edér breathes through gritted teeth, his breath short and shallow. He watches you, waiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ishi... you stay with the captain now. I said no, you dumb bird! I..." 
+
+Against her orders, Ishiza remains at Maia's side, pecking her earlobe and making soft cooing sounds. Maia winces in anguish but says nothing more in protest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Pallegina's golden eyes, half-lidded, bore into you.
+
+"There are cures for these ailments, you know. Or maybe you don't know. Or just don't care."
+
+She turns her back to you.
+
+"If this makes you feel like an important ship captain, you had best get on with it. You would not want the crew to think there is the faintest spark of mercy in you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He scowls and spits. "This be three-ways fucked and you know it, Captain Watcher. People survive the frosties. I've survived it twice myself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"For what did Ngati bring me to the world just to face this ignoble end? The priests... their omens were wrong, I say. 
+
+"It is the Deadfire that is diseased." 
+
+Defeated, Tekēhu turns his gaze away from you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"If you think this'll keep me from my duty, you're wrong, Watcher. I've got ways to serve, even after this body's rotted and gone."
+
+Chin held high, Xoti looks out over the ocean, ready to greet her watery grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[SkillCheck 0] struggles against the bonds. "Please don't do this, [Player Name]! There's got to be another way!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Throw [SkillCheck 0] overboard.] "I'm sorry, friend. If there were another way to save everyone..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Throw [SkillCheck 0] overboard.] "I don't want this, but it's either you, or it's the whole ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Throw [SkillCheck 0] overboard.] "I'm only sorry that you didn't catch the bone frost earlier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Throw [SkillCheck 0] overboard. Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"...I can't do this. Confine [SkillCheck 0] to quarters!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Without further ceremony, you throw the captive over the railing. A scream followed by a quiet splash is the last thing you hear from [SkillCheck 0].
+
+The crew look to one another, expressions nervous. You're not sure what they fear more - the plague or their captain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The ship sails on, and to everyone's relief, no further signs of rymbán sjüdh appear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sighing over crossed arms, the mate meets your gaze. "If this spreads, captain, we don't have the medicine to treat the whole crew. People will die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Sighing over crossed arms, the mate meets your gaze. "If this spreads, captain, we don't have the medicine to treat the whole crew. People will die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You heard me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You heard me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Suppose I can plead for the safe passage of our souls through Hel, should we all perish shortly."
+
+After a nod, she bows her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Glory be to the many aspects of Eothas, greatest of all who is Gaun. I raise my voice to you in humility, thankfulness, and everlasting worship. Hear me, my god, and take pity on my dire plea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"As we now sail through the dark plague of death, we will not fear the reaping to come. For your lantern will guide our way. We will not stumble or stray from the path you have laid us through Hel. We will embrace the end of our lives and shuck the rotting husk of our fallen bodies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"After whence, we will be planted for rebirth by your hand.
+
+"Forever and always, as the Wheel turns,
+
+"Amen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[SkillCheck 0] struggles against the bonds, silent but for soft cries muffled by a gag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[SkillCheck 0] struggles against the bonds. "Please don't do this, [Player Name]! There's got to be another way!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

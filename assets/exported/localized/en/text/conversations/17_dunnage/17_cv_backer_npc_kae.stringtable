@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_kae</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You find a woman of early middle years dressed fine - if dirty - armor adorned with bright purple piping. A pair of long scars bisect her brow and jaw.
+
+Though she stands at ease, a nervous energy thrums through her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fair day, traveler!" She grins broadly, a joyful twinkle lighting her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hello there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Good day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Keeping up with your reading, I trust?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Anything I can do for you, just say the word!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Lady adventurer, at your humble service. I was born in Aedyr and raised in the field, and there's nary a crevice of this archipelago I haven't seen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Could you teach me what you learned in your time exploring the Livings Lands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If you'd like to learn more, you'll have to buy a copy of my monograph!" She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"With pleasure! Teaching is my specialty, after all. I'm going to pack your brain with so much knowledge, you're going to have a headache for a &lt;i&gt;week&lt;/i&gt;.
+
+"All I need from &lt;i&gt;you&lt;/i&gt; is three thousand copper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She starts first with the practical training - how to move silently through bush, when and how best to hide, how to step so as to muffle the sounds of your feet.
+
+Satisfied, she moves on to a high level explanation of various theories of knowledge. She seems to have quite a passion for epistemology, and goes on for an excruciatingly long time before at last sending you on your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Travel quick, travel quiet!" She gives you a friendly punch on the shoulder and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The field?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Aye, the Living Lands most oft, but the Deadfire as well of late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Being a cipher's come in &lt;i&gt; quite&lt;/i&gt; handy, I'll tell you that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I split my time between Aedyr and the Living Lands, though I've spent much time in the Deadfire of late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"And, my goodness, if you think the Deadfire's wild, I must say, it's no more thrilling than a lady of luxury's afternoon luncheon in comparison to the glorious madness of the Living Lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"And, my goodness, if you think the Deadfire's wild, I must say, it's no more thrilling than a lady of luxury's afternoon luncheon in comparison to the glorious madness of the Living Lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Do you often get into trouble, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Trouble seems to find me wherever I go! Not a lick of it's my fault, of course - it's the university, always sending me to the most dangerous corners of Eora, the scamps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If I didn't know better, I might say they were trying to kill me! There's naught other way to rid themselves of a tenured professor, after all." She laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Oh dear me, yes! Can't seem to avoid it. Not a lick of it's my fault, of course - it's the university, always sending me to the most dangerous corners of Eora, the scamps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"If I didn't know better, I might say they were trying to kill me! There's naught other way to rid themselves of a tenured professor, after all." She laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Get any good stories out of it, at least?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Oh, aye, aye - some you wouldn't right believe! Like the time I lost a part of my ear here, see?" She pulls back her hair and shows you her mangled ear. It looks like something's had a good chew on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Lost an entire research team along with the ear! Rather a long day, that was.
+
+"My colleagues have implied I might be cursed, but I can't say I much agree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It's just the nature of the work, you understand? I mean, goodness, if you want a lady to find you the rarest plants, you've got to send her to the most remote places!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"On my last expedition, my colleague Ines got herself &lt;i&gt;lost&lt;/i&gt; looking for what was essentially a big, prickly weed. No medicinal use at all!
+
+"I found her, though. Mostly intact, even. A blessing from the Living Lands, I call it, aye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"But I &lt;i&gt;do&lt;/i&gt; go on, don't I?" She laughs gaily, a hand splayed across her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Excellent! Let's get down to business, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She nods. "That's your prerogative, I suppose. Come back if you change your mind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Enhance Stealth and Metaphysics] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

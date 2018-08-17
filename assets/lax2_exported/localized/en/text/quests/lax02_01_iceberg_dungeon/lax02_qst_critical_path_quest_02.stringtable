@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>To Rise and Decline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Locate the Vytmádh within the Dead Floe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Uncover the Eye of Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the Beyond via the Vytmádh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Locate the Vytmádh within the Dead Floe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>According to &lt;b&gt;Vatnir&lt;/b&gt;, a portal into the &lt;b&gt;White Void&lt;/b&gt; has opened deep within the &lt;b&gt;Dead Floe&lt;/b&gt;, fueling the iceberg's growth. 
+
+If I'm to stop the spread of an endless winter, I should begin by locating this gateway into &lt;b&gt;the Beyond&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>While Vatnir wasn't certain why the Dead Floe is spreading, he suggested that I begin my search at the &lt;b&gt;Vytmádh&lt;/b&gt;, an entrance to the Beyond hidden in a &lt;b&gt;temple &lt;/b&gt;at the &lt;b&gt;center of the icebound island&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I communed with Rymrgand, and the dread god confirmed that the Vytmádh is the source of the expanding ice. 
+
+He warned me, however, that the portal would destroy me if I attempted to enter it without a relic known as his Eye. The Eye used to be held by the foremost guardian of this place, but she perished years ago when the dragon attacked. 
+
+If I'm to have any hope of closing the Vytmádh, I'll need to locate the &lt;b&gt;Eye of Rymrgand&lt;/b&gt; first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I found the Eye of Rymrgand in the possession of an icy imp and recovered it. With the relic in hand, I can use the &lt;b&gt;Vytmádh&lt;/b&gt; to cross into &lt;b&gt;the Beyond&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>If I'm to keep the Dead Floe from spreading, I must seek out the &lt;b&gt;Vytmádh&lt;/b&gt; mentioned by the Harbingers' leader. I should explore the rest of this iceberg in search of a way to stop it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>As I emerged from Harbingers' Retreat, the dragon I'd killed returned to life. It seemed to be carried to the &lt;b&gt;top of the iceberg&lt;/b&gt; by some unnatural force. Perhaps the creature - or whatever plucked it from Harbingers' Watch - might know more about the &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>While exploring the icebound temple, I witnessed a soul vision of people frozen here during some manner of attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Within the temple I saw another vision of souls lost to the attack on this place. They hoped to come to the aid of someone named &lt;b&gt;Rynhaedr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found the &lt;b&gt;dragon&lt;/b&gt;, only to see it dragged against its will into the white chill of the &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I found a &lt;b&gt;frozen corpse&lt;/b&gt; near the &lt;b&gt;Vytmádh&lt;/b&gt; that seemed to have died holding an &lt;b&gt;object of great power&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Whatever removed the object from the guardian's frozen corpse possess small, viciously sharp claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I stepped through the Vytmádh and entered the Beyond. Now I must search it for the &lt;b&gt;dragon&lt;/b&gt; preventing the &lt;b&gt;portal&lt;/b&gt; from being sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>With his last breaths, &lt;b&gt;High Harbinger Vatnir&lt;/b&gt; spoke of something called the &lt;b&gt;Vytmádh&lt;/b&gt;, claiming that it would spread without end to consume the whole of the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

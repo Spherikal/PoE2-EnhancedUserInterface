@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_supplies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Basic Provisions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Purchase supplies for your &lt;b&gt;ship&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I'll need to stock my &lt;b&gt;ship&lt;/b&gt; with supplies to critical to any extended voyages - &lt;b&gt;ammunition&lt;/b&gt;, &lt;b&gt;medicine&lt;/b&gt;, and &lt;b&gt;repair materials&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Purchase &lt;b&gt;repair supplies&lt;/b&gt;, &lt;b&gt;cannon shot&lt;/b&gt;, and &lt;b&gt;medical supplies&lt;/b&gt; for your ship. I can find a vendor selling these items in any &lt;b&gt;port town&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I acquired some &lt;b&gt;cannon shot&lt;/b&gt; for my ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I acquired some &lt;b&gt;repair supplies&lt;/b&gt; for my ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I acquired some &lt;b&gt;medical supplies&lt;/b&gt; for my ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've stocked my ship with the supplies necessary for a voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

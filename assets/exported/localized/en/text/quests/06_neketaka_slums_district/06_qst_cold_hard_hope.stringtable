@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_cold_hard_hope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Harsh Medicine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to &lt;b&gt;Delver's Row&lt;/b&gt; in the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find drowner's lung medicine on &lt;b&gt;Delver's Row&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Give the drowner's lung medicine to &lt;b&gt;Pitli&lt;/b&gt; in her home in the &lt;b&gt;Gullet&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Several Roparu in the &lt;b&gt;Gullet&lt;/b&gt; have fallen ill with drowner's lung, a deadly and contagious disease. &lt;b&gt;Pitli,&lt;/b&gt; a priestess from the Children of the Dawnstars, is caring for them in secret and needs medicine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pitli&lt;/b&gt; thinks I could find the medicine she needs on &lt;b&gt;Delver's Row&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Delver's Row is bustling with shops and suspicious characters. One of them is bound to have the medicine Pitli needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have the medicine &lt;b&gt;Pitli&lt;/b&gt; needs. She and the sick Roparu are waiting for it at her home in the &lt;b&gt;Gullet&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Pitli doesn't know how to reach Delver's Row, but the people that hang around the &lt;b&gt;tavern&lt;/b&gt; might.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; promised to give me the medicine if I kill the &lt;b&gt;Spindle Man&lt;/b&gt;, another &lt;b&gt;Delver's Row&lt;/b&gt; merchant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Some of &lt;b&gt;Ernezzo's&lt;/b&gt; gang leave his shop at night to go drink. It will be lightly guarded then.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The Spindle Man mentioned a secret entrance to &lt;b&gt;Ernezzo's storeroom&lt;/b&gt;. I can sneak in from the &lt;b&gt;wooden catwalk east of his shop&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The Spindle Man proposed that I kill &lt;b&gt;Ernezzo&lt;/b&gt; instead. It promised me lower prices in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I stole the &lt;b&gt;medicine&lt;/b&gt; from Ernezzo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I killed &lt;b&gt;Ernezzo&lt;/b&gt; and took the &lt;b&gt;medicine&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; is rumored to have the &lt;b&gt;medicine&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The &lt;b&gt;Spindle Man&lt;/b&gt; is no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Rust&lt;/b&gt; will eliminate &lt;b&gt;Ernezzo&lt;/b&gt; for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>I've hired &lt;b&gt;Rust&lt;/b&gt; to kill the &lt;b&gt;Spindle Man&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I informed on the sick Roparu. Pitli and her charges were banished to the Old City.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I gave the medicine to Pitli. She and the sick Roparu are recovering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Someone critical to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

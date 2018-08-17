@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_vtc_bounty_giver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>No sooner do you approach the Vailian woman than she squints and turns up her nose, regarding you with thinly-veiled distaste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Something you need, aimico?" Aenia lifts her brow and waits.</DefaultText>
+      <FemaleText>"Something you need, aimica?" Aenia lifts her brow and waits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What bounties do you have available?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We will cut your teeth on Biakara, a Huana sailor and would-be patriot who plagues Company ships." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'll pass on the bounty for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Gellarde. Biakara sails her voyager Scale of Tangaloa off of Hasongo's northeastern coast." Aenia studies you once more before shrugging and seeing you off with a wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"But you have your quarry already! Once the target is sunk, come back to me for another."</DefaultText>
+      <FemaleText>"But aimica, you have your quarry. Once you have silenced the first, I will give you another."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The Company is always eager to hunt pirates. My contacts have one by the name of Veen in their spyglass."
+
+Aenia hesitates before speaking up again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gellarde. You can catch up to Veen as he sails the dhow 'Reckless' far east of Neketaka, past the Kua o Rikuhu islands, no doubt thinking himself beyond our reach." 
+
+Aenia grins to herself and nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I dealt with Biakara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I dealt with Veen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I dealt with Desiwa the Shark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Belfetto! A fitting test of your skills and a promising beginning for us both." 
+
+She winks and passes you a small pouch of coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Belfetto! A pirate deserves no better send-off than a watery tomb." 
+
+Aenia passes you a hefty bad of coins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Belfetto! For once our survey ships may take to the waters without fear. Knowing that is almost priceless." 
+
+She strains her back to support a sack of coins and lays it at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You've taken all the work from the louses of Queen's Berth and I have nothing more to offer you... save this." 
+
+Hesitating, Aenia sticks out her hand and tips her head to the side, wearing an awkward smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Merla, how is every ship hunter taken?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Excellent work. I wish all ship hunters were so diligent." </DefaultText>
+      <FemaleText>"The Vailian Trading Company thanks you for your diligent work, mestra!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I've already dealt with Biakara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I've already dealt with Veen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You've done well for the company. My last target is Desiwa the Shark, a Rauataian casità who we &lt;i&gt;suspect&lt;/i&gt; of intimidating survey ships." 
+
+Her lip pulls back in a hate-filled sneer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'll take the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I've already dealt with Desiwa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Gellarde. Desiwa sails the dhow Blacktip in the waters south of Sayuka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I only deal with serious clients. Now shoo." She makes a sweeping gesture with both hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Per complancanet, do you hate money? Speak to me when you are ready, then." Her brow furrows as she studies you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm still hunting Desiwa the Shark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm still hunting Veen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm still hunting Biakara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Well, the Queen's Berth ship hunters are not exactly pounding at my door for work." Aenia pinches the bridge of her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Enjoy the lack of competition while it lasts. Take your time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Before I go I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Questions? Ask your questions, aimico."</DefaultText>
+      <FemaleText>"Questions? Ask your questions, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Excuse me?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What sort of business are you in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Stand your ground.] "I am a serious client." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ac, done! You are dismissed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Madiccho, but it is impossible to find skilled work when every competent freelancer wastes their shore leave in the Wild Mare!" She grimaces toward the east. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"When blood travels south of their brains the value of a good bounty is forgotten." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You give out bounties? I could take some off your hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Why aren't more sailors accepting work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Sounds like fun. Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"A serious brute - I can see this from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"&lt;i&gt;Not&lt;/i&gt; the business of answering questions, nasenale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"&lt;i&gt;You?&lt;/i&gt; A nameless face off the streets?" 
+
+She thumbs her chin and gives you a thorough looking-over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I do not make a habit of shepherding new talent, but... ac, there is a seed of potential." She sighs to herself and peers over your shoulder before giving up and addressing you directly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Hm... your face, perhaps it is not unknown to me."
+
+She thumbs her chin and appraises you with fresh interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ac, but I blame luminous adra." She folds her arms and exhales sharply through her nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Our privateers are busy escorting shipments out of the Deadfire. Everyone is rich, no one is hungry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Where are the casitàs willing to sink their enemies for a bag of pires, eh? Drunk on success!" She waves derisively toward the east. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ac, but too much eagerness can be a bad thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It goes without saying that I have more work for you if you have the space for more coin." Aenia chuckles to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But you did not just come to deliver good news? You came for work, ac?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Shake her hand.] "Been a pleasure working with you, Aenia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ac, my little privateer! You have news for me?" Aenia folds her arms and tips her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Veen is a vithrack, if such things matter to you. Gets in your head, they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

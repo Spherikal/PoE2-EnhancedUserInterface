@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_qst_tikawara_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Broodmother's Fury</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hunt down the &lt;b&gt;lagufaeth broodmother&lt;/b&gt; in &lt;b&gt;Hōhina Ravine&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to &lt;b&gt;Himuihi&lt;/b&gt; at the trading post in &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rescue the &lt;b&gt;hatchlings&lt;/b&gt; imprisoned in the &lt;b&gt;village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kill the &lt;b&gt;lagufaeth broodmother&lt;/b&gt; in &lt;b&gt;Hōhina Ravine.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Rescue the &lt;b&gt;hatchlings&lt;/b&gt; imprisoned in the &lt;b&gt;Tikawara&lt;/b&gt; village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; worries that the lagufaeth of &lt;b&gt;Tikawara&lt;/b&gt; pose a grave threat to the village. She wants the &lt;b&gt;broodmother&lt;/b&gt; dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Himuihi wants to eliminate the lagufaeth of Tikawara. She told me the &lt;b&gt;broodmother&lt;/b&gt; lives in a &lt;b&gt;ravine&lt;/b&gt; on the island - killing her should scatter the rest of the creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I killed the broodmother. &lt;b&gt;Himuihi&lt;/b&gt; will be happy to hear the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The tribe captured several lagufaeth hatchlings. The &lt;b&gt;broodmother&lt;/b&gt; wants them released from the &lt;b&gt;village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Himuihi believes the lagufaeth will leave the village alone if I kill the &lt;b&gt;broodmother&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>The &lt;b&gt;lagufaeth broodmother&lt;/b&gt; is desperate to rescue her hatchlings. Releasing them could cement a truce between the creatures and the tribe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I found the &lt;b&gt;broodmother&lt;/b&gt; in the ravine. Strangely, she didn't attack me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I freed the captive &lt;b&gt;hatchlings&lt;/b&gt; in the &lt;b&gt;village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The &lt;b&gt;broodmother&lt;/b&gt; might be convinced to leave the village alone now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I was told that &lt;b&gt;Himuihi&lt;/b&gt; is handling the lagufaeth problem. She can be found by the &lt;b&gt;village trading post&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Himuihi gave me permission to release the &lt;b&gt;lagufaeth hatchlings&lt;/b&gt; held captive in the &lt;b&gt;village&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>I found a cage with several &lt;b&gt;lagufaeth hatchlings&lt;/b&gt; by the &lt;b&gt;beach&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; has refused to release the &lt;b&gt;hatchlings&lt;/b&gt;. I could always resolve the hatchling situation myself...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I killed the lagufaeth broodmother and removed the threat to the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I released the lagufaeth captives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I negotiated a truce between the tribe and the lagufaeth of Tikawara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I killed both the lagufaeth broodmother and Himuihi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The Huana captured some lagufaeth hatchlings, and the &lt;b&gt;broodmother&lt;/b&gt; wants them back.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

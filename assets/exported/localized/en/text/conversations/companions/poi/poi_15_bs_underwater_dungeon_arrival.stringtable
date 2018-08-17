@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_15_bs_underwater_dungeon_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I don't know how we're breathing, but I'm not complaining. Ishi, don't go far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"At least I don't need to hold my breath, but something about that pool makes me want to." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The air down here may be breathable, but that doesn't make it sanitary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It's great that they got air down here somehow. But I wouldn't mind if it smelled like something besides rotten fish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I have read that the inventor Iverra has experimented with devices to bring air under water, but this appears to be something on a far grander scale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If I done told Remaro there were air underwater once, I told him a hundred times. That old salt be owing me a suole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'm glad I'm not drowning, but I got to admit, breathing under water makes my head hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

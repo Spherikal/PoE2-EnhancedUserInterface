@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] points at the ship in the distance. "Galleon, captain. A three-master. Or it was."
+
+Naught remains of the ship's foremast save a splintered stump, and the bowsprit has been sheared off.
+
+"See how they crippled her? That's the work of pirates. Príncipi most likely, and probably the upstarts if they're raiding this close to Vailian patrol routes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pull up alongside it. We'll salvage whatever's left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Continue on our course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You take a small boarding party and scour the galleon. Most of its cargo and all of its crew are missing, but you do find several barrels of fresh water and a few sacks of dried rice and coarse meal.
+
+Your competent hands make quick work of the task. You return to the ship and order [Specified 0] to set sail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] salutes. "Very well."
+
+The crew scrambles to their posts, eager to be clear of the area.
+
+Once the ship has disappeared behind you, the crew abandons nervous glances for relieved laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your crew rushes to their battle stations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2] leans in close. "They'll have taken any gold, but they might have left supplies."
+
+[Specified 1]'s brow is damp with sweat. "We shouldn't stick around. If the Vailians see us plundering one of their ships, they won't give us a chance to explain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You're still aboard the galleon when [Specified 0] calls out a warning.
+
+A ship with the lines of a Vailian privateer is speeding toward you. 
+
+The crew aboard [Player Ship] scurry across the deck, readying the ship for combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>However, as the privateers draw near, you see them point at the Vailian Trading Company colors you're flying. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>However, as the privateers draw near, you see them point at your Valera sails. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>However, as the privateers draw near, you see them point to the colors you're flying. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The other captain acknowledges you by doffing her hat, and the privateers pull away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Use spyglass.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ready the guns. The cannoneers need the practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A red flag with scales and stars - the emblem of the Vailian Trading Company - flaps from the main mast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>With a shake of the head, [Specified 2] sighs. "Or we could sink the loot, I suppose."
+
+[Specified 1] nods. "Aye, captain."
+
+[Specified 0] shouts orders, and crew begin readying the guns belowdecks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"With what? We don't have any cannonballs."
+
+[Specified 2] coughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You take a small boarding party and scour the galleon. Most of its cargo and all of its crew are missing, but you do find several barrels of fresh water and a few sacks of dried rice and coarse meal.
+
+It takes your unseasoned hands the better part of the day to finish hauling it aboard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>By the time you've returned to your ship, hauled in the anchor, and let out the sails, the privateer is almost upon you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I am hardly enthusiastic about plundering a Vailian ship, but if we do not take their cargo, someone else will."
+
+She surveys the ship with a scowl and shakes her feathered head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your gunners prove more than a match for the immobile target. As you watch, the target lists, rolls, and then sinks beneath the waves.
+
+The crew belowdecks stomp their feet and cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your gunners prove no match for the immobile target, and the cannonballs fly wide of their target.
+
+The crew wince at the display.
+
+[Specified 0] looks to you. "Again, captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Fire another volley! And hit the damn thing this time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No. Get us out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Your gunners prove more than a match for the immobile target. As you watch, the target lists, rolls, and then sinks beneath the waves.
+
+The crew belowdecks stomp their feet and cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The cannons fire again... and miss again.
+
+[Specified 0] sighs. "Orders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sink that damn boat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Your gunners prove more than a match for the immobile target. As you watch, the target lists, rolls, and then sinks beneath the waves.
+
+The crew belowdecks stomp their feet and cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

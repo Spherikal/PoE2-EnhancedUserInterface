@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_bs_imp_ambient</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"VAULT LOCK BROKEN? WHERE SHINY CRYSTAL GO?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"BUTLER ON SECOND FLOOR LOUNGE TRYING TO EAT IT AGAIN. MASTER WILL BE DISPLEASED." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"DUMB IRONCLADS! SAY SOMETHING, WHY DON'T YOU?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"KITCHEN IMPS GOT IT BEST. PROMOTION CAN'T COME SOON ENOUGH." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"GAH! ALMOST OUT OF PEPPER. MASTER WILL BE UNHAPPY!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"WHY MASTER NEED BOOKS? NOT EVEN TASTE GOOD." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

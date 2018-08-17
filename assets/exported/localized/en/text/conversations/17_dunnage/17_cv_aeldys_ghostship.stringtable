@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_aeldys_ghostship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Welcome to Balefire Beacon, captain. Have you a moment? I'd like to fill you in on our next course of action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Everything we thought was important has changed. If a god is going to kill us all, if he's headed to Ukaizo - I say we beat him there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The Consuaglo is united behind Aeldys. Our fleets will join in the journey to Ukaizo, with the fabled Floating Hangman at the helm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Take the sword out to the high seas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"In the meantime, I'll set the entire Príncipi into movement. Expect a formidable fleet at the ready on your return. We'll conquer Ukaizo and sack its riches. You'll see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'll take care of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"First, recover Lucia's sword from Yseyr. Then, sail to the seas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'll happily lend you my ear. And my sword, and other things." She grins evilly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I am captain of the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"How do you plan to capture and then captain the Floating Hangman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What do you intend for Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What will be the future of the Príncipi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I knew you were the only captain who could take it. You are more than worthy of your chair on the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The Príncipi are ready to sail for Ukaizo. Me and my fleet with reconvene with you outside Ondra's Mortar.
+
+"Until then, lovesome." She blows you a kiss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You'll take the sword to the high seas, then unsheathe it by chanting the Darcozzi oath.
+
+"When Lucia comes for it, you kill her and take the Fonferrus. See?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"We sack Ukaizo. Really run it into the ground. The way I see it, we'll either survive Eora's end to sail off with the riches. Or, well, we won't.
+
+"Regardless, we'll have a Hel of a last go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"We survive at any cost. We expand, conquer the seas. We live free, and we die as we choose. 
+
+"What better life could there be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Before I go, I have some questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You worry about the governing, I'll worry about everything else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I imagine you have a logical reason to believe we could actually sail a ghost ship after acquiring it...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I knew I liked you for a reason, lovesome. You're a kith after my own heart, you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I did think it a far-fetched idea, at first." She nods, scratching the underside of her chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Furrante had planned to use the galleon. It has the ability to manipulate the winds and seas. It could part Ukaizo's storms, allowing us to sail through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I guessed his aims well enough through his interest in the galleon's history. But it was thanks to your findings in Yseyr's tomb, that I knew what to look for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"It's Lucia's lost sword that's key. She took an undying oath to protect the Engoliero do Espirs for the Darcozzi line. 
+
+"If you speak the oath before the sword, the seal on its scabbard will release, drawing Lucia, and the galleon, to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Good. I'll be counting on you. Ondra's luck to you, lovesome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Do you what you need, captain. But do it quickly, for all our sakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Either it'll save us, or we'll have a Hel of a view to Eora's end. What say you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Unsheathe the sword by chanting the Darcozzi oath.
+
+"When Lucia comes for it, kill her and take the Fonferrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Crookspur's a done deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Is that what you call it? 'Cause I didn't send you &lt;i&gt;just&lt;/i&gt; to battle and murder, dove. I sent you to free the slaves." She glowers, narrowing her mis-colored eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Aye. And well done, too. Most of the prisoners have pledged to crews in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I thought you'd like to know I helped Mad Morena in the Undercroft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"So I heard. And so I'm impressed. 
+
+"I like when someone does me and mine a favor. Makes me feel real friendly toward them, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"And I like to give my friends little tokens of my appreciation. Like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And now the master's on the defensive. All you managed was to strengthen his operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Though I'll admit, I won't be mourning the master's demise. And I do enjoy bleeding my enemies dry. 
+
+"I'll thank you for that much at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She starts to say more but catches herself. Head shaking, she worries the golden coin around her neck between her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Let's leave it at that for now, lovesome. Maybe a time will come when we better see eye to eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You did a fine thing, captain. Don't think I'll soon forget it."
+
+She rubs her thumb over the suolenet around her neck, mis-colored eyes looking you up and down. Her lips quirk in a sly smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It will take some time to refill the Consuaglo's vacant seats. For now, those of us remaining are united behind Aeldys. Our fleets will join in the journey to Ukaizo, with the fabled Floating Hangman at the helm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Aye. And quite a raucous it was, from what I've heard. I always like a good bloodbath myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Some of the freed slaves have already made it here to Deadlight and pledged to ships in my fleet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Now, whether the ship could becalm the seas back when it was still the Fonferrus - or whether it gained the power in becoming the Floating Hangman, crewed and captained by the undead - I don't rightly care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I just want to take. And to use. For my own gains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"If we can find and pilfer whatever your rogue god's after, who knows. Maybe us pirates will be heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You can't steal the Wheel. It's bigger than Ukaizo itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Making off with the Wheel would involve breaking it yourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Lie] "That'll work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I do shiver to think how the lost city of gold's going to be ours, at least for a time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then I guess we go with my second plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It'll work or I'll die trying." She grins with ruthless abandon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"If we've only got the one life to live - no future for Eora, no more chances for our souls - then we may as well relish what time we've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"For your loyalty, I'd like you to have Scoredeo's Edge.
+
+"It's been a good sword to me. I know you'll put it to good use. Hopefully, by killing more of my enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"For your loyalty, I'd like you to have Scoredeo's Edge.
+
+"It's been a good sword to me. I know you'll put it to good use. Hopefully, by killing more of my enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sorry, lovesome, I've no time for pleasantries. Got a lost city of gold to get to."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

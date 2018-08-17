@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_tree_prince_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"My time is not unlimited. Speak on." The prince opens his palm and waits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"We should talk about the food shortage in the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I want to talk about the food shortage in the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Earlier, you seemed to imply there was work for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Onekaza indicated that some outside help would be welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I want to discuss the black market in the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I have questions about you and the Huana." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You really think the Wahaki could help our cause?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I want to know more about Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"How does the caste system work in Neketaka?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"My sister would say that Ukaizo is the birth canal of the tribes, and we are destined to return and discover ourselves again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"You may think them only a distant ally, but the Battle of Nakaro Atoll is not so distant in the memory of the Huana." He bows his head and raises two fingers to his brow, holding that pose for some time before standing at ease again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ekera. I say we will know more soon enough." 
+
+Aruihi nods with grim determination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ekera, both topics I know well." Aruihi smiles and inclines his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"You and Onekaza represent the Kahanga tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I'm still not sure what that argument was about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"The trading companies beat their chests and howl at each other. 
+
+"Business and conquest speak louder to them than hospitality." Aruihi rolls his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"If I was the hazanui, I would think twice before barking that a tribe as wealthy and ruthless as the Vailians destroyed my lighthouse." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"You don't seem to think much of the trading companies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"My sister has mastered the diplomat's tongue... and I am foolish to give her frustrations a loud voice." 
+
+He sheepishly scratches the back of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"What do you think of your sister's rule?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"We agree on much, I say! The prosperity of the Huana, our burden to appease the gods." 
+
+Aruihi clears his throat and cranes his neck to tell if anyone is eavesdropping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"In the trading companies, Onekaza sees Woedica testing us - weighing who deserves the isles." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"No further questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"After the sorry display we have put on, you have every right to be curious. Have on, then." The prince nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"With the sky clear of vultures, we can look once more at the path ahead. 
+
+"Ukaizo will be ours. As it was before and as it should be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"If there is curiosity to be satisfied, ekera - I will help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"The Wahaki have the passion that we lost after too many years of cooperation." He grins, crossing his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ask Onekaza if you would know more. She is the family historian. I am the family arsenal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I admit... I used to think it a story. The gods always have the last laugh." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"It is the same in the city as anywhere in the Deadfire. 
+
+"Mataru judge our souls at birth and organize us for the survival of the tribe." 
+
+Aruihi pauses and frowns to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"You speak like the city is aware."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You speak as if it is not." Aruihi raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ekera. As the largest and most prosperous of the Deadfire tribes, the Kahanga have... &lt;i&gt;some&lt;/i&gt; authority to speak for the others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I say Onekaza and I are large stones in a tidepool, standing tall as the water rises to our necks." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"If we are lucky, the truth of Hasongo will quiet their tempers for a fortnight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"If you have more to say, I am not above listening." He nods, sweeping his hand out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"If you have questions, the royal brother will hear you."
+
+Aruihi smiles and opens his palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"We should talk about Motare o Kōzi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I am not the first to say it, but Neketaka has more walls than beaches, more roads than clearings... and more people than fish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Nowhere in the city does a Roparu sit around the same fire as a Mataru.
+
+"Neketaka tests our traditions, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Don't you see that as a contradiction?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Our ancestors built this place. We are the hermit crab who occupies a fallen shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"It is for my sister and her priests to judge the fit."
+
+Aruihi shrugs, squinting up at the court's high ceiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"What man or woman of the isles does not?" Aruihi chuckles and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Ekera, speak on I say!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"But ekera, I pray every day that Ngati tests the outsiders against her tallest waves and longest serpents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"The ocean is a few monsters short since the armada showed up. I think we passed your fish god's trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"I... quite so, Maia."
+
+Prince Aruihi turns away, blushing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I see Ngati sending krakens of gold and iron against our ship, but arming us with a single harpoon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"The gods will judge us by our persistence. And our... grace before foes." 
+
+Aruihi inclines his head to Maia. She frowns and glances over her shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"For what do you seek the royal brother?" Aruihi raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"What say?" Aruihi opens his palm and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"A friend of the armada... here to spy for the enemy, I say?" Aruihi crosses his arms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"They say your pockets jingle with Vailian coin. For what do you visit?" Aruihi nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I would not say this before Onekaza... but to kill a dragon is impressive work." Aruihi nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"For what did you bother to climb the mountain?" Aruihi folds his arms and stares you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"You are the talk of Serpent's Crown. Ekera, not in a good way." Aruihi raises his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Watcher. For what do you come?" Aruihi blinks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"The herald of Berath. Any news from Tangaloa's maw?" Aruihi furrows his brow and gestures for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"The honor is mine, herald of Berath." Aruihi inclines his head and touches his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"My friend! You are kind to climb the mountain. What say?" Aruihi smiles and pats your shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"For you, I will make the time to blunt my teeth with chatter." Aruihi smiles and nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"What say, Watcher?" Aruihi opens his palm and grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"I hope you find our city pleasing, Watcher." Aruihi nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Our enemies scramble for Ukaizo, dropping all pretense of strategy in their panic and haste."
+
+Sighing, Aruihi gestures for you to speak freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

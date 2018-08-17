@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_si_the_duel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The duelists square off and tentatively circle each other. Stocky Orso moves with heavy strides while Larro takes precise, measured steps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Onlookers gather and press at the edges of the poorly-defined arena. Their jeering lowers to expectant mutters. 
+
+The duelists' seconds bring forth their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Find a better vantage point to observe the fight.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Watch quietly for now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You maneuver through the crowd with ease and find an uninterrupted view of the escalating conflict.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You shoulder your way into the thick of the crowd, but the press of bodies halts your progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Bless Orso.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Given the position of the onlookers and the duelists, there is only time to discreetly enchant one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Bless Larro.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Do nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Your attempt at subtlety pays off as a divine glow hovers over the duelist and quickly fades, going unnoticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The crowd takes note of what [Specified 0] is doing and protests the deception. [Specified 0] is sharply ordered to stop praying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Once the swords are delivered to their respective bearers, the seconds back away in melancholy silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Take the opportunity to study each of the opponents.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You note the sweat on Larro's upper lip and the furrow of concentration cleaving Orso's brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Orso walks the arena with lumbering strides. He misses his footing once and stumbles, causing Larro to grin and the crowd to mutter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Cast a blessing on one of the duelists.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Watch a little longer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The duelists cross their swords and bow in salute. The tranquil moment ends with a burst of motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Despite their difference in size, the duelists seem evenly matched. Orso doesn't settle on an established form, but he keeps pace with Larro's aggressive strikes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Distract Larro with an insult.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Distract Orso with an insult.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Watch the duel to its end.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You call out some cutting words to Larro which involve his father and a butter churn. He turns to the crowd wearing a shocked expression. Orso takes the opening and advances menacingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Larro frowns and continues the fight undeterred. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Larro scrambles to recover, but Orso claims his advantage - smacking the sword out of Larro's hand. It falls to the ground with a loud clang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You call out some choice words regarding Orso's father and a lamprey. While Orso searches the audience Larro takes advantage of the opening and rushes him, knocking Orso off his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Orso and Larro trade fierce jabs, giving up any pretense of playing to the crowd. A hard downward thrust sends Larro's blade clattering to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Orso presses his attacks with inhuman stamina. At last he brings his sword down with all of his strength, sending the blade flying out of Larro's hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Larro's sword dances with ease. He outmaneuvers Orso, sending his opponent's weapon clanging to the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You hang back and observe as the duelists take up their swords, assume positions on either side of the arena, and rush each other with naught but the clanging of iron and gasps of the crowd to speak for them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Larro takes up his fallen sword and plunges it into Orso's gut. A collective gasp rises from the audience as the large fighter falls to his knees and the other slowly rises to his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Larro points his weapon at Orso's heart, letting it hover there. He summons up the courage to plunge forward. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Send up a distracting cheer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Shout] "Kill him, Larro!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Kick Orso's sword back toward him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Wait and observe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Orso hovers over Larro, a grin slowly taking form. He raises his blade and points it at his opponent's heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Without hesitation or an offering to yield, Orso runs his blade through Larro's heart. A collective gasp rises from the audience as Larro sinks to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Orso seizes the blade and runs it through Larro's heart. The crowd gasps in a mixture of anger and bewilderment as Larro falls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The sword goes spinning away from the arena. Spectators scramble to leap clear, and a shrill cry of pain suggests that someone wasn't fast enough. 
+
+Orso closes his fist and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Orso's killing stab goes wildly askew, missing his opponent's heart and instead carving a long slice across Larro's cheek. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Shout at the top of your lungs.] "Stop!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Shout] "Don't do it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>With a quick flourish of his sword, Larro cuts Orso across the face and ends the duel with a splash of blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Your voice rises above the din of the crowd. Larro blinks as he takes stock of the moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Wait and observe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Cast a shield around Larro.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>A glowing, arcane shield manifests around Larro. When it fades, Orso shrugs and slices Larro across his cheekbone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Trip Orso.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Your words fail to hit the mark. Orso shakes his head and refocuses back on Larro. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Trip Larro.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>From this vantage point, all it takes is a carelessly-placed foot to hook Orso's ankle and send him sprawling on his back. Larro closes the distance to press his advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Larro stumbles back, pinwheeling his arms as he attempts to regain balance, and falls to the ground with a hard crack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0]'s attempt at subtlety pays off as a divine glow hovers over the duelist and quickly fades, going unnoticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Your attempt at subtlety pays off as a divine glow hovers over the duelist and quickly fades, going unnoticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 0]'s attempt at subtlety pays off as a divine glow hovers over the duelist and quickly fades, going unnoticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Orso scrambles to rise, but Larro pushes the blade into his chest, pinning him to the spot as a gasp sweeps across the audience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The crowd notices what you're doing and protests the deception. You are sharply ordered to keep your prayers to yourself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>This was supposed to be a fight to first blood, but mercy is the farthest thing from the minds of the combatants. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>This was supposed to be a fight to first blood, but mercy is the farthest thing from the minds of the combatants. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Larro grins with pleasure and runs his blade through Orso's heart. The stunned fighter sinks to his knees and dies on the spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Yell] "Look out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Larro glances up with an anxious expression, his focus momentarily broken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Orso searches the crowd for the speaker, his attention diverted from the fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>With a dramatic twirl of Larro's sword, Orso is disarmed. His sword clangs to the ground beyond reach. Larro closes the gap and knocks his opponent down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Orso presses his advantage. Just as Larro begins to regain his edge, a hard parry sends his sword clattering to the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ahoy, captain. What can I do you for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me about Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He considers you for a moment before nodding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"When I were a wee swabby, fresh to the sea, it were Remaro that showed me the ropes and rigging. More than that, he kept his weather eye open for me."
+
+He plucks at the fur at his elbow.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I promise we'll find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Thanks, cap. I'll be holding you to it."
+
+He bows.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Thank you. I'm glad you shared that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Aye. Do right by it, and I won't be regretting it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"That's enough about Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Aye-aye, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sorry, Captain Watcher. That be a story for friends and friends alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You can tell me or you can walk the plank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Well if you be planning to be a right cock about it..."
+
+He scowls at you from over crossed arms.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Me and Remaro, we served together back on the Sorcerer. I be owing the man a good turn or two. If I can be making good on that debt, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I understand. We all have our secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aye, that we do. Thanks, cap. And... if there be something you need to know, I'll be telling you. Swear it on my furry blue ass."
+
+He glances at you briefly before turning away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"As captain, I need to know what you're getting my people into."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Shit. You ain't wrong on that."
+
+He rubs the back of his head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh? I guess you don't want my help with it, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ain't much there to be told, cap."
+
+He frowns slightly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Flirt] "So Serafen..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Appreciate the sentiment, cap, but, uh, let's not be making things uncomfortable."
+
+He raises an eyebrow at you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Er, cap... it's uh, well... It ain't like I don't think highly of you... and, being short and blue, I know I ain't got much room to..."
+
+He takes a vested interest in his feet.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I just... I find the whole... reminder of my mortality thing a bit off-putting."
+
+He winces.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It's just, I'd be worried, you know. On account of my fur. And your... fire."
+
+He draws his palm down across his face.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"See... my relationship with Ondra, it be complicated enough as is."
+
+He avoids your gaze.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I just... the horns, the flowers, and all... Sorry, cap..."
+
+He chews on one of his nails.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It ain't everybody's?"
+
+He winks.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hey, sailor, you look like you need a mast to shimmy."</DefaultText>
+      <FemaleText>"Hey, sailor, you look like you need a hold to fill."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"If I didn't know better, cap, I'd be thinking you fancied a thorough swabbing below decks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Race you to the bunks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Captain... all jokes aside, you should be knowing up front that I ain't the marrying type."
+
+He tugs at one of his beard braids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Just joking around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ah, heh. Aye. Right laugh, that."
+
+He rubs the back of his head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Maybe I want more than a swabbing. Maybe I want the whole boat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Not the euphemism I'd have chosen, but yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"If you be finding my side arms impressive, you should be seeing my long arm."
+
+He bumps his furry eyebrows.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Can't think of anything to tell you at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I get the funny feeling you be studying me, cap. Were there something specific you be wanting to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'd like to know about the Sorcerer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You told me before that your favorite number was forty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You've never told me anything about your childhood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Aye-aye, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I ain't no liar, cap. Lies be for novices, and I be possessing a mastery of the verbal arts. My tongue be the most flexible weapon in my arsenal."
+
+He smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Worst thing about ciphering be the knowing what people be thinking. Whether you want to or no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I be a right open book, cap. Ain't nothing that'll be putting you on my bad side. 'Cept slaving. Start slaving and we be quits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Verily, that I can be providing."
+
+He bows low, his ears almost touching the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Family ain’t bout the blood that runs through you. It be about who you be willing to spill blood for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Nay, I didn't. Orlans grow up fast. Let's be leaving it at that."
+
+He crosses his arms, closing himself to the subject.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Favorite number be forty. Ask me about it some time. It ain't what you be thinking."
+
+He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I’ve no use for regrets, cap. Sink in sorrow for every innocent that dies in your stead, and you never be sailing forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"On my first ship, before the Sorcerer, they made me a rigger, barnacle scraper, and powder monkey - every deadly job. They be hoping I’d buy the farm. I lived to disappoint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Some seamen go dizzy as duck soup out here, spouting bout the sea speaking to them. I been all over these islands, and the sea don’t speak. ...Waves, though."
+
+He chuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I'd like to ask you about the Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ask away, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Who are the Príncipi, exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Formally, the Príncipi sen Patrena - the Princes... er... without..."
+
+His brow knits as he snaps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"How do the Príncipi operate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Raiding sea-faring vessels, mostly. Seizing ship's cargo. Ships themselves, if they be worth anything. If there be passengers of high birth, we be taking them for ransom, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You seem to enjoy being Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Aye, that I do, cap."
+
+His scarred lip splits into a broad smile revealing crooked teeth.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If I were looking to enlist, how would I do so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Enlist cap? We ain't the flog-stroking Rauatai navy."
+
+He chuckles, low and warm.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Serafen salutes and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"If you be having a tic, cap... I be thinking that... if I be dragging you into these depths, you deserve the full sounding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"This is about Remaro, I take it. I'm happy to listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"It's about time, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I don't really care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Fair enough. You be changing your mind, just ask me."
+
+With a shrug, he turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aye, sure."
+
+He nods.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aye. As a piss-sodden youth in the fighting pit I were forced to kill thirty nine other slaves. Some lads and lasses no older than meself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tell me about Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Without a Home, aye. They came from Grand Vailia ages ago. Now they be the scourge of the Deadfire."
+
+He squares his shoulders, puffing out his chest.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"More than that ain't for the likes of me to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ain't squeamish bout slaying, but be avoiding it when we can. Get yourself known for killing folk, they get more likely to fight you when you come for their gold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Without a homeland."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You only get known for killing folk if you're not so great at killing folk." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Shooting a man from the shadows be one thing. Sinking a godsdamned carrack be another entire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What not? Smell of the sea. Creak of the rigging. Blast of the cannons. Rush of boarding a ripe piece of prey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"A mug of spiced rum in my hands and a bawdy song on my lips. A lad or lass in every port and another in my hammock."
+
+He shrugs with a grin.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Be a pirate's life for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"All the things you get out of being a hairy, smelly cutthroat I get out of being a decorated officer.
+
+"It'd be funny if it wasn't so sad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"No worries, lass. I'll be making a right honest pirate of you yet. Ishiza too."
+
+He winks at Maia. Or perhaps the bird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Twixt the seaworthy vessel and the passable crew, you've managed yourself the hardest part already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Now you just need to be setting yourself to piracy. After you be talking it over with the Consuaglo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Sounds easy enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"We ain't exactly a bunch known for housing hard-ons for hard rules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"The Sorcerer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"That's it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You're hiding something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Were the ship I were on before I sailed out with Furrante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"That be it. Captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Am I?"
+
+He shrugs and turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Aye. I trust you, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The sea be a right poxy whore on occasion, and life aboard the Sorcerer that and more. Malnaj, our shiphunter, she were all wet and bothered for doing me harm, and Remaro, he protected me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Mentored me, too. Learned me letters and navigation. Handed down the Príncipi traditions. In time, we became close as kin or closer. And the Sorcerer my family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"How did Remaro end up in trouble with the Príncipi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"You told me a lot about the two of you, but not much about him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Were you romantically involved?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Why did this Malnaj want to hurt you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Fair. He be of Old Vailian stock. A good man, and righteous. Not honest, of course, but honorable. Were our shipboard sawbones and more than half-handy at it."
+
+He smiles and rubs his upper right arm.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"More than one swabby be owing the old salt a deferral from the Wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wael only knows, cap! She treated me like my mere presence gave offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Was it your presence, I wonder, or an ill-timed remark about your 'furry blue nethers'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Why, cap? You be feeling a bit of the old envy?"
+
+He grins, bumping his eyebrows twice in quick succession.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Nay, we never shared a bunk. Not that I'd've kicked him out of a hammock, but... like I said, we be family. He never took advantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Right fantastic fucking question, cap."
+
+He scowls and plants a closed fist in an open palm.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Word out were mutiny, but I be putting about as much stock in that as a dockside doxy for manners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I know I don't normally be singing no praises of veracity, cap, but in the matter of Remaro, I be hunting the truth." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I glimpsed your thoughts when Remaro told us about the Sorcerer and its slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You don't fight like a pirate. Where'd you train?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"She be a hell of a ship, a full galleon bristling with a dozen guns. Captained by Bastian, we sailed the seas, a scourge of every shipping lane and port."
+
+A grin blossoms on his scarred lips.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"At least she were. Back in the day, we hunted slavers as often as merchants, killing the bastards and breaking their chains. Must've freed a thousand slaves if we freed a one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"But now? Got about as much know-how of that as I do of Wael's fiddly bits."
+
+He glances away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Never heard of pirates killing slavers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Don't mean it didn't happen, lass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ain't got no formal training. Learned in the sand and on the seas."
+
+He shrugs, palms up.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Main thing I picked up? There ain't no mercy in drawing it out. I look for an opening, then exploit it quick-like."
+
+He taps the center of his forehead.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Sight beyond sight be a boon there, and I ain't ashamed to use it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"There is no shame in using what works."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I espy a lurking question, cap."
+
+His ears lower slightly.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"My deepest desire were to slay just one slaver. For my fortieth kill, I got my wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Were you a slave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Want to tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"On second thought, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>His small frame expands as he inhales deeply, then deflates with a long sigh through his nostrils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I were born into slavery, cap. I never knew no father save Remaro and don't much remember my mother." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Nay, you should be hearing about it, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I do remember the day they tore me from her arms. Her screams. Kind of thing that leaves a mark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"It'd've been one thing were I purchased for labor. To lift or farm or fix or what-do-you-have. But they bought me to fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Threw me in a fucking pit. Set me against other slaves."
+
+He shudders.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"There's a special place in Hel for souls like that. No really, they get shredded. Cut right from the cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Desganta. I have always found slave fighting repulsive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"They transported me twixt one pit and the next by ship, and they would set me swabbing decks." 
+
+He massages one palm with a furred thumb.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"How'd you go from the slave pit to the sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I'm so sorry, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"This is why you hate slavers so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Be needing a reason to hate slavers, do I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ain't your sin to carry, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"One eve, the Sorcerer fell upon them, sneaking up in the sunset. When blades were drawn, I availed meself of one. Found meself a little justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Remaro brought me aboard the Sorcerer. The rest of the story's old."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Aye, cap?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Short, blue, and hirsute happens to be my type."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"That was quite the pair of pistols you were packing when we first met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"The seas seem particularly calm today. Almost makes you want to make some waves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"A lover in every port must be nice, but wouldn't you prefer one shipboard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Careful, cap. Someone of your obvious prowess might just sink the ship."
+
+He grins.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"You be saying that like it be an either or."
+
+He winks.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Serafen blinks, chuckles, and runs a hand across his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"You're not interested because I'm godlike?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I expected better from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Oh. Well shove off, swabby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Sorry cap..."
+
+He shuffles away, head hanging.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"No! More, er - flog me! - more not being quite attracted to the, uh, bits and bobs that come with. Being godlike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Have you ever &lt;i&gt;been&lt;/i&gt; with a godlike before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"No..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Give me a chance. That's an order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>He blinks rapidly, then snaps out a salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Aye-aye, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I want a roll, not a ring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"So this is a one-time thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I think I can change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"What be broke in me, there ain't fixing. Wish it weren't so, but I ain't no body to offer no sort of future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Aye-aye, cap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"And fetch me the lash while you're at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Break out the good booze. Special occasion and all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I expect some of that famous poetry of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Will you at least let me try?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Nay, cap. And best we be belaying this talk. ...Sorry."
+
+He frowns, winces, and then turns away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Aye-aye, captain!"
+
+He snaps out a salute, then turns towards your quarters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I'm looking for a good time, sailor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Nay, cap. Be belaying that line of thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Aye-aye, captain!"
+
+He snaps out a salute, then turns towards your quarters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"A mug of spiced rum in my hands and a bawdy song on my lips. A lad or lass in every port and another in my hammock."
+
+He shrugs with a grin.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Without a Home, aye. They came from Grand Vailia ages ago. Now they be the scourge of the Deadfire."
+
+He squares his shoulders, puffing out his chest.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Why, cap? You be feeling a bit of the old envy?"
+
+He grins, bumping his eyebrows twice in quick succession.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I... ain't in the mood, cap. Apologies."
+
+He scratches the back of his head.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"And here with me thinking you weren't paying my nethers no mind at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ain't a subject I much feel like speaking on at the moment. Mayhaps some other time, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

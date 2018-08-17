@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_vendor_food</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Today's catch, I say! Fresh and hot, spiced to the tongue of outsider and local alike!"
+
+The vendor gestures to a bed of hot coals in his wagon, a flavorsome scent rising from bundles of meat-stuffed leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You return! Ekera, I thought I heard a stomach in need." 
+
+Wekeme waves his hand to billow the smell of cooking meat into the thoroughfare. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I am closed for the evening, my friend - but visit again in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Show me what you've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hot razor skewers! Crusted swordfish!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"For what do &lt;i&gt;you&lt;/i&gt; return, my friend? Is your hunger so bottomless?"
+
+He chuckles and playfully slaps Tekēhu's shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wekeme, I would eat every denizen of my mother's kingdom if you cooked them up." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"This labor would be my honor if it sated Ngati's chosen." 
+
+Wekeme bows and smiles up at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

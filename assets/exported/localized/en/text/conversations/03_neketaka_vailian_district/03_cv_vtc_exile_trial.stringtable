@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_vtc_exile_trial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>285</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Director Castol's office is nearly unrecognizable through the milling crush of bodies. The chamber is suffocatingly warm, and several of the occupants jostle for a place beside the window.
+
+To a one, the people around you are dressed in rich fabrics, or else the occasional piece of armor. Few of them look especially pleased to be here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Very well... 
+
+"Then let me extend my sincerest thanks to our shareholders in attendance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Wait politely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"We should be sailing for Ukaizo, not having disputes over rank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Execute a perfect flourish as you bow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"In deference to present company, we will proceed in Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Agracima, your Excellency.
+
+"Esteemed Council, I bear Mestre Castol no ill will. We have always treated one another with great respect. But his time is past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No! Wait, you- Per complanca, don't do this! Mercy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"This is a serious mistake! You can't do this to me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I believe that brings this meeting to a close. Agracima, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The research is promising. You could be masters of the world, with power like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Lie] "The adra was corrupted. It had to be destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"It was the queen's scheming that put us at risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A strange argument. We are concerned with results, Alvari.
+
+"As far as I can see the expedition was a success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have more, your Excellency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Animancy will be our downfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The experiments worked. I was there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Around the room, only a scant few hands rise. As the seconds tick past- the silence broken only by the dutiful scribbling of the clerks- it becomes clear that the majority favors Castol. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Hands go up almost at once. It takes only a glance to see that the vote overwhelmingly favors the motion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Castol keeps his gaze fixed upon the floor, wringing his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Alvari nods, once, perhaps to herself, and closes her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If not for the Watcher's intervention, the director would, even now, be rotting away underground on the orders of the Kahanga queen. 
+
+"His schemes have put all of us at terrible risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The Royal Deadfire Company had to be dealt with. Castol understands that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Castol was lucky I was there to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"But- I had no hand in the explosion! What role could I possibly have had in the queen's plot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Director, you claimed that we had no need to concern ourselves with the Huana. That they would yield to contracts and negotiation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I... That is..." 
+
+Castol swallows hard, momentarily speechless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I am certain he believed it at the time, Canta. Castol has made a habit of deluding himself."
+
+Alvari smirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Dealing with them so rashly is a losing game."
+
+Alvari clenches a fist as she turns away to face the council.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"This is not all that Castol has mishandled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The expedition to Poko Kohara was but the latest failure.
+
+"Trained workers and supplies, gone. And for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I was able to restore the adra vein. It can still be harvested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Destroying that adra was the only way to stay on good terms with the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Your coin, lords and ladies- Where has it gone, all this while? 
+
+"Not to mines and industry, no. The Director has spent the bulk of it on frivolous experiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Th-that is absurd! Animancy research has gotten us where we are today!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Enough, Alvari. Watcher, you have had some involvement in these experiments. 
+
+"Do you have anything to add?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I put it plain. The Company is bleeding resources. We have identified numerous sources of adra - and yet, how much of it ever reaches the Republics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"There are more important things to worry about than animancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Corrupted. And what if more of the adra sites are corrupted? We cannot rest our hopes on the assumption that we will find more.
+
+"I say we must seize whatever is available as quickly as possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The loss of the expedition was out of my hands. 
+
+"In any enterprise there is risk-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Some risk, Castol. The question is whether you have overreached."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"If I could just say, your Excellency- If we are to remain in the region, it is only to our benefit that we make allies among the Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Shareholders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Is this going to take very long? I have business to get back to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Nirro aims a pointed look down his nose at you, and you hear a disgruntled murmur from the wings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Fortunately for everyone, I believe I can make my case in short order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Beside her, Castol seems to sag a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ac, working- Working well enough to invite open attack by the Royal Deadfire Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"While the animancers were distracted, the Huana decided to strike against us. Castol never saw it coming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Castol has been a great director. He deserves to stay in power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Alvari is the leader that the Vailian Trading Company needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Your mercy is commendable. 
+
+"But it is clear that Castol has much to account for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You inspire much loyalty, Castol. If only it were so amongst your own peers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Oi cap... putting bullets in this room's puffed up jackets would be doing Eora three favors and a half. Just saying."
+
+He straightens after his whispered comment, a hand resting lightly on the grip of his weapon.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Devils take your roll, Nirro, this isn't the Songretta Ducala. 
+
+"We are all here. Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You dragged up one of the locals?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"We were sorry to hear of Caed Nua's fall, Lord [Player Name].
+
+"How interesting to find you here. You have my sympathies."</DefaultText>
+      <FemaleText>"We were sorry to hear of Caed Nua's fall, Lady [Player Name].
+
+"How interesting to find you here. You have my sympathies."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"To be honest, I don't miss it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I plan to rebuild my stronghold someday."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Fishing for the necessary contributions, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Wait silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm sure you don't need me to tell you the practical applications."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Coin has done well enough for us already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It truly works? You mean to say that the animancers have learned how to... transport people?"
+
+Príncipo Tarvisi leans forward in his chair, watching you intently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"They're very close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Well, it mostly works."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The experiment nearly killed me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"We are not here for conquest. 
+
+"And we certainly did not ask to be drawn into a war with foreign powers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"With the Royal Deadfire Company out of the way, you have a better chance at ruling the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Don't be dramatic. Rauatai has other things to worry about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"It is not for this that I have invested my time and money!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The powerful will always make enemies. It's inevitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You were already at war. I just dealt the finishing blow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ha. You do not need to tell &lt;i&gt;us&lt;/i&gt; that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"It seems the Watcher bears you some loyalty, Castol. 
+
+"If we may continue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"What does it matter what the Huana want? 
+
+"They should have been driven from the islands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"By gaining their cooperation now, we gain a workforce. And prevent further hostilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Clearing the islands would do the same!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"My esteemed patrons, Castol is afflicted with a kind heart. 
+
+"But the natives will continue to trouble us so long as we remain in the region. Let us take what we can, and ensure the benefits of our labors return to the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Another risk, Castol? A Watcher is a valuable resource. 
+
+"One better spent appraising adra veins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"He's not a scent hound, Remasi.
+
+"Still, it is a shame. Power like that- It would have been something to see."</DefaultText>
+      <FemaleText>"She's not a scent hound, Remasi.
+
+"Still, it is a shame. Power like that- It would have been something to see."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Alvari raises a hand to gesture towards you, indicating agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Your words are met with a sudden, muted roar of animated whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"We have heard a great deal this day.
+
+"Alvari, have you any final arguments?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I believe the case before us is quite clear. 
+
+"Alvari, have you anything further to add?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Castol quakes before the desk. He raises trembling fingers to remove his spectacles, wiping them on his cravat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I believe I have heard just about enough. 
+
+"I do hope you have more than this, Alvari. For your sake." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Only this- That Director Castol has betrayed his station and our trust by allying himself with a Príncipi captain by the name of Furrante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"A Príncipi captain? You have evidence of this, Alvari? 
+
+"The word of a witness?" 
+
+Nirro looks to you, eyes narrowing thoughtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Captain Furrante is dead. He's not working with anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Sure. And now the Vailian Trading Company has a band of slavers at their disposal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Lie] "I know nothing about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"No, that's... Don't be ridiculous. You traveled to Crookspur on his behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Lie] "How DARE you. I'd never have anything to do with slavers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Lie] "Mm. Doesn't ring a bell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Castol was trying to skirt Huana law and wring some profit from the slave trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ha. You cannot bring us adra, so you ply an older trade, Castol?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"That... Well, that isn't-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>You can feel the mood turn as the merchant lords set irritable glares upon Alvari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Enough. Castol, what do you have to say for yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Your Excellency... I confess, I thought an alliance with Furrante would secure our hold on the outer islands. 
+
+"And... bring in some much-needed coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Or is it that you were trying to line your own pockets, Castol? Daring. 
+
+"More daring than I would have suspected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"No, my lord! I swear it!"
+
+Castol wipes his brow with a sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I think we have heard enough. Any final words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I see the foreign air's put a bend in his spine."</DefaultText>
+      <FemaleText>"I see the foreign air's put a bend in her spine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Look at that. The man has manners."</DefaultText>
+      <FemaleText>"Look at that. The woman has manners."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I see you have wasted little time in involving yourself, Lord [Player Name]." 
+
+Around him, several of the onlookers crane their necks to see who the Canta is addressing.</DefaultText>
+      <FemaleText>"I see you have wasted little time in involving yourself, Lady [Player Name]." 
+
+Around him, several of the onlookers crane their necks to see who the Canta is addressing.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Most esteemed guests, this is the Watcher of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Director Castol, Governor Alvari - you are both here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Indeed, your Excellency."
+
+Castol's face is splotchy and damp with sweat. He looks as if he may be ill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Yes, your Excellency."
+
+Alvari wears a restrained smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Let us begin. If the clerks will attend the roll?
+
+"Albina Carnetto. Duc Remasi Storanzo me Selona. The Archmage-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"And this is to be your witness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Wave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Most esteemed guests, this is the Watcher of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"The &lt;i&gt;money&lt;/i&gt;, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"And the brains, clearly. Get to the point, Canta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"A moment, Nirro. Is that not Pallegina mes Rèi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Have we brought one exile to welcome the other?" 
+
+The jeering question kicks off a smattering of light laughter around the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"You are so recently restored to our affections, Pallegina. This seems a strange risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"A brother of the Canc Suolias does not seek affection, nor personal safety. Life and fortune are nothing. The Republics are everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Duc Remasi, mestras and mestres, I am here to assist in these proceedings, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Are you collecting godly cast-offs, Castol?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Pallegina flinches at the erla's words but sets her jaw and remains silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Outsider law has more teeth than Ngati's pets, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Wouldn't be a Vailian hearing if someone wasn't feeling combative." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"They may not be violent, but these fine people are all ruthless in their own way. The roads they took to reach this room are littered with their enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Well, if he doesn't mean to speak, at least this should go quickly."</DefaultText>
+      <FemaleText>"Well, if she doesn't mean to speak, at least this should go quickly."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>One of the Vailian nobles gestures airily for you to rise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Ukaizo will be the director's responsibility. Surely you would prefer that responsibility be placed in capable hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"It is clear to everyone, I think, that our profits are nowhere near what Director Castol promised.
+
+"All of you entrusted him with coin and resources to a purpose- and have you profited by it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"The Watcher has done more for us than Castol ever did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"If not for Castol, you'd have nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"The Royal Deadfire Company is giving you a run for your money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"He laid the foundations, to be sure. Now he has let them go to rot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"We are all here at the Songretta's mercy. If any of you are to see a single copper piece, something must change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Yes, we have been keeping apprised of the situation, thanks to your dutiful reports."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"But I do hope you are getting somewhere with all this, Alvari."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"He has been unable to fulfill any of his promises. Surely that is failure enough?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Great. Our 'witness' is a superstitious fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Director Castol, your orders were plain- To secure every adra vein in the region by any means necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Witness, do you feel these orders have been carried out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Well, if THEY'RE interested..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"We should note that several of the animancers were killed in that attack." 
+
+Alvari's eyes meet yours, and a slight smile plays at her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"B-but- What could I have done? The Watcher-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"What, indeed? 
+
+"Someone else, perhaps, could have done things differently."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"The Royal Deadfire Company will seek to oust us from the region the moment we show weakness. 
+
+Castol has given them that excuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I think he did his best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I've found two adra veins already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I've found several adra veins. Castol's experiments haven't gotten in the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"The gods have come to the Deadfire. There is more at stake here than your profits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Not for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"My lords, ladies... Our enemies will make for Ukaizo in short order.
+
+"The Vailian Trading Company must be ready. It needs decisive, effective leadership, now more than ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"With the Watcher's aid, we have the opportunity to claim an overwhelming victory. 
+
+"One that will carry us all into the history books."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"The Watcher? You would rely upon a brute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"The same Watcher that has caused nearly as much damage to us as to our enemies?
+
+"Alvari, this is ridiculous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Assuming he means to help us."</DefaultText>
+      <FemaleText>"Assuming she means to help us."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Then, you have evidence, Alvari?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I...! ...No, your Excellency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I must say, this casts your other accusations in poor light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Slavers! You cannot be serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Leave your Dyrwoodan mores back in Norwaech, Osgara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"A useful asset, perhaps, in the days to come. 
+
+"Fodder, if nothing else." 
+
+The Canta smiles indulgently at the crowd, and receives a few chuckles for his trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"H-he... What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Convenient for Castol. I did not think you had it in you, Ignato. 
+
+"So- Have you any evidence, Alvari?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Alvari licks her lips, glancing at you and then to the faces arrayed around her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"A useful brute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Watch it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"An &lt;i&gt;important&lt;/i&gt; brute, certainly." 
+
+Nirro casts a weary eye over the proceedings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Per complanca- some dignity." 
+
+Nirro casts a weary eye over the proceedings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Now you know what I'm capable of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"We will see, won't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I'm on your side here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Think what you like. I'm only here to get paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Wait silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You have heard all the accusations against you. Castol, any final words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I... I have done so many things. All that was asked of me. 
+
+"All for the Vailian Trading Company. I have given my life to this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Everything I do, I do to help the Company. You know this. Two years ago, you entrusted me to establish the luminous adra trade.
+
+"I will continue to serve you, dutifully and to my best ability."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I know now that Alvari has hungered after my position for years, just as she will hunt after yours if you allow her to rise. 
+
+"She would cast Magran off her throne, if she could!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Beside you, Alvari smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"It is time. Let us put the matter of Castol's dismissal to a vote. 
+
+"All in favor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Your mistake, Castol, is in believing ambition to be a crime. 
+
+"Perhaps we burdened you with high expectations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"A mercenary. Perhaps your testimony was purchased as well, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I worked at Castol's instruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Then Director Castol has failed to fulfill his obligations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"That was quick. Perhaps we can recess for supper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Hardly the bounty we wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ah- Then the experiments are no great distraction, Castol? You are on course?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Y-yes, your Excellency! I have never lost sight of our goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Sciòderie. What a joke."
+
+Alvari's lip curls back into a disgusted sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"We appointed Castol to this post because of his experience and background, Watcher. 
+
+"This falls short of his best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>The response from the gathering is listless. You see several of the shareholders shake their heads. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"The ledgers speak for themselves. Castol has brought us to the brink of ruin."
+
+Alvari's voice cuts confidently through the muted din.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Surely Port Maje's success falls to Governor Clario."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Giasces Clario was one of my appointments, your Excellency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Perhaps it does speak to your sound judgment, Castol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"A few moments longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Your subordinates speak poorly of you, Castol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"If you cannot ensure loyalty among these, I wonder what you can accomplish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"What a pack of miscreants you have allied yourself with, Castol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Pallegina, this is Castol's last chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I am speaking of more than gold, more than prestige. Success will bring the power to shape the future as you imagine it could be - no, as the people in this room cannot &lt;i&gt;yet&lt;/i&gt; imagine it could be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>The canta raises his brows, and tips his head slightly in mute approval.
+
+Around the room, you spot several of the investors nodding as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Pallegina, we need Alvari's support."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Mestras and mestres, I believe Director Castol does have the best interests of the Republics in his heart but... I cannot deny that his actions have jeopardized the Company's interests in the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"A fair appraisal. We must all search beyond our personal feelings, and do what is right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Perhaps it was this loss that drove the Watcher to piracy? 
+
+"An unseemly associate, Canta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"I have several connections in the White March. I have always wanted to meet the man behind the stories."</DefaultText>
+      <FemaleText>"I have several connections in the White March. I have always wanted to meet the woman behind the stories."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"This is the same man that caused the commotion at the palace, no? 
+
+"This should be interesting."</DefaultText>
+      <FemaleText>"This is the same woman that caused the commotion at the palace, no? 
+
+"This should be interesting."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Will this not distract from the matter at hand? Look at him."</DefaultText>
+      <FemaleText>"Will this not distract from the matter at hand? Look at her"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Despite the cacophony that greets you when you arrive, a quiet descends swiftly upon the room upon the barest hand gesture from the man now standing behind the desk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Nearby, Alvari has gone still with shock. Her mouth parts, gaping wordlessly.
+
+She turns a horrified look upon the Canta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"You have overreached, Alvari. And the Songretta does not take kindly to being called away from our business to indulge your schemes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Sate your ambitions in the Living Lands. 
+
+"Lueva Alvari, I hereby strip you of your rank and title, and pronounce you exiled from the Vailian Trading Company, and the Vailian Republics, by order of the Songretta mea Compresa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Seeing the outcome of the vote, Castol looses a strangled, breathless cry of dismay, as if wounded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"We gave you a chance, Castol. We made it clear what defiance would cost. 
+
+"You have squandered that opportunity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Perhaps you will have better luck in the Living Lands. 
+
+"Ignato Castol, I hereby pronounce you banished, exiled from the Vailian Trading Company and the Vailian Republics by order of the Songretta mea Compresa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Close. So it does not work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>You hear a few dismissive laughs. A quiet wave of grumbling rolls across the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Lie] "Nothing came of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"A slaver has no business in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>There are scattered chuckles from the assembly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Certainly we do not wish to defy Huana law."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>More laughter follows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"We have no need of slaves. Associating ourselves with the &lt;i&gt;creatures&lt;/i&gt; that trade in them-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"&lt;i&gt;Eccosi&lt;/i&gt;?"
+
+A strangled, affronted noise issues from the duc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"That is... with the people that manage the trade &lt;i&gt;here&lt;/i&gt;, my lords and ladies. It is not good business."
+
+Her voice wilts, and Alvari lowers her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"We have examined the evidence available to us. 
+
+"The numbers are not in your favor, director. But you will have the opportunity to explain yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Those experiments may help us reach Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"An interesting point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Ukaizo holds an enormous quantity of luminous adra. Our research has already yielded results- If we can establish an outpost there, then-"
+
+Castol has scarcely started his sentence when a handful of the gathered investors start to jeer at him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Dreams are all Castol has to offer. We have scores of adra sites, mapped to detail. 
+
+"Why not focus our efforts there? Castol risks your fortunes on illusions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"You're the governor. Isn't some of this your responsibility?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"A valuable asset, Castol."
+
+There is the faintest edge of approval in Canta Nirro's voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"So I have come to learn." 
+
+Castol looks at you with clear gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"You mean to say that the vein was secured, in the end?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Well, that is... Yes, your Excellency, but-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Silence, please! I'd like to get us underway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Lueva Alvari wears a small, restrained smile as she watches the gathered nobility disperse. 
+
+She looks at you as you approach, raising one arched eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Let us speak once the room clears, Watcher. I think we have much to talk about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Director Castol seems to be in a state of some shock. He is still staring at the doors. 
+
+He turns to you with a startled jerk when you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I must see the shareholders out, but- Please, let us speak afterwards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Fabled islands, now, Nirro? You cannot possibly have brought us here for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>The Canta Nicese's gaze sweeps across the room, eventually settling on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Ac, the Songretta mea Compresa. They have the made the largest investments in the Company's holdings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Director Castol, you stand accused of nothing less than gross incompetence. Mismanaging of resources, willful deceit... 
+
+"Grave charges, all."
+
+A low murmur starts up around you as the crowd reacts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"We have heard much of Ukaizo in recent days. I wonder, Director Castol, just what are your plans for the fabled city?" 
+
+Nirro taps his quill against the desk in steady beats, looking on calmly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"If you establish an outpost on Ukaizo, the Huana will never forgive you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Even if there is adra past the Mortar, let us grind down the whole of it and be done with the place. 
+
+"Or will the Songretta war against natives and sea monsters for the next hundred years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Now- Alvari?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"&lt;i&gt;Precisely&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Certainly not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"That- that is true, we &lt;i&gt;have&lt;/i&gt; mapped these deposits for years. The closer we travel to Ondra's Mortar, the denser the deposits. 
+
+"Even Alvari knows this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"There is a network of adra at Ukaizo. That's why Eothas has gone there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"You would claim Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"&lt;i&gt;If&lt;/i&gt; we take this opportunity, we can accomplish far more than we initially believed. 
+
+"I could make you rich, lords and ladies, beyond your wildest dreams!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"The Deadfire belongs to the Huana. So does the adra on it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>You are swiftly enveloped in a cacophony of jeers and shouts.
+
+While the Canta motions for quiet, Alvari leans in close, disguising her words by pretending to comb her hair into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"This line of talk does you no favors, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Well said, captain, but common sense is the first casualty of greed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Ac, you may be rich- In a century or two. 
+
+"Have you that long to wait? Some of you, perhaps. But all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"They'll come around. Our research may even benefit them as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Much to my dismay, I can no longer dismiss that statement out of hand as lunacy."
+
+Nirro scrawls a small note onto a piece of parchment. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Why, yes. To support the animancers and Watchers we will send there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Well, I... 
+
+"I have done what I can to keep us afloat. But I can only do so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Alvari's face colors as a few chuckles emerge from the assembled crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"If this goes badly, at least there's enough wealth in this room to cover our funeral expenses several times over." Aloth leans close, murmuring to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"I'd never have anything to do with slavers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Mestras and mestres, I cannot deny that Director Castol has jeopardized the Company's interests in the Deadfire, but his ambitions align with those of the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Such ambitions carry risk, but they also bring the potential for your Company, for our Republics, to become the uncontested leaders of the world to come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I do not expect you to understand our vows, canta, but for the next few minutes, the least you could do is respect them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"It pleases me to know that I may yet rely upon you to place your loyalties above your personal feelings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"I must wonder, Pallegina mes Rèi, if your judgment has not become clouded of late.
+
+"Your companion has done the Company much harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"The death of Prince Aruihi will hinder our progress in the region considerably." 
+
+The canta's eyes narrow as his gaze meets yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

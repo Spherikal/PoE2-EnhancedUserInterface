@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_delemgan_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"My... my skin burns! The rot is withering off, and new life springs from beneath." The delemgan rubs her arms, regarding you with an uncertain look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Our grove has suffered such torments at mother's hands..." The delemgan furrows her brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How did you become this way?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Our mother... the rotted one. She blighted herself to fight against the cataclysm that rent the Deadfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I think you'll feel better soon. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"An expedition came through here looking for evidence of Ukaizo." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Our mother hoards relics from ages past. She may have what you seek." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"After so much hurt, mother is dead. Please, leave me to mourn." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Our mother is well again. We will not forget this, outlander." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Those of us who sprouted from her seed, who shared her soil, followed soon after." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Cataclysm? Madam, that would have been thousands of years ago." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Perhaps we see time differently? I know the cycles of growth and decay, the passage of seasons. As long as it continues apace, there is no difference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What happened in this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Is your 'mother' the one shouting in my thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mother... I must tell mother! It may not be too late to heal the grove."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"This was a grove, home to temples and fruitful trees... once." She glances around the swamp, sighing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Does she whisper to you as well? Then she must hate and fear you in equal measure." The delemgan looks you up and down, nodding to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You bring change, outsider - fair or foul. This is the one thing she cannot tolerate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Then ruin came to the islands. It started in distant Ukaizo, spreading fire and ash with such force that my sisters doubted that any sprout would remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mother... acted in terrible haste. She bade us twist ourselves, hardening our hearts against those who sought shelter, who we thought enemies of nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"We have been this way for... too long. Far too long." She looks away in shame and hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You spoke of Ukaizo. Do you know where it is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The golden disc in the center of the ruin - have you not seen it already?" She glances off toward the jungle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The ancient ones used it in times of crisis to orient their path home. It may give you the bearing you seek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Then... then they are surely dead. But what they sought is still within your grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'll see to it that my... my pets trouble you no more."
+
+She swivels her head to regard the wilderness around her. Vines go limp and you hear the sound of animals scurrying away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mother... has been sick for too long. You must stop her. 
+
+"If you could find it in yourself to heal my sisters as well, we could assist you in the struggle to come." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I sense that more of us have been healed, awakened from our tormented slumber. Good. We can help you in the struggle to come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"My sisters, they... are beyond our help. There will be time to mourn."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

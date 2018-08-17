@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_sealed_fate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sealed Fate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find &lt;b&gt;Degnos'&lt;/b&gt; satchel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return &lt;b&gt;Degnos'&lt;/b&gt; satchel to him at the &lt;b&gt;Peddler's Canal&lt;/b&gt; in Queen's Berth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I found &lt;b&gt;Degnos&lt;/b&gt; outside of the &lt;b&gt;Luminous Bathhouse&lt;/b&gt; lamenting the loss of his satchel. He said he left it inside one of the rooms on the &lt;b&gt;second floor&lt;/b&gt; of the bathhouse, but the guards wouldn't let him back inside to retrieve it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Search the second floor rooms in the &lt;b&gt;Luminous Bathhouse&lt;/b&gt; for &lt;b&gt;Degnos'&lt;/b&gt; satchel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found &lt;b&gt;Degnos'&lt;/b&gt; satchel in the Luminous Bathhouse. He asked that I not open it. While I was looking for his satchel, Degnos ran back to Queen's Berth to report to Avetta, his captain. He mentioned that he would be by &lt;b&gt;Peddler's Canal&lt;/b&gt; and asked that I return his satchel to him there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I opened &lt;b&gt;Degnos'&lt;/b&gt; satchel and found an intricately carved seal, a worn letter, and a handful of other strange items.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The letter in Degnos' bag describes a plan to sabotage &lt;b&gt;Avetta's ship&lt;/b&gt; so Degnos can join the crew of a Príncipi captain, &lt;b&gt;Talfor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Talfor&lt;/b&gt; and his crew confronted me while I was on my way to &lt;b&gt;Queen's Berth&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I told &lt;b&gt;Talfor&lt;/b&gt; that I wouldn't interfere with his plans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I killed &lt;b&gt;Talfor&lt;/b&gt;. I suspect &lt;b&gt;Degnos&lt;/b&gt; won't be joining his crew now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned Degnos' satchel to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I returned the items I found in Degnos' satchel to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I killed Talfor and stopped the ambush, but didn't report Degnos' betrayal to Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I reported Degnos' betrayal to Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I convinced Degnos to abandon his plot to kill Avetta.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_tavern_hooligans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Better Man</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find &lt;b&gt;Galian&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Convince &lt;b&gt;Galian&lt;/b&gt; to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to &lt;b&gt;Thorel&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defeat &lt;b&gt;Galian&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>With a host of traders left stranded at &lt;b&gt;Port Maje&lt;/b&gt; by the storm's destruction, there are no vacancies at the local tavern. However, &lt;b&gt;Thorel&lt;/b&gt;, the &lt;b&gt;tavernkeeper&lt;/b&gt;, is willing to put me up - if I clear out one of the current occupants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thorel identified the lead culprit as &lt;b&gt;Galian&lt;/b&gt;, a merchant captain. I'll find him and his crew &lt;b&gt;upstairs&lt;/b&gt;, in the &lt;b&gt;room furthest to the back&lt;/b&gt;. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've found Galian and his compatriots. Judging by the stink of this place, they've been wallowing in drink for days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I dealt with Galian. I should head back to &lt;b&gt;Thorel&lt;/b&gt; and let him know what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;Galian's&lt;/b&gt; challenged me to a fight. I'll have to defend myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Galian&lt;/b&gt; and his buddies are putting up a fight. I'll have to consider my approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to the completion of this quest has been killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I convinced the roustabouts to be on their way, and the tavernkeeper agreed to let me stay in the inn at a discount. Having somewhere to rest while I'm in town ought to come in handy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Thorel wasn't exactly thrilled by my methods, but I convinced him to let me make use of the room I cleared out. Having somewhere to rest while I'm in Port Maje ought to come in handy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I decided to deal with Galian and his crew more directly. The innkeeper didn't appreciate it as much as I'd hoped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The &lt;b&gt;tavernkeeper&lt;/b&gt; at the &lt;b&gt;Port Maje tavern&lt;/b&gt; is having trouble with a rowdy group of &lt;b&gt;traders&lt;/b&gt; staying in one of the &lt;b&gt;rooms upstairs&lt;/b&gt;. He offered me a discount if I clear them out. He'd rather I not harm them, though taking a swing or two isn't out of the question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

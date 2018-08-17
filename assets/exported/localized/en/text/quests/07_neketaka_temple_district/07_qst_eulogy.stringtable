@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_qst_eulogy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eulogy for the Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Descend into the &lt;b&gt;Hanging Sepulchers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the &lt;b&gt;Hanging Sepulchers&lt;/b&gt; for &lt;b&gt;Yseyr's Eulogy&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to &lt;b&gt;Kasu&lt;/b&gt; in the &lt;/b&gt;Temple of Berath&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kasu&lt;/b&gt;, High Priest of Berath, wants to recover a sacred text, the &lt;b&gt;Eulogy of Yseyr&lt;/b&gt;. The eulogy rests in the catacombs under the &lt;b&gt;Sacred Stair&lt;/b&gt;, a place where only those marked by Berath may enter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kasu said that the &lt;b&gt;Eulogy of Yseyr&lt;/b&gt; was etched into stone tablets that now rest in &lt;b&gt;The Hanging Sepulchers&lt;/b&gt;, a complex of catacombs carved under the Sacred Stair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've found a way inside the Hanging Sepulchers, and can begin my search. The eulogy was split into odes written by &lt;b&gt;Yseyr's champions&lt;/b&gt;, and placed next to their &lt;b&gt;tombs&lt;/b&gt;. Finding those tombs will be the first step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've recovered &lt;b&gt;The Eulogy of Yseyr&lt;/b&gt;. &lt;b&gt;Kasu&lt;/b&gt; will be eager to obtain the information contained within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I can find the main entrance to the &lt;b&gt;Hanging Sepulchers&lt;/b&gt; right outside the &lt;b&gt;Temple of Berath&lt;/b&gt;, in the lower walkway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Only those bearing the mark of Berath may use the &lt;b&gt;Eel's Coil&lt;/b&gt;, a symbol of the goddess, to enter the &lt;b&gt;tombs under the temple&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've acquired the &lt;b&gt;Eel's Coil&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I've read part of The Eulogy of Yseyr. His champion &lt;b&gt;Faywden&lt;/b&gt;, the &lt;b&gt;Lady of Vigils&lt;/b&gt;, battled beside him wielding a &lt;b&gt;mace&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've read part of The Eulogy of Yseyr. His champion &lt;b&gt;Borthwn&lt;/b&gt;, the &lt;b&gt;Lord of Heldengate&lt;/b&gt;, wielded a &lt;b&gt;spear&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>A massive door bars further passage into the Hanging Sepulchers. The door is flanked by two skeletons, each adorned by a symbol - one, that of a gate, the other a lantern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I found the final piece of the &lt;b&gt;Eulogy of Yseyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I've acquired part of the eulogy, a section referring to &lt;b&gt;The Gate&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I've acquired part of the eulogy, a section referring to &lt;b&gt;The Vigil&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've brought to Kasu the stone tablets containing the Eulogy to Yseyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Someone critical to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_si_vailian_to_slums_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You leave the bustle of Queen's Berth behind, making your way along the winding path into the Gullet.
+
+For a time the path ascends the mountain. Even so, the harbor and the sea disappear behind cramped walls and run-down Huana buildings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You come to a dark passage cutting through the mountain, just wide enough to accommodate a wagon. 
+
+The path here descends steadily into the rock face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>After a lengthy journey through the dimly lit tunnel, you come to the gates of the Gullet. The stench hits you first - a foul mixture of rot, stale air, and bodily odors.
+
+You notice a guardsman pushing a cart heaped high with mouldering food, which must account for some of the smell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ahead, the homes of the Gullet emerge as a collection of lights amid the darkness. You hear the rush of water below, and a frigid breeze wafts up from the unseen depths like an exhalation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You leave the bustle of the crowds behind, making your way along the winding path into the Gullet. 
+
+For a time the path ascends the mountain. Even so, the cramped walls and run-down Huana buildings close in around you, obscuring your view.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

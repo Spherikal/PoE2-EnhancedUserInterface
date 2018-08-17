@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc06_coup</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Final Maneuver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with &lt;b&gt;Hazanui Karū&lt;/b&gt; at &lt;b&gt;Imperial Command&lt;/b&gt; in the Brass Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Infiltrate &lt;b&gt;Kahanga Palace&lt;/b&gt; in Serpent's Crown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Assassinate &lt;b&gt;Queen Onekaza II&lt;/b&gt; at the &lt;b&gt;palace&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Report to &lt;b&gt;Hazanui Karū&lt;/b&gt; at the &lt;b&gt;Brass Citadel&lt;/b&gt; docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Report to &lt;b&gt;Hazanui Karū&lt;/b&gt; at the &lt;b&gt;Brass Citadel&lt;/b&gt; docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I have finalized my alliance with the Royal Deadfire Company, and they are ready to seize control of the Deadfire Archipelago. &lt;b&gt;Hazanui Karū&lt;/b&gt; has asked me to assassinate &lt;b&gt;Queen Onekaza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The &lt;b&gt;hazanui&lt;/b&gt; would like my help with something, but she will not give me details unless I commit fully to aiding the Royal Deadfire Company.
+
+If I cement my alliance with her, there will likely be no turning back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Hazanui Karū asked me to assassinate &lt;b&gt;Queen Onekaza II&lt;/b&gt;. However, she warned me that the guards in &lt;b&gt;Serpent's Crown&lt;/b&gt; will be on high alert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The &lt;b&gt;queen&lt;/b&gt; is most likely on the &lt;b&gt;rooftop&lt;/b&gt;, surrounded by guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Queen Onekaza II is dead. The &lt;b&gt;hazanui&lt;/b&gt; will want to know that she is now in control of Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I killed Prince Aruihi. It's unlikely the commotion went unnoticed - or that the queen has waited around to discover the cause.
+
+In any case, the &lt;b&gt;hazanui&lt;/b&gt; will want to hear about this. One dead royal should be as good as the next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I checked the throne room after killing the queen. The &lt;b&gt;prince&lt;/b&gt; is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I made my way to the roof after killing the prince, but the &lt;b&gt;queen&lt;/b&gt; was gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>The queen is dead and the Royal Deadfire Company has taken control of the palace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>The prince is dead and the queen has fled, leaving the Royal Deadfire Company in control of the palace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I refused to participate in the hazanui's coup. She attacked, and I'm now an enemy of the Royal Deadfire Company.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>The Royal Deadfire Company wants nothing more to do with me, so I won't be reporting back to them anytime soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Hazanui Karū&lt;/b&gt; has a final request for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

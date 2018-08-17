@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_qst_skipping_ahead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Skipping Ahead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with &lt;b&gt;Flaune Elette&lt;/b&gt; atop the &lt;b&gt;Spire of the Soul-Seers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Begin the second animancy experiment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to &lt;b&gt;Flaune Elette&lt;/b&gt; in &lt;b&gt;Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to the &lt;b&gt;Vailian Trading Company Headquarters&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fend off the &lt;b&gt;mercenaries&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Wait for the &lt;b&gt;animancers&lt;/b&gt; to finish recalibrating their machinery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to the &lt;b&gt;Vailian Trading Company Headquarters&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Speak with &lt;b&gt;Flaune Elette&lt;/b&gt; atop the &lt;b&gt;Spire of the Soul-Seers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The &lt;b&gt;animancers&lt;/b&gt; have gathered their resources and enthusiasm, and are intent upon a second attempt to cross the &lt;b&gt;In-Between&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Flaune&lt;/b&gt; has sent a message to the Vailian Trading Company Headquarters informing the director that the animancers are ready to make another attempt at transporting a test subject between adra pillars.
+
+I should speak to Flaune once I'm ready to give it another try.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Flaune&lt;/b&gt; insists that her team has made the necessary adjustments and calculations to make a successful leap between two adra pillars. 
+
+Maybe I should brace for the worst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've been sent off-course... again. At least I didn't end up underwater. 
+
+I am underground, however. Reaching the &lt;b&gt;surface&lt;/b&gt; might help me figure out where I am.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I made it back to the surface. The experiment must have launched me across the island. 
+
+I'll have to get back to the &lt;b&gt;Spire of the Soul-Seers&lt;/b&gt; on foot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The animancers are safe, for the time being. Flaune suggested I go to the &lt;b&gt;Vailian Trading Company Headquarters&lt;/b&gt; in Queen's Berth and inform &lt;b&gt;Director Castol&lt;/b&gt; of the events at the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>A lot has happened while I was away. The Spire is under attack. 
+
+Whoever they are, the assailants don't seem interested in talking. I'll have to fight my way through if I want to help &lt;b&gt;Flaune&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>The &lt;b&gt;animancers&lt;/b&gt; at the &lt;b&gt;Spire of the Soul-Seers&lt;/b&gt; are performing calibrations on their machines to prepare for a second attempt at crossing the &lt;b&gt;In-Between&lt;/b&gt;. &lt;b&gt;
+
+Flaune&lt;/b&gt; will send a message when her team is ready to try again, should I wish to participate. For now, however, she suggested I head back to the &lt;b&gt;Vailian Trading Company headquarters&lt;/b&gt; for more work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The animancers are safe, for the time being. Flaune suggested I go to the &lt;b&gt;Vailian Trading Company Headquarters&lt;/b&gt; in Queen's Berth and inform &lt;b&gt;Director Alvari&lt;/b&gt; of the events at the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>&lt;b&gt;Flaune&lt;/b&gt; has sent me a missive, informing me that the animancers have made the necessary adjustments and calculations to make a successful leap between two adra pillars. 
+
+Maybe I should brace for the worst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>This place looks like an ancient Huana shrine to Ondra, judging by the statuary. It doesn't seem like the Huana are still in residence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Xaurips have taken over the shrine, led by what appears to be an Eoten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found a Huana captive, held in a makeshift cell. She told me of her &lt;b&gt;two associates&lt;/b&gt;, taken somewhere deeper inside the &lt;b&gt;temple&lt;/b&gt; by its new inhabitants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I found a Huana captive tied up within the main hall. He told me of his &lt;b&gt;associates&lt;/b&gt; - one devoured by the Eoten, the other locked in a &lt;b&gt;cage to the southeast&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I found a panel with an &lt;b&gt;empty socket&lt;/b&gt;. It seems to have some connection to the nearby &lt;b&gt;doorway&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I found a strange lever. It looks as though it fits into something else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Flaune has advised me to speak with the &lt;b&gt;director&lt;/b&gt; at the &lt;b&gt;Vailian Trading Company headquarters&lt;/b&gt; before proceeding further with the experiments. Apparently the Company likes to keep track of who is involved with their animancy projects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critical to the completion of this quest has been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Well, the experiment did transport me - clear across the island. I dispatched the mercenaries that took advantage of my absence to attack the Spire, and Flaune was grateful for the assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Well, the experiment did transport me - clear across the island. I dispatched the mercenaries that took advantage of my absence to attack the Spire, but several lives were lost. Castol was grateful for my intervention, though it seems he'll be facing some consequences for this incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Well, the experiment did transport me - clear across the island. Unfortunately, Flaune and the other animancers haven't survived the mercenary attack that followed. That puts an end to their foolishness.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

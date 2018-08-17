@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stampede</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The rumbling reaches your ears first, a low growl from the land, before being pierced by the cry of a distant bird. The ground sets to vibrating beneath your feet, the growing roar of the stampeding beasts echoing around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Wait and watch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Your vantage on the high ground offers a comfortable view of the boars. After a few minutes, lanky, four-armed figures lope out of the cover of the trees, each padding around the boars on the ground. 
+
+The fish-headed wilder gurgle and hiss at one another before crouching to feast on their catch. The boars, still living, squeal pitifully in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Sneak closer and observe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You pick your way down the rise and approach the downed boars. They seem to be breathing, albeit shallowly. You're not sure how long they have before they meet the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You press towards the boars, taking care with each step, only to wince reflexively as a branch cracks beneath your feet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You press towards the boars, reflexively looking over your shoulder at the sound of a snapping branch. [Specified 0] winces apologetically to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Continue traveling.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You spin on your heel at the sound of flapping feet and find yourself staring down a group of lagufaeth hunters.
+
+With a gurgled hiss they advance upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You crest a rise to find that the stampede has passed, now only a rumbling cloud in the distance. 
+
+As the dust settles, you note that a few of the boar remain, fallen and still, with large, feathered darts protruding from their fur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Approach openly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Disperse them with a summoned storm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You pick your way down the rise and approach the downed boars. They seem to be breathing, albeit shallowly. You're not sure how long they have before they meet the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Your chant stirs the spirits, and what begins as a light breeze quickly escalates into a raging storm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Attempt to heal the boars.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Put the boars out of their misery.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Investigate your surroundings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>You move towards the boars...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>You spin on your heel at the sound of flapping feet and find yourself staring down a group of lagufaeth hunters.
+
+With a gurgled hiss they advance upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Ambush and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Specified 0]'s chant stirs the spirits, and what begins as a light breeze quickly escalates into a raging storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Thunder shakes the air, and lightning bolts fall like arrows upon the earth.
+
+The lagufaeth hunters flee, screeching in fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Investigate the scene.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>As the storm subsides, you approach the downed boars. The porcine beasts cannot be saved, but you can easily claim some edible meat from their carcasses. 
+
+You also locate a bottle of the lagufaeth's poison, left behind when they fled.
+
+You continue your journey.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Draw your weapons and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>The boars' breathing shallows...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Collect the baby boar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>With a single swift motion, you scoop up the piglet, clamping your hand over its snout. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>You creep away, the prize piglet squirming futilely in your grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>The prize piglet bucks and twists in your arms, one hoof catching you directly in the eye. You lose your grip on the critter, which squeals as it bounds away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>A single upright boar remains, a piglet that nudges its snout against one of the prone beasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[Collect the baby boar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>With a single swift motion, you scoop up the piglet, clamping your hand over its snout. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>You creep away, the prize piglet squirming futilely in your grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>One of the boars fights to its feet, shaking itself roughly to throw off the darts with a series of snorts.
+
+The others seem beyond help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>The darts seem to be from some of the lagufaeth that haunt this island. You've likely only moments before they descend for the kill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Draw your weapons and prepare for battle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Ambush and attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Grab the baby boar and flee.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>You creep forward, drawing your weapon...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>With a single swift motion, you scoop up the piglet, clamping your hand over its snout. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

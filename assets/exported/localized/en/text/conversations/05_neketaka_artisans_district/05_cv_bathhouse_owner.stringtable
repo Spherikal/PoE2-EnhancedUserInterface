@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_bathhouse_owner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You are greeted by a tall, carefully composed man. The crescent moon in the center is his forehead glows faintly.
+
+Up close, the careful tailoring of his opal-adorned robes and their immaculate cleanliness speak to a deep well of vanity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"My friend, you return. If you require anything at all, you need only ask." The corners of his eyes crinkle with genuine delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What do you have for sale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Welcome, welcome. I am Ganor, owner and proprietor of the Luminous Bathhouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Do you know a boy named Degnos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Casità Avetta's servant? The irritating one? Yes, he was here attending her just a few days ago."
+
+Ganor waves his hand dismissively and rolls his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Welcome, I am Ganor, owner and proprietor of the Luminous Bathhouse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Welcome, I am Ganor, owner and proprietor of the Luminous Bathhouse."
+
+He stares at you for a moment, evaluating you, and purses his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"How about you and your staff head on upstairs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What? I'll do no such thing, not without a very compelling reason otherwise." Ganor balks, taken aback. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You owe me a favor, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Bribe him.] "Might five thousand copper change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I suppose. Come, let's see about that meeting." Ganor huffs, looking away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I must speak with Quarno and Töla privately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"For that I must call all my staff away so you can get up to Ondra-knows-what kind of mischief? I think not."
+
+He snorts derisively and gestures toward the stairs on the other side of the bath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Come, let's see about that meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Take your questions to my steward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Look at this mess! Please, leave. I must clean this up at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I know you're responsible for this disaster, even if I can't prove it. Get out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ondra's tears, what now?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Everyone upstairs! Now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Look at this mess you've left me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Now that they're in control, the Royal Deadfire Company refuses to honor my agreement with the mill."
+
+He rubs a hands across his eyes and sighs heavily. He skin is dull, his eyes glassy with weariness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"My friend, you return. If you require anything at all, you need only ask."
+
+His small smile is tight with suspicion as he bows shallowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"That's a shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I doubt it'll be missed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Shrug.] "Perhaps it's for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Would you believe that if it were your livelihood on the line? I &lt;i&gt;sincerely&lt;/i&gt; doubt it."
+
+He scoffs at you and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Yes. It is."
+
+He speaks slowly, as if each word weighs heavily on his tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I'm looking for Brizze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"They raised the price of adra again last week. At this rate, I'll be forced to close the bathhouse!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"All I've worked for, and for what? How much can it really be worth if it can be undone by one sniper's bullet?"
+
+He turns away from you with a snarl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'd like to try your bath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Of course you would! Just speak with the steward near the stairs. He will make certain you are treated well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"He tried to sneak into one of my rooms, then told me a pathetic sob story when he was caught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Mind where you stand lest you set the linens aflame. They will cost you a pretty copper to replace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You are the first of Magran's children to visit my establishment." He stares for a moment at your flaming head, pursing his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"My guards will not hesitate to expel any rowdy or obnoxious individuals. Mind your manners, and you will find no quarrel with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"We have several rooms available for rent should you wish to 'speak' with them there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Oh! Well... why didn't you say so?"
+
+He cheerfully pockets the money, patting it reassuringly where it rests on his hip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"That's marvelous! Count yourself lucky, [Player Name], for now Ganor owes you a debt."
+
+He claps you on the shoulder and grins widely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"As evidence of my gratitude, you may soak in the baths at no cost today. And take, ah... these."
+
+He dumps a pair of dirty boots in your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"If there's any way I might make your visit more comfortable, you need only ask."
+
+He clasps his hands and bows, a playful smile tugging at the corners of his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I had the guards toss him out on the street." He smiles, well-satisfied with himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The veranda on the second floor is also lovely at this time of day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Pardon me?" Ganor looks at you askance, confused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Maybe you'd like to hold a staff meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I need to take care of something, and I can't have prying eyes watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Let's get you some privacy, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ugh, I suppose." Ganor huffs, looking away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"That's outrageous!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Your exchange with Amreo was... observed. Such behavior is my responsibility.
+
+"I have tripled his rates until he learns to conduct himself."
+
+Ganor inclines his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ah, the new attendant? I believe she's cleaning one of the rooms upstairs."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

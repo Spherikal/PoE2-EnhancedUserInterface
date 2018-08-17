@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_nungata</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman with skin like hardened sailcloth sits upright and stares off to the distance, her lips held in a tight and thoughtful pinch. 
+
+She blinks and sits even straighter as you cross her view. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What say, friend?" Nungata smirks and waves you on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hunter or prey? Hmm." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What bounties do you have available?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I warn you that I deal in the heads of the exceptionally dangerous. A lady needs standards, after all." She raises her brow and searches for any sign of hesitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"They say you do good work for Abocco and Okauro. No reason you won't do me the same for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I hear you've done good work for Okauro. A step in the right direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I hear you've done good work for Abocco We all start somewhere I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Let's cut your teeth on clever Beina, infamous dwarf mystic of the Obscured.
+
+"A scavenger, I say. Picks off those who trust her for an evening - and then pockets their coin when she's bled them out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"My contacts hiss of Flamewalker Vessali, a nāga shaman with a venomous tongue. 
+
+"During a conflict between clans, Vessali lured a rival leader into an ambush under the guise of truce." She tuts to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have an... unusual challenge, seeing as the target is already dead. 
+
+"They call him the Steel Preacher. In life he was a devout Magranite with a pet construct."
+
+Her brow furrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Uamoru is my final assignment. This one is a special request from high places, ekera?"
+
+Nungata tips her head in the direction of the palace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Give Beina's head.] "Looks like her luck ran out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Give Vessali's head.] "She won't be slithering out of this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Give Steel Preacher's head.] "I'll be glad when this isn't weighing down my pack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Give Uamoru's head] "One rebellion cut off at the root."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"So it has." 
+
+Nungata accepts the head and looks into its eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Snakes are difficult clients, I say. But I think mine will be very satisfied." She accepts the head and sniffs before holding it at arm's length. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Always better to die clean than meddle in soul-craft, I say." 
+
+Nungata hefts the head under her arm and passes you payment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Then the gods truly did not want Uamoru to lead the Kahanga. Pity he learned the hard way." 
+
+Nungata tucks the head aside and passes you payment. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hunter. Always a pleasure, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You do good work, hunter, but the bounties have dried up. 
+
+"That is a spring which time always replenishes in its course, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"As Nungata Whale-Splitter I cleared the jungles and seas alike of slippery creatures. 
+
+"I earned my foes later, when I hunted a &lt;i&gt;deadlier&lt;/i&gt; prey."
+
+She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Men? Lots of men?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Extremely tall women?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ha! &lt;i&gt;Bounties&lt;/i&gt;, you wild ibex!" She chuckles to herself and turns away, raising her hand to hide a blush.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"It's been years since I tossed a harpoon, so now I stay abreast of what bounties need filling. 
+
+"That's Mataru retirement for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"So it will be you, then?"
+
+Her hand strays toward a sheath at her side, but she holds your gaze evenly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lie] "Yes, that's right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You... do not know what I talk of, ekera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She narrows her eyes to study you, shaking her head slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I think you've mistaken me for someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Then I owe you an apology. 
+
+"I have collected many foes over the years. Some of them would sprint up the mountain to see me pushed through the jaws of the great eel." 
+
+She exhales and moves her hand back to her lap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Pirates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Interested in taking up the trade, are we?" Nungata thumbs her chin and smiles as she considers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ekera, often. I was a bounty hunter." She smiles to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What say... hunter?" Nungata winks and beckons you over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I assume that means they're exceptionally well-priced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"In that case, I look forward to getting started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I can handle myself. Give me the details."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You assume right, hunter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Beina was seen traveling on an island due southwest of Hasongo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'm still hunting Beina the mystic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You are a busy man, ekera? I understand this." She touches your shoulder.</DefaultText>
+      <FemaleText>"You are a busy woman, ekera? I understand this." She touches your shoulder.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I'm still hunting Flamewalker Vessali the nāga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'm still hunting the Steel Preacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'm still hunting for Uamoru the pretender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Before I go I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I'll return with her head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ask away, hunter." Nungata opens her palm and leans forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ever miss the hunt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I miss traveling across the archipelago, answering to no one but my empty belly and purse." She grins out at the city and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"But this is a younger woman's game. Better that I step aside and make way for aspiring killers, ekera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Enjoy a challenge, do we? Mark of a good hunter, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Her snake brethren want her snuffed out. She is rumored to be near the territory she claimed in the eastern parts of the Kua o Rikuhu island chain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'll return with her head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The trail of his destruction ends on an isle due south of Fort Deadlight." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'll return with... whatever passes for his head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"His small but spirited resistance makes port on an island east of Magran's Teeth.
+
+"Steer clear of his lion. They say that beast has a killing bite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Rather than accepting death and passing through Tangaloa's jaws, he paid an animancer to stuff his soul inside his metal pet.
+
+"Now he is a metal terror, 'purifying' travelers in flame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Uamoru is a pretender to the Kahanga throne. He thinks himself deserving of Serpent's Crown and is not above killing to wrest it away.
+
+"One of the flowers sprouting from his head must have pierced his brain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"When you have a head to turn in you will know where to bring it, I say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You must think everyone is out to get you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"An occupational hazard, I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Hunters do not play well with others." She glances away a clears her throat into her fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Draw your weapon.] "I didn't come for this, but here we go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"No one sent you to find me?" She hesitates, taking your measure with a hard squint. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"You look like you can take care of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"With me it's usually a pit or some Engwithan machine instead of an eel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ekera? I am certain it took hard work to earn such accomplished and capable foes." She folds her arms and smiles at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You do not recognize the great huntress of the archipelago? Ah... the candle of infamy burns too bright and too fast." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ekera, I have had much practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"She was like a greased pire in her day, slipping between hands that never grasped her for long.
+
+"Nothing lasts forever. Good work, hunter." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Good work, hunter. You must be in good health to survive Vessali's poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I hope the holy man takes a lesson to his next life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Nice doing business with you, Nungata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"When you have completed your assignment we can speak of your next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Speak for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You're Nungata, eh? I'd heard you'd gone all dry up and driftwood. I see word weren't far from the mark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Spoken like a man who has never heard a driftwood club crack an enemy's skull." 
+
+Nungata lifts her brow at Serafen before returning her focus to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Save the disclaimer. I know the risks - and the rewards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ekera, but I like your urgency." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ekera, I can see that. We'll get started, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I'll return with his head. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"He wouldn't be the first godlike you've encountered with delusions of grandeur." She glances up at Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"My delusions are well-earned, I say!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You - didn't you help me track down that crab thief in Etūa?" Nungata glances up at Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"So it is true what they say, you never forget a face.
+
+"Nungata, a pleasure as always." He inclines his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Hard to forget the boy who pilfered half my earnings when he thought my back was turned." She raises her brow and folds her arms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"That is a vile falsehood. I pilfered a third of your earnings. A finder's fee." 
+
+Tekēhu chuckles to himself, but Nungata narrows her eyes and shifts her focus over to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

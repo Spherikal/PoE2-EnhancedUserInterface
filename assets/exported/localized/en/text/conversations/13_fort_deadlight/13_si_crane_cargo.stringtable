@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_si_crane_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>From the upper ramparts, a wooden crane suspends a pallet stacked with heavy black casks over the cobblestone courtyard. The pallet groans, swaying slightly, while its hempen rope creaks from the strain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Throw a dagger to cut the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Cast a spell to break the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Throw a dagger to cut the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Cast a spell to break the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Stealthily, you aim a dagger at the cargo's rope. Following two warm-up flicks of your wrist, you toss the dagger with every last ounce of your strength.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your throw is silent and dead-on. The dagger easily severs crane's the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The throw is erratic from your haste to avoid detection. It misses the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>As the pallet plummets toward the ground, the loose cargo tumbles from all sides. The crates and barrels crack loudly on impact, splintering and spilling their goods against the rough cobblestone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As the pallet plummets toward the ground, the loose cargo tumbles from all sides. 
+
+Ancret has no time to react before the heavy load buries her beneath a pile of splintered wood and spilled wares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Stealthily, [Specified 0] tosses a dagger at the cargo's rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]'s throw is silent and dead-on. The dagger easily severs crane's the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]'s throw is both hasty and erratic, entirely missing the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Scratching the underside of your jaw, you consider your options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You are unable to cast any sort of magic that would be useful in this situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Brows raised, [Specified 0] looks to you for further direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] is unable to cast any sort of magic that would be useful in this situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Cast Mind Blades.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Cast Burst of Summer Flame.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Cast Necrotic Lance.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Fire a burst of magic from your weapon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Do something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>With a silent but hard swipe of your arm, you hurl a spell at the rope. It snaps with a twang, and the crane's cargo tips into an immediate freefall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Cast Mind Blades.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Cast Burst of Summer Flame.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Cast Necrotic Lance.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Fire a burst of magic from your weapon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Do something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>With a silent but hard swipe of one arm, [Specified 0] hurls a spell at the rope. It hits. The rope snaps with a twang, and the crane's cargo tips into an immediate freefall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Shoot an arrow to sever the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Shoot an arrow to sever the cargo's rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>To avoid notice, you aim and launch an arrow at your target in record time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;i&gt;Zing!&lt;/i&gt; Your arrow slices cleanly through the cargo's rope, notching the stone wall behind it before everything clatters to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The arrow embeds itself into one of the casks on the pallet, dribbling a wine-red liquid quietly onto the cobblestones below.
+
+Snake Eyes Condwen peers up at the dangling cargo briefly before sniffing and returning to his game.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>To avoid notice, [Specified 0] aims and launches an arrow at the requested target in record time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;i&gt;Zing!&lt;/i&gt; [Specified 0]'s arrow slices cleanly through the cargo's rope, notching the stone wall behind it before everything clatters to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The arrow embeds itself into one of the casks on the pallet, dribbling a wine-red liquid quietly onto the cobblestones below.
+
+Snake Eyes Condwen peers up at the dangling cargo briefly before sniffing and returning to his game.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

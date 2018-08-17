@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_pitli</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>155</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The woman bends over pile of dried, bitter-smelling herbs. She's crushing and mashing them on a dirty scrap of parchment, coughing with effort.
+
+She steps in front of you to block your way, wiping a ragged sleeve across her rheumy, bloodshot eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Here's your medicine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Are you ill?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Why are you hiding sick people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"That could save an awful lot of sick people." She wipes her hand on her shirt and holds it out to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nothing a little ginger root and some bed rest won't cure. Please, let me be."
+
+She takes another step, blocking your view of the room beyond.
+
+The herbs on the table give off an odor that scratches at your throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Because they've got drowner's lung. Spreads like gossip and kills even faster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Stop." She hurries after you, wheezing and coughing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Give her the medicine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Not so fast. This cost me a lot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She takes the bottle from you and uncorks it. A sharp, piney odor escapes.
+
+She breathes it in and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can't imagine it came cheap. Take this - it isn't much, but it's all I've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Blood moss and cave coral - that combination clears mucus from the lungs. Someone must be very sick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I hear people coughing in the back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Perhaps there's something I can do to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Could use your skill at the Temple of Gaun."
+
+Her chuckle turns into a cough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"There's some sick Roparu in the back. Not much I can do for them now besides keep 'em comfortable."
+
+She looks at the crimson speckle on her wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It's hard to keep 'em quiet."
+
+She lets loose with another fit of coughing, loud enough this time to echo in the small dwelling.
+
+She finishes and wipes a fleck of blood from her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"That's not-" 
+
+She erupts in a fit of coughing. As she catches her breath, she gives you a closer look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I heard some Roparu had gotten sick, so I brought them here to care for them. The city healers don't come down here." She frowns and gives her nose a vicious swipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Still, if news of this outbreak gets out, these poor souls will get tossed into the Old City. No one with any money in Neketaka spends it on the Roparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You can get near anything on Delver's Row. Only trouble is finding it. And paying for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She shrugs. "But I bet you could find someone at the tavern who knows where Delver's Row is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As she does, her hood slips, and you glimpse three faded stars on her forehead - the emblem of the Children of the Dawnstars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Pitli? Good Gaun, I nearly didn't recognize you! You look more death-warmed-over than Dawnstar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Got nothing here worth selling or stealing. You best be on your way."
+
+She stifles a croupy cough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You hear muffled hacking and the unsteady rhythm of labored, wheezing breaths coming from the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Leave] "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Leave] "Out of my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She laughs, which sets off another fit of coughing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I've heard that one before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Like I said, there's nothing of value here. You best go." She crosses her arms and squares her shoulders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You've got nothing to fear. Eothas' light shines in me, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Isn't me I'm worried about. That light won't protect you from getting sick. 
+
+"I can tell you that much from personal experience." She ruefully wipes a fleck of blood from the corner of her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Could use it here." She wipes a fleck of blood from her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"It's best you don't get too close." She slows, catching her breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"They're sick. All of 'em. Just... let me do what I can, and don't tell anyone they're here. Please." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"...what darkness lies within, cast into His light..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"...your sins will be burned from you, until you are newly formed, reborn..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You should have warned me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I tried to send you out, didn't I?" Her filmy eyes shine with anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wait, you're the one that made a fuss at the docks in Queen's Berth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I don't make much of this talk of ghosts, but I've heard you've got a good heart. Goodness knows the Gullet could use more of that." She wipes a fleck of blood from her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"And hidden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"That settle us? Because I should get these people taken care of soon." She glances over her shoulder at the sick Roparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That's the stuff, all right. Thank you - that's from me and from the Children of the Dawnstars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"If you'll excuse me, I'd better start treating the sickest ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"There's a good reason for that. If the disease spreads, it could kill many more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I hope they toss you in for spreading plague, you idiot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I see. Is there any way to get a cure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"It's kind of you to help them. I wish I could do something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Maybe you can." Her filmy eyes shine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"And if the other castes took care of the Roparu, they wouldn't get sick like this.
+
+"Anyway, there's a cure." Her filmy eyes shine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I'm trying to tell you, there's a cure!" Her filmy eyes shine with anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What's drowner's lung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fills your lungs with fluid. Gets you coughing all the time, trying to clear them. One of my patients coughed so hard, she broke a rib."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Eventually, it gets so bad you can't hack it out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"A gift from the Vailians." She scowls, dabbing the rheum from her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Anyway, there's a cure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Didn't see you there, Xoti.
+
+"Listen, you and your friends should move along." She turns her head and stifles a croupy cough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I'm not feeling so good, and I'd hate to get you sick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"At least the idea of him is still doing some good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ain't our Watcher just wonderful? Saintly, too." Xoti beams, her brown eyes like liquid fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't usually trust strangers in the Gullet. But if Xoti here vouches for you, then that's good enough for me." She raises a questioning gaze to Xoti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Pitli, I trust the Watcher with my life. And more importantly - my mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Aw, Hel, Pitli. You saying I'd throw in with an untrustworthy lot? You really don't think much of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Well... the Watcher hasn't stabbed ME in the back yet..." Xoti's brow furrows, a mirror of her brethren's wary expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"No point in keeping secrets among friends." She coughs again and wipes a fleck of blood from her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She shakes her head and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You just lie there, struggling for breath, until you choke on your own phlegm. I hear it's a long, hard end."
+
+She trails off for a moment, a distant look in her watering eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Realized what it was when I heard the rattle in their chests. The way they gasped for air." She wipes the back of her hand on her leg and shudders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Only cure is an elixir made with pineseed oil. It costs a lot, though not nearly as much as an epidemic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Unfortunately, the Children of the Dawnstars don't have many connections in this part of town." She turns away, whooping and hacking into her arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Criminal types like to wet their throats after a long day of lying, cheating, and stealing." She chuckles herself into another coughing fit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Her eyes, watery and red, dart between you and the phial you hold.
+
+She coughs into her fist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"What interest do the Children of the Dawnstars have in the Gullet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"About the only honest one. The Roparu here are treated like garbage - even made to eat garbage from that scrap heap opposite the lift." She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"And Dereo and his Príncipi scum took advantage of the neglect down here to set up the black market on Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Dereo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"He runs most of the criminal mischief that goes on here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Some say he's an Old Vailian traditionalist. Some say he's a thug with good taste." She holds her hands out, shifting her open palms like platforms on a scale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Either way, I steer clear of him." 
+
+She shivers - whether out of fear or illness, you couldn't say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"All the while, the Gullet gets more crowded as tribes from the other islands come to Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Some are driven from their homes by pirates, raiders, even trading company thugs." Her eyes darken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Others hear stories of the foreign wealth pouring into the city. What they don't realize is most of it flows between the foreigners and the palace." She makes a circular motion with her finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Then maybe Delver's Row spreads some of the wealth down here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"So the Dawnstars are helping out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Let's discuss this another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>She shrugs. "With Eothas' blessing, I'll still be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"As best we can. Most of us came from Readceras after the vorlas blight and the Saint's War. Or we were born to families that did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"We remember what it's like to scrape by." Her eyes stray to the stained and spotted floor for a long moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Some days, I think maybe this is why Eothas brought us to Deadfire - so we can do some good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Eothas' light must shine even in places like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She grimaces. "That's what Dereo and his people say.
+
+"They recruit Roparu to sneak things from the docks, report on meetings between traders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I can't blame the Roparu, not when the alternative is eating from a trash pile. But I don't trust these Príncipi any more'n I do the trading companies." She folds her arms, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"And whenever the city authorities finally crack down, the Roparu'll be caught in the middle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"So I keep reminding myself." She smiles, but wearily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Other days, I'm too damn tired." She arches her back, popping her spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I was told you may be able to help with the food shortage in the Gullet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"We tried. But the Huana way is 'prize-share' - means anything we'd give these people has to go through the palace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"That's a question for Saewyn. I'd ask her myself, but I should stick close. In case any more sick Roparu show up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"If the queen sanctioned more shares for the Roparu, would the Dawnstars donate crops again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"That's a question for Saewyn. I'd ask her myself, but I've got my hands full here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Would you provide the supplies if the Príncipi agreed to smuggle them to the Roparu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Why don't the Children of the Dawnstars help the Roparu with their food shortage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Best I can tell, our food went to the queen's table. Assuming it didn't rot in a storehouse first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Her thin lips worry together, but she nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"She's high priestess at the Temple of Gaun. Tell her Pitli sent you. She'll listen. Probably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"The light shines brighter in some more than others..." Brows raised, chin tipped in challenge, Xoti glances from you to Pitli and back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"That's really saying something." Her eyes go wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I guess that's a comfort." She glances uncertainly between you and Xoti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She chuckles. "Relax. Saewyn isn't here, and I've got no mind to chide you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wait, you're the one Saewyn and the other Dawnstars been talking about."
+
+ She lets out a rattling sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"In that case, maybe there is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"You? I doubt that.
+
+"People down here may not have much, but they've got the sense to avoid scoundrels like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Especially from trading company lackeys looking for an angle." She glares meaningfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"But you might. 
+
+"Not meaning any offense, just that you seem like someone who's comfortable on that side of town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>She shrugs. "If not, I bet you could find someone at the tavern who knows where Delver's Row is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ekera, it is for the ranga and the Mataru to feed the tribe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Back on the Sorcerer, Me and Remaro used to take work like this on the regular. Now we can't go making promises, but I think me and the cap could work out a fair deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"The Roparu have no healers of their own?" Tekēhu pulls at one of his long hairs, frowning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Difference being, lass, the Roparu be their customers and confederates alike. To the company bilge-barnacles they be only product."
+
+He taps the end of his snout.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Is that wise? Keeping a room full of sick people in the most crowded district in the city?"
+
+He glances around as if he can see noxious vapors in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"In my village the sick went to the other side of the mountain. Is there nowhere deeper you can flee?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"This is hardly a proper sanitarium, but at least they are isolated from others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"It's better than leaving them to wander the district.
+
+"I can give them a dignified death. If nothing else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Anyway, I realized what was wrong when I heard the rattle in their chests. The way they gasped for air." She wipes the back of her hand on her leg and shudders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"These people are laborers and fishers. Many aren't even Kahanga - wound up here after raiders and slavers tore their own tribes apart."
+
+She turns back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"You got their best interests at heart, I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"'Course. I know how you operate." She eyes you warily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Didn't think you were like this, Watcher. But..." She sighs, weary to the bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"That's the Watcher we all heard such good things about." She nods emphatically, breaking off then to cough into her sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Right out of character for you, Watcher, and aren't I glad of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"So I've heard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"And safe from the predations of the lawless sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"They rely on good folk like your Watcher here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"But you do.
+
+"Not meaning any offense, just that I know you got contacts on that side of town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"And I know you got your share of enemies on that side of town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"'Course, maybe I'm wrong. If you need to get to Delver's Row, I bet there's someone at the tavern who could tell you how."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"But seeing as you care for the Roparu's plight like I do, maybe you'll brave that side of town for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"If you're so inclined, I bet there's someone at the tavern who could tell you how to get to Delver's Row."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Not that I need to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"...And so will you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You don't know him? I would've thought you'd be great friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"You all do so like to say that, but if it's true, I haven't seen the evidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>She grimaces. "Dereo recruits Roparu to sneak things from the docks, report on meetings between traders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Now, Watcher, I know you want to believe the best in folks, but you know as well as I that just isn't true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>She grimaces. "Dereo and his people recruit Roparu to sneak things from the docks, report on meetings between traders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Watcher, how could you?! Even if she was sick, might be we could've saved her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

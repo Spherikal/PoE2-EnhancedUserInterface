@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_fog_shallows</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A thick, cool fog out of the west envelops the ship, the damp settling into your clothes. You can hardly make out the bowsprit from the sterncastle, and all else surrounding [Player Ship] seems a featureless gray expanse. Lanterns hang from the masts, and hands have taken up stations at the bow and rails.
+
+With a throat-clearing cough, [Specified 0] steps up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Take us through, slow and steady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hoist sails and drop anchor, [Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>After a few tense hours, [Player Ship] breaks free of the fog and onto clear, calm seas. A cheer goes up across the deck, and [Specified 0] claps [Specified 1] on the back. 
+
+You exhale a sigh of relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"By Wael!" [Specified 2] shouts orders to the riggers and drags the wheel hard to starboard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>With a heart wrenching whine of tearing lumber, [Player Ship] grinds against the reef. The ship lurches, throwing [Specified 1] to the deck.
+
+[Specified 0] shouts orders, and all available hands grab tools and bolt belowdecks to see the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Another day passes in the fog, and several members of the crew perch among the guard stanchions, lines and hooks in the water. By the evening, they've caught nothing save an earful of one another's most indecorous swears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>In almost complete silence the ship slides through the water. You peer over the port aft bulwark to see the reefs passing twenty feet below. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>After a few tense hours, [Player Ship] breaks free of the fog and onto clear, calm seas. A cheer goes up across the deck, and [Specified 0] claps [Specified 1] on the back. 
+
+You exhale a sigh of relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Another day passes in the fog, and several members of the crew spend their off-duty with heavy lines and baited hooks. Between them, they catch a few fat fish, and the evening's mess benefits from the bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Another day passes in the fog, but not before [Specified 3] and [Specified 4] get into fisticuffs over the proper gratuity to pay a street performer. [Specified 3] gets the better of the bout, and [Specified 4] winds up with a cracked rib.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Another day passes in the fog.
+
+The crew begins muttering among themselves, accusing one another of having earned Ondra's displeasure and earning [Player Ship] this cursed fog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Another day passes in the fog, the damp murk muffling the crew as they go about their duties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"All hands to stations, [Specified 0]. Let's be out of this fog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"We'll give the fog another day to break."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Another day passes in the fog.
+
+[Specified 4] swears to have seen a whale beneath the waves, starting half the crew to arguing and the other half to praying their thanks to Ondra for the good omen. By dinner, near everyone has taken up a (sometimes bawdy) shanty about the boundless generosity of the Lady of Lament.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The next morning, the fog finally clears, eliciting cheers from the crew, who are ready to get back to work. 
+
+A jaunty shanty rises above the deck as [Player Ship] sets sail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Yes, captain." [Specified 0] shouts orders, and hands begin groggily climbing the rigging. A few minutes later, the sails come down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The crew breathes a collective sigh of relief as the riggers set to pulling the sails. 
+
+The fog shows no sign of breaking over the course of the evening, but the crew seems to care little, able to relax a bit in their duties.
+
+By the following morning, the fog seems to have thickened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We are not meant to know everything. Embrace the mystery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Call up a strong wind in an attempt to disperse the fog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 0] blinks. "As you say, captain. Would you have us sail on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Very well." [Specified 0] sighs.
+
+"Slow ahead, helmsman. See us through safely, [Specified 1]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You move to the forecastle, raise your arms, and begin to chant, channeling the essence about you. Your will gives it shape, a pulsing movement that pours forth from the stern as a powerful wind. The sails fill, and the fog opens like a veil before [Player Ship]. 
+
+The crew cheers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The fog is far from gone, but it has provided a path. The ship's progress is slow, but a few sweat-soaked hours later you break free of the fog. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The boat slowly presses into the billowing fog, the deck nigh-silent as each hand attends their duty with uneasy focus. Compass and charts spread across the sterncastle deck, [Specified 1] sets the course, calling out shifts in rudder to [Specified 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Reef ahead port!" rises a shout from the foredeck. 
+
+"Reef ahead port!" [Specified 0] echoes. 
+
+The ocean lightens ahead of you, the shallow patch sliding from beneath the fog. In its clarity you make out the jagged edges of a substantial reef. [Player Ship] is almost upon it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 3] appears shortly, soaked through and bleeding from a gash above the eye. The report could be worse: the ship has taken on water, ruining some of the stores, but the crew has managed to patch it. You're in no danger of sinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>A few tense hours later, [Player Ship] breaks free of the fog and onto clear, calm seas. The crew whisper prayers of thanks, dropping coins and pouring grog into the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Captain. What are your orders? It would be safest to drop anchor, given the reefs and shallows common in the Deadfire. If you're confident in our stores, that is. Otherwise, we can chance it if you trust [Specified 1] to navigate us through and [Specified 2] at the helm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>With arms raised, [Specified 5] begins to chant, and a powerful wind pours forth from the stern. The sails fill, and the fog opens like a veil before [Player Ship]. 
+
+The crew cheers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The world fades around [Player Ship], leaving it to slide silently through the deepening gray. Your clothes cling to your skin, and the crew begin hanging lanterns and moving to stations. [Specified 0] approaches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>A thick, cool fog out of the west envelops the ship, the damp settling into your clothes. You can hardly make out the bowsprit from the sterncastle, and all else surrounding [Player Ship] seems a featureless gray expanse. Lanterns hang from the masts, and hands have taken up stations at the bow and rails.
+
+With a throat-clearing cough, [Specified 0] steps up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You see the fog before you enter it, a vast wall of moisture rising from the shallows. With a sigh, [Specified 0] nears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Orders captain? We could drop anchor, or we can trust to [Specified 1]'s charts and [Specified 2]'s skill at the wheel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Captain. What are your orders? It would be safest to drop anchor, given the reefs and shallows common in the Deadfire. If you're confident in our stores, that is. Otherwise, we can chance it if you trust [Specified 1] to navigate us through and [Specified 2] at the helm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"That's Wael's own shroud, and it'll be on us any minute. Orders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>In almost complete silence the ship slides through the water. You peer over the port aft bulwark to see the reefs passing twenty feet below. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>A sound like thunder rends the air, and the deck comes apart beneath your feet. For an impossibly long moment the world spins around you, and then you plunge into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You hang in the water, stunned, pieces of lumber and steel sinking around you. Too weak to swim, you watch the surface recede.
+
+Darkness claims you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Another day passes in the fog. 
+
+While dancing on the rails, [Specified 4] goes overboard. The crew fishes the poor sailor out alive, reef-sliced limbs and all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Another day passes in the fog.
+
+A raucous furor brings you to the deck, where you find [Specified 4] chasing Worthless Idiot across the ship. Apparently the imp stole a book, and [Specified 4] wants to strangle him.
+
+The crew breaks the fracas up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Another day passes in the fog.
+
+You follow the sound of [Specified 4] leading a round of bawdy shanties to find the crew passing around a bottle of rum you're fairly half-certain belonged to you.
+
+No one seems to know where it came from.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

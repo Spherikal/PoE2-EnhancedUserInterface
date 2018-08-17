@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_undead_barkeep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Drink, sir?" 
+
+The man at the bar goes about his business in merry defiance of the fact that he appears to be semi-decomposed. 
+
+Behind him, a dwarf hangs upside down over a barrel. Blood streams down into the bucket from a wound in his wrist. From time the time the dwarf twitches feebly.</DefaultText>
+      <FemaleText>"Drink, ma'am?" 
+
+The man at the bar goes about his business in merry defiance of the fact that he appears to be semi-decomposed. 
+
+Behind him, a dwarf hangs upside down over a barrel. Blood streams down into the bucket from a wound in his wrist. From time the time the dwarf twitches feebly.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Is this 'catch of the day' anything like what's back there behind you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Don't worry. The captain what founded this settlement, she left good people in charge.
+
+"This land's no good for crops. We rely on the sea. The town's protectors, they sail out and bring back food for the rest of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who's this captain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Eh? Oh, I thought you'd have heard the whole thing from the protectors by now. Captain Lucia Rivan. Our great founder. 
+
+"That was ages past. It's Menzzago in charge now, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lucia Rivan of the Floating Hangman? The ghost ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ghost ship? Why, it was crewed up like any other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I may regret this, but... Do you have anything for sale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"So. What'll it be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You notice a glint of metal, and looking over you see a man in a gleaming helmet peering down over the balcony at you. He stares at you for several moments, wild-eyed, before scrambling away from the railing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Who's that in the helmet over there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eh? Ah, that'll be Copperhead. 
+
+"A little soft in the head, but he's good enough at mending things that we don't mind putting up with his foolishness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Getting to like the place? We can always use another set of hands around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Who is Zulka?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"One of our protectors. They guard the settlement from harm, and sail out in search of supplies. 
+
+"The man in charge is Menzzago. He keeps a watchful eye on things from the tower atop the hill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"My, er, ship wrecked. I must have been pretty out of it when they saved me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The protectors? Who are they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Don't let the name frighten you. Rivan's founded a bright little community here in Splintered Reef. 
+
+"You'll see. Once you settle in, you'll thank her. Menzzago too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Who is this Menzzago?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"One of the very first settlers, from what I've been told. 
+
+"Truth is, I haven't seen much of Menzzago these days. He must be busy, now that the town has grown so large."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Here, newcomer. First drink's on the house." 
+
+He pours from a nearby pitcher - filling a goblet with an unmistakable red liquid, thick and dark. The coppery odor hits your nostrils with force. 
+
+The barkeeper slides the goblet across the bar towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"A great woman, Rivan. She captained the Floating Hangman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh... Well, you'll need to have a word with Zulka once she's here. She keeps strict tabs on everyone in town. For our protection, see. 
+
+"You don't want her thinking you're skulking about in secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I find it strange that no one's tried to eat me alive yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Turned up with an appetite, did you? Well, if Zulka don't turn up with the fish soon, I'll be hard-pressed not to consider it myself."
+
+He chuckles to himself, enjoying the joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The barkeep pauses, looking over his shoulder. When he turns back to you it's with an expression of utmost confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Drink it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Pretend to drink it, but tip out the blood when the barkeeper isn't looking.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Are you mad? I'm not drinking blood!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You tip back the goblet, taking a long drink of its grisly contents. Almost at once you are struck with a sick, churning sensation in your guts, but you manage to keep your expression blank and your lunch down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You tip back the goblet, taking a long drink... and promptly gag, spitting blood all over the barkeeper, the floor, and your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Augh! What the- ? You'll have no more drinks here, if you can't stomach 'em!"
+
+He swipes irritably at the front of his shirt, then turns away with a muttered oath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Haven't got much on the menu, truth be told, but an ale ought to hold you over until Zulka and her people turn up with supplies.
+
+"Then you can enjoy the catch of the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I haven't had a lick of ale in years. Drowner's Lung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Oh, well, begging your pardon, sir. Crying shame, that."
+
+He retrieves the goblet.</DefaultText>
+      <FemaleText>"Oh, well, begging your pardon, madam. Crying shame, that."
+
+He retrieves the goblet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What? How dare you! My ale's the best in the Deadfire!" 
+
+The barkeeper snatches back the goblet, fixing a scowl on you that's all the more horrific for his grisly aspect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Modest offerings, but you're free to have a look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attack] "I'll not stand idly while you bleed kith dry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The barkeeper reels back from your outburst, bewildered. 
+
+Just as you draw your weapon, the door to the tavern slams open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Just arrived? I'll wager you've a thirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Don't be hasty. I'll try anything once." Maia nods to the barkeep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Aye, all that shame and thrice more. Absolutely horrid way to go. Like drowning in your own breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Well, 'less you've encountered some magical isle where wild barrels of ale roam free, I don't see how. Never had the good fortune to fish up a cask, myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"The Huana do something like that, eh? Forgot the name for it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Prize-share looks... very different, I say. 
+
+"Captain... do these people think they are dealing in fish?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He pours Maia a stout mug. She tosses it back with gusto.
+
+Her left eye twitches, but she holds her composure steady.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"One more regret for the pile." 
+
+She wipes at her mouth with a shaking hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Like brushing your teeth with grave water. Like being keelhauled even when you be ashore."
+
+Serafen grins at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>&lt;ispeech&gt;Think he's sold?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_cannibalism</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] opens your door so weakly it may as well have been a breeze. The hand shuffles into the cabin, bony arms hanging to the side like dried moss.
+
+"Food’s getting low, captain." The sailor shivers, and skin flakes and floats in the scant lighting. "And, uh, we were thinking, on account of us needing food, of… taking measures beyond the… normal pale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I will take this suggestion as some sick joke and you can take your leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] blinks at you. "But captain... the stories of you eating the dead... Surely they aren't &lt;i&gt;all&lt;/i&gt; false..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] nods numbly. "This isn't something I take lightly, captain. You want a name? Alright..." The sailor considers. "[Specified 1]. There. Said."
+
+[Specified 0] breathes heavily, as though the simple name weighed the whole room down. The hand stares at you, eyes pleading you to say or do something. Anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] takes a deep breath before sighing a raspy, hungry smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sacrifices must be made... &lt;i&gt;Do it.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] nods. The weight of the question has been lifted, and the sailor bows out of the room with renewed vigor. At the door, [Specified 0] looks back to you.
+
+"Thanks, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I don't offer this lightly, but... [Specified 1], captain. With that injury?" [Specified 0] winces. "[Specified 1] isn't likely to survive it. Just to live long enough to watch the rest of us starve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Specified 1]… captain." [Specified 0] coughs into a closed hand. "That drunk fool's dead weight. Doesn’t do anything. This will be the most helpful [Specified 1]'s been in a long while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>An hour later, [Specified 0] reenters, a shiner borne below the eye and a plate in the hands. A slab of reddish meat rests upon it, smoke still lazily wafting upward.
+
+"Your dinner, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0] finds you in the cabin. The mate looks exhausted - eyes sunken, cheeks hollow, and limbs gaunt.
+
+"Captain... the crew's hungry. Too hungry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Cannibalism is your solution? Get out of my cabin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Did you have someone in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Absolutely not. Gather the crew on deck. I'll talk to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0] lifts an arm and mimes taking a bite from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Kill [Specified 0].] "That's a fantastic idea. Not a lot of meat on your bones, but you'll feed a few."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0] flinches from you. "Yes, captain. Just a suggestion. Didn't mean anything by it."
+
+The hand slinks from the cabin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Scratching absently at the belly, [Specified 0] laughs reluctantly.
+
+"It would be an honor to help feed you, captain, but I’d rather hold the spoon than be in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 0] calls the crew together on deck. The small group of sailors hang languidly from the rigging, perch on crates, and sit against the rails.
+
+Their eyes turn to you as you stride onto the deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>With a few last shudders and gasps, the body that was [Specified 0] slides to the floor. Blood pools at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"[Specified 1], captain. Half the crew wants to throw the bastard overboard anyhow. Just to put an end to the trouble that scoundrel gives us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Yes, I eat &lt;i&gt;corpses.&lt;/i&gt; Of foes slain in battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You heard me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You make a fair point..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The hand's eyebrows rise hopefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He frowns. "I can't say I see the difference, captain. We aren't talking about eating anybody alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She frowns. "I can't say I see the difference, captain. We aren't talking about eating anybody alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I know just the person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]'s eyes widen. "You do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"One of the crew. A sailor worth more to me as meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'm afraid it's the end of the road for one of my closest allies..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"On second thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] stares at you for a moment, agape, before nodding. "I'll see it done, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The sailor looks away, failing to hide the disappointment. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Who started this chatter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"They happen to have anyone in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] winces. "[Specified 2] made first mention of the idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] shrugs. "No one in particular, captain. It just kind of... started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] studiously examines the floor.
+
+"They've started talking... well, they've brought up cannibalism again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I don't offer this lightly, but... [Specified 1], captain. With that injury?" [Specified 0] winces. "[Specified 1] isn't likely to survive it. Just to live long enough to watch the rest of us starve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"[Specified 1]… captain." [Specified 0] coughs into a closed hand. "That drunk fool's dead weight. Doesn’t do anything. This will be the most helpful [Specified 1]'s been in a long while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"[Specified 1], captain. Half the crew wants to throw the bastard overboard anyhow. Just to put an end to the trouble that scoundrel gives us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] nods numbly. "This isn't something I take lightly, captain. You want a name? Alright..." The sailor considers. "[Specified 1]. There. Said."
+
+[Specified 0] breathes heavily, as though the simple name weighed the whole room down. The hand stares at you, eyes pleading you to say or do something. Anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Of course. A joke. I’ll try it out on the crew and see what they think of it."
+
+[Specified 0] bows out of the room and you’re sure if the creak you hear is the door or the gaunt sailor's bones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Throw the corpse overboard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Hang the body as a warning.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Turn [Specified 0] into meat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You drag the body to the deck and carry it to the rail. The longing eyes of the crew follow you.
+
+You unceremoniously dump it into the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You tear off the sailor's shirt and carve a single word into the corpse's chest in large, jagged letters: &lt;i&gt;CANNIBAL&lt;/i&gt;. 
+
+You haul the body to the deck and enlist the aid of a few hands to hang it from the mast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You drag the corpse to the deck and drop it at the crew's feet. Dinner, you tell them, is served.
+
+Nodding numbly, they accept the body from you and weakly carry it below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Not long after, [Specified 1] enters the cabin bearing a platter. A slab of reddish meat rests upon it, smoke still lazily wafting upward.
+
+"Your dinner, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>After a final look at your sailors, you return to your cabin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The sailor swallows, awaiting your pronounced judgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"[Specified 1]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"[Specified 2]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"[Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"[Specified 4]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Get out. And tell the crew that we're not eating anybody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0] nods. The weight of the question has been lifted, and the sailor bows out of the room with renewed vigor. At the door, [Specified 0] looks back to you.
+
+"Thanks, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] nods. The weight of the question has been lifted, and the sailor bows out of the room with renewed vigor. At the door, [Specified 0] looks back to you.
+
+"Thanks, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 0] nods. The weight of the question has been lifted, and the sailor bows out of the room with renewed vigor. At the door, [Specified 0] looks back to you.
+
+"Thanks, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] nods. The weight of the question has been lifted, and the sailor bows out of the room with renewed vigor. At the door, [Specified 0] looks back to you.
+
+"Thanks, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The door closes. Footfalls hurriedly clap over the deck. Someone screams. Someone else yells. There’s a series of thuds. More footsteps. The door wobbles as bodies press against it, chaotic shadows blobbing beneath its bottom. 
+
+Finally, quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0]'s eyes widen as he steps back, but the sailor's not quick enough to avoid the dagger you thrust between his ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0]'s eyes widen as she steps back, but the sailor's not quick enough to avoid the dagger you thrust between her ribs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Order [Specified 2] killed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I know just the person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0]'s eyes widen. "You do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"One of the crew. A sailor worth more to me as meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The sailor swallows, awaiting your pronounced judgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'm afraid it's the end of the road for one of my closest allies..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"On second thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Specified 0] nods, straightening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] salutes. "Yes, captain."
+
+As the mate leaves, you hear a stomach rumble. You're unsure whether it was [Specified 0]'s or your own.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 0] salutes and exits. Within the hour, the mate returns with [Specified 2]'s corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I know these are lean times. As soon as I can get you more food, I will. Just hold out until then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Listen up! Next time I hear the smallest hint of the barest whisper of cannibalism, one of you sick bastards is going to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"A purse for each of you! I know you can't eat it, but you'll appreciate it when we've made port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You feel that gnawing in your belly? That's your failure to throw down those who rule you. Let it be a lesson to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Everyone grab a pole or a net. We're going to fish until we've got food in our bellies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The crew nod at your words, exchanging weak smiles. As you finish, [Specified 1] begins a round of clapping which, while heartfelt, is hardly resounding.
+
+Reassured, the hands shuffle back towards their duties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The crew exchange glances, then break apart, muttering to one another.
+
+It seems that they're not going to eat one another yet, but greater trouble may be brewing...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Most of the crew instinctively retreat your wrath, raising open palms as if to ward off your words.
+
+With a scratch of the head, though, [Specified 0] asks, "Like for eating?"
+
+"Quiet, idiot!" hisses [Specified 1]. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The crew accept the purses gratefully, eyes growing wide at the sheer amount of coin on offer. They shuffle weakly off towards their bunks to secure the booty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The crew exchange glances, then break apart, muttering to one another.
+
+It seems that they're not going to eat one another yet, but greater trouble may be brewing...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 1] blinks. "But aren't you our-"
+
+The hand's words are cut off by a swift jab to the ribs from [Specified 0]. "Quiet, fool."
+
+The crew split up, returning to their tasks, quietly muttering their resentment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Though hardly enthusiastic, the crew take up angler's tools and move to the railings. You move about them, offering advice, providing bait from the meager remaining stores, and otherwise helping. 
+
+It takes hours, but the crew manage to bring in quite the haul. By the time you sail on, they've even managed a few weak shanties to pass the time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Though you bring your questionable expertise to the crew's aid, few manage to catch more than a bite in the next several hours. Their frustration simmers, bubbling over into occasional swears and even a thrown punch.
+
+Eventually, you call an end to the endeavor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You seem to have defused the situation... for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The crew return to their duties, each looking over their shoulder furtively as they go about their work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The crew exchange glances, then break apart, muttering to one another.
+
+It seems that they're not going to eat one another yet, but greater trouble may be brewing...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Well, we've got the animals..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Specified 0] frowns. "The pets, captain?"
+
+You consider which pet you'll feed your crew...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Your bear cub.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[The desert wurm hatchling.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Kaz the dog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[The baby boar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[The sky wurm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You coax the small animal out, say your farewells, and turn it over to [Specified 0].
+
+"It's not much meat, but we appreciate this, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Not long after, [Specified 1] enters the cabin bearing a platter. A slab of reddish meat rests upon it, smoke still lazily wafting upward.
+
+"Your dinner, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Turn [Specified 2] into meat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I... know a recipe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>An hour later, [Specified 0] reenters, a shiner borne below the eye and a plate in the hands. A slab of reddish meat rests upon it, smoke still lazily wafting upward.
+
+"Your dinner, captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
