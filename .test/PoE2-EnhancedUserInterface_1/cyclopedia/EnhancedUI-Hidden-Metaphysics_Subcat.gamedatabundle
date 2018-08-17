@@ -1,16 +1,16 @@
 {
-  "GameDataObjects": [{
+	"GameDataObjects": [{
 		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
-		"DebugName": "glossaryentry_Characters",
-		"ID": "1748bfe4-c72b-450f-9f4e-4a753a346d81",
+		"DebugName": "glossaryentry_Metaphysics_Subcat",
+		"ID": "9a09068c-0b52-4a44-bb98-0119de678068",
 		"Components": [{
 			"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-			"TermCyclopedia": 322386023,
+			"TermCyclopedia": 970,
 			"TermGui": -1,
-			"DescriptionCyclopedia": 988,
+			"DescriptionCyclopedia": 989,
 			"DescriptionGui": -1,
 			"CategoryID": "c2b238b2-c72b-4770-b847-43d18678477c",
-			"ShowInJournal": "true",
+			"ShowInJournal": "false",
 			"CaseSensitive": "true",
 			"AutomaticallyAddLinks": "false",
 			"LinkedEntriesIDs": [],

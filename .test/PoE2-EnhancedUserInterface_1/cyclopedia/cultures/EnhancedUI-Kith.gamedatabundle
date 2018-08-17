@@ -1,0 +1,20 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Kith",
+        "ID": "e7eb7ebf-757a-4bd9-afdf-5a9c51615f63",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 951,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 952,
+            "DescriptionGui": -1,
+            "CategoryID": "db939b5f-b777-437e-92af-10328ba4bb1f",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }]
+}

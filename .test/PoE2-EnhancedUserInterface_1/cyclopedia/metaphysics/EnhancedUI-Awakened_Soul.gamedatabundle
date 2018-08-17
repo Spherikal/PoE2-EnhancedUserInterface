@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+		"$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+		"DebugName": "GlossaryEntry_Awakened_Soul",
+		"ID": "f668f09b-cc1d-4973-816e-b93878b8ae0d",
+		"Components": [{
+			"$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+			"TermCyclopedia": 255,
+			"TermGui": -1,
+			"DescriptionCyclopedia": 256,
+			"DescriptionGui": -1,
+            "CategoryID": "17c70722-fbee-4148-970f-766606e044f9",
+			"ShowInJournal": "true",
+			"CaseSensitive": "true",
+			"AutomaticallyAddLinks": "true",
+			"LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+		}]
+	}]
+}

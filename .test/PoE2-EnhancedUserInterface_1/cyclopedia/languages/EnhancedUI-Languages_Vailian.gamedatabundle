@@ -1,0 +1,20 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Languages_Vailian_Subcat",
+        "ID": "0a8aeccb-2875-40f2-8dfa-8c2762234c66",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 975,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 631,
+            "DescriptionGui": -1,
+            "CategoryID": "96ed7dd0-942d-40d7-afff-c9bfbc739571",
+            "ShowInJournal": "true",
+            "CaseSensitive": "true",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }]
+}
