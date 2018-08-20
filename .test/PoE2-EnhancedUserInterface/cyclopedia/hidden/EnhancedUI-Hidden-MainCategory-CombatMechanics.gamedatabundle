@@ -1,0 +1,12 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryCategoryGameData, Assembly-CSharp",
+    "DebugName": "CombatMechanics",
+    "ID": "abf1150a-71e6-4948-9077-1c3342f53278",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryCategoryComponent, Assembly-CSharp",
+        "DisplayName": -1,
+        "MetaCategory": "2"
+    }]
+}]
+}

@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Inspirations_Dexterity",
+    "ID": "5b14378d-82b4-4c7e-b23a-1fa07d0d85a3",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 704,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 705,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["cd137d5f-41e0-4653-8bc3-ea197ab9f463", "c7acf0a1-483b-4fd1-a941-4d4fc4ca7561", "a0b4a490-2c99-456e-b6fb-131353133fba", "0451672b-af45-4b44-96b4-ff2c1b6aa1d3", "1418c0ae-790d-4aef-9ca6-00238012c84e"],
+        "ParentObjectID": "1a894ffc-f680-4055-92dd-6e24bc7cdff6"
+    }]
+}]
+}

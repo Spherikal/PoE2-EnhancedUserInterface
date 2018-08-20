@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Immune",
+    "ID": "16150c1a-e9f1-4683-9c48-4f14baa06e59",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 313,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 314,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "true",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["3308184d-7b80-4e58-b7d3-f37dda4e2c17"],
+        "ParentObjectID": "56cd0e4f-7525-467b-ab2d-48a726ed0f83"
+    }]
+}]
+}

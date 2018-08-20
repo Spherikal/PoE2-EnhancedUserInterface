@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Subcat_CombatMechanics",
+    "ID": "56cd0e4f-7525-467b-ab2d-48a726ed0f83",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": -1,
+        "TermGui": 322386018,
+        "DescriptionCyclopedia": -1,
+        "DescriptionGui": 322386019,
+        "CategoryID": "b5d27471-d2ce-4bf6-8857-4da3d2d305f6",
+        "ShowInJournal": "true",
+        "CaseSensitive": "true",
+        "AutomaticallyAddLinks": "false",
+        "LinkedEntriesIDs": [],
+        "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+    }]
+}]
+}

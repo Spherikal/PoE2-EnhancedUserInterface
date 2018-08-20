@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Afflictions_Intellect",
+    "ID": "048c50e7-3950-4146-8b2e-f2153b799b03",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 692,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 697,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "11f2a0a2-74d9-401c-8154-ba873b2cfe14", "917ea7e5-133c-4163-93c6-55c7d55420a4", "f4a09726-a62d-49a2-8cc6-c3713676c833", "9e773415-4d95-4be6-ab87-325d9815e0d7"],
+        "ParentObjectID": "58cab022-1aff-402e-b94e-92221a25b7a6"
+    }]
+}]
+}

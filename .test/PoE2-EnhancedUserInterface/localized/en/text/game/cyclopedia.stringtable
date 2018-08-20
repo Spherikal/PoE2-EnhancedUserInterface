@@ -190,12 +190,7 @@ E.g. wood elves have Resistance to &lt;link="glossary://GlossaryEntry_Affliction
       <ID>154</ID>
       <DefaultText>&lt;line-height=100%&gt;All attacks in Pillars of Eternity compare the attacker's &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; value to one of four defenses: &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; (direct melee and ranged attacks), &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; (body system attacks like poison and disease), &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; (area of effect damage attacks), and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; (mental attacks).
 
-A number between 1 and 100 is generated and added to the difference between &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; and defense to determine the attack results. 
-
-&lt;margin=2em&gt;≤ 30 = Miss
-31-50 = Graze
-51-100 = Hit
-> 100 = Crit&lt;/margin&gt;
+A number between 1 and 100 is generated and added to the difference between &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; and defense to determine the attack results. Less than or equal to 30 = Miss, 31-50 = Graze, 51-100 = Hit, greater than 100 = Crit.
 
 In a balanced Attack and defense scenario, the majority of attacks wind up being Hits or Misses. When &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; is superior to defense, more Crits are likely. When defense is superior to &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;, more Misses are likely.
 
@@ -661,6 +656,89 @@ It is not known, however, when the Wheel was constructed and what, if anything, 
     <Entry>
       <ID>322386024</ID>
       <DefaultText>The Salvation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386025</ID>
+      <DefaultText>Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386026</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;#b71c1c&gt;&lt;size=300%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;xg&gt;Berath&lt;/xg&gt;&lt;/font&gt;&lt;/size&gt;
+&lt;size=80%&gt;&lt;i&gt;&lt;#7f0000&gt;BEAR-ath&lt;/color&gt;&lt;/i&gt;&lt;/size&gt;&lt;/color&gt;
+
+&lt;b&gt;Aliases&lt;/b&gt;
+&lt;margin=25em&gt;&lt;i&gt;The Twinned God, &lt;xg&gt;Cirono&lt;/xg&gt;, &lt;xg&gt;Rikuhu&lt;/xg&gt;, The Pallid Knight,
+The Usher, &lt;nobr&gt;Bewnen i Ankew / Ankew i Bewnen&lt;/nobr&gt;&lt;/i&gt;
+
+&lt;b&gt;Dominion&lt;/b&gt;
+&lt;i&gt;Cycles, Doorways, Portals,
+Mortality, &lt;xg&gt;Death&lt;/xg&gt;, Inevitability&lt;/i&gt;
+
+&lt;b&gt;Icons&lt;/b&gt;
+&lt;i&gt;A keyhole, a jawless skull, or a skull incorporated
+into a doorway or keyhole&lt;/i&gt;
+
+&lt;b&gt;Allies&lt;/b&gt;
+&lt;i&gt;&lt;link="stringtooltip://cyclopedia/322386027"&gt;Rymrgand&lt;/link&gt;&lt;/i&gt;
+
+&lt;b&gt;Foes&lt;/b&gt;
+&lt;i&gt;None&lt;/i&gt;&lt;/margin&gt;&lt;/align&gt;
+
+&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;B&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
+&lt;line-indent=15em&gt;erath is the god of cycles, of doors, and of life and death itself. People commonly 
+place or carve the figure of Berath in doorways, windows, and other “portals” from
+one place to another, figurative or literal. People commonly refer to Berath using neutral pronouns like “it,” though specific manifestations (e.g., the Pallid Knight, who appears female) are often gendered.&lt;/line-indent&gt;&lt;/line-height&gt;
+
+&lt;voffset=0.2em&gt;&lt;b&gt;Origins&lt;/b&gt;&lt;/voffset&gt;
+In Eir Glanfath’s ruins, explorers have discovered two common figures, Bewnen i Ankew and Ankew i Bewnen ("Life in Death" and "Death in Life" respectively), semiskeletal female and male figures who occupy positions opposite each other in doorways— like a twinned display of the split aspects of Berath/&lt;link="stringtooltip://cyclopedia/616"&gt;Cirono&lt;/link&gt;.
+
+&lt;voffset=0.2em&gt;&lt;b&gt;Clergy and Followers&lt;/b&gt;&lt;/voffset&gt;
+Berath has a relatively small priesthood, in part because it does not speak often to its members. However, Berath has many, many petitioners and occasional followers.
+
+&lt;voffset=0.2em&gt;&lt;b&gt;&lt;xg&gt;Berath and Rymrgand&lt;/xg&gt;&lt;/b&gt;&lt;/voffset&gt;
+Berath and Rymrgand share a complicated relationship within the divine pantheon. Though both figures lord over death, Berath is viewed as having dominion over death’s cycle, while Rymrgand is the master of entropy. Some theologians believe Rymrgand would prefer the cycle dismantled, the souls who take part in it disintegrated. This oppositional standpoint is reflected in Rymrgand’s worshipers, who view their resurrections as punishments instead of blessings.
+
+&lt;voffset=0.2em&gt;&lt;b&gt;&lt;xg&gt;Berath in the Deadfire Archipelago&lt;/xg&gt;&lt;/b&gt;&lt;/voffset&gt;
+Many Huana worship Berath as &lt;xg&gt;Rikuhu&lt;/xg&gt;, the twin eel god that represents the cyclic connection between overworld and underworld, life and death. &lt;xg&gt;Rikuhu&lt;/xg&gt; is often depicted with the two constituent eels: &lt;link="stringtooltip://cyclopedia/322386028"&gt;Kohopa&lt;/link&gt;, representing the overworld and life, and &lt;link="stringtooltip://cyclopedia/322386028"&gt;Tangaloa&lt;/link&gt;, who represents underworld and death, devouring one another by the tail. The topmost eel is &lt;xg&gt;Kohopa&lt;/xg&gt;, representing life and the known world. The lowermost is &lt;xg&gt;Tangaloa&lt;/xg&gt;, representing death and the world beyond mortal understanding.
+
+The Huana do not generally fear death and its communion with the eternal cycle (no more than any other kith), but some disagree on the structure on which this cycle is built. Among the more fervent and enthused of religious worshipers, a whispered belief holds that time exists within &lt;xg&gt;Rikuhu&lt;/xg&gt; alone, and outside of the eels stretches the void and eternal dream from which all things once sprang. They imagine an existence without duration or knowing, where Amira and the rest of the great beasts still roam. In this unimaginable vista, the souls of all beings comingle with their ancestors and descendants simultaneously. If &lt;xg&gt;Kohopa&lt;/xg&gt; and &lt;xg&gt;Tangaloa&lt;/xg&gt; were satiated (or even killed), then their bodies would separate and kith could rejoin the paradise and dream that was stripped from them so long ago.
+
+&lt;voffset=0.2em&gt;&lt;b&gt;Manifestations&lt;/b&gt;&lt;/voffset&gt;
+&lt;i&gt;The Pallid Knight&lt;/i&gt; is a manifestation of Berath that has appeared in legends for at least three centuries. In these legends, someone escapes or otherwise cheats death and encounters (or is pursued by) a gaunt female knight in black armor with black hair and eyes and “milkpale” skin. The knight demands an impossible-to-pay toll for traveling on her lord’s road for too long. The implication is always that the person has overstayed their welcome in the mortal world and it is time for them to move on. Sometimes the person surrenders to the knight, sometimes they attack the knight and wind up killing themselves in the process, and sometimes they flee from the knight and stumble into the Usher.
+
+&lt;i&gt;The Usher&lt;/i&gt; is a very old manifestation of Berath. In stories, he often appears much more obviously supernatural than the Pallid Knight, with skeletal features or simply as a walking skeleton. The Usher is typically human, but occasionally appears as a dwarf. Unlike the Pallid Knight, the Usher never speaks, but simply creates a circumstance for the unwitting and unwilling to march to their doom (sometimes directly into their own grave).
+
+Sometimes these manifestations appear alone, but often they are paired, with the Pallid Knight “blocking” the way and the Usher opening the door to the afterlife. The Pallid Knight is a more martial and confrontational figure (in part because she also speaks), while the Usher is more subdued, inviting, and occasionally deceptive.
+
+&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;-&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386027</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;xg&gt;Rymrgand&lt;/xg&gt;&lt;/font&gt;&lt;/size&gt;
+&lt;i&gt;REE-mear-gahnd&lt;/i&gt;&lt;/align&gt;
+
+God of entropy, cold, winter, bad luck, famine, and natural disasters. Manifests as a giant albino aurochs, moving amidst a great blizzard, and in the plodding footsteps of Rymrgand come death and disintegration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386028</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;xg&gt;Kohopa &amp; Tangaloa&lt;/xg&gt;&lt;/font&gt;&lt;/size&gt;&lt;/align&gt;
+
+In Huana folklore, Kohopa and Tangaloa were born before time existed, and each had an insatiable appetite. They began to devour all living things, and with each thing devoured, they became larger. When there were no living things left to eat, and the two eels were so enormous as to encompass all existence, they began to devour one another. Thus, all beings are perpetually passing through the digestive tracts of the two eels. When one reaches the end, it passes through the mouth of the next eel - the gateway to or from the underworld - and the next stage of existence begins. The notion of time is merely one's perception of the digestive process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386029</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;xg&gt;Tangaloa&lt;/xg&gt;&lt;/font&gt;&lt;/size&gt;&lt;/align&gt;
+
+In Huana folklore, Kohopa and Tangaloa were born before time existed, and each had an insatiable appetite. They began to devour all living things, and with each thing devoured, they became larger. When there were no living things left to eat, and the two eels were so enormous as to encompass all existence, they began to devour one another. Thus, all beings are perpetually passing through the digestive tracts of the two eels. When one reaches the end, it passes through the mouth of the next eel - the gateway to or from the underworld - and the next stage of existence begins. The notion of time is merely one's perception of the digestive process.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

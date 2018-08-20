@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Afflictions_Perception",
+    "ID": "4b864d56-9f2d-4a83-b85a-8e602bd448a9",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 693,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 698,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "0aadc561-eb5d-4762-90e5-7a773774eecf", "919bddc8-1e05-412b-bb5c-8272545b28f0", "1021cac0-2d10-4f0d-93e3-e1b0ce24f9fd", "76a5e15a-e75c-4853-889b-2e9229d46444"],
+        "ParentObjectID": "58cab022-1aff-402e-b94e-92221a25b7a6"
+    }]
+}]
+}

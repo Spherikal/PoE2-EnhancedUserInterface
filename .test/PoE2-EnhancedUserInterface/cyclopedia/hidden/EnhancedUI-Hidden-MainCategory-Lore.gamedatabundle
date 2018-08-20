@@ -1,0 +1,12 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryCategoryGameData, Assembly-CSharp",
+    "DebugName": "Lore",
+    "ID": "c2b238b2-c72b-4770-b847-43d18678477c",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryCategoryComponent, Assembly-CSharp",
+        "DisplayName": -1,
+        "MetaCategory": "1"
+    }]
+}]
+}

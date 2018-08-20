@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Afflictions_Might",
+    "ID": "7b9fc8a2-c226-4889-acd1-3c9a0479b5a7",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 690,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 695,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "cc4b4eb9-5d6c-40e4-87b3-adcf56a87572", "67f6a58b-658e-4c97-b0a2-5d53067dcbd8", "3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1", "fc2d1039-c512-484a-81e8-a843ba03df4e"],
+        "ParentObjectID": "dcd5462f-1da7-4f3f-b49f-c7ad2d2383f6"
+    }]
+}]
+}

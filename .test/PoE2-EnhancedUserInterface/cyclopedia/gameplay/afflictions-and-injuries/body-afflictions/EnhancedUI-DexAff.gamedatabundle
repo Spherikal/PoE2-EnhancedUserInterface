@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Afflictions_Dexterity",
+    "ID": "c7acf0a1-483b-4fd1-a941-4d4fc4ca7561",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 686,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 687,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "5b14378d-82b4-4c7e-b23a-1fa07d0d85a3", "c1d82f88-4f54-4279-8e72-43104bf754a2", "a31fdd6c-5f4f-404d-92f5-5d7d8c166f2c", "72de641d-d2f1-47ca-85f2-6ec3e41140bd"],
+        "ParentObjectID": "dcd5462f-1da7-4f3f-b49f-c7ad2d2383f6"
+    }]
+}]
+}

@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Resistance",
+    "ID": "426c1bdc-0455-40b3-9b0c-f8479844e95a",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 752,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 753,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "true",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "d951a94e-bd82-4438-b9ec-f72e7cfcc9d3"],
+        "ParentObjectID": "41b3cfb9-b986-4945-b008-0a4728a12bcc"
+    }]
+}]
+}

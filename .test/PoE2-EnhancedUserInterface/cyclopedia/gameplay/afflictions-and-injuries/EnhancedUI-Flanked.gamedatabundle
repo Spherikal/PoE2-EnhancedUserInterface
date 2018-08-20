@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Flanked",
+    "ID": "f75f8f31-2bca-456b-889f-fae8ca680718",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 103,
+        "TermGui": -1,
+        "DescriptionCyclopedia": -1,
+        "DescriptionGui": 322386030,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "true",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["60063c5c-d605-4af1-a993-a032bbcf86e8"],
+        "ParentObjectID": "41b3cfb9-b986-4945-b008-0a4728a12bcc"
+    }]
+}]
+}

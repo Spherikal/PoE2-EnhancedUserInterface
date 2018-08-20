@@ -1,0 +1,20 @@
+{
+  "GameDataObjects": [{
+    "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+    "DebugName": "GlossaryEntry_Unconscious",
+    "ID": "9120bb70-aced-4ef0-ae37-f8c3afe8ad9f",
+    "Components": [{
+        "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+        "TermCyclopedia": 323,
+        "TermGui": -1,
+        "DescriptionCyclopedia": 324,
+        "DescriptionGui": -1,
+        "CategoryID": "00000000-0000-0000-0000-000000000000",
+        "ShowInJournal": "true",
+        "CaseSensitive": "false",
+        "AutomaticallyAddLinks": "true",
+        "LinkedEntriesIDs": ["9673aecd-0658-4a78-b9cf-6b33bb4f5065", "e4f2daf9-bee6-466d-8efd-e051c65d74d4", "8609f850-0ae1-4577-9406-0a5d7a0d6ccc"],
+        "ParentObjectID": "41b3cfb9-b986-4945-b008-0a4728a12bcc"
+    }]
+}]
+}
