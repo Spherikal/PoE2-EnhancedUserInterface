@@ -1,6 +1,5 @@
 ## CHANGELOG
 ### Version 1.3.0
-- Added cyclopedia entires for the following keywords: `Glasvahl` and `White Void`.
 - Added missing entries from the BoW DLC.
 - Changed the color of the Raw icon slighly.
 - Changed the font for all rank 1 afflictions/inspirations.
