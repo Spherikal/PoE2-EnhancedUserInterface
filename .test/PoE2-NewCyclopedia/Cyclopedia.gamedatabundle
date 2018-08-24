@@ -19,7 +19,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Abydon_CyclopediaEntry",
-        "ID": "e613b894-6a68-4c8f-bab4-5fe26913ab33",
+        "ID": "b7c58117-5ed2-41e4-afbf-6c94f1540369",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386002,
@@ -53,7 +53,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Adra_CyclopediaEntry",
-        "ID": "be73ddaf-5788-4e20-9038-2003204ab737",
+        "ID": "24aecfe7-e287-4d3d-bf03-6a5585a0df41",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386006,
@@ -87,7 +87,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Aedyran_Empire_CyclopediaEntry",
-        "ID": "0ae95b08-d259-48fc-9225-b8f3a3e0f647",
+        "ID": "119ba811-8497-4824-b5f5-84386f85560c",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386010,
@@ -121,7 +121,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Amira_CyclopediaEntry",
-        "ID": "f2915d21-c203-48b4-9960-9b731d7b9cd5",
+        "ID": "f9aca73f-9668-4950-9b82-b5df2a21d107",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386014,
@@ -155,7 +155,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Animancy_CyclopediaEntry",
-        "ID": "536ea163-a35d-4718-b945-ff39708496fe",
+        "ID": "b9679296-6442-4fd4-bb86-8b16e7d724ce",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386018,
@@ -189,7 +189,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Arkemyr_CyclopediaEntry",
-        "ID": "53fe4b31-7397-40f1-989e-33b104dd0847",
+        "ID": "b1457283-4078-420c-a0b0-8ca611fa0ef8",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386022,
@@ -223,7 +223,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Awakened_Soul_CyclopediaEntry",
-        "ID": "31de5e1f-3df6-4b95-ac7a-55bf0af04c55",
+        "ID": "cb384570-71e1-488c-a906-627a13e871c2",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386026,
@@ -257,7 +257,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Azata_CyclopediaEntry",
-        "ID": "15b9f030-6d43-48f4-9a4e-63e586af9dba",
+        "ID": "dbb243b3-aa30-4468-b84b-22716b4ce198",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386030,
@@ -291,7 +291,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Battle_of_Nakaro_Atoll_CyclopediaEntry",
-        "ID": "9e1b9ec1-0dde-44fc-b295-0c39be14f048",
+        "ID": "6852b83e-0fc9-4ed9-9a31-9de977efa6fe",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386034,
@@ -325,7 +325,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Berath_CyclopediaEntry",
-        "ID": "be529220-6737-42f8-b8bc-2fe84f4a0e8c",
+        "ID": "2ca87763-d0cd-4eab-8dd0-328e9e2093a0",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386038,
@@ -359,7 +359,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Beraths_Wheel_CyclopediaEntry",
-        "ID": "a19ec500-5f8a-4e46-a1cf-de955e47b748",
+        "ID": "aa84a208-bee6-4536-9e88-6fec651e7e17",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386042,
@@ -393,7 +393,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Between_CyclopediaEntry",
-        "ID": "8e2b7404-4a69-4c37-b442-f840bc994dff",
+        "ID": "87d06850-e47d-4ffb-82cd-f21af95a7d88",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386046,
@@ -427,7 +427,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Beyond_CyclopediaEntry",
-        "ID": "c0a89d00-8895-4c13-b727-cbfbe90f6126",
+        "ID": "563a9be7-ee46-4899-9cca-0dd2067e06b8",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386050,
@@ -461,7 +461,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Biawac_CyclopediaEntry",
-        "ID": "828fddec-b4b5-4f12-a1cd-fe8ba7c4b4a9",
+        "ID": "4ed01824-bd70-4ed9-ae7e-67459359389c",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386054,
@@ -495,7 +495,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Caed_Nua_CyclopediaEntry",
-        "ID": "d03fd117-34f7-4a62-a118-b19324d1e4ad",
+        "ID": "2e26de9e-e7ec-4100-b2ab-7e6689db696f",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386058,
@@ -529,7 +529,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Canta_Nichese_CyclopediaEntry",
-        "ID": "a2f0c0a5-4e44-43c3-9814-e3b8a94edc75",
+        "ID": "99bed5c4-c29c-4320-ae1c-07109b36b29e",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386062,
@@ -563,7 +563,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Cultures_Aedyran_Subcat_CyclopediaEntry",
-        "ID": "f26f265d-3ea0-48b1-8c1b-05405528d570",
+        "ID": "f49e7aa2-1a72-4294-8d59-a9fdbcc84239",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386066,
@@ -597,7 +597,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Cultures_Rauatai_Subcat_CyclopediaEntry",
-        "ID": "9bac4edc-679f-4eff-808a-fbe352a1f820",
+        "ID": "f61b205a-0f48-4eee-8cf1-f82c14ab63a4",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386070,
@@ -631,7 +631,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Cultures_Subcat_CyclopediaEntry",
-        "ID": "16c3f788-979b-41a7-ba6a-d4e5039e749d",
+        "ID": "344aa063-d067-4ad8-8a6e-751956fd9697",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386074,
@@ -665,7 +665,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Cultures_Vailian_Subcat_CyclopediaEntry",
-        "ID": "6a31c9e3-f238-47a2-b377-c2b894039a65",
+        "ID": "36917004-7a05-4fd7-adc8-8155ae59f6b4",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386078,
@@ -699,7 +699,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Darcozzi_CyclopediaEntry",
-        "ID": "b6cbec8d-5d9b-4997-81e5-3734499f293e",
+        "ID": "a199c9ca-d485-42c8-be79-2d3fc52ecf5b",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386082,
@@ -733,7 +733,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Dyrwood_CyclopediaEntry",
-        "ID": "a225d1a4-f78d-4a8e-89d9-37d85ba19628",
+        "ID": "ee9ca01c-8060-4cad-acd5-337c366c8ecb",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386086,
@@ -767,7 +767,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Eir_Glanfath_CyclopediaEntry",
-        "ID": "b1da75e2-ffb6-4573-aadb-0549a2380438",
+        "ID": "e5c20ffb-8fd2-4105-bb1a-12d0d99e9193",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386090,
@@ -801,7 +801,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Engwith_CyclopediaEntry",
-        "ID": "9f8d92b5-65db-44cc-91d2-8b86e373e874",
+        "ID": "27fe8533-210a-4494-baf6-b0f8502b5138",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386094,
@@ -835,7 +835,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Eothas_CyclopediaEntry",
-        "ID": "37591031-94d4-4763-869d-992533b95356",
+        "ID": "aa257cc0-b72e-4444-bd2a-5e0e1b005cb8",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386098,
@@ -869,7 +869,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Essence_CyclopediaEntry",
-        "ID": "a80ce4f6-116a-4a58-ab24-66feee6f93f5",
+        "ID": "0af370b4-5267-4d9a-893a-544d677de269",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386102,
@@ -903,7 +903,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Evon_Dewr_Bridge_CyclopediaEntry",
-        "ID": "aeda57a2-d682-4d9c-989c-9b2fc573916d",
+        "ID": "be934f2e-c45c-45ed-9385-c6a8027db45a",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386106,
@@ -937,7 +937,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_FloatingHangman_CyclopediaEntry",
-        "ID": "2c342c54-aa11-462e-af2c-72c118a9ca15",
+        "ID": "89a69813-36a3-405e-97fd-a31234d5373c",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386110,
@@ -971,7 +971,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Fonferrus_CyclopediaEntry",
-        "ID": "cd7804fb-4218-44c2-809d-3f7a4921e2b2",
+        "ID": "805b0783-5754-42b4-bb51-85a11a4fde3e",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386114,
@@ -1005,7 +1005,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Galawain_CyclopediaEntry",
-        "ID": "abd3e850-7d80-4c80-94b1-82180fb88eb2",
+        "ID": "8a514b87-a4e6-4fd2-9347-a0314b596ef2",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386118,
@@ -1039,7 +1039,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Gaun_CyclopediaEntry",
-        "ID": "4dfafeeb-da7c-474e-9594-677f69cf13f1",
+        "ID": "6f342fab-e54e-4b1d-a523-00cbc9add13b",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386122,
@@ -1073,7 +1073,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Goldpact_CyclopediaEntry",
-        "ID": "a43a1688-1306-44a5-88e5-fb1b454c7202",
+        "ID": "c2fc1111-c46f-4e92-a221-4d62ad2c0108",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386126,
@@ -1107,7 +1107,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Haemneg_CyclopediaEntry",
-        "ID": "94dedf10-f61e-4cd1-860e-201abf788238",
+        "ID": "c23dac8a-1604-4ae2-b7fe-8301b51a1313",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386130,
@@ -1141,7 +1141,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Hel_CyclopediaEntry",
-        "ID": "d798576f-a493-4052-8b58-1959853d3877",
+        "ID": "71e3eaa4-8697-4bf0-8412-ec39f1f6ffb2",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386134,
@@ -1175,7 +1175,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Here_CyclopediaEntry",
-        "ID": "4f4cb1c7-42a9-4e57-9651-4c004b9b7c81",
+        "ID": "6a473747-1a92-4378-afe7-7a38ce0eaa52",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386138,
@@ -1209,7 +1209,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Hollowborn_CyclopediaEntry",
-        "ID": "71981362-dcfe-42a4-8c5b-99f83637d7b2",
+        "ID": "ad82439d-ea3b-4ac0-a53b-071647219d1b",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386142,
@@ -1243,7 +1243,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Hylea_CyclopediaEntry",
-        "ID": "ff8d7e8e-2e02-4896-bdb5-37ef35dbe01e",
+        "ID": "8086879b-d5f6-4c1b-b600-7e9e67a8b7da",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386146,
@@ -1277,7 +1277,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Iselmyr_CyclopediaEntry",
-        "ID": "9925e674-b205-4d48-ab03-8984fb9a2552",
+        "ID": "475704a3-1428-41f5-8e0d-b39f70c18bbf",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386150,
@@ -1311,7 +1311,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_kith_CyclopediaEntry",
-        "ID": "43d1d621-8f55-49d4-a63b-990281b1f3e8",
+        "ID": "1d50baa6-b98f-4d04-a853-ce9e738994ba",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386154,
@@ -1345,7 +1345,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Kohopa_CyclopediaEntry",
-        "ID": "bc352d40-d6ed-4759-aba9-743d6ca588eb",
+        "ID": "c1d89424-a204-4b33-b243-1dafca143ba3",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386158,
@@ -1379,7 +1379,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Kuaru_CyclopediaEntry",
-        "ID": "d49f8a73-ef29-49d4-a109-1a0e9aaf2492",
+        "ID": "f9d5ae09-9747-416d-ba30-0bf6b3dad0cc",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386162,
@@ -1413,7 +1413,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_lost_CyclopediaEntry",
-        "ID": "dd8a600e-3fac-4a36-a4bd-241eb3d75cb7",
+        "ID": "ad3e988d-b129-4daa-bf35-52071f81189f",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386166,
@@ -1447,7 +1447,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Magran_CyclopediaEntry",
-        "ID": "5b878faf-0830-4bd9-9e1e-cc4ae0baddd9",
+        "ID": "07bc60b9-de21-45dd-b20c-3df3fc1269ab",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386170,
@@ -1481,7 +1481,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Maros_Nua_CyclopediaEntry",
-        "ID": "77a7a53e-ca5e-4fb1-a778-803d6551ae81",
+        "ID": "01437957-996f-4daf-a50f-11b9c5218a0e",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386174,
@@ -1515,7 +1515,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Mataru_CyclopediaEntry",
-        "ID": "b6650e15-6802-4776-a282-724de6c39146",
+        "ID": "03d87245-14fc-4e00-a525-8293fd69bdb1",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386178,
@@ -1549,7 +1549,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Menpwgra_CyclopediaEntry",
-        "ID": "885f815b-1c85-47bd-a54b-a9d1cc296fe8",
+        "ID": "aad6bfa1-d75b-4d79-b5dc-692df9b3cff0",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386182,
@@ -1583,7 +1583,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Metaphysics_Subcat_CyclopediaEntry",
-        "ID": "be133f85-aa39-4eb5-b7d1-45ed3c99eaa0",
+        "ID": "52aa2203-e697-4108-8505-db6ae8c1b060",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386186,
@@ -1617,7 +1617,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Ngati_CyclopediaEntry",
-        "ID": "ec9d3723-c692-44d6-a4a9-26b136fbf729",
+        "ID": "1e164439-c763-4d5e-a74a-72bd35db3b00",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386190,
@@ -1651,7 +1651,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Od_Nua_CyclopediaEntry",
-        "ID": "6a4479d3-1bb9-4be8-ae08-c9bb0854e8f6",
+        "ID": "be763702-ed7c-4e8a-ae49-7bc7432d4436",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386194,
@@ -1685,7 +1685,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Old_Vailia_CyclopediaEntry",
-        "ID": "ac4b00ec-a801-4bec-9710-011346516272",
+        "ID": "5a8c9ef6-699b-4a43-8bb0-35c8acb0a316",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386198,
@@ -1719,7 +1719,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Ondra_CyclopediaEntry",
-        "ID": "f74399f3-7912-45f9-8dd3-ed93e9809737",
+        "ID": "de891511-d61c-4efc-b039-c144f02c9460",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386202,
@@ -1753,7 +1753,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Paki_Takiri_CyclopediaEntry",
-        "ID": "58375bed-e15c-48a1-9f37-832429e6e787",
+        "ID": "449bc4ef-ed67-46bd-9d98-ea4b18429ae1",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386206,
@@ -1787,7 +1787,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Pand_CyclopediaEntry",
-        "ID": "4b6d4933-d657-4de3-81de-e5c6cbdf8b33",
+        "ID": "6c15e04d-9b0e-4400-9229-3c7319c50055",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386210,
@@ -1821,7 +1821,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Pands_CyclopediaEntry",
-        "ID": "59a6d62e-6727-4785-b349-73a0db1dd0b0",
+        "ID": "54460aed-7182-4c8a-b833-de315b35c144",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386214,
@@ -1855,7 +1855,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Periki_CyclopediaEntry",
-        "ID": "ba218a1c-50be-4911-aef0-b443fc91cc98",
+        "ID": "a8290244-0d4b-46f6-8496-fd271899fda2",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386218,
@@ -1889,7 +1889,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Pire_CyclopediaEntry",
-        "ID": "a53d73ab-08aa-4b22-8982-260513355cfe",
+        "ID": "4c2a7da3-9fc1-4bbe-9027-4fbf943acb10",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386222,
@@ -1923,7 +1923,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Pires_CyclopediaEntry",
-        "ID": "04ae5aba-244a-4085-8f8a-b6d708d300d0",
+        "ID": "f3ef4676-f3f7-4033-b54d-2041b476417c",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386226,
@@ -1957,7 +1957,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Principi_sen_Patrena_CyclopediaEntry",
-        "ID": "3fd5d5c3-2daf-4785-b341-57ebf4721beb",
+        "ID": "a113daaf-710d-4f9a-b6c9-d7a4f3090c31",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386230,
@@ -1991,7 +1991,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Purges_CyclopediaEntry",
-        "ID": "b19d6bf7-80bf-46dc-a66e-5d183bf88e38",
+        "ID": "a4019108-0056-4493-834f-5db5ba86b1f6",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386234,
@@ -2025,7 +2025,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Pwgra_CyclopediaEntry",
-        "ID": "73572077-15b8-422a-bf9c-fe78b6335e66",
+        "ID": "a9dd4eca-6e6d-4f5e-a711-c745dc22df47",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386238,
@@ -2059,7 +2059,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Ranga_CyclopediaEntry",
-        "ID": "63e37464-3ff9-48fa-922b-d9d805c8cdfa",
+        "ID": "6fa5a949-1597-4e4b-b423-35c0b6d954ba",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386242,
@@ -2093,7 +2093,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Ranga_Nui_CyclopediaEntry",
-        "ID": "ffbfb7d8-d183-41e2-bbb6-ee954747bec3",
+        "ID": "cf2fd20f-ab20-4f27-b753-72659a2637c5",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386246,
@@ -2127,7 +2127,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Readceras_CyclopediaEntry",
-        "ID": "71b63281-fc4c-4a6a-9835-32bebd526ea8",
+        "ID": "f58abcc9-e8fe-40bb-a598-12af92b0eddf",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386250,
@@ -2161,7 +2161,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Rikuhu_CyclopediaEntry",
-        "ID": "7cd5e3ce-cb9e-4351-82f5-5ed33177c51f",
+        "ID": "f620d042-5351-4509-91f9-b19309d8e2bf",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386254,
@@ -2195,7 +2195,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_rohengabi_CyclopediaEntry",
-        "ID": "4da160cf-6258-497a-ad81-7ed44dcfb7ca",
+        "ID": "6d4088b9-d320-49ba-95d1-112e7810b036",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386258,
@@ -2229,7 +2229,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Roparu_CyclopediaEntry",
-        "ID": "275c8988-5270-4409-9a4f-d8947d024898",
+        "ID": "7c8d0329-c5fe-4640-a242-9cde510995d3",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386262,
@@ -2263,7 +2263,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Royal_Deadfire_Company_CyclopediaEntry",
-        "ID": "e4f8a8f4-e842-4a3d-9a2d-b793cc97da9e",
+        "ID": "a9b49e22-79c0-43d7-b4b8-80fe11899536",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386266,
@@ -2297,7 +2297,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Rymrgand_CyclopediaEntry",
-        "ID": "5ab3a876-1cb9-4ac4-b55a-12c37f965de5",
+        "ID": "11961611-a8b6-4b1e-bed2-bbccb89d93f1",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386270,
@@ -2331,7 +2331,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Saints_War_CyclopediaEntry",
-        "ID": "486e5b3c-cf04-422b-b85f-2daa180f12b5",
+        "ID": "b5b2ebb8-f37f-4f08-bf64-9256b7d0e657",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386274,
@@ -2365,7 +2365,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Salvation_CyclopediaEntry",
-        "ID": "521f90e4-319b-44f5-9f1e-cc9cbe471a94",
+        "ID": "a5385d5f-6298-476d-8639-833922e00610",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386278,
@@ -2399,7 +2399,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Skaen_CyclopediaEntry",
-        "ID": "e3206c8d-3926-4d20-9cb3-2508f394f002",
+        "ID": "97fc4f53-e577-4fbb-bfa9-61191c86b990",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386282,
@@ -2433,7 +2433,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Stormcaller_CyclopediaEntry",
-        "ID": "83faf5dc-d59b-4851-91f6-d6f7d0e0f1fa",
+        "ID": "baf25432-3607-4ec4-9b43-74fa77e8429e",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386286,
@@ -2467,7 +2467,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Svef_CyclopediaEntry",
-        "ID": "bca8fb00-edcb-44fd-b0eb-3ba5c6d81d79",
+        "ID": "a69fe3b5-ec1c-425f-b76c-59f67c3a7eab",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386290,
@@ -2501,7 +2501,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Tangaloa_CyclopediaEntry",
-        "ID": "03ddde73-f112-47b7-8f8c-9efdbc846554",
+        "ID": "9596f255-3335-4dc4-be90-5ad912421e16",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386294,
@@ -2535,7 +2535,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_thayn_CyclopediaEntry",
-        "ID": "a09b6208-adc2-498d-89bf-6293adeff3ab",
+        "ID": "f8ac013f-2e22-41ed-8b1b-cd169b684ada",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386298,
@@ -2569,7 +2569,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_the_defiant_CyclopediaEntry",
-        "ID": "65eac09e-83ef-46dc-8007-c7dd2e417c9e",
+        "ID": "2f379f02-01eb-4698-8323-b8ff93681de4",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386302,
@@ -2603,7 +2603,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Ukaizo_CyclopediaEntry",
-        "ID": "c9e50a67-0c15-41b7-8251-dd74fb692807",
+        "ID": "1f43f1c0-6760-4f96-aa9b-821aab6fe317",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386306,
@@ -2637,7 +2637,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Unworthy_CyclopediaEntry",
-        "ID": "5f063106-bb29-455a-8fe7-097a4e38d6d9",
+        "ID": "59d6c31b-82fa-4e59-bcc2-55ecb1dddf5a",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386310,
@@ -2671,7 +2671,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Vailian_Republics_CyclopediaEntry",
-        "ID": "5e93ba7b-889e-4dbb-a694-ac4905d06d2d",
+        "ID": "178ed34a-2560-4a31-a3db-36e03bb81787",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386314,
@@ -2705,7 +2705,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Vailian_Trading_Company_CyclopediaEntry",
-        "ID": "73c70d25-6c0d-40c3-94c4-3520d38f5c9b",
+        "ID": "78418bfc-1637-4862-a16b-f55b0ee4c86b",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386318,
@@ -2739,7 +2739,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Wael_CyclopediaEntry",
-        "ID": "87ff243e-a466-4f6f-916b-aad7396a06bc",
+        "ID": "b8a3d775-8459-4a3b-8995-ffd069d78358",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386322,
@@ -2773,7 +2773,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Wahana_CyclopediaEntry",
-        "ID": "b9187e57-4967-4d5b-8171-7ebfe2df708d",
+        "ID": "c7c0f4cb-3b39-48c8-ac2a-6f2bcf0dfd27",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386326,
@@ -2807,7 +2807,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Waidwens_Legacy_CyclopediaEntry",
-        "ID": "73b87b7a-638d-498f-b611-b6a38c624ab7",
+        "ID": "ec5264d6-b07f-4a65-b5ac-36daaf7b4db2",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386330,
@@ -2841,7 +2841,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Watcher_CyclopediaEntry",
-        "ID": "77e99a24-b06d-4bef-8dfe-e1c069519208",
+        "ID": "e151963f-71e6-4621-9910-d435511df17a",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386334,
@@ -2875,7 +2875,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_White_March_CyclopediaEntry",
-        "ID": "da520bc3-54fc-4329-a706-6c56742ce92d",
+        "ID": "6458b5cf-de62-4477-af46-013efd4bd299",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386338,
@@ -2909,7 +2909,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Wicht_CyclopediaEntry",
-        "ID": "a38ceba0-0ddd-4db1-b7e1-101f2808444b",
+        "ID": "6458bccc-6137-4164-81e2-fa74677d3d56",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386342,
@@ -2943,7 +2943,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_Woedica_CyclopediaEntry",
-        "ID": "90f87f0d-a951-4801-a587-f4aea1a8ccd5",
+        "ID": "94e7ff5f-23fa-4e25-99c6-4804b20792ec",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386346,
@@ -2977,7 +2977,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "GlossaryEntry_OndrasTears_CyclopediaEntry",
-        "ID": "776ebd44-c28f-4c94-a295-b1fe94abd8e9",
+        "ID": "b4ef4724-1ac8-4a00-b389-35cdd74dce1a",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386350,
@@ -3011,7 +3011,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_The_White_That_Wends_CyclopediaEntry",
-        "ID": "9dacf1a4-6044-4450-8a1e-b91d09b1fb9e",
+        "ID": "f32a7c16-a607-42a1-9f1e-9981a2c388f6",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386354,
@@ -3045,7 +3045,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Aptapo_CyclopediaEntry",
-        "ID": "db37795e-dd53-4070-a677-c12e0ffeacda",
+        "ID": "214e9740-3434-4c0a-bc4d-3fe9e0efe930",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386358,
@@ -3079,7 +3079,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Enutanik_CyclopediaEntry",
-        "ID": "d6faf07e-ab4e-4e3b-ad6f-044994ebf33a",
+        "ID": "f8f90f74-fd84-4687-a657-01fe6b9ce7d3",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386362,
@@ -3113,7 +3113,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_scelterfolc_CyclopediaEntry",
-        "ID": "278e2e66-8e12-4384-bd0d-5460d8778a36",
+        "ID": "a48b275e-6bac-437b-8565-d0b06c86fc4a",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386366,
@@ -3147,7 +3147,7 @@
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
         "DebugName": "glossaryentry_Ekkevit_CyclopediaEntry",
-        "ID": "4fb4ad35-cbf6-4e1b-98ec-ea55dd512a60",
+        "ID": "fb8ad0e9-5b3f-4fb6-b879-fc3503bbcee4",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
             "TermCyclopedia": 322386370,
