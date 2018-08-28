@@ -429,5 +429,19 @@ Ogni ispirazione è classificata da un attributo, come Vigore oppure Destrezza. 
       <DefaultText>I personaggi resistenti a un tipo di Alterazione riducono qualsiasi Alterazione di quel tipo a loro inflitta di un livello. Per esempio, un personaggio con Resistenza alle &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;&lt;#ff4800&gt;Alterazioni&#160;del Vigore &#160;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt; retrocederebbe da &lt;link="gamedata://fc2d1039-c512-484a-81e8-a843ba03df4e"&gt;&lt;#ff4800&gt;Stordito &lt;sprite="Inline" name="attribute_might" tint=1&gt;₃&lt;/color&gt;&lt;/link&gt; a &lt;link="gamedata://3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1"&gt;&lt;#ff4800&gt;Disorientato &lt;sprite="Inline" name="attribute_might" tint=1&gt;₂&lt;/color&gt;&lt;/link&gt;. Un'Alterazione &lt;link="gamedata://3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1"&gt;&lt;#ff4800&gt;Disorientato &lt;sprite="Inline" name="attribute_might" tint=1&gt;₂&lt;/color&gt;&lt;/link&gt; verrebbe retrocessa a &lt;link="gamedata://67f6a58b-658e-4c97-b0a2-5d53067dcbd8"&gt;&lt;#ff4800&gt;Sorpreso &lt;sprite="Inline" name="attribute_might" tint=1&gt;₁&lt;/color&gt;&lt;/link&gt; e un'Alterazione &lt;link="gamedata://67f6a58b-658e-4c97-b0a2-5d53067dcbd8"&gt;&lt;#ff4800&gt;Sorpreso &lt;sprite="Inline" name="attribute_might" tint=1&gt;₁&lt;/color&gt;&lt;/link&gt; fallirebbe.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>288372001</ID>
+      <DefaultText>La Routa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288372002</ID>
+      <DefaultText>Pensato per essere un progetto engwithiano, La Ruota - nota anche come "La Ruota di Berath" o "Ruota della Vita e della Morte" - facilita il processo di reincarnazione. Alla morte di una creatura vivente, la sua anima entra nel Mondo di Mezzo. Quando il Mondo di Mezzo si riempie, le anime si spostano verso l'Aldilà dove aspettano di essere riassegnate a nuovi corpi, nuove vite.
+
+Senza la Ruota, e quindi il mezzo per spostarsi nell'Aldilà, si ipotizza che le anime dei defunti rimarrebbero nel Mondo di Mezzo. L'Aldilà si svuoterebbe, finendo per terminare la vita come la conosciamo in Eora.
+
+Non è noto, tuttavia, quando la Ruota sia stata costruita o cosa, se non altro, sia arrivato prima.</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>

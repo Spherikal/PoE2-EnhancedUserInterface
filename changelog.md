@@ -1,13 +1,13 @@
 ## CHANGELOG
 ### Version 1.3.0
 - Added missing entries from the BoW DLC.
-- Changed the color of the Raw icon slighly.
+- Changed the color of the Raw icon slightly.
 - Changed the font for all rank 1 afflictions/inspirations.
 - Reduced the space between the rank number and the icon for the `Fit` inspiration.
 - Added missing entries containing the keyword `Defenses`.
 - The `{0}` value tag will no longer be colorized and will instead use the default UI color.
 - Changed the description of statuseffect ID `595` to something that's easier to comprehend.
-- Lots and lots of bugfixes.
+- Lots and lots of bug fixes.
 
 ### Version 1.2.4
 - Changed all custom entry ID's to something less likely to cause conflicts with other mods.
@@ -24,9 +24,9 @@
 
 ### Version 1.2.0
 **Aesthetics**
-- Removed all instaces of the <b> tag from the mod.
+- Removed all instances of the <b> tag from the mod.
 - Colorized all defense keyword texts to match the color of their icons (Will, Fortitude, Deflection and Reflex).
-- Colorzied all icons and entry names for the damage types Freeze, Shock, Corrode, Burn and Raw.
+- Colorized all icons and entry names for the damage types Freeze, Shock, Corrode, Burn and Raw.
 - Colorized the {0} tag so that the whole text is the same color (i.e. the text "+55 Health" should now have the same color). The following ID's have been edited:
 
   126, 127, 128, 129, 367, 368, 370, 371, 372, 1102, 1104, 1108, 1109, 1110, 1111, 1112, 1137, 1143, 1147, 1160, 1161, 1234, 1235, 1261, 1275, 1370, 1582, 1628, 1629, 1676, 1693, 2259, 2291, 2326, 2432, 2433, 3362, 4019.
@@ -36,11 +36,11 @@
 - Decreased the space between keyword and icon for the defenses Will and Reflex.
 
 **Bug fixes**
-- Removed a keyword from ID 180 (cyclopedia.stringtalbe) - "Windmill Slash".
+- Removed a keyword from ID 180 (cyclopedia.stringtable) - "Windmill Slash".
 - Removed a keyword from ID 150 (cyclopedia.stringtable) - "Snake's Reflexes".
 - Added a few missing line-height tags as well as a missing color tag (abilities, gui and statuseffects).
-- Freeze damage should now correctly be refrenced as Freeze damage not Freezing damage (where appropiate).
-- The Seeing Red enchantment should no longer display a < bracket next to it's name (ID 530 in gui.stringtables).
+- Freeze damage should now correctly be referenced as Freeze damage not Freezing damage (where appropriate).
+- The Seeing Red enchantment should no longer display a < bracket next to it's name (ID 530 in gui.stringtable).
 - Removed incorrectly applied stylization to a number of keywords (can't remember exactly which, check the commit for more info).
 - Added a ton of <xg> tags to avoid incorrect links to keywords.
 - Removed a bunch of unused entries.

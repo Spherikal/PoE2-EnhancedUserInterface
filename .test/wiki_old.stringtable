@@ -63,51 +63,7 @@
     </Entry>
     <Entry>
       <ID>322386026</ID>
-      <DefaultText>
-&lt;align="center"&gt;&lt;#b71c1c&gt;&lt;size=300%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;xg&gt;Berath&lt;/xg&gt;&lt;/font&gt;&lt;/size&gt;
-&lt;size=90%&gt;&lt;i&gt;&lt;#7f0000&gt;BEAR-ath&lt;/color&gt;&lt;/i&gt;&lt;/size&gt;&lt;/color&gt;
-
-&lt;b&gt;Aliases&lt;/b&gt;
-&lt;i&gt;The Twinned God, &lt;xg&gt;Cirono&lt;/xg&gt;, &lt;xg&gt;Rikuhu&lt;/xg&gt;,
-Bewnen i Ankew / Ankew i Bewnen,
-The Pallid Knight, The Usher&lt;/i&gt;
-
-&lt;b&gt;Dominion&lt;/b&gt;
-&lt;i&gt;Cycles, Doorways, Portals,
-Mortality, &lt;xg&gt;Death&lt;/xg&gt;, Inevitability&lt;/i&gt;
-
-&lt;b&gt;Icons&lt;/b&gt;
-&lt;i&gt;A keyhole, a jawless skull, or a skull
-incorporated into a doorway or keyhole&lt;/i&gt;
-
-&lt;b&gt;Allies&lt;/b&gt;
-&lt;i&gt;&lt;link="stringtooltip://cyclopedia/232"&gt;Rymrgand&lt;/link&gt;&lt;/i&gt;
-
-&lt;b&gt;Foes&lt;/b&gt;
-&lt;i&gt;None&lt;/i&gt;&lt;/align&gt;
-
-&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;B&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
-&lt;line-indent=15em&gt;erath is the god of cycles, of doors, and of life and death itself. People commonly 
-place or carve the figure of Berath in doorways, windows, and other “portals” from
-one place to another, figurative or literal. People commonly refer to Berath using neutral pronouns like “it,” though specific manifestations (e.g., the Pallid Knight, who appears female) are often gendered.&lt;/line-indent&gt;&lt;/line-height&gt;
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Origins&lt;/b&gt;&lt;/voffset&gt;
-In Eir Glanfath’s ruins, explorers have discovered two common figures, Bewnen i Ankew and Ankew i Bewnen ("Life in Death" and "Death in Life" respectively), semiskeletal female and male figures who occupy positions opposite each other in doorways— like a twinned display of the split aspects of Berath/&lt;link="stringtooltip://cyclopedia/616"&gt;Cirono&lt;/link&gt;.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Clergy and Followers&lt;/b&gt;&lt;/voffset&gt;
-Berath has a relatively small priesthood, in part because it does not speak often to its members. However, Berath has many, many petitioners and occasional followers.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;&lt;xg&gt;Berath and Rymrgand&lt;/xg&gt;&lt;/b&gt;&lt;/voffset&gt;
-Berath and Rymrgand share a complicated relationship within the divine pantheon. Though both figures lord over death, Berath is viewed as having dominion over death’s cycle, while Rymrgand is the master of entropy. Some theologians believe Rymrgand would prefer the cycle dismantled, the souls who take part in it disintegrated. This oppositional standpoint is reflected in Rymrgand’s worshipers, who view their resurrections as punishments instead of blessings.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Manifestations&lt;/b&gt;&lt;/voffset&gt;
-&lt;i&gt;The Pallid Knight&lt;/i&gt; is a manifestation of Berath that has appeared in legends for at least three centuries. In these legends, someone escapes or otherwise cheats death and encounters (or is pursued by) a gaunt female knight in black armor with black hair and eyes and “milkpale” skin. The knight demands an impossible-to-pay toll for traveling on her lord’s road for too long. The implication is always that the person has overstayed their welcome in the mortal world and it is time for them to move on. Sometimes the person surrenders to the knight, sometimes they attack the knight and wind up killing themselves in the process, and sometimes they flee from the knight and stumble into the Usher.
-
-&lt;i&gt;The Usher&lt;/i&gt; is a very old manifestation of Berath. In stories, he often appears much more obviously supernatural than the Pallid Knight, with skeletal features or simply as a walking skeleton. The Usher is typically human, but occasionally appears as a dwarf. Unlike the Pallid Knight, the Usher never speaks, but simply creates a circumstance for the unwitting and unwilling to march to their doom (sometimes directly into their own grave).
-
-Sometimes these manifestations appear alone, but often they are paired, with the Pallid Knight “blocking” the way and the Usher opening the door to the afterlife. The Pallid Knight is a more martial and confrontational figure (in part because she also speaks), while the Usher is more subdued, inviting, and occasionally deceptive.
-
-&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;-&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,45 +78,22 @@ Sometimes these manifestations appear alone, but often they are paired, with the
     </Entry>
     <Entry>
       <ID>322386029</ID>
-      <DefaultText>&lt;xg&gt;
-&lt;align="center"&gt;&lt;#b71c1c&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=300%&gt;Rikuhu&lt;/size&gt;&lt;/color&gt;
-&lt;#9a0d0d&gt;&lt;size=200%&gt;Kohopa &amp; Tangaloa&lt;/size&gt;&lt;/color&gt;&lt;/font&gt;
-
-&lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="pro_huana" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
-
-&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;M&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
-&lt;line-indent=15em&gt;any &lt;link="stringtooltip://cyclopedia/621"&gt;Huana&lt;/link&gt; worship &lt;link="stringtooltip://cyclopedia/220"&gt;Berath&lt;/link&gt; as “Rikuhu”, the twin eel god that represents the cyclic
-connection between overworld and underworld, life and death. The symbol of
-Rikuhu depicts two eels in a circular configuration, each devouring the other by the&lt;/line-indent&gt;&lt;/line-height&gt;
-tail. The topmost eel is &lt;link="stringtooltip://cyclopedia/322386032"&gt;Kohopa&lt;/link&gt;, representing life and the known world. The lowermost is &lt;link="stringtooltip://cyclopedia/322386030"&gt;Tangaloa&lt;/link&gt;, representing death and the world beyond mortal understanding.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Folklore&lt;/b&gt;&lt;/voffset&gt;
-In Huana folklore, Kohopa and Tangaloa were born before time existed, and each had an insatiable appetite. They began to devour all living things, and with each thing devoured, they became larger. When there were no living things left to eat, and the two eels were so enormous as to encompass all existence, they began to devour one another. Thus, all beings are perpetually passing through the digestive tracts of the two eels. When one reaches the end, it passes through the mouth of the next eel - the gateway to or from the underworld - and the next stage of existence begins. The notion of time is merely one's perception of the digestive process.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Clergy&lt;/b&gt;&lt;/voffset&gt;
-Priests of Rikuhu commemorate their role in the cycle by delivering sermons from within the skeletal jaws of giant eels. This signifies their responsibility to pass on the wisdom of the dead to the realm of the living, as they take it upon themselves to prepare the community in mind and soul for their next voyage through the turn of &lt;link="stringtooltip://cyclopedia/322386034"&gt;the Wheel&lt;/link&gt;.
-
-&lt;voffset=0.2em&gt;&lt;b&gt;Death and Reincarnation in the Archipelago&lt;/b&gt;&lt;/voffset&gt;
-The Huana do not generally fear death and its communion with the eternal cycle (no more than any other &lt;link="stringtooltip://cyclopedia/952"&gt;kith&lt;/link&gt;), but some disagree on the structure on which this cycle is built. Among the more fervent and enthused of religious worshipers, a whispered belief holds that time exists within Rikuhu alone, and outside of the eels stretches the void and eternal dream from which all things once sprang. They imagine an existence without duration or knowing, where &lt;link="stringtooltip://cyclopedia/381"&gt;Amira&lt;/link&gt; and the rest of the great beasts still roam. In this unimaginable vista, the souls of all beings comingle with their ancestors and descendants simultaneously. If Kohopa and Tangaloa were satiated (or even killed), then their bodies would separate and kith could rejoin the paradise and dream that was stripped from them so long ago.&lt;/xg&gt;
-
-&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;-&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322386030</ID>
-      <DefaultText>Tangaloa is the god of of death and the underworld. Often depicted entwined with it's sibling Kohopa, god of the overworld and life. Together they form the god Rikuhu: the Huana manifestation of Berath— god of cycles, of doors, and of life and death itself.</DefaultText>
+      <DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322386031</ID>
-      <DefaultText>Rikuhu is the twin eel god that represents the cyclic connection between overworld and underworld, life and death. Often depicted with the two constituent eels: Kohopa, representing the overworld and life, and Tangaloa, who represents underworld and death, devouring one another by the tail.
-
-Due to their similarities, Rikuhu is often described as the Huana's manifestation of Berath— the god of cycles, of doors, and of life and death itself.</DefaultText>
+      <DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322386032</ID>
-      <DefaultText>Kohopa is the god of of life and the overwold. Often depicted entwined with it's sibling Tangaloa, god of the underworld and death. Together they form the god Rikuhu: the Huana manifestation of Berath— god of cycles, of doors, and of life and death itself.</DefaultText>
+      <DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
