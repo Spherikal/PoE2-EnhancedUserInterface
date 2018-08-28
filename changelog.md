@@ -7,6 +7,7 @@
 - Added missing entries containing the keyword `Defenses`.
 - The `{0}` value tag will no longer be colorized and will instead use the default UI color.
 - Changed the description of statuseffect ID `595` to something that's easier to comprehend.
+- Added an italian translation of the new cyclopedia entry for “The Wheel”.
 - Lots and lots of bug fixes.
 
 ### Version 1.2.4
