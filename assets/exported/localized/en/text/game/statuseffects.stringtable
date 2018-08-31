@@ -1382,7 +1382,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Sicken for 12.0 sec on scoring Crit. Opposed by Fortitude</DefaultText>
+      <DefaultText>Sicken for {0:extravalue:duration} on scoring Crit (Opposed by Fortitude)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
