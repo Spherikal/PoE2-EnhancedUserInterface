@@ -4,7 +4,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4425</EntryCount>
+  <EntryCount>4451</EntryCount>
   <Entries>
     <Entry>
       <ID>126</ID>
@@ -721,6 +721,36 @@ Increased Recovery Time for Wizard Spells not of the Enchanting School.&lt;/line
     <Entry>
       <ID>4757</ID>
       <DefaultText>&lt;line-height=100%&gt;&lt;#bf2a2a&gt;{0} {1} reputation lost with {2}.&lt;/color&gt;&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>Armor Damaged!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Armor Broken!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>Weapon Damaged!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>Weapon Broken!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>Shield Damaged!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>Shield Broken!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3325</EntryCount>
+  <EntryCount>3341</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Calls a field of unearthly blades into existence, inflicting immediate Slash or Pierce damage and a Hobbling enemies in the area of effect.</DefaultText>
+      <DefaultText>Calls a field of unearthly blades into existence, inflicting immediate Slash or Pierce damage and Hobbling enemies in the area of effect.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6674,7 +6674,7 @@ Start with an additional Weapon Set and Weapon Proficiency.
 Reduced Recovery time penalty when switching weapons.
 
 &lt;b&gt;Penalty&lt;/b&gt;
-Loses Constant &lt;xg&gt;Recovery&lt;/xg&gt;.</DefaultText>
+Constant &lt;xg&gt;Recovery&lt;/xg&gt; is less effective.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12656,7 +12656,7 @@ All Wound abilities cost +1 Wound.</DefaultText>
     </Entry>
     <Entry>
       <ID>3636</ID>
-      <DefaultText>(Rapid Recovery) - Increases the amount of health regenerated.</DefaultText>
+      <DefaultText>(Rapid &lt;xg&gt;Recovery&lt;/xg&gt;) - Increases the amount of health regenerated.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13137,7 +13137,7 @@ All Wound abilities cost +1 Wound.</DefaultText>
     </Entry>
     <Entry>
       <ID>3746</ID>
-      <DefaultText>Wael is the god of dreams, secrets, mysteries, and revelations. Inscrutable even to the other gods, Wael has no determinate gender or consistent appearance. Its symbol is the eye, though the look and number of the eyes often change. People pray to Wael both to protect their secrets as well as to unravel the mysteries in front of them. Followers of Wael are known for many Strange and unusual practices, possibly for good reasons, possibly for no reason at all.</DefaultText>
+      <DefaultText>Wael is the god of dreams, secrets, mysteries, and revelations. Inscrutable even to the other gods, Wael has no determinate gender or consistent appearance. Its symbol is the eye, though the look and number of the eyes often change. People pray to Wael both to protect their secrets as well as to unravel the mysteries in front of them. Followers of Wael are known for many strange and unusual practices, possibly for good reasons, possibly for no reason at all.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14544,7 +14544,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4094</ID>
-      <DefaultText>While Bonnie is following you around some enemy attacks against you will Graze instead of Hit, and some enemy attacks against your party will Hit instead of Crit.</DefaultText>
+      <DefaultText>While Bonnie is following you around some enemy attacks against you will Graze instead of Hit, and some enemy weapon attacks against your party will Hit instead of Crit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15024,7 +15024,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4276</ID>
-      <DefaultText>Gain Immunity to Constitution Afflictions while Unharmed or Healthy,</DefaultText>
+      <DefaultText>Gain Immunity to Constitution Afflictions while Unharmed or Healthy.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15439,7 +15439,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4361</ID>
-      <DefaultText>Aura that inflicts Raw Damage over time to nearby enemies and lowers their Armor Rating. (Full Damage is dealt to those nearest to death)</DefaultText>
+      <DefaultText>Aura that lowers the Armor Rating of nearby enemies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16134,7 +16134,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4542</ID>
-      <DefaultText>Undecisive</DefaultText>
+      <DefaultText>Indecisive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16229,12 +16229,12 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4563</ID>
-      <DefaultText>Engaging and enemy for the first time in combat Interrupts the target.</DefaultText>
+      <DefaultText>Engaging an enemy for the first time in combat Interrupts the target.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4564</ID>
-      <DefaultText>Everyone in your party receives double the normal skill bonus from their class.</DefaultText>
+      <DefaultText>Everyone in your party receives an additional skill bonus from their class or classes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16706,7 +16706,7 @@ None.</DefaultText>
     </Entry>
     <Entry>
       <ID>4687</ID>
-      <DefaultText>Increases Penetration for a brief time.</DefaultText>
+      <DefaultText>Increases Penetration with this weapon for a brief time at the beginning of each combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16835,43 +16835,8 @@ None.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4797</ID>
-      <DefaultText>Merge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4800</ID>
-      <DefaultText>Covalent Bond</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4801</ID>
-      <DefaultText>Corrosive Solvent</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4802</ID>
-      <DefaultText>Helfire Barrage</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4803</ID>
-      <DefaultText>Magnetic Overdrive</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4804</ID>
-      <DefaultText>Helfire Iron</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4805</ID>
       <DefaultText>Immunity: Interrupts</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4806</ID>
-      <DefaultText>Symbiote</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16902,16 +16867,6 @@ None.</DefaultText>
     <Entry>
       <ID>4820</ID>
       <DefaultText>Guilt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4821</ID>
-      <DefaultText>Charge Helstorm</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4822</ID>
-      <DefaultText>Brutal Cleave</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16955,63 +16910,8 @@ None.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4836</ID>
-      <DefaultText>Shattering Screech</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4837</ID>
-      <DefaultText>Consume</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4838</ID>
-      <DefaultText>Catalyzing Venom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4839</ID>
-      <DefaultText>Call Hatchlings</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4840</ID>
-      <DefaultText>Stand Ground</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4841</ID>
-      <DefaultText>Sigil Assault</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4842</ID>
-      <DefaultText>Concerted Assault</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4843</ID>
-      <DefaultText>Endless Assault</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4844</ID>
-      <DefaultText>Globe of Invulnerability</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4845</ID>
-      <DefaultText>Last Trick</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4846</ID>
       <DefaultText>Charged With Soul Energy</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4851</ID>
-      <DefaultText>Wrath of the Empress</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17032,6 +16932,186 @@ None.</DefaultText>
     <Entry>
       <ID>4866</ID>
       <DefaultText>Imbues the caster with the ferocity of a dragon, causing their melee attacks to deal additional Slash and Burn damage. While active, enemies that attack the caster with melee weapons must resist their fears or be Terrified.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4868</ID>
+      <DefaultText>Timeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4869</ID>
+      <DefaultText>This aura grants the wearer and nearby allies a slight protection against hostile effects. In the hands of a Darcozzi Paladini, the effect is much greater.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4870</ID>
+      <DefaultText>Timeless Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4871</ID>
+      <DefaultText>(Timeless Flame) - Allies now also receive Burn Armor (In the hands of a Darcozzi Paladini, the effect is much greater).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4872</ID>
+      <DefaultText>Timeless Perseverence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4873</ID>
+      <DefaultText>(Timeless Perseverence) - Protection against hostile effects is increased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4874</ID>
+      <DefaultText>Lover's Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4875</ID>
+      <DefaultText>You and an ally you choose to bond with become immune to Intellect Afflictions until the end of combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4876</ID>
+      <DefaultText>Commitment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4877</ID>
+      <DefaultText>Grants additional Resolve while near a bonded ally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4878</ID>
+      <DefaultText>The Gallows Breaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4879</ID>
+      <DefaultText>Nearby allies benefit from the soothing sound of the mouth organ, gaining increased Power Level for Drug type consumables. (Increasing their beneficial duration and the time until their crash penalty)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4880</ID>
+      <DefaultText>While Cajux is following you around, you regain some Health when you deal the killing blow against an enemy, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4881</ID>
+      <DefaultText>While Chloë is following you around, you are more accurate with melee attacks, and your party gains additional defense against attacks that apply Afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4882</ID>
+      <DefaultText>While Dude the Six-Toes Cat is following you around, you regain some Health when you deal the killing blow against an enemy, and your party is less likely to be Hit by attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4883</ID>
+      <DefaultText>While Epsilon is following you around, your recovery penalty from armor is reduced, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4884</ID>
+      <DefaultText>While Ludde is following you around, you gain bonus Perception, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4885</ID>
+      <DefaultText>While Misty is following you around, you gain additional deflection against melee attacks, and your party benefits from increase area of effect size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4886</ID>
+      <DefaultText>While Noah is following you around, you move more quickly in combat, and your party's attacks are less likely to miss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4887</ID>
+      <DefaultText>While Zorro is following you around, you gain bonus Resolve, and your party gains bonus Reflex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4888</ID>
+      <DefaultText>While Hati is following you around, you gain bonus Might, and your party receives a bonus to Reflex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4889</ID>
+      <DefaultText>While Levin is following you around, you gain bonus Intellect, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4890</ID>
+      <DefaultText>While Pes is following you around, your melee damage is increased, and your party's melee attacks are more likely to Critically Hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4891</ID>
+      <DefaultText>While Rex is following you around, your area of effect attacks deal more damage, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4892</ID>
+      <DefaultText>While Sheba is following you around, you gain bonus Perception, and your party's melee attacks are more likely to Critically Hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4893</ID>
+      <DefaultText>While Ulk is following you around, you gain bonus Might, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4896</ID>
+      <DefaultText>Lash out with a rear tail attack, dealing high Crush damage to those caught in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4898</ID>
+      <DefaultText>Devious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4899</ID>
+      <DefaultText>Gain additional Penetration when attacking the same target as an ally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4901</ID>
+      <DefaultText>While not Flanked, the wearer has Resistance to Perception Afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4902</ID>
+      <DefaultText>(Black Jacket) - Reduces the amount of health regenerated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4906</ID>
+      <DefaultText>Living Illusions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4907</ID>
+      <DefaultText>Construct several illusory images of yourself. These images have very little health, but will fight on your behalf and distract enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4908</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4909</ID>
+      <DefaultText>Mystical Celerity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4910</ID>
+      <DefaultText>While affected by a Mind Inspiration, spells cast more quickly.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

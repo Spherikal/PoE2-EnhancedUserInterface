@@ -3738,12 +3738,61 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
     </Entry>
     <Entry>
       <ID>4871</ID>
-      <DefaultText>(Timeless Flame) - Allies now also receive Burn Armor (In the hands of a Darcozzi Paladini, the effect is much greater).</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;(Timeless Flame) - Allies now also receive Burn Armor (In the hands of a Darcozzi Paladini, the effect is much greater).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4875</ID>
-      <DefaultText>You and an ally you choose to bond with become immune to &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellect&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt; until the end of combat.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;You and an ally you choose to bond with become immune to &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellect&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt; until the end of combat.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry><Entry>
+      <ID>4880</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Cajux is following you around, you regain some &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; when you deal the killing blow against an enemy, and your party moves more quickly in combat.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4882</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Dude the Six-Toes Cat is following you around, you regain some &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; when you deal the killing blow against an enemy, and your party is less likely to be Hit by attacks.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4887</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Zorro is following you around, you gain bonus Resolve, and your party gains bonus &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4888</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Hati is following you around, you gain bonus Might, and your party receives a bonus to &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4896</ID>
+      <DefaultText>&lt;line-height=100%&gt;Lash out with a rear tail attack, dealing high &lt;link="glossary://GlossaryEntry_Crushing"&gt;Crush&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/link&gt; damage to those caught in the area.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4899</ID>
+      <DefaultText>&lt;line-height=100%&gt;Gain additional &lt;link="glossary://GlossaryEntry_Penetration"&gt;Penetration&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/link&gt; when attacking the same target as an ally.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4901</ID>
+      <DefaultText>&lt;line-height=100%&gt;While not Flanked, the wearer has Resistance to &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Perception&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4902</ID>
+      <DefaultText>&lt;line-height=100%&gt;(Black Jacket) - Reduces the amount of &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; regenerated.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4907</ID>
+      <DefaultText>&lt;line-height=100%&gt;Construct several illusory images of yourself. These images have very little &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;, but will fight on your behalf and distract enemies.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4910</ID>
+      <DefaultText>&lt;line-height=100%&gt;While affected by a &lt;link="glossary://GlossaryEntry_Mind_Inspiration"&gt;Mind Inspiration&lt;/link&gt;, spells cast more quickly.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

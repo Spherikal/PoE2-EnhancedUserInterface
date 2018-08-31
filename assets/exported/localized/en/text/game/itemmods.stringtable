@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1055</EntryCount>
+  <EntryCount>1093</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -4761,7 +4761,7 @@
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Undecisive</DefaultText>
+      <DefaultText>Indecisive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5215,11 +5215,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1662</ID>
-      <DefaultText>Mythic</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1666</ID>
       <DefaultText>Gore</DefaultText>
       <FemaleText />
@@ -5277,6 +5272,201 @@
     <Entry>
       <ID>1678</ID>
       <DefaultText>Bloody Momentum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Timeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Timeless Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>Timeless Perseverence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>Symbol of Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Beacon of Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Symbol of Courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>Commitment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Lover's Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText>The Gallows Breaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText>Cajux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Chloë</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Dude the Six-Toes Cat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>Epsilon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Ludde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>Misty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Noah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Zorro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Levin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>Pes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>Rex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>Sheba</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>Ulk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Minor Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Moderate Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>Light</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>Captain's Favor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>Dragon Tempered</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Broken Curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>Armor Piercing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Parched Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Greater Blood Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Living Illusions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>Mind Over Matter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText>Mystical Celerity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Near Broken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Socrates</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>Ickis</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

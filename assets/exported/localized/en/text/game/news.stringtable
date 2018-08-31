@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\news</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -158,6 +158,17 @@ Included in this DLC:
     <Entry>
       <ID>24</ID>
       <DefaultText>New consumable items and Mirke, a new sidekick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Far in the southernmost reaches of the Deadfire Archipelago, frost and death have encroached upon the land of the living. You, Watcher, have received a missive from the isle's residents: worshipers of Rymrgand, the god of entropy and disaster. They call you Duskspeaker, a harbinger of the end, and pray you fulfill your destiny.  
+ 
+In this new DLC for Pillars of Eternity II: Deadfire,
+•	Embark upon an adventure that will take you to Hel itself. 
+•	Join forces with Vatnir, an Endings Godlike and Priest of Rymrgand, to bring battle to the monstrosities that roam the Beyond. 
+•	Confront an ancient dragon, whom even the gods fear, before she brings Eora to an icy end.
+</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

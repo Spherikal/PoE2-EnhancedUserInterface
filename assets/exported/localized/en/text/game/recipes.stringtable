@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>597</EntryCount>
+  <EntryCount>610</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Remove Calmo's Curse</DefaultText>
+      <DefaultText>Broken Curse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>Remove Whispers of the Dead</DefaultText>
+      <DefaultText>Silence the Dead</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2965,11 +2965,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>816</ID>
-      <DefaultText>Mythic</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>819</ID>
       <DefaultText>Tempered Fury</DefaultText>
       <FemaleText />
@@ -2987,6 +2982,76 @@
     <Entry>
       <ID>822</ID>
       <DefaultText>Wanton Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Wolf's Tenacity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Wolf's Ferocity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Bloody Mess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>Bloody Momentum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Timeless Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Timeless Perseverence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Symbol of Courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Beacon of Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>Repair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Minor Repairs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Moderate Repairs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Major Repairs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Repair</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

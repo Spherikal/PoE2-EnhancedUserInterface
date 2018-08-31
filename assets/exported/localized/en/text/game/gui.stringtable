@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4425</EntryCount>
+  <EntryCount>4451</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1012,7 +1012,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Autopause if a party member's attack is ineffective because of the target's Damage Reduction.</DefaultText>
+      <DefaultText>Autopause if a party member's attack is ineffective because of the target's Armor Rating.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10133,7 +10133,7 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     </Entry>
     <Entry>
       <ID>2196</ID>
-      <DefaultText>Soulbound Weapon</DefaultText>
+      <DefaultText>Soulbound Item</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13322,7 +13322,7 @@ Start with an additional Weapon Set and Weapon Proficiency.
 Reduced Recovery time penalty when switching weapons.
 
 &lt;b&gt;Penalty&lt;/b&gt;
-Loses Constant &lt;xg&gt;Recovery&lt;/xg&gt;.</DefaultText>
+Constant &lt;xg&gt;Recovery&lt;/xg&gt; is less effective.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22644,17 +22644,17 @@ You will have a chance to review the mod's Workshop page before making it visibl
     </Entry>
     <Entry>
       <ID>4975</ID>
-      <DefaultText />
+      <DefaultText>Select an item to Enchant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4976</ID>
-      <DefaultText />
+      <DefaultText>No items to enchant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4977</ID>
-      <DefaultText />
+      <DefaultText>Requirements for {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

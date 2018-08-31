@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2831</EntryCount>
+  <EntryCount>2899</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2234,19 +2234,20 @@ Day comes soon, prepare for the dawn. Nothing is hidden from his reach."</Defau
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>"The Ethik Nol is a group both fascinating and dangerous. An ancient druidic order, its beliefs fall well outside what the average person might imagine of druids. 
+      <DefaultText>"The Ethik Nôl is a group both fascinating and dangerous. An ancient druidic order, its beliefs fall well outside what the average person might imagine of druids. 
 
-Though details are sketchy, the Ethik Nol would seem to have originated in the White March, as the order itself consists mostly of dwarves. The traditional druidic chants of the Ethik Nol speak of the people as a ‘collective whole’ that ‘created a necessary balance’ through their ‘strict adherence to the purity’ of their line. This has been interpreted by historical chroniclers to mean that there was a time when only dwarves were allowed to be Ethik Nol.
+Though details are sketchy, the Ethik Nôl would seem to have originated in the White March, as the order itself consists mostly of dwarves. The traditional druidic chants of the Ethik Nôl speak of the people as a ‘collective whole’ that ‘created a necessary balance’ through their ‘strict adherence to the purity’ of their line. This has been interpreted by historical chroniclers to mean that there was a time when only dwarves were allowed to be Ethik Nôl.
 
-Residing now in Twin Elms, records of the Ethik Nol date back to well before the settlement had arrived at its present name, and in fact, some information places them in Twin Elms even before the Glanfathans arrived. If this is truly the case, the Ethik Nol are one of the oldest druidic orders in existence.
+Residing now in Twin Elms, records of the Ethik Nôl date back to well before the settlement had arrived at its present name, and in fact, some information places them in Twin Elms even before the Glanfathans arrived. If this is truly the case, the Ethik Nôl are one of the oldest druidic orders in existence.
 
 Their beliefs don't conform to what is normally viewed as a ‘druidic viewpoint.’ Sacrifice, blood, fire, and an intense drive for balance in all things (well beyond most druidic standards) pervade their rituals. Core to this is the dogma that if you want something from the universe, you must also sacrifice something into the universe to maintain the balance. Nothing can ever be received without something first being given. If you perform the sacrifice, your desires will always be satiated. The simplest example of the sacrificial balance as explained to the author went as thus:
 
-‘Say you are one of these Ethik Nol. And say you want your daughter's marriage to go well. You don't want problems. So you ask of the elders what you must do. You are told what the appropriate sacrifice is, and then you perform it. In this case, it could be as simple as throwing some coins into lava, giving the metal back to the earth. Sacrificing something that is important to you, right? But the requirement is always different and you don't know what is expected of you until you're asked. The more significant request, the more significant the demand. And most things of true value must be paid in blood.’
+‘Say you are one of these Ethik Nôl. And say you want your daughter's marriage to go well. You don't want problems. So you ask of the elders what you must do. You are told what the appropriate sacrifice is, and then you perform it. In this case, it could be as simple as throwing some coins into lava, giving the metal back to the earth. Sacrificing something that is important to you, right? But the requirement is always different and you don't know what is expected of you until you're asked. The more significant request, the more significant the demand. And most things of true value must be paid in blood.’
 
 I was told of people removing fingers, toes, even whole limbs. One farmer was reputed to have sacrificed his youngest son.
 
-Another good question many people have raised is in regards to the Glanfathans. Why do they allow such a potentially violent, possibly dangerous group to live in Eir Glanfath? Why not force them out? Rumors are that the Ethik Nol are able to make from an ancient recipe a unique war paint, apparently blood-based, and they are the only people in the world who can. The Glanfathans, it is said, have come to believe this war paint provides tremendous advantage in combat, and the residence of the Ethik Nol in Twin Elms is predicated on the fair trade of the substance."</DefaultText>
+Another good question many people have raised is in regards to the Glanfathans. Why do they allow such a potentially violent, possibly dangerous group to live in Eir Glanfath? Why not force them out? Rumors are that the Ethik Nôl are able to make from an ancient recipe a unique war paint, apparently blood-based, and they are the only people in the world who can. The Glanfathans, it is said, have come to believe this war paint provides tremendous advantage in combat, and the residence of the Ethik Nôl in Twin Elms is predicated on the fair trade of the substance."
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12498,34 +12499,6 @@ You're not sure where the eye patch came from, but it reeks of rum.
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4349</ID>
-      <DefaultText>The Maw of Ingimyrk</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4350</ID>
-      <DefaultText>The elder wolf Ingimyrk stalked the northern shores of the White that Wends for a generation, preying on kith and beast alike. The great gray predator seemed a monster out of legend, as swift as the wind and intelligent enough to mask its movements with the weather - a shadow in a snow storm.
-
-After his cousin fell to the beast's fangs, the hero Jyrfe set out to prove himself stronger than the storm. He tracked the wolf over much of the White that Wends, sheltering with tribes that had felt the predator's touch and speaking to those who lost kin to Ingimyrk. He studied the creature as one might any enemy, gathering tales of her attacks. Through his gathered intelligence, the Glamfellen realized that which had occurred to no other - those killed by Ingimyrk were almost always important figures within their tribes.
-
-Jyrfe set out on his final hunt, his attention turned to one of the traders who moved between camps in the southern lands. He returned short an arm, but bore Ingimyrk's head in recompense. 
-
-He fashioned from it a helm he wore into his final days. He gifted it to his daughter Frygn, who would later travel the Deadfire recording the legends of those lands. When asked about the unusual headpiece, Frygn spoke at length of her father's many exploits but never of the wolf Ingimyrk. Some hunts, she said, were best left unsung.
-</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4351</ID>
-      <DefaultText>Once common among the most experienced fishermen and shark hunters of the Huana tribes, cloaks like this were stitched together from layers of vellum-thick seal hide and oiled against the elements. They not only served the practical purpose of keeping the wearer relatively warm and dry while protecting them from snapping teeth and lashing tentacles, but also denoted status; an individual draped in these hides willingly braved Ngati's unforgiving domain to support the tribe. This particular cloak bears the signs of years of hard use, its stitching frayed and edges ragged. Despite the obvious wear, the mantle's hardy construction continues to ward off water and chill alike.
-</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4352</ID>
-      <DefaultText>Hakori's Refuge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4353</ID>
       <DefaultText>Horns</DefaultText>
       <FemaleText />
@@ -12553,11 +12526,6 @@ He fashioned from it a helm he wore into his final days. He gifted it to his dau
     <Entry>
       <ID>4358</ID>
       <DefaultText>This key was acquired from Marihi, proprietor of Marihi's Metalwork in Periki's Overlook.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4359</ID>
-      <DefaultText>Crucible Token</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12644,30 +12612,6 @@ Ironically, in learning that the gods had been fabricated, Edér found his faith
     <Entry>
       <ID>4378</ID>
       <DefaultText>A blessing from Hylea for fulfilling your promise to her, this strange food provides sustenance and comes with the goddess' blessing.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4379</ID>
-      <DefaultText>Kāhako Nihi</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4380</ID>
-      <DefaultText>Even donning this brigandine coat demands deftness. Its jagged metal plates protrude at odd angles, jutting from among layers of frayed gambeson and punctured leather and lending the armor a rough, almost dilapidated, cast. The sharp edges prove a boon in the tight matches of the pit, however, lacerating a foe who gets too close or damaging their weapon. 
-
-Osara Haru, a wealthy stakeholder in the Royal Deadfire Company and an unabashed patron of the Crucible, commissioned Kāhako Nihi in her homeland for a fighter she'd taken particular interest in, only to find the woman had perished in single combat against a drake before the winds effected Haru's return. Unwilling to waste a resource, Haru offered up the armor as a prize to the gladiator who claimed the drake's head.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4381</ID>
-      <DefaultText>The Best Defense</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4382</ID>
-      <DefaultText>The vindictive contestants of the Crucible gave birth to this brutal buckler design. A barbed steel spike projects from its center, designed to punch through plate, chain, and skin, and no amount of scouring will cleanse the bloodstains from its base. The buckler's presence inspires fearful cringes from combatants and sympathetic winces from gentler audience members, evoking uninvited tales of seemingly lost battles turned by a timely shield bash to the gut, groin, or eye. 
-
-Though none seem to know who first crafted this buckler, Kazuwari denizens attest that dozens have worn it into the pit over the years of fighting. Your inheritance of it suggest that its previous bearers have learned the cruel final lesson of the Crucible: even those bearing the best arms inevitably pay the pit its due.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12859,18 +12803,6 @@ Should you have the stamina for a good climb, the palace atop Serpent's Crown co
 
 Regards, 
 Queen Onekaza II</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4424</ID>
-      <DefaultText>Keeper of the Flame</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4425</ID>
-      <DefaultText>Modern priests of Magran favor swords and firearms, but some early Magranite warriors in Grand Vailia bore armaments called thuribles, sturdy censers suspended from a simple handle by a length of chain. Thuribles burned a mixture of olive oil and incense, which showered across the unfortunate victim of the Magranite's wrath. The fuel almost inevitably splattered the wielder as well, a penance eagerly accepted by worshipers of the goddess of flame as proof of their devotion.
-
-Though some temples of Magran continue to employ thuribles in a ritual capacity, few examples of the martial form still exist. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13771,7 +13703,7 @@ At the bottom, someone has scrawled, "Make for Eolina and Jun when I get back ho
     </Entry>
     <Entry>
       <ID>4639</ID>
-      <DefaultText>While Bonnie is following you around some enemy attacks against you will Graze instead of Hit, and some enemy attacks against your party will Hit instead of Crit.</DefaultText>
+      <DefaultText>While Bonnie is following you around some enemy attacks against you will Graze instead of Hit, and some enemy weapon attacks against your party will Hit instead of Crit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14039,8 +13971,63 @@ As a symbol of her new station, Pallegina was presented with this gleaming breas
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4705</ID>
+      <DefaultText>Take {0} damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Cast {0} Priest spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Apply {0} Might Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Cast {0} Chanter invocations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Cast {0} Priest Protection or Restoration spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Cast {0} Beasts or Plant Druid Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4712</ID>
       <DefaultText>Sea-Weathered Grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Deal {0} damage against afflicted enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Deal {0} damage against flanked enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Deal {0} damage with Shredder powers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Deal {0} Raw damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Receive {0} Afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14254,6 +14241,21 @@ As a symbol of her new station, Pallegina was presented with this gleaming breas
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4781</ID>
+      <DefaultText>Apply {0} Perception Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>Cast {0} Druid Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Grant {0} Inspirations to Party Members</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4784</ID>
       <DefaultText />
       <FemaleText />
@@ -14324,6 +14326,16 @@ He descended into a place known as the Endless Paths of Od Nua and was never hea
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4797</ID>
+      <DefaultText>Kill {0} Beasts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Have 25 Strength</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4799</ID>
       <DefaultText>Tekēhu's Farewell</DefaultText>
       <FemaleText />
@@ -14341,6 +14353,16 @@ May the Wheel grind the memory of your deeds into oblivion. May you forget this 
 Farewell, my captain.
 
 Tekēhu"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Apply {0} Intellect Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Cast {0} Druid Beasts Spells</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14768,6 +14790,11 @@ The enraged drake raked her across the breastplate, tearing it from her body and
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4930</ID>
+      <DefaultText>Reflected Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4932</ID>
       <DefaultText>Nemnok</DefaultText>
       <FemaleText />
@@ -14785,6 +14812,11 @@ The enraged drake raked her across the breastplate, tearing it from her body and
     <Entry>
       <ID>4935</ID>
       <DefaultText>While the Obsidian Wurm is following you, you gain a bonus to the Stealth and Sleight of Hand skills and your party gains bonus accuracy against flanked enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Ring of Entropic Reflection</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15607,7 +15639,7 @@ Wasting no time, the captain organized her small force of house guards and led t
       <ID>5104</ID>
       <DefaultText>This round shield was crafted by Orvyn, an Aedyran blacksmith after his son, Nerian, informed him of his decision to leave home to follow a life of adventuring. Unable to dissuade his son, Orvyn intended to make sure Nerian would carry something with which to defend himself from the many dangers he would surely encounter. 
 
-Orvyn worked for weeks, painstakingly assembling the finest shield he had ever constructed. The blacksmith could not afford expensive wood or fancy leather. Even the rivets were of humble iron. The quality of the craftsmanship however, and the care which Orvyn poured into the shield, made into something greater than the sum of its parts. It was the last gift Nerian would receive from his father, who passed away only several weeks after his departure. 
+Orvyn worked for weeks, painstakingly assembling the finest shield he had ever constructed. The blacksmith could not afford expensive wood or fancy leather. Even the rivets were of humble iron. The quality of the craftsmanship however, and the care which Orvyn poured into the shield, made it into something greater than the sum of its parts. It was the last gift Nerian would receive from his father, who passed away only several weeks after his departure. 
 
 Nerian would survive his adventures, eventually retiring to his family home where he took up the smithy's hammer for himself.</DefaultText>
       <FemaleText />
@@ -16855,6 +16887,52 @@ The log cuts off prematurely. The rest of the pages are marred by powder burns.<
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5354</ID>
+      <DefaultText>Wael's Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5355</ID>
+      <DefaultText>A mixture of rums (and any other strong spirit available) and tropical juices, Wael's Wind is a perennially popular drink during the brutally hot summer months in the Deadfire. Invented by the pirates of the Príncipi sen Patrena, the beverage is traditionally served in the halved shell of a coconut. 
+
+Wael's Wind earned its name from its legendary capacity for knocking imbibers flat on their backs and robbing them of their memories of the night before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>Ranging from clear to slightly cloudy white, this liquor is distilled from a mixture of two different rices (one short grain, the other long) in water from a mountain spring on the island of Osa. The strongest liquor native to the Deadfire, daibō is generally served warm and is particularly popular among the artisan caste. 
+
+Featured regularly in Huana popular culture, esp. plays and songs, daibō o Osa perennially shoulders the blame in discussions about what's "ruining" the Huana youth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5359</ID>
+      <DefaultText>A smoky, brown liquor native to Rauatai, meppu is distilled from malted barley and aged in oak barrels. Though traditionally served cut with water at room temperature, Rauataian students often add it to hot tea. In either form, it's regularly consumed with dark chocolate or other sweets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer Chiora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5361</ID>
+      <DefaultText>This variation on a common herbal liqueur from the Vailian Republics has been infused with luminous adra. The combination of yellow alcohol and powdered adra results in a faintly glowing green concoction.
+
+Only the wealthiest of Vailian merchants boast of possessing more than a lone bottle of chiora, and uncorking one after dinner is an unsubtle manner of displaying one's success to one's guests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5362</ID>
       <DefaultText>Pallegina's Farewell</DefaultText>
       <FemaleText />
@@ -16944,6 +17022,11 @@ If you have any concerns or complaints about my service, please direct them to t
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5387</ID>
+      <DefaultText>Be Missed by Enemies {0} times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5445</ID>
       <DefaultText>Sigil of Death Wardstone</DefaultText>
       <FemaleText />
@@ -16991,6 +17074,41 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5498</ID>
+      <DefaultText>Kill {0} enemies while suffering from a Mind affliction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5500</ID>
+      <DefaultText>Receive {0} Damage while under 25% Health.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5501</ID>
+      <DefaultText>Have {0} Hostile Effects expire during combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5502</ID>
+      <DefaultText>Deal {0} Damage to enemies while under 25% Health.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5503</ID>
+      <DefaultText>Apply {0} afflictions to Spirits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5504</ID>
+      <DefaultText>Seek out the Deep Hunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5505</ID>
+      <DefaultText>Seek out the ancient of brimstone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5508</ID>
       <DefaultText>Essence Interrupter</DefaultText>
       <FemaleText />
@@ -17000,6 +17118,58 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
       <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark. 
 Such is the case with the Essence Interrupter, the product of an ambitious but unorthodox outcast of the Brackenbury Sanitarium. The inventor hypothesized a surefire method to Awaken kith souls by applying an instant jolt of spiritual stimulus to the cranium. Once he modified a hunting bow to unleash projectiles of charged adra and copper, he set up a market stall in Spirento where he promised compensation to anyone who participated in his study. 
 After calmly shooting arrows between the eyes of two test subjects, the animancer was taken into custody. Authorities never recovered his bow, which to this day reflects something of its inventor's unethical eccentricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5528</ID>
+      <DefaultText>Mythical Adra Stone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5529</ID>
+      <DefaultText>Adra of this density and vibrancy is said to reside in the cores of only the strongest, healthiest pillars. Extraction is a delicate and specialized task, but the result is a mineral packed with so much malleable essence that it can draw new properties out of already remarkable tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5530</ID>
+      <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5531</ID>
+      <DefaultText>This double-bladed axe has gone by many names over the years - notably Burden, Ponderous Edge, and the Unbalanced Blade. Most would consider a weapon too heavy to wield a liability, and yet its value is beyond question. The pirates who named it "Amra" rallied around the weapon as a kind of standard or totem, likely because of the unusual way they came to possess it. After sailing through a maelstrom to evade pursuers, Amra was found lodged in the deck of their ship. They left it there as a good luck charm for years, but whatever fortune they gained from its presence evidently didn't last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5532</ID>
+      <DefaultText>Karabörü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5533</ID>
+      <DefaultText>This weapon is named for the Huana warlord who carried it into battle. Fond as she was of leading the vanguard and surrounding herself with overconfident foes, nothing delighted Karabörü more than swinging her blade in a wide arc and cutting down an entire row of enemies. She purposely omitted a guard on the hilt, claiming that such "ornaments" threw off her balance, but later regretted her decision when a well-timed parry cost Karabörü three fingers from her fighting hand. She would go on to hone her skills on other weapons, setting aside her blade as a lesson learned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5534</ID>
+      <DefaultText>Outworn Buckler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5535</ID>
+      <DefaultText>This humble buckler resembles a clumsy student's training shield. The wood is scarred by deep gouges, leaving the riddle of how it persists in holding together unsolved. A small inscription carved into the back, and much faded by time, tells a different tale. 
+
+The firsthand account is of a knight who would rise to glory in Old Vailia and become a founding member of the Darcozzi Paladini, all the while wearing this buckler on her arm. Her protective instincts left a mark in the wood which goes deeper than any notch. Perpetually overlooked and underestimated, this item has passed to many owners in the years since it vanished from her armory, always finding a home with the noble and the worthy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5536</ID>
+      <DefaultText>The Mung Bean's Mouth Organ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5537</ID>
+      <DefaultText>The musician Gil "Mung Bean" Mungo wore this mouth organ around his neck during much of his decorated career, using it to herald the start of a performance. His little-known secret to success was to lace a slot of the instrument with powdered ripple sponge, which was blown in the faces of his unsuspecting audience. After making his fortune on the performance circuit, Mungo retired from public life to enlist with Rauatai's navy. His unit was celebrated for pacifying relations with the Deadfire's Huana tribes, gathering kith around a shared love of music and other, less obvious delights.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17013,27 +17183,194 @@ After calmly shooting arrows between the eyes of two test subjects, the animance
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5540</ID>
-      <DefaultText>Amra</DefaultText>
+      <ID>5550</ID>
+      <DefaultText>Harmony</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5541</ID>
-      <DefaultText>[TEMP] Amra item description.
+      <ID>5551</ID>
+      <DefaultText>This modest wooden ring was crafted with great care and detail. The inner surface is engraved with a symbol of two mountains joined by a diamond pattern, with the words "our stars aligned" burned into the wood. 
 
-"This beast of a heavy axe was found amongst lost pirates found in the Deadfire Archipelago, that claimed to have come from another dimension when they fell through a maelstrom during a sea warfare. It was clear those men didn't have the strength required to manage such a brute weapon, so when people asked them and pointed to the axe, all they said war "Amra, Amra"."</DefaultText>
+The ring is tinged with a faint echo of lingering soul essence. Memories of affection and devotion swirl about it, and the wood practically vibrates with a giddy sense of anticipation. Someone who once held this ring was captivated by an unanswered question. When they got their answer, they were content to leave their cares behind, where they remain to this day.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5546</ID>
-      <DefaultText>Karabörü</DefaultText>
+      <ID>5554</ID>
+      <DefaultText>Chloë</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5547</ID>
-      <DefaultText>[TEMP] Karabörü item description.
+      <ID>5555</ID>
+      <DefaultText>Sheba</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5556</ID>
+      <DefaultText>Cajux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5557</ID>
+      <DefaultText>Dude the Six-Toes Cat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5558</ID>
+      <DefaultText>Epsilon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5559</ID>
+      <DefaultText>Ludde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5560</ID>
+      <DefaultText>Misty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5561</ID>
+      <DefaultText>Noah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5562</ID>
+      <DefaultText>Zorro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5563</ID>
+      <DefaultText>Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5564</ID>
+      <DefaultText>Levin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5565</ID>
+      <DefaultText>Pes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5566</ID>
+      <DefaultText>Rex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5567</ID>
+      <DefaultText>Ulk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5568</ID>
+      <DefaultText>While Cajux is following you around, you regain some Health when you deal the killing blow against an enemy, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5569</ID>
+      <DefaultText>While Chloë is following you around, you are more accurate with melee attacks, and your party gains additional defense against attacks that apply Afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5570</ID>
+      <DefaultText>While Dude the Six-Toes Cat is following you around, you regain some Health when you deal the killing blow against an enemy, and your party is less likely to be Hit by attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5571</ID>
+      <DefaultText>While Epsilon is following you around, your recovery penalty from armor is reduced, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5572</ID>
+      <DefaultText>While Ludde is following you around, you gain bonus Perception, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5573</ID>
+      <DefaultText>While Misty is following you around, you gain additional deflection against melee attacks, and your party benefits from increase area of effect size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5574</ID>
+      <DefaultText>While Noah is following you around, you move more quickly in combat, and your party's attacks are less likely to miss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5575</ID>
+      <DefaultText>While Zorro is following you around, you gain bonus Resolve, and your party gains bonus Reflex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5576</ID>
+      <DefaultText>While Hati is following you around, you gain bonus Might, and your party receives a bonus to Reflex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5577</ID>
+      <DefaultText>While Levin is following you around, you gain bonus Intellect, and your party moves more quickly in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5578</ID>
+      <DefaultText>While Pes is following you around, your melee damage is increased, and your party's melee attacks are more likely to Critically Hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5579</ID>
+      <DefaultText>While Rex is following you around, your area of effect attacks deal more damage, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5580</ID>
+      <DefaultText>While Sheba is following you around, you gain bonus Perception, and your party's melee attacks are more likely to Critically Hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5581</ID>
+      <DefaultText>While Ulk is following you around, you gain bonus Might, and your party is less likely to be Hit by enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5591</ID>
+      <DefaultText>Superb Crossbow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5592</ID>
+      <DefaultText>Shroud of the Phantasm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5593</ID>
+      <DefaultText>The fabric of this cloak appears to be stitched with some manner of mystical pattern, but the pattern changes with the movement of the garment, confusing the eye into seeing what isn't there. 
 
-"Made for some long forgotten warlord, Karabörü was designed with their powerful frame in mind. The slight reverse curve of its yatagan shape makes it a unique and noticeable weapon. It has no crossguard underlining its aggressive nature. Then the firest wielder eventually fell against some nightmarish beast, the sword was retired as an ornament, cowering visitors underneath its heft. As their fleeting dynasty fell to ruin, the sword was lost, making its way around Eora in the hands of many vanguard combatants, used against cavalry and even for execution. It has a savage history, the sole reminder of all its master's fell deeds."</DefaultText>
+Students of Wael have quietly experimented with illusions, ever fascinated with theories that the world around them is a deception, a dream, or both. One year, an entire class of ambitious apprentices organized around the idea, forming a secretive coterie of existential skeptics. They donned cloaks like these to recognize one another outside of their covert meetings. 
+
+A dozen such cloaks were later found abandoned among a library's stacks of tomes. The fate of the bearers and their research is unknown, but the cloaks have circulated ever since as arcane curiosities. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5594</ID>
+      <DefaultText>Broken Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5595</ID>
+      <DefaultText>Broken Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5596</ID>
+      <DefaultText>Broken Weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5597</ID>
+      <DefaultText>This item saw too much use without being properly maintained.  It's broken beyond any hope of repair.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,5 +1,6 @@
 ## CHANGELOG
 ### Version 1.3.0
+- Added and fixed all new entries added in patch 2.1.
 - Added missing entries from the BoW DLC.
 - Changed the color of the Raw icon slightly.
 - Changed the font for all rank 1 afflictions/inspirations.
@@ -8,6 +9,7 @@
 - The `{0}` value tag will no longer be colorized and will instead use the default UI color.
 - Changed the description of statuseffect ID `595` to something that's easier to comprehend.
 - Added an italian translation of the new cyclopedia entry for “The Wheel”.
+- Added a few entries not in use at the moment but that might be used by the mod in the near future...
 - Lots and lots of bug fixes.
 
 ### Version 1.2.4

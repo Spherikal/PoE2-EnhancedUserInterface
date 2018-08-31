@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>538</EntryCount>
+  <EntryCount>550</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1272,7 +1272,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{0:value:percent} chance for shot to split, firing {0:extravalue:straight} projectiles</DefaultText>
+      <DefaultText>{0:extravalue:percent} chance for shot to split, firing {0:value:straight} projectiles</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2621,11 +2621,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>597</ID>
-      <DefaultText>Each step will cause some of the Symbiote to break away and fall off</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>604</ID>
       <DefaultText />
       <FemaleText />
@@ -2693,6 +2688,71 @@
     <Entry>
       <ID>635</ID>
       <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder (Enemies under {0:triggervalue:straight} Health are killed instantly)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Kills with this weapon grant {0:value:percent} Critical Hit damage (Stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Each time an ally is downed, this weapon grants {0:value:percent} Critical Hit damage (Stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Critical Hits with this weapon have a {0:value:percent} chance to launch a Cone AoE towards the target</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Critical Hits with this weapon have a {0:value:percent} chance to launch a Cone AoE towards the target (AoE now also Sickens enemies)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Critical Hits with this weapon have a {0:value:percent} chance to launch a Cone AoE towards the target (AoE now also lowers enemy Deflection)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>{0:value:percent} Chance when receiving damage to grant Steadfast to nearby allies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>{0:value:percent} Chance when receiving damage to grant Steadfast, Resolute, or Courageous to nearby allies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>{0:value} to all Drug power levels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Removes Whispers of the Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Removes Stand Guard Immobility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Removes Calmo's Curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>{0:value:percent} Chance to gain the Brilliant Inspiration when receiving damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Burn Damage retaliation Attack when Hit in melee</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

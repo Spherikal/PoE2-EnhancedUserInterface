@@ -4,7 +4,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>538</EntryCount>
+  <EntryCount>550</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -718,7 +718,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sicken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; for 12.0 sec on scoring Crit. Opposed by &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sicken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; for {0:extravalue:duration} on scoring Crit (Opposed by &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;)&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1344,6 +1344,26 @@
     <Entry>
       <ID>635</ID>
       <DefaultText>&lt;line-height=100%&gt;If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder (Enemies under {0:triggervalue:straight} &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; are killed instantly)&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>&lt;line-height=100%&gt;Critical Hits with this weapon have a {0:value:percent} chance to launch a Cone AoE towards the target (AoE now also lowers enemy &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;)&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance when receiving damage to grant &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Steadfast&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; to nearby allies&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance when receiving damage to grant &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Steadfast&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Resolute"&gt;&lt;#30d3d5&gt;Resolute&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, or &lt;link="glossary://GlossaryEntry_Courageous"&gt;&lt;#30d3d5&gt;Courageous&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; to nearby allies&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance to gain the &lt;link="glossary://GlossaryEntry_Brilliant"&gt;&lt;#00a4ff&gt;Brilliant&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Inspiration when receiving damage&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
