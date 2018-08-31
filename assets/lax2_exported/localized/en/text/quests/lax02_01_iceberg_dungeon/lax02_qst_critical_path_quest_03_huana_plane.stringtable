@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_huana_plane</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>13</EntryCount>
+  <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -73,6 +73,11 @@ If I return the spirit to its &lt;b&gt;seat of power&lt;/b&gt;, perhaps I can co
     <Entry>
       <ID>30002</ID>
       <DefaultText>I convinced &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; to make peace with his failures. He agreed it was time for him to leave the &lt;b&gt;Drowned Kingdom&lt;/b&gt;, so I absorbed his soul to return it to the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I could not convince &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; to make peace with his failures. He has chosen to remain in the &lt;b&gt;Drowned Kingdom&lt;/b&gt; until he is taken by the White Void.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_endgameslides</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>17</EntryCount>
+  <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -73,21 +73,6 @@ The temple of Rymrgand falls into disrepair, home only to madmen and monsters.</
     <Entry>
       <ID>17</ID>
       <DefaultText>Having tested himself against the White Void, Vatnir does not long remain content at Harbingers' Watch. He sets forth into the Deadfire, spreading word of his god while serving in a series of wildly disreputable privateer crews.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>18</ID>
-      <DefaultText>Fallthrough. If you see this, bug it.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>Fallthrough. If you see this, bug it.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>Fallthrough. If you see this, bug it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

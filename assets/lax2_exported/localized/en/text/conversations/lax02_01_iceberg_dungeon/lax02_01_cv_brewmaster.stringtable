@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_brewmaster</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>113</EntryCount>
+  <EntryCount>112</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -563,11 +563,6 @@ Here, I can mix it into the first batch immeddiately."</DefaultText>
     <Entry>
       <ID>127</ID>
       <DefaultText>"I see you've returned. Fine. I'll accept your coin."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>128</ID>
-      <DefaultText>"Well... you did bring back quite a lot of the stuff. Fine. Here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

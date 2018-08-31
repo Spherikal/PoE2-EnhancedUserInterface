@@ -2,11 +2,21 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>109</EntryCount>
+  <EntryCount>128</EntryCount>
   <Entries>
     <Entry>
-      <ID>4705</ID>
-      <DefaultText>Take {0} damage</DefaultText>
+      <ID>4708</ID>
+      <DefaultText>Apply {0} Might Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Cast {0} Chanter invocations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Deal {0} Raw damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,6 +36,58 @@ Though details of the battle are scarce, this is certain: after the explosion of
     <Entry>
       <ID>4732</ID>
       <DefaultText>One Dozen Stood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText>Apply {0} Perception Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Grant {0} Inspirations to Party Members</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Kill {0} Beasts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Have 25 Strength</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>It becomes easy to forget that one wears the armor. Easy, indeed, to forget many things. Memories, regrets, abstract philosophies, these things have little place in the great hunt, those infinitely interconnected trials that define every action in Eora. Life's focus tightens for those who allow it, to this challenge, to the next, to the struggle that gives each context.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Apply {0} Intellect Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Cast {0} Druid Beasts Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Ceremonial Obsidian Knife</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Chain of Rightful Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>This necklace is the yield of combining a pair of bizarre artifacts into an elegant piece of jewelry. Though recovered worlds apart from each other, the pieces shared a common shape and aura of power. Separately, they thrummed with heat and bottled energy. Fused together, they feel somehow stronger than the sum of their parts. Distortions in the metal are likely the result of a fire.
+
+A section of the metal shows signs of a third piece missing, either melted or snapped free of its sister parts. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +375,36 @@ In their sealed form, the blights resemble a clear, crystalline shard - unmeltin
       <ID>5349</ID>
       <DefaultText>Small and cold to the touch, this construct may have been a prototype. Or the product of tinkering. Or a toy.
 
-While followed by Frosty, you gain bonus Armor against Freeze damage and the party's Freeze attacks benefit form improved Accuracy.</DefaultText>
+While followed by Frosty, you gain bonus Armor against Freeze damage and the party's Freeze attacks benefit from improved Accuracy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5355</ID>
+      <DefaultText>A mixture of rums (and any other strong spirit available) and tropical juices, Wael's Wind is a perennially popular drink during the brutally hot summer months in the Deadfire. Invented by the pirates of the Príncipi sen Patrena, the beverage is traditionally served in the halved shell of a coconut. 
+
+Wael's Wind earned its name from its legendary capacity for knocking imbibers flat on their backs and robbing them of their memories of the night before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>Ranging from clear to slightly cloudy white, this liquor is distilled from a mixture of two different rices (one short grain, the other long) in water from a mountain spring on the island of Osa. The strongest liquor native to the Deadfire, daibō is generally served warm and is particularly popular among the artisan caste. 
+
+Featured regularly in Huana popular culture, esp. plays and songs, daibō o Osa perennially shoulders the blame in discussions about what's "ruining" the Huana youth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer Chiora</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,11 +447,6 @@ The most recent images depict an island of ice, slowly expanding to the north of
     <Entry>
       <ID>5386</ID>
       <DefaultText>Glacierbane</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5387</ID>
-      <DefaultText>Be Missed by Enemies {0} times.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,11 +531,6 @@ Which just goes to show you that the type of person who wants to die in their sl
       <DefaultText>This misshapen shard of metal pulses with barely-contained power. It radiates heat, as well, and is almost too hot to hold barehanded. Though clearly not born of the White Void, little by way of markings identify this object's origin or why it would resist the entropic forces of Rymrgand's demesne.
 
 Neriscyrlas placed her ambitions in it, along with her soul.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5439</ID>
-      <DefaultText>Tooth of Toamowhai</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,6 +712,42 @@ He felt no sadness, no pulsing fear. He understood the Land, and so he understoo
     <Entry>
       <ID>5496</ID>
       <DefaultText>This rambunctious snow bear cub can often be caught chasing seagulls and chewing on your spare boots. He'll eat whatever's on hand, but he shows a strong preference for frozen ysae and chunks of rotten shark meat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>Precise Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>This letter has been folded into a square with clean, diligent creases. 
+
+"[Player Name] walks the Deadfire carrying shards of heat-scorched metal. The significance of these items can't have escaped you, though the timing is a surprise to us all. 
+
+We should grasp this opportunity. Kill [Player Name]. Do not hide your act, for we work under the auspices of law. See to it that the metal gets into Izzia's hands. She wastes her potential in Periki's Overlook. 
+
+Praise the Exiled Queen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>Hastily-Written Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>This missive is speckled with coal dust and candle wax. 
+
+"These are words I never wished to write. The blackened shards have been recovered, and [Player Name] carries them - I pray out of ignorance or coincidence.
+
+We can get ahead of this if we act with haste. The Watcher may have already suffer the witch's corruption without realizing it. Let no thoughts of mercy stay your sword. 
+
+Once you recover the shards, &lt;i&gt;under no circumstances are they to be kept together.&lt;/i&gt; After you report in, they will be placed in separate vaults and bound in magic for as long as we endure. 
+
+See too that they are kept far from Periki's Overlook. Our enemies mutter about the craftswoman Izzia as if she has an air of destiny about her.
+
+For peace and Magran's honor, may you succeed."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

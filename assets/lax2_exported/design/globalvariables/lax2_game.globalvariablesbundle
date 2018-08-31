@@ -1,0 +1,566 @@
+{"GlobalVariablesSets": [
+{
+	"GlobalVariables": [
+		{
+			"Tag": "n_(NPC_or_QuestName)_Quest_Stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Vatnir_Dead_02",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Vatnir_Recruited",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Vatnir_State",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Ydwin_State",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Pilgrim_Threat_Quest_Stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_carrying_relic_memory",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_forgotten_relics_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_axe_woedica",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_beasts_hand",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_betrayal",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_brooch_winter",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_catalyst",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_crumbling_vam",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_currents_rush",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_eye_rymrgand",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_flesh_beast",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_footsteps_beast",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_horns_auroch",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_journey_end",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_lost_voyages",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_ring_entropic",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_twin_eels",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_whisper_krin",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_relic_winter_bulwark",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Brythe_Left",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Brythe_Stayed",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Construct_Ehrys_Destroyed",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Ehrys_Failed_to_Become_Construct",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Left_Without_Helping_Ehrys",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Lied_To_Brythe",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Sister_Convinced",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Sister_Dead",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Sister_Soul_Transferred",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Last_Pilgrimage_Quest_Stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Discovered_GodHammer_Illusion",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_eder_godhammer",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_found_godmhr_illusion_scroll",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_godhammer_detonated",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_Godhammer_Transitioning",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_unlocked_gdhmr_tower",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_waidwen_memory_read",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_eder_godhammer_mood",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Eothas_SunBeam_Interaction_State",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_GDHMR_quest_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Godhammer_Bridge_State",
+			"InitialValue": 1
+		},
+		{
+			"Tag": "LAX2_n_ShepardsSunDial_State",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_waidwen_fragment_selection",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_waidwen_soul_readings",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_waidwen_soul_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "sfx_godhammer",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_construct_ehrys_arrived_at_post",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_constructs_emerged_iceberg_07",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_crossed_narrow_ledge",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_damaged_construct_looted",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_descent_pick_fell",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_descent_pick_free",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_encountered_rymrgand",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_entered_hub_from_altar_of_decline",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_entered_ice_wall_from_outcrop",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_found_rymrgand_relic",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_frost_shade_encounter_started",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_hafjorn_dead",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_hafjorn_leader",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_harbingers_hostile",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_know_cult_leader_secret",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_read_construct_instructions",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_rime_constructs_hostile",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_sassed_rymr_portal",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_vatnir_booted",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_vatnir_dead",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_vatnir_force_attacked",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_vatnir_hid",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_cpq_01_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_cpq_02_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_cult_leader_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_Dracolich_Attack_Stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_frozen_barrels_destroyed",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_frozen_bodies_destroyed",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_hafjorn_convinced",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_HW_EndState",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_recruited_cult_leader",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_transition_point_used_iceberg_07",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "sfx_portal_breach",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_envoy_group_dead",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_envoy_guard_dead",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_envoy_recruited",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_envoy_decision",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_envoy_location",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_envoy_quest_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "b_Met_Rymrgand_in_Beyond",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_dracolich_leave_hub",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_dracolich_scene_entered",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_final_beast_encounter",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_frozen_guardian_helm_acquired",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_frozen_guardian_mace_acquired",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_frozen_guardian_plate_acquired",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_frozen_guardian_shield_acquired",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_beast_of_winter_bargain_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_cpq_03_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_dracolich_points",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_dracolich_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_entropic_shards_collected",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_hub_frozen_guardian_position",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_hub_frozen_guardian_soul",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_wandering_souls_destroyed",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_wandering_souls_encountered",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_wandering_souls_wheel",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_times_taunted_rymr",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX_n_CrownOfWoedicaPiecesCollected",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX_n_CrownOfWoedicaStatus",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_received_fluid_from_construct_pile",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_libations_quest_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "n_xoti_pallegina_ready_to_argue",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX1_n_arena_slayer_challenge_02_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_tortured_spirit_restored",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_engwith_interior_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_last_pillar_used",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_motes_conviction_given",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_motes_hostility_given",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_motes_memory_given",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_motes_regret_given",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_naxiva_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_tortured_spirit_end",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_tortured_spirit_schedule",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_tortured_spirit_stage",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_bottom_portal_flooded",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_bottom_right_waterfall_direction",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_center_right_water",
+			"InitialValue": 1
+		},
+		{
+			"Tag": "LAX2_b_center_waterfall_direction",
+			"InitialValue": 1
+		},
+		{
+			"Tag": "LAX2_b_huana_pool_guards",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_top_right_water_raised",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_wandering_soul_interaction_01",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_wandering_soul_interaction_02",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_wandering_soul_interaction_03",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_b_wandering_soul_interaction_04",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_bottom_center_water_height",
+			"InitialValue": 1
+		},
+		{
+			"Tag": "LAX2_n_huana_king_regard",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_huana_wandering_soul_state",
+			"InitialValue": 0
+		},
+		{
+			"Tag": "LAX2_n_skaen_trinket_disguise",
+			"InitialValue": 0
+		}
+	]
+}
+]}

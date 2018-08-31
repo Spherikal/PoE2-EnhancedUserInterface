@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergbreach_rymrgand</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>140</EntryCount>
+  <EntryCount>137</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -217,16 +217,6 @@ You have met your final end.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>91</ID>
-      <DefaultText>LR Ydwin: [you can't be serious] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>92</ID>
-      <DefaultText>LR Vatnir: [hey wait what, i didn't sign on for this] (player tries to fight rymrgand or asks rymrgand to kill them or taunts rymrgand into killing them)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>93</ID>
       <DefaultText>As you near, the portal flares bright, brighter, too bright to stand.</DefaultText>
       <FemaleText />
@@ -314,11 +304,6 @@ You have met your final end.</DefaultText>
     <Entry>
       <ID>139</ID>
       <DefaultText>"The Vytmádh is the gaping maw of entropy. The White Void is the hunger that gnaws at the guts of Eora and cannot be sated."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>157</ID>
-      <DefaultText>LR Ydwin: [Ydwin responds to Rymrgand calling the player pitiful for fearing death.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>108</EntryCount>
+  <EntryCount>109</EntryCount>
   <Entries>
     <Entry>
       <ID>4146</ID>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>4735</ID>
-      <DefaultText>The user traps an enemy in time, locking them in place, but also making them untargetable.</DefaultText>
+      <DefaultText>The user traps an enemy in time while speeding time up for themselves. The enemy is locked in place, making them untargetable, while also granting the user a large bonus to Recovery and Stride. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,6 +552,11 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
     <Entry>
       <ID>4825</ID>
       <DefaultText>While Fjord is following the party, you have increased Constitution and the party deals additional Frost Damage with each melee attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Rightful Vengeance</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,6856 @@
+{"AIDecisionTrees": [
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "d341af41-a452-4f23-81d2-4dfba9b5e6db",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 2,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 3,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":25,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"a9e20624-1f8a-45b8-8e8c-2cd0dab11177","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 5,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 6,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":15,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"59f9ea1b-e9a9-4201-991e-aee81e7e8a31","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 6,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindBestEngager()",
+						"Parameters": [],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 439597329,
+						"ParameterHash": 439597329
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 8,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -118210912
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 9,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "2c043e65-794a-4640-9737-fa534881489a",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 2,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 3,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":25,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"a9e20624-1f8a-45b8-8e8c-2cd0dab11177","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 5,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsNumberOfTargetsInAOE(Guid, AutoTargetingType, Operator, Int32)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"Hostile",
+								"GreaterThanOrEqualTo",
+								"2"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -854002088,
+							"ParameterHash": 241176527
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 6,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":15,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"59f9ea1b-e9a9-4201-991e-aee81e7e8a31","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 6,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindBestEngager()",
+						"Parameters": [],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 439597329,
+						"ParameterHash": 439597329
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 8,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -118210912
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 9,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 10,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 10,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffectWithKeyword(Guid, Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"8ca098ca-731e-481d-b958-a337064afd6c"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1392641717,
+							"ParameterHash": 600798276
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 12,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":25,"AllowedMovementToTarget":"WillNotMove","AbilityID":"b5a39c4f-9dd1-4fa0-8958-4537abf58446","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 13,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 13,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "7ac95f6c-8939-49d4-941c-a66598009cf8",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 105,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 16,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 75,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 83,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 52,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 102,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsCastingEnemyInRange(Guid, Int32, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"10",
+								"GreaterThanOrEqualTo",
+								"3"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1400974819,
+							"ParameterHash": -737312011
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"f4d5d7fa-9eff-4645-9703-d26abc985997","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsTargetCasting(Operator, Single)",
+						"Parameters": [
+							"GreaterThan",
+							"3"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1487231079,
+						"ParameterHash": -85124637
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 16,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 16,
+					"ToNodeID": 71,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 16,
+					"ToNodeID": 108,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 16,
+					"ToNodeID": 109,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"75"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -240919749
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 17,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":120,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"28c3148a-dade-44f8-93f9-be0cc987f844","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 17,
+					"ToNodeID": 18,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 18,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 28,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 28,
+					"ToNodeID": 29,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 29,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"WillNotMove","AbilityID":"70b1e7d7-390b-4084-895a-7ccc49d06069","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 29,
+					"ToNodeID": 30,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 30,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsNumberOfTargetsInAOE(Guid, AutoTargetingType, Operator, Int32)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"Hostile",
+								"GreaterThanOrEqualTo",
+								"1"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -854002088,
+							"ParameterHash": 241176524
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 49,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 49,
+					"ToNodeID": 50,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsThreateningAnyone(Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1397264433,
+							"ParameterHash": -1303349736
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 50,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 50,
+					"ToNodeID": 51,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 51,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 52,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 3,
+					"FromNodeID": 52,
+					"ToNodeID": 68,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 52,
+					"ToNodeID": 76,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 52,
+					"ToNodeID": 28,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 2,
+					"FromNodeID": 52,
+					"ToNodeID": 49,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 66,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":45,"AllowedMovementToTarget":"WillNotMove","AbilityID":"c1dc57ec-1d5d-46d0-8a5d-2a758c5ec563","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 66,
+					"ToNodeID": 67,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Highest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -696945094
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				},
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 67,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 68,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 68,
+					"ToNodeID": 66,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasCombatTimeElapsed(Single)",
+							"Parameters": [
+								"10"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1978219426,
+							"ParameterHash": -1096415297
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 69,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":45,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"d73d1640-a674-4b95-8630-cb37d742bb15","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 69,
+					"ToNodeID": 70,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereStatusEffectCountIs(FindType, StatusEffectTargetPreferenceType)",
+						"Parameters": [
+							"Highest",
+							"Beneficial"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 30905078,
+						"ParameterHash": 941066402
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 70,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasBeneficialEffectWithDuration(Guid, Operator, Single)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"LessThan",
+								"9999"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1925010927,
+							"ParameterHash": 736169383
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 71,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 71,
+					"ToNodeID": 17,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 73,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":1,"CooldownTime":75,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"0e658d88-b96d-4d25-abdd-e6ec9aeeba8b","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 73,
+					"ToNodeID": 74,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 74,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 75,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 75,
+					"ToNodeID": 69,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 76,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 76,
+					"ToNodeID": 77,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 76,
+					"ToNodeID": 78,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 77,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 77,
+					"ToNodeID": 79,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 78,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 78,
+					"ToNodeID": 80,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 79,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":90,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"1e741ca1-4486-4d8c-bf57-e41b1ec3930e","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 79,
+					"ToNodeID": 81,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 80,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":45,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"4af13cad-5d04-4e66-9e9e-d902e5137740","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 80,
+					"ToNodeID": 82,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereArmorRatingIs(FindType, DamageType)",
+						"Parameters": [
+							"Highest",
+							"All"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 2056053284,
+						"ParameterHash": -1581658101
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 81,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffect(Guid, Guid)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"ecf7703d-58ad-41b9-b410-568da9d278c6"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -2101652762,
+							"ParameterHash": 2141104021
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 82,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 83,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 83,
+					"ToNodeID": 84,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"50"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -1000434638
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 84,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"5fb5bfb0-7ecd-4d4e-a25c-8d2bf16afca1","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 84,
+					"ToNodeID": 85,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Highest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -696945094
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 85,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 102,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 102,
+					"ToNodeID": 103,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasCombatTimeElapsed(Single)",
+							"Parameters": [
+								"5"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1978219426,
+							"ParameterHash": -823230741
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 103,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"4af13cad-5d04-4e66-9e9e-d902e5137740","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 103,
+					"ToNodeID": 104,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 104,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 105,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 105,
+					"ToNodeID": 106,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffectType(Guid, StatusEffectType)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"Concentration"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 998426332,
+							"ParameterHash": 711327226
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 106,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"e885ae92-759f-4613-8c40-61f41ed65198","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 106,
+					"ToNodeID": 107,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 107,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 108,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 108,
+					"ToNodeID": 73,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsPathOfTheDamned()",
+							"Parameters": [],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -993664379,
+							"ParameterHash": -993664379
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 109,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 109,
+					"ToNodeID": 110,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsPathOfTheDamned()",
+							"Parameters": [],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -993664379,
+							"ParameterHash": -993664379
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 110,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":75,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"0e658d88-b96d-4d25-abdd-e6ec9aeeba8b","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 110,
+					"ToNodeID": 111,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 111,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "e4acaa2d-67ca-4845-8f96-14f27b99f3ec",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":25,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"e19e6fc3-3f38-4418-93c5-1ce97087a13b","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 4,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsThreatenedByAnyone(Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -3824431,
+							"ParameterHash": -1056382634
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -118210912
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 5,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":15,"AllowedMovementToTarget":"WillNotMove","AbilityID":"c8d8ccb9-abcd-4a23-a2b5-a6b016893a42","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 7,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 9,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 10,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":15,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"188df941-f0ae-45e6-9cf3-934e1bf432ee","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 10,
+					"ToNodeID": 11,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereHealthIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1034308491,
+						"ParameterHash": 167369321
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 11,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"AllyNotSelf","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"50"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -606832963
+						},
+						"Not": false,
+						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsCreatureType(Guid, Guid)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"60763bf3-63e5-4259-b05e-fe7c247b3d70"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1369252244,
+							"ParameterHash": -1279661846
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 12,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 13,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 13,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 13,
+					"ToNodeID": 14,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -118210912
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 14,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "5dbd183e-bc25-4ed3-a66f-8f00015f69b3",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 13,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 1,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":25,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"0a014b01-f3f2-4db8-88f7-89619db78bed","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 9,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"15f37030-7489-48de-927a-c95ffd0cb199","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 10,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 11,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 11,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 11,
+					"ToNodeID": 19,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 12,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"25"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -240919744
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 13,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 13,
+					"ToNodeID": 11,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 2,
+					"FromNodeID": 13,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 15,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":40,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"073a8c06-a643-490b-abc8-96c41bb21867","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 15,
+					"ToNodeID": 16,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 16,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 19,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 19,
+					"ToNodeID": 15,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsEnemyCount(Guid, Single, Operator, Int32)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"5",
+								"GreaterThanOrEqualTo",
+								"2"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -336600335,
+							"ParameterHash": -1662624464
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "7165411b-4580-4816-aa05-062cb0f9e3ae",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"861e70d8-bd03-43ed-84ba-932b02efbb92","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 16,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 3,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 6,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 6,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsThreateningAnyone(Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -1397264433,
+							"ParameterHash": -1303349736
+						},
+						"Not": true,
+						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsEngagedByAnyone(Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 256265168,
+							"ParameterHash": -1583539657
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"0941d76c-4891-42f9-887d-76c16ec5e447","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 7,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Highest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -696945094
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsDistanceToTarget(Guid, Operator, Single)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"GreaterThanOrEqualTo",
+								"3"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1428751487,
+							"ParameterHash": -183779633
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 9,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 2,
+					"FromNodeID": 9,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 13,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 10,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 10,
+					"ToNodeID": 11,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 11,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 11,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Deflect"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": -1252178808
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 12,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 13,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 13,
+					"ToNodeID": 14,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 14,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"WillNotMove","AbilityID":"e2ba3e41-a778-4457-811d-c0a339d39956","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 14,
+					"ToNodeID": 15,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereArmorRatingIs(FindType, DamageType)",
+						"Parameters": [
+							"Lowest",
+							"Freeze"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 2056053284,
+						"ParameterHash": 796926111
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 15,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsDistanceToTarget(Guid, Operator, Single)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"LessThan",
+								"3"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1428751487,
+							"ParameterHash": -1944833974
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345554
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 16,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "b40d1e5c-e445-4b9f-b272-879cccbe03c6",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 2,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"50"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -1000434638
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 3,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"dacd77a3-56c1-4e0e-89e0-1968dec0cbc8","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Will"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": -63866299
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 5,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffect(Guid, Guid)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"aeb2d459-ad8b-4ecf-8945-a7e822d83606"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -2101652762,
+							"ParameterHash": -1822653077
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 7,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "3e6e9ef3-3314-4b57-85cc-e9f97fc41103",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 1,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":75,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"06ea0bc6-c405-4fa8-90ed-dd5d1321ebc9","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":45,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"a4f1ba04-d719-4cee-bbfd-97ae25175590","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 5,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"0df5a46f-52da-4ff7-8c4f-fde623f26299","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 5,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 6,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsThreatenedByAnyone(Guid)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -3824431,
+							"ParameterHash": -1056382634
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 7,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 7,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsHealthPercentage(Guid, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"LessThanOrEqualTo",
+								"50"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 2080256364,
+							"ParameterHash": -1000434638
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 9,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 10,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 10,
+					"ToNodeID": 11,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 11,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 12,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffectType(Guid, StatusEffectType)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"Concentration"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 998426332,
+							"ParameterHash": 711327226
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "b3c9069f-fb98-4297-98c2-4f79c27655d7",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 1,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"4228f53d-7eb8-4e07-89c8-c001b1591aac","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWithHighestDamageInflicted()",
+						"Parameters": [],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -403476836,
+						"ParameterHash": -403476836
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"11a2945f-c741-4eee-a7af-9c50c9003211","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsTargetCasting(Operator, Single)",
+						"Parameters": [
+							"GreaterThan",
+							"2"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1487231079,
+						"ParameterHash": -85124636
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 4,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 5,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 5,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsCastingEnemyInRange(Guid, Int32, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"10",
+								"GreaterThanOrEqualTo",
+								"3"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1400974819,
+							"ParameterHash": -737312011
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "caa0beeb-d5ee-4d5c-8545-c78fc7ff2f74",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 30,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 17,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 40,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 4,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 2,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 3,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 7,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 3,
+					"ToNodeID": 8,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsActionNodeOffCooldown(Guid, Int32)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"7"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 538234498,
+							"ParameterHash": -1083473306
+						},
+						"Not": false,
+						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsActionNodeOffCooldown(Guid, Int32)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"8"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 538234498,
+							"ParameterHash": -1083473295
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 4,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 9,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 4,
+					"ToNodeID": 10,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsActionNodeOffCooldown(Guid, Int32)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"9"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 538234498,
+							"ParameterHash": -1083473296
+						},
+						"Not": false,
+						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsActionNodeOffCooldown(Guid, Int32)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"10"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 538234498,
+							"ParameterHash": -1356657864
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 5,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 5,
+					"ToNodeID": 11,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 6,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"5e782c13-9f83-442e-ba2a-0cc67ba3e893","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 6,
+					"ToNodeID": 20,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 7,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"732ea965-8688-4b9e-b524-847d84b64326","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 7,
+					"ToNodeID": 21,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 8,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"71a6be1b-dc7f-4d40-a5bf-653d3b4050df","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 8,
+					"ToNodeID": 22,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 9,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"eab17a74-05a6-49c9-a9e5-72bcf750e07d","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 9,
+					"ToNodeID": 23,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 10,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"c81fd94b-8733-4576-ad61-3f603b9bec5e","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 10,
+					"ToNodeID": 24,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 11,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"6c26f87b-14b6-445e-85a9-8f8aeb5063c7","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 11,
+					"ToNodeID": 25,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 12,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 13,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 15,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 12,
+					"ToNodeID": 16,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 13,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":90,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"459c5702-8235-4d51-8d2a-14ec658b28cd","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 13,
+					"ToNodeID": 26,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 15,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":60,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"d5dfc5fd-14b7-4c01-bc7f-bed0e7ecc544","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 15,
+					"ToNodeID": 28,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 16,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":60,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"2111ccf1-7644-46a6-b1d3-b1e15c065bc4","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 16,
+					"ToNodeID": 29,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 17,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 17,
+					"ToNodeID": 18,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean HasStatusEffectType(Guid, StatusEffectType)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"Concentration"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 998426332,
+							"ParameterHash": 711327226
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 18,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"2f72e903-8faf-4fba-9f3e-b7c7f8e5eae8","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 18,
+					"ToNodeID": 19,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 19,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Deflect"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": -1252178808
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 20,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Fortitude"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": -1133218123
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 21,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Will"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": -63866299
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 22,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereArmorRatingIs(FindType, DamageType)",
+						"Parameters": [
+							"Highest",
+							"All"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 2056053284,
+						"ParameterHash": -1581658101
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 23,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWithHighestDamageInflicted()",
+						"Parameters": [],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -403476836,
+						"ParameterHash": -403476836
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 24,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDefenseIs(FindType, DefenseType)",
+						"Parameters": [
+							"Lowest",
+							"Reflex"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1759464219,
+						"ParameterHash": 387999007
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 25,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"3"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345553
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 26,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsTargetSpellcaster()",
+						"Parameters": [],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1766655190,
+						"ParameterHash": -1766655190
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 28,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsNumberOfTargetsInAOE(AutoTargetingType, Operator, Int32)",
+						"Parameters": [
+							"Hostile",
+							"GreaterThanOrEqualTo",
+							"3"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1738495785,
+						"ParameterHash": 2120345553
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 29,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 30,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 30,
+					"ToNodeID": 31,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsCastingEnemyInRange(Guid, Int32, Operator, Single)",
+							"Parameters": [
+								"7d150000-0000-0000-0000-000000000000",
+								"8",
+								"GreaterThanOrEqualTo",
+								"3"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1400974819,
+							"ParameterHash": -199946258
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 31,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":30,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"68387195-5a0d-4fb1-9c7e-9c357e0f736c","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 31,
+					"ToNodeID": 32,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void IsTargetCasting(Operator, Single)",
+						"Parameters": [
+							"GreaterThanOrEqualTo",
+							"3"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -1487231079,
+						"ParameterHash": -1085029323
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 32,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 35,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 35,
+					"ToNodeID": 36,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 36,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 36,
+					"ToNodeID": 37,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 37,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 1,
+			"NodeID": 40,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 40,
+					"ToNodeID": 35,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 40,
+					"ToNodeID": 12,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 40,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "87917ccf-ecd1-467a-bc8f-ed56003b4a5f",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsGlobalValue(String, Operator, Int32)",
+							"Parameters": [
+								"LAX2_b_dracolich_cutscene_breath",
+								"EqualTo",
+								"1"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 901380568,
+							"ParameterHash": 1377840548
+						},
+						"Not": false,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":999,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"c1dc57ec-1d5d-46d0-8a5d-2a758c5ec563","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [
+				{
+					"Data": {
+						"FullName": "Void FindTargetWhereDistanceIs(FindType)",
+						"Parameters": [
+							"Lowest"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": -498924428,
+						"ParameterHash": -118210912
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
+				}
+			],
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Hostile","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+},
+{	"$type": "Onyx.AIDecisionTreeData, Assembly-CSharp",
+	"Component": {"$type":"Game.GameData.AIDecisionTreeDataComponent, Assembly-CSharp","DebugName":"","CharacterClassID":"00000000-0000-0000-0000-000000000000","DisplayName":-1,"DisplayDescription":-1},
+	"ID": "6ed0ef86-5d7d-4d32-8124-3a37c26d968c",
+	"Nodes": [
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 0,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 5,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				},
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 0,
+					"ToNodeID": 1,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 1,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 1,
+					"ToNodeID": 2,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": [
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsInCombat()",
+							"Parameters": [],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": 1886478134,
+							"ParameterHash": 1886478134
+						},
+						"Not": false,
+						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+						"Data": {
+							"FullName": "Boolean IsAllyCastingAbilityInRange(Guid, Guid, Single)",
+							"Parameters": [
+								"1a26e100-0000-0000-0000-000000000000",
+								"50010c37-b5fc-405d-b799-7d85f5e9f464",
+								"50"
+							],
+							"Flags": "",
+							"UnrealCall": "",
+							"FunctionHash": -450987944,
+							"ParameterHash": -993793937
+						},
+						"Not": true,
+						"Operator": 0
+					}
+				]
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 2,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":20,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"50010c37-b5fc-405d-b799-7d85f5e9f464","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"00000000-0000-0000-0000-000000000000","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 2,
+					"ToNodeID": 3,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AITargetingData, Assembly-CSharp",
+			"TargetingPreferences": [],
+			"NodeID": 3,
+			"Component": {"$type":"Game.GameData.AITargetingComponent, Assembly-CSharp","TargetingFilter":"Self","IgnoreAbilityTargetingRequirements":"false","IgnoreAbilityPrerequisites":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "OEIFormats.FlowCharts.AI.AIConditionalNode, OEIFormats",
+			"PlayType": 0,
+			"NodeID": 5,
+			"Component": null,
+			"ContainerNodeID": -1,
+			"Links": [
+				{
+					"$type": "OEIFormats.FlowCharts.AI.AIDecisionTreeLink, OEIFormats",
+					"RandomWeight": 1,
+					"FromNodeID": 5,
+					"ToNodeID": 6,
+					"PointsToGhost": false,
+					"Conditionals": {
+						"Operator": 0,
+						"Components": []
+					},
+					"ClassExtender": {
+						"ExtendedProperties": []
+					}
+				}
+			],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		},
+		{
+			"$type": "Onyx.AIActionData, Assembly-CSharp",
+			"NodeID": 6,
+			"Component": {"$type":"Game.GameData.AIActionComponent, Assembly-CSharp","MaxUses":0,"CooldownTime":0,"AllowedMovementToTarget":"MoveWithinRange","AbilityID":"00000000-0000-0000-0000-000000000000","ItemID":"00000000-0000-0000-0000-000000000000","UseObject":"0b98c034-657d-43fb-ac98-5e3c8b3f89ed","WeaponSetSwitchType":"None","ContainsInvalidGuids":"false"},
+			"ContainerNodeID": -1,
+			"Links": [],
+			"ClassExtender": {
+				"ExtendedProperties": []
+			},
+			"Conditionals": {
+				"Operator": 0,
+				"Components": []
+			},
+			"OnEnterScripts": [],
+			"OnExitScripts": [],
+			"OnUpdateScripts": []
+		}
+	],
+	"ClassExtender": {
+		"ExtendedProperties": []
+	}
+}
+]}

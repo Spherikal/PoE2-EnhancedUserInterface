@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>72</EntryCount>
+  <EntryCount>74</EntryCount>
   <Entries>
     <Entry>
       <ID>4295</ID>
@@ -372,6 +372,16 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
     <Entry>
       <ID>4961</ID>
       <DefaultText>Welcome to Harbingers' Watch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Hájo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>&lt;b&gt;Seeker, Slayer, Survivor&lt;/b&gt; has been installed. You will automatically begin the first quest of this adventure when the Steward contacts you after you have progressed far enough through Pillars of Eternity II: Deadfire to access Kazuwari.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

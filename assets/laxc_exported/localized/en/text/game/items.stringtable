@@ -2,8 +2,63 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>10</EntryCount>
+  <EntryCount>19</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Cast {0} Priest Protection or Restoration spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Cast {0} Beasts or Plant Druid Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4713</ID>
+      <DefaultText>A weapon injures. A trap debilitates. The Seeker serves the seeking, snaring the hearts and eyes of eight and eighty foes, tangling the hundredfold path before the traveler. Silent enough to avoid attention and piercing enough to face attention unavoided, this rapier more than merely murders - it confounds.
+
+So sing the Huana. So howl the Faces of the Hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4714</ID>
+      <DefaultText>The hundredfold path branches one hundred hundred times. The Seeker will not guide the seeking, for it would tread willingly each path and back again, experiencing the whole of things as they were and will be. Thus does the traveler serve the Seeker, narrowing potentials and possibilities with the sharp point of decision.
+
+So sing the Huana. So howl the Faces of the Hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>The Seeker seeks the seeking. From dawn until dawn again, as a needle taken to cloth, one hundred hundred travelers weave one hundred hundred cloaks from the hundredfold path. From dawn until dawn again, the Seeker confounds every foe at every fork.
+
+The Seeker seeks here and elsewhere.
+
+So sing the Huana. So howl the Faces of the Hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Deal {0} damage against afflicted enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Deal {0} damage against flanked enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Deal {0} damage with Shredder powers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>A weapon injures. A tool serves. The Slayer serves the stalking, separating heavy jungle vines and parting dense marshy reeds, clearing the hundredfold path before the traveler. Sturdy enough to pry loose stones while sharp enough to ward off predators, this axe more than merely protects - it escorts.
+
+So sing the Huana. So howl the Faces of the Hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5454</ID>
       <DefaultText>Living Steel Anchor</DefaultText>

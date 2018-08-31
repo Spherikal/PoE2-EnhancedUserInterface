@@ -2,72 +2,65 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>12</EntryCount>
+  <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
-      <ID>5350</ID>
-      <DefaultText>White Ynefer</DefaultText>
+      <ID>4860</ID>
+      <DefaultText>[TEMP] LAX03 Crown of Woedica Shard Description</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5351</ID>
-      <DefaultText>Made with juniper berries common to the Eastern Reach, ynefer is popular in the White March and Readceras. Normally distilled in simple household pots with grain mash and various local herbs to meet the maker's preferences, few bottles are exported to the Deadfire. Many of the New Blood Príncipi, especially those with roots in the Eastern Reach covet the potent spirit as a delicacy.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5352</ID>
-      <DefaultText>Saucco</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5353</ID>
-      <DefaultText>An import from the Vailian Republics, this deep blue grain alcohol, flavored with anise and elderberry, is often enjoyed by moneyed merchants alongside a cup of murkbrew after meals.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5354</ID>
-      <DefaultText>Wael's Wind</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5355</ID>
-      <DefaultText>A mixture of rums (and any other strong spirit available) and tropical juices, Wael's Wind is a perennially popular drink during the brutally hot summer months in the Deadfire. Invented by the pirates of the Príncipi sen Patrena, the beverage is traditionally served in the halved shell of a coconut. 
+      <ID>4861</ID>
+      <DefaultText>This necklace is the yield of combining a pair of bizarre artifacts into an elegant piece of jewelry. Though recovered worlds apart from each other, the pieces shared a common shape and aura of power. Separately, they thrummed with heat and bottled energy. Fused together, they feel somehow stronger than the sum of their parts. Distortions in the metal are likely the result of a fire.
 
-Wael's Wind earned its name from its legendary capacity for knocking imbibers flat on their backs and robbing them of their memories of the night before.</DefaultText>
+A section of the metal shows signs of a third piece missing, either melted or snapped free of its sister parts. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
+      <ID>4865</ID>
+      <DefaultText>Eye of Rymrgand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5357</ID>
-      <DefaultText>Ranging from clear to slightly cloudy white, this liquor is distilled from a mixture of two different rices (one short grain, the other long) in water from a mountain spring on the island of Osa. The strongest liquor native to the Deadfire, daibō is generally served warm and is particularly popular among the artisan caste. 
+      <ID>4866</ID>
+      <DefaultText>This gem feels like a lump of polished ice. A flaw just beneath the surface seems to follow you the longer you handle it. Tales woven around the so-called "Eye of Rymrgand" all share a central theme: that no one carries it for long. Every legend involving an intrepid hero falling into possession of the gem invariably ends with a tragic disappearance or doomed sea voyage. Some theories posit that the gem was snapped from an icicle in Rymrgand's White Void, and that its tireless search to return home draws mortals to the same dark fate. No matter the truth of such stories, the gem has a potent influence over the bearer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4867</ID>
+      <DefaultText>Detonator Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4868</ID>
+      <DefaultText>This piece of the Godhammer Bomb hums with divine power. Its existence is something of a paradox, as the bomb it belonged to successfully detonated in 2808 AI. The combination of Magran's blessing and historic significance make this trinket a rare find. Even though this catalyst never technically triggered the explosion on Evon Dewr Bridge, it thrums with the fire of the Godhammer and seems eager to fulfill its promise of destruction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4870</ID>
+      <DefaultText>In the years prior to the Royal Deadfire Company's arrival, the Wahaki hunter Metani led numerous storied hunts across the islands. Said to be blessed by Ngati with unnatural cunning, Metani favored trickery in his hunts, luring monstrous sea beasts into carefully-laid traps. One such stratagem won him this trophy, a harpoon carved from the longest tusk of a qilutaalik. Over time, he etched along its length images of the creatures bested with it.
 
-Featured regularly in Huana popular culture, esp. plays and songs, daibō o Osa perennially shoulders the blame in discussions about what's "ruining" the Huana youth.</DefaultText>
+When the Rauataians swept into the Deadfire, Metani took up Ngati's Tusk against them, eager to test his prowess against the invaders. Nothing prepared him for the iron armada, however, and his small boat disappeared in the blast from a water-borne bomb. The Tusk was lost, reclaimed by the sea. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
+      <ID>4871</ID>
+      <DefaultText>Champion's Cape</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5359</ID>
-      <DefaultText>A smoky, brown liquor native to Rauatai, meppu is distilled from malted barley and aged in oak barrels. Though traditionally served cut with water at room temperature, Rauataian students often add it to hot tea. In either form, it's regularly consumed with dark chocolate or other sweets.</DefaultText>
+      <ID>4872</ID>
+      <DefaultText>Embroidered with stylized stelgaers, spiders, and boars, this cape was awarded to you upon being named Champion of the Hunt in the Kazuwari Crucible games. While a helmet is the traditional prize awarded to the victor, you are not the first godlike to win the games. For champions with god-touched brows such as yours, this one-size-fits-all cape is given instead of the usual helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer Chiora</DefaultText>
+      <ID>4873</ID>
+      <DefaultText>Contender's Helm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5361</ID>
-      <DefaultText>This variation on a common herbal liqueur from the Vailian Republics has been infused with luminous adra. The combination of yellow alcohol and powdered adra results in a faintly glowing green concoction.
-
-Only the wealthiest of Vailian merchants boast of possessing more than a lone bottle of chiora, and uncorking one after dinner is an unsubtle manner of displaying one's success to one's guests.</DefaultText>
+      <ID>4874</ID>
+      <DefaultText>In addition to protecting the wearer’s head, face, and neck, this crested helm marks those who have risen in the rank and esteem of the Crucible. Decorative engravings lend the wearer a stoic aspect, and the open eyeholes emphasize the need to maintain focus in the heat of battle. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
