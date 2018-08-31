@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <Entries>
+    <Entry>
+      <ID>288372001</ID>
+      <DefaultText>The Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288372002</ID>
+      <DefaultText>Thought to be of Engwithian design, The Wheel—also known as “&lt;link="glossary://GlossaryEntry_Beraths_Wheel"&gt;Berath's Wheel&lt;/link&gt;” or the “Wheel of Life and &lt;xg&gt;Death&lt;/xg&gt;”—facilitates the process of reincarnation. Upon the death of a living creature, its soul enters the In-Between. When the In-Between grows full, souls move on to the Beyond where they wait to be redistributed into new bodies, new lives.
+
+Without the Wheel, and therefore the means of moving into the Beyond, it is speculated that the souls of all who die would &lt;i&gt;remain&lt;/i&gt; in the In-Between. The Beyond would empty, eventually ending life as we know it in Eora.
+
+It is not known, however, when the Wheel was constructed or what, if anything, came before it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
