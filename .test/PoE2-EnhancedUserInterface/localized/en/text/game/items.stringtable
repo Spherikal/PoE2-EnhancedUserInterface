@@ -502,7 +502,7 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
       <ID>5349</ID>
       <DefaultText>&lt;line-height=100%&gt;Small and cold to the touch, this construct may have been a prototype. Or the product of tinkering. Or a toy.
 
-While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Freeze Armor Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt; and the party's &lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;Freeze&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;/color&gt;&lt;/link&gt; attacks benefit form improved &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Freeze&#160;Armor&#160;Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt; and the party's &lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;Freeze&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;/color&gt;&lt;/link&gt; attacks benefit form improved &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
