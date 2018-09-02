@@ -19,6 +19,7 @@
 - Lots and lots of bug fixes.
 - Added a few entries not in use at the moment but that might be used by the mod in the near future...
 - Remvoed a few unused cyclopedia entries.
+- Updated the UUID of glossary entry "The Wheel" to fit our new enumeration system.
 
 ### Version 1.2.4
 - Changed all custom entry ID's to something less likely to cause conflicts with other mods.
