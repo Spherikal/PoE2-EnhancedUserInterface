@@ -2032,33 +2032,119 @@ Stories describe her as a gaunt knight in black armor with black eyes, black hai
     </Entry>
     <Entry>
       <ID>322386376</ID>
-      <DefaultText>Glamfellen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>322386377</ID>
-      <DefaultText>Elves who migrated to the White that Wends millennia ago. They travel that frozen continent in clans that come into conflict with one another and the Enutanik for resources. Infamous for their devotion to the death god Rymrgand, they are thought by some to be his children.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>322386378</ID>
       <DefaultText>Cultures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>322386379</ID>
+      <ID>322386377</ID>
       <DefaultText>People</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>322386380</ID>
+      <ID>322386378</ID>
       <DefaultText>The cultures of Eora are historically peopled by a mixture of diverse racial backgrounds. This means that characters cannot be measured against any predetermined notions about dwarves, elves, or other familiar ﬁ gures. A dwarf from the Vailian Republic, for example, might have more in common with a Vailian elf than he or she would with a dwarf of the Deadﬁ re archipelago. While creating a character, and encountering others along the way, it is more important than ever to consider the innate complexities of personal history and heritage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>322386381</ID>
+      <ID>322386379</ID>
       <DefaultText>A diverse medley of races populate Eora. Their separating characteristics are more apparent on a cultural level, with racial boundaries presenting neither roadblocks nor advantages in any given dealing between civilized men and women. An elf from one of the Glanfathan tribes, for example, would share more kinship with a dwarf of a neighboring tribe than with an elf from the Aedyran Empire. The one certainty is that Eora’s races can breed only with their like kind, and unions between divergent races have never proven successful from that standpoint.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>322386380</ID>
+      <DefaultText>Aumaua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386381</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=300%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
+   
+&lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="race_aumaua_l" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
+&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;T&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
+&lt;line-indent=15em&gt;he aumaua are a large race that originated and typically live and work in warm
+oceanic climates. Though they are not the most widely traveled racial group in the
+world (that distinction belongs either to Calbandran humans or Aptapo dwarves), they have been exploring and settling continuously for the longest period of time, over 20,000 years.&lt;/line-indent&gt;&lt;/line-height&gt;
+
+&lt;voffset=0.2em&gt;&lt;b&gt;Ethnicities&lt;/b&gt;&lt;/voffset&gt;
+Aumaua have two widely divergent ethnicities that are geographically separated by thousands of miles, likely due to a huge migration that took place over 15,000 years ago. Aumaua are not found in large numbers in any heterogeneous cultures but when they do integrate into non-aumaua cultures, they tend to assimilate fully. They are occasionally found in Dyrwood, the Vailian Republics, Readceras, and, rarely, in Aedyr. They are most often found in or near port cities.
+
+&lt;voffset=0.2em&gt;&lt;b&gt;Physical traits&lt;/b&gt;&lt;/voffset&gt;
+Aumaua are physically distinct from other races due to their towering size, “inverted triangle” physique, odd skin and hair coloration and textures, and head shape. Aumaua natural lifespans are typically between seventy and one hundred and fifteen years.
+
+&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;L&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386382</ID>
+      <DefaultText>The mighty aumaua are the largest of the kith races and are commonly found in or near oceans. Though not truly aquatic, they have an affinity for water and many of their civilizations, such as Rauatai, are based on naval dominance. They are known for their unparalleled strength.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386383</ID>
+      <DefaultText>Island Aumaua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386384</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Island Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
+
+&lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="race_aumaua_l" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
+&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;S&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
+&lt;line-indent=15em&gt;outhern Island Aumaua, originated in the Deadfire Archipelago a thousand miles
+south of the Vailian Republics. While physiologically similar to their coastal cousins,
+the coloration of Island Aumaua is starkly different - brown and yellow. Though still uncommon in the Dyrwood and surrounding environments, Island Aumaua are more commonly encountered there than Coastal Aumaua, who are quite rare. When encountered outside of Deadfire, they are often laborers, fishermen, or sailors.&lt;/line-indent&gt;
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Features:&lt;/b&gt; Higher body fat (relative to coastals, not in general) very wide nose bridges, and widely spaced eyes. Round or square faces. Upturned or prominent eyes with epicanthic folds. Long skulls with prominent domes. Hair does not grow on the crown of the head. Slightly webbed hands and feet (below the second knuckle). Long arms. Tiny ears that barely protrude from the head.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Skin:&lt;/b&gt; Warm tones, often brown or yellow running into (fish-like) white.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Hair:&lt;/b&gt; Clay-red, copper, green-brown, brown, black. Wavy or kinky texture.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Eyes:&lt;/b&gt; Yellow, silver, blue, copper, hazel.&lt;/line-height&gt;
+
+&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;K&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386385</ID>
+      <DefaultText>Island aumaua originated in the Deadfire Archipelago and have largely remained there over the millennia. While physiologically similar to their coastal cousins, the coloration of island aumaua is starkly different - warm tones, contrasting the coastal's cool blues and green. While not all island aumaua are connected to the native Huana culture of the Deadfire, it is rare to find them in the Eastern Reach, much less the Old Empires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386386</ID>
+      <DefaultText>Coastal Aumaua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386387</ID>
+      <DefaultText>
+&lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Island Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
+
+&lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="race_aumaua_l" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
+&lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;D&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
+&lt;line-indent=15em&gt;welling primarily in the Northern Hemisphere, so-called “coastal” aumaua live in a conquered mainland region, mostly along the coast. Coastal aumaua cultures are more centralized and urban than their southern counterparts, though they are still involved in seafaring.&lt;/line-indent&gt;
+
+While it isn’t accurate to think of island aumaua as peaceful and coastal aumaua as warlike, that is exactly how many people in large parts of Eora view them. The reason for this is connected to the ancient campaign of war in which aumaua pushed Thyrtan, Natlan, and orlan communities out of a number of territories. Because this successive series of wars allowed the aumaua to resettle the northern lands, it is vaguely recollected in many people’s minds.
+
+Coastal aumaua are more common in Aedyr than in Dyrwood or surrounding areas, but when they are encountered, they are often mercenaries, bodyguards, or soldiers.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Features:&lt;/b&gt; Very wide nose bridges and widely spaced eyes. Rectangular or square faces. Narrow, almond, or round eyes. Long skulls with prominent domes. Slightly webbed hands and feet (below the second knuckle). Long arms. Tiny ears that barely protrude from the head.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Skin:&lt;/b&gt; Cool tones, often blues, grays, or greens running into (fish-like) white.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Hair:&lt;/b&gt; Silver, blond, strawberry blond, brown. Straight or wavy texture.
+
+&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;&lt;size=150%&gt;&lt;voffset=-0.1em&gt;•&lt;/voffset&gt;&lt;/size&gt;&lt;/font&gt; &lt;b&gt;Eyes:&lt;/b&gt; Yellow, silver, blue, gold, green, brown.&lt;/line-height&gt;
+
+&lt;align="center"&gt;&lt;font="EspinosaNova-Ornaments SDF"&gt;&lt;size=200%&gt;K&lt;/size&gt;&lt;/font&gt;&lt;/align&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386388</ID>
+      <DefaultText>Viewed by many in the Old Empires and Eastern Reach as a warlike race, the coastal aumaua are dominantly from the northern nation of Rauatai. Though they originated in the Deadfire Archipelago thousands of years ago, time and distance have divorced them from their distant Huana kin. Coastal aumaua are less intimately connected to the sea than island aumaua and are distinguished by their cool skin tones.</DefaultText>
+      <FemaleText />
+    </Entry>    
   </Entries>
 </StringTableFile>

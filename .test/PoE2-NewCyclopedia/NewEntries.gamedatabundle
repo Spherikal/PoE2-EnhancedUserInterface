@@ -1,0 +1,309 @@
+{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Aumaua",
+        "ID": "ff993339-8db3-4c08-914a-e30f39278fd0",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386380,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386381,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "false",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Aumaua_Tooltip",
+        "ID": "6b01e16b-1da7-421b-94b2-849a39677041",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386380,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386382,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "false",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Island_Aumaua",
+        "ID": "ad918ee9-8a71-4c59-9562-3728039df3c7",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386383,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386384,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "false",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "ff993339-8db3-4c08-914a-e30f39278fd0"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Island_Aumaua_Tooltip",
+        "ID": "5e9bf428-188d-4389-bd08-e4efa75a2a31",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386383,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386385,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "false",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Coastal_Aumaua",
+        "ID": "2b8787f3-2758-4209-99b0-209dc5c80086",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386386,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Coastal_Aumaua_Tooltip",
+        "ID": "38dec120-e45a-44e5-8ffe-8f64cb9a1f4c",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386386,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "3ecbbefa-940c-40ae-ba2c-23477f12c800",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "d710c638-2fb4-4395-8106-683619410628",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "a41e6031-61a3-418c-9d09-d968e029eeca",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "7f918769-3629-4013-afa7-15d7b364f8a5",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "d6dc7645-34d5-4102-aae6-fd2ac9296a6d",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "b327fc35-6094-4dcf-a291-8fa6fb558a66",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "469c25be-07a5-4416-81a0-5069b880f0c9",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "b0fdec1f-a0f7-4909-862e-4a0f67125522",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "f337b7bb-72d6-47bb-bdcd-ef80d959e5c6",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "622cf861-b0ce-4ce0-8c37-71ecd2e37f61",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "1f9857c2-701c-46d2-ba62-be6b7c8f9478",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_",
+        "ID": "47f87dd7-bab9-4cbb-b5ca-38617300c965",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 0,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 0,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+        }]
+    }]
+}
