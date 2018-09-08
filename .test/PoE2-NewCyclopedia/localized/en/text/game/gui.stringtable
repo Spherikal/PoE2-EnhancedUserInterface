@@ -98,5 +98,10 @@
 Note that there are a small number of Abilities that grant exceptions to the standard flanking rules, such as the barbarian's One Stands Alone, the ranger's Stalker's Link, and the cipher's Phantom Foes.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>322386018</ID>
+      <DefaultText>People and Cultures</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>

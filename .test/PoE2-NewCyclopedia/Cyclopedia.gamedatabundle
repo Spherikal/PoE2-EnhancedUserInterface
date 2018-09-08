@@ -336,7 +336,7 @@
             "ShowInJournal": "true",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
-            "LinkedEntriesIDs": [],
+            "LinkedEntriesIDs": ["11961611-a8b6-4b1e-bed2-bbccb89d93f1", "aa84a208-bee6-4536-9e88-6fec651e7e17", "563a9be7-ee46-4899-9cca-0dd2067e06b8", "9a09068c-0b52-4a44-bb98-0119de678068", "27fe8533-210a-4494-baf6-b0f8502b5138"],
             "ParentObjectID": "00000000-0000-0000-0000-000000000000"
         }]
     }, {
@@ -358,7 +358,7 @@
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
-        "DebugName": "GlossaryEntry_Beraths_Wheel_CyclopediaEntry",
+        "DebugName": "GlossaryEntry_The_Wheel_CyclopediaEntry",
         "ID": "aa84a208-bee6-4536-9e88-6fec651e7e17",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
@@ -575,7 +575,7 @@
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "5515eb73-5431-486f-9be2-1d5d5030ff21"
+            "ParentObjectID": "344aa063-d067-4ad8-8a6e-751956fd9697"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -609,7 +609,7 @@
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "5515eb73-5431-486f-9be2-1d5d5030ff21"
+            "ParentObjectID": "344aa063-d067-4ad8-8a6e-751956fd9697"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -625,23 +625,6 @@
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
-            "LinkedEntriesIDs": [],
-            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
-        }]
-    }, {
-        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
-        "DebugName": "glossaryentry_Cultures_Subcat_CyclopediaEntry",
-        "ID": "344aa063-d067-4ad8-8a6e-751956fd9697",
-        "Components": [{
-            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386074,
-            "TermGui": -1,
-            "DescriptionCyclopedia": 322386075,
-            "DescriptionGui": -1,
-            "CategoryID": "c2b238b2-c72b-4770-b847-43d18678477c",
-            "ShowInJournal": "true",
-            "CaseSensitive": "false",
-            "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
             "ParentObjectID": "00000000-0000-0000-0000-000000000000"
         }]
@@ -677,7 +660,7 @@
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "5515eb73-5431-486f-9be2-1d5d5030ff21"
+            "ParentObjectID": "344aa063-d067-4ad8-8a6e-751956fd9697"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -3160,6 +3143,100 @@
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
             "ParentObjectID": "75199e57-5586-477e-8b95-fc783525a935"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_The_Pallid_Knight",
+        "ID": "bce2fe98-4a0c-49be-929d-ee868c970a0a",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386372,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386373,
+            "DescriptionGui": -1,
+            "CategoryID": "7294de11-2ea6-496a-b99e-be2458de150a",
+            "ShowInJournal": "false",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_The_Usher",
+        "ID": "2716b76f-8a0b-4f72-9579-3e856fcd94cf",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386374,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386375,
+            "DescriptionGui": -1,
+            "CategoryID": "7294de11-2ea6-496a-b99e-be2458de150a",
+            "ShowInJournal": "false",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryCategoryGameData, Assembly-CSharp",
+        "DebugName": "Pepople_and_Cultures",
+        "ID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryCategoryComponent, Assembly-CSharp",
+            "DisplayName": 322386018,
+            "MetaCategory": "1"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Cultures_Subcat_CyclopediaEntry",
+        "ID": "344aa063-d067-4ad8-8a6e-751956fd9697",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386378,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386380,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "false",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_People_Subcat_CyclopediaEntry",
+        "ID": "333941f1-615c-4493-b7ab-010c00ac3cb6",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386379,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386381,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "false",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "00000000-0000-0000-0000-000000000000"
+        }]
+    }, {
+        "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
+        "DebugName": "GlossaryEntry_Glamfellen_CyclopediaEntry",
+        "ID": "6909f6a5-8d37-4882-b39a-97ac1f28de39",
+        "Components": [{
+            "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
+            "TermCyclopedia": 322386376,
+            "TermGui": -1,
+            "DescriptionCyclopedia": 322386377,
+            "DescriptionGui": -1,
+            "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
+            "ShowInJournal": "true",
+            "CaseSensitive": "false",
+            "AutomaticallyAddLinks": "true",
+            "LinkedEntriesIDs": [],
+            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }]
 }
