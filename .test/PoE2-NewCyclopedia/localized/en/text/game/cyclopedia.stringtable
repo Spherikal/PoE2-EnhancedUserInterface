@@ -2016,7 +2016,7 @@ The arms of the White March can still be seen on fine pieces of bronze and steel
     <Entry>
       <ID>322386373</ID>
       <DefaultText>“The Pallid Knight” is one of the youngest manifestations of Berath—the god of life, death, and reincarnation—and one quite familiar to kith.
-      
+
 Stories describe her as a gaunt knight in black armor with black eyes, black hair, and milk-pale skin. She demands an impossible toll from travelers who have tarried too long on her lord's road. The person either surrenders, or fights the knight and kill themselves in the process, or flee from him to stumble upon “the Usher”.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2037,7 +2037,7 @@ Stories describe her as a gaunt knight in black armor with black eyes, black hai
     </Entry>
     <Entry>
       <ID>322386377</ID>
-      <DefaultText>People</DefaultText>
+      <DefaultText>The Kith</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2059,7 +2059,7 @@ Stories describe her as a gaunt knight in black armor with black eyes, black hai
       <ID>322386381</ID>
       <DefaultText>
 &lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=300%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
-   
+
 &lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="race_aumaua_l" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
 &lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;T&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
 &lt;line-indent=15em&gt;he aumaua are a large race that originated and typically live and work in warm
@@ -2120,11 +2120,13 @@ the coloration of Island Aumaua is starkly different - brown and yellow. Though 
     <Entry>
       <ID>322386387</ID>
       <DefaultText>
-&lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Island Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
+&lt;align="center"&gt;&lt;#ad1a1a&gt;&lt;size=200%&gt;&lt;font="EspinosaNova-RotundaBoldAlt SDF"&gt;Coastal Aumaua&lt;/font&gt;&lt;/size&gt;&lt;/color&gt;
 
 &lt;size=300%&gt;&lt;#70624c&gt;&lt;sprite="Inline" name="race_aumaua_l" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/align&gt;
 &lt;line-height=100%&gt;&lt;voffset=-5.2em&gt;&lt;font="EspinosaNova-CapitularIV SDF"&gt;&lt;size=500%&gt;D&lt;/size&gt;&lt;/font&gt;&lt;/voffset&gt;
-&lt;line-indent=15em&gt;welling primarily in the Northern Hemisphere, so-called “coastal” aumaua live in a conquered mainland region, mostly along the coast. Coastal aumaua cultures are more centralized and urban than their southern counterparts, though they are still involved in seafaring.&lt;/line-indent&gt;
+&lt;line-indent=15em&gt;welling primarily in the Northern Hemisphere, so-called “coastal” aumaua live in a
+conquered mainland region, mostly along the coast. Coastal aumaua cultures are
+more centralized and urban than their southern counterparts, though they are still involved in seafaring.&lt;/line-indent&gt;
 
 While it isn’t accurate to think of island aumaua as peaceful and coastal aumaua as warlike, that is exactly how many people in large parts of Eora view them. The reason for this is connected to the ancient campaign of war in which aumaua pushed Thyrtan, Natlan, and orlan communities out of a number of territories. Because this successive series of wars allowed the aumaua to resettle the northern lands, it is vaguely recollected in many people’s minds.
 
@@ -2145,6 +2147,216 @@ Coastal aumaua are more common in Aedyr than in Dyrwood or surrounding areas, bu
       <ID>322386388</ID>
       <DefaultText>Viewed by many in the Old Empires and Eastern Reach as a warlike race, the coastal aumaua are dominantly from the northern nation of Rauatai. Though they originated in the Deadfire Archipelago thousands of years ago, time and distance have divorced them from their distant Huana kin. Coastal aumaua are less intimately connected to the sea than island aumaua and are distinguished by their cool skin tones.</DefaultText>
       <FemaleText />
-    </Entry>    
+    </Entry>
+    <Entry>
+      <ID>322386389</ID>
+      <DefaultText>Dwarves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386390</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386391</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386392</ID>
+      <DefaultText>Mountain Dwarves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386393</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386394</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386395</ID>
+      <DefaultText>Boreal Dwarves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386396</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386397</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386398</ID>
+      <DefaultText>Elves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386399</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386400</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386401</ID>
+      <DefaultText>Wood Elves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386402</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386403</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386404</ID>
+      <DefaultText>Pale Elves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386405</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386406</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386407</ID>
+      <DefaultText>Human Folk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386408</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386409</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386410</ID>
+      <DefaultText>Meadow Folk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386411</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386412</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386413</ID>
+      <DefaultText>Ocean Folk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386414</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386415</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386416</ID>
+      <DefaultText>Savannah Folk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386417</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386418</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386419</ID>
+      <DefaultText>Orlans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386420</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386421</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386422</ID>
+      <DefaultText>Hearth Orlans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386423</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386424</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386425</ID>
+      <DefaultText>Wild Orlans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386426</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386427</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386428</ID>
+      <DefaultText>Godlike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386429</ID>
+      <DefaultText>Description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322386430</ID>
+      <DefaultText>Tooltip.</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>
