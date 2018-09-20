@@ -1,5 +1,21 @@
 ## CHANGELOG
 
+### Version 1.4.0
+- Removed ID `288372009`, `288372010`, `288372011`, and `288372012` (gui.stringtable) as they were duplicates of text already present in the game.
+- Removed `GlossaryEntry_Crowd_Control`, `GlossaryEntry_Defender`, `GlossaryEntry_Striker`, and `GlossaryEntry_Support` from “EnhancedUI-DamageTypes.gamedatabundle” as they're no longer used by the mod.
+*abilities.stringtable*
+- Updated ID's: `3702`, `3883`, `4775`, `4779`, and `4781`.
+- New ID's: `4862`, `4919`, `4921`, `4925`, `4927`, and `5025`.
+*gui.stringtable:*
+- Updated ID's: `3640`.
+- New ID's: `5649`.
+*items.stringtable:*
+- Updated ID's: `3640`.
+- New ID's: `5649`.
+*statuseffects.stringtable:*
+- Updated ID's: `3640`.
+- New ID's: `669`, `674`, `675`, `676`
+
 ### Version 1.3.0
 - Added stylization to the `Petrified` and `Frozen` keywords.
 - Added stylization of `Burn Armor Rating` and `Freeze Armor Rating`.
