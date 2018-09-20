@@ -22794,7 +22794,392 @@ You will have a chance to review the mod's Workshop page before making it visibl
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText>[Temp] God Challenge Description</DefaultText>
+      <DefaultText>Complete each critical path quest by specific dates or the game ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>Galawain's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>Beasts gain random powerful effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5025</ID>
+      <DefaultText>Allows the caster to shape area of effect spells, modifying their area and Power Level</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Import Adventurer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5031</ID>
+      <DefaultText>Seeker, Slayer, Survivor - Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5032</ID>
+      <DefaultText>Seeker, Slayer, Survivor - Not Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText>Recruit {0}?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
+      <DefaultText>Without Equipment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>Export</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>Exported Characters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>No exported characters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Publish this character to the Steam Workshop?
+
+By publishing this character, you agree to the Steam Workshop &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;terms of service&lt;/link&gt;.
+
+You will have a chance to review the character's Workshop page before making it visible to the public.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Update this character on the Steam Workshop?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>This character's equipment contains unique items. Importing a character with unique items may affect the difficulty of the game. Continue?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>This character was exported from a game with cheats enabled. You must enable cheats to import this character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>{0} was successfully exported.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>Download</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>Kill Cam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>Use Kill Cam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>Kill Cam Global Cooldown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>Enemy Death Frequency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>Enemy Gibbed Frequency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>Friendly Knocked Down Frequency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>Friendly Death Frequency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>Cooldown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>Kill Cam Flavor Text</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>If on, the Kill Cam will create cinematic shots based on key combat moments and the user defined Kill Cam settings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>How much time much pass in between two Kill Cam shots before another one can run.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>Define the frequency in which this combat event will trigger a Kill Cam shot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>The time that must pass between two events of this same type for the Kill Cam to trigger a shot of this type again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>Victory!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>Triumph!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>Vanquished!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5102</ID>
+      <DefaultText>Defeat!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5103</ID>
+      <DefaultText>{0} has died!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>{0} is down!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>Obliterated!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>Annihilated!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>Destroyed!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>Slain!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>Eliminated!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>Finished!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>Native Level</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>Custom Level</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>This character's level is too high for you to recruit him at his native level.</DefaultText>
+      <FemaleText>This character's level is too high for you to recruit her at her native level.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>Always</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Last Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>Never Show</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>Frequently Used Abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>Hotkeys and Frequently Used Abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>Combat Behavior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Auto-Attack As Default Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5124</ID>
+      <DefaultText>When no criteria is met in any decision tree, attack the nearest target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>Camera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>If on, Kill Cam shots will display on screen flavor text in context to the event that triggered it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>Show Frequently Used Abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>If on, a Frequently Used Abilities bar will appear above your abilities bar. This will automatically display your top 5 frequently used abilities and your last used ability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>Reactive Music</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5134</ID>
+      <DefaultText>When off, exploration music will be a single track of music that doesn't change when stealthing, in conversation, and represents the full piece of music as it was intended. Turning on this option changes how any given piece of exploration music behaves during stealth, non-stealth, and conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText>All Events</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText>Party Events Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>Enemy Events Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText>{0} is a quest item that cannot be exported. Unequip the item before exporting this character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>Created with Cheats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText>Out Of Combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText>Ability Bar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText>Action Bar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText>Combat Log</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>Combat Tooltip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Pause Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>Set when to display certain HUD components when in and out of combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>Rymrgand's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>Food items spoil after a certain amount of time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Spoils After</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>Spoiled</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
