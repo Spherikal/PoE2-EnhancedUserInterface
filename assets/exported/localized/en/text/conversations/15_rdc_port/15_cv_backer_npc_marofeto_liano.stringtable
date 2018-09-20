@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>You find a man dressed in worn, dirty leather armor. His long, scraggly beard is encrusted with salt, his curling hair has clearly not seen a comb in some time, and the toenails of his bare fear are cracked and torn.
+      <DefaultText>You find a man dressed in worn, dirty leather armor. His long, scraggly beard is encrusted with salt, his curling hair has clearly not seen a comb in some time, and the toenails of his bare feet are cracked and torn.
 
 The only thing of any value that he carries is an amulet.</DefaultText>
       <FemaleText />
@@ -218,7 +218,7 @@ Though he maybe have been a knight once, he has grown frail in his old age, and 
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Deal."</DefaultText>
+      <DefaultText>[Enhance Insight and Intimidate] "Here you are."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

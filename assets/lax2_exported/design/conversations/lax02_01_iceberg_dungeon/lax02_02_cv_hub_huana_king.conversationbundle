@@ -38,6 +38,10 @@
 	"Nodes": [
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6cebcf8c-2255-46cc-b560-5fae1a8ad356",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -91,6 +95,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6cebcf8c-2255-46cc-b560-5fae1a8ad356",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -127,6 +135,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6cebcf8c-2255-46cc-b560-5fae1a8ad356",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -187,6 +199,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6cebcf8c-2255-46cc-b560-5fae1a8ad356",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -223,6 +239,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6cebcf8c-2255-46cc-b560-5fae1a8ad356",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",

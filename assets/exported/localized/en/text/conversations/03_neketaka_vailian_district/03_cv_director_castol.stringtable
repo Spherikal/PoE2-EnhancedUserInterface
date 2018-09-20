@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_director_castol</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>658</EntryCount>
+  <EntryCount>659</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -965,7 +965,7 @@ Castol braces himself against the surface of the desk, grasping the side as if t
       <ID>225</ID>
       <DefaultText>"To that end, take this. To prove that you work under the Company flag." 
 
-Castol plucks a tightly-wound scroll from atop a small pile of identical ones. He opens it hurriedly, scrawling a quick, untidy signature before holding it out to you.</DefaultText>
+Castol plucks a tightly wound scroll from atop a small pile of identical ones. He opens it hurriedly, scrawling a quick, untidy signature before holding it out to you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3436,7 +3436,7 @@ He lifts his shoulders in a helpless shrug.</DefaultText>
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>"We didn't discover the properties of luminous adra until a couple of years ago, but the Company's successes in the predate that by quite some time."</DefaultText>
+      <DefaultText>"We didn't discover the properties of luminous adra until a couple of years ago, but the Company's successes in the region predate that by quite some time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3789,6 +3789,13 @@ Pallegina's outburst is restricted to a single word, but her gaze is riveted to 
     <Entry>
       <ID>807</ID>
       <DefaultText>"A sorry end for such dedicated individuals. How very fortunate that you lived to tell their tale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>"I thought it best I speak with you face to face. Watchers are not so numerous here in the Deadfire. 
+
+"Especially those of such storied background as yourself."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

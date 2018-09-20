@@ -108,7 +108,7 @@ The aumaua cranes her thick neck to look along the hull of your ship. Her expres
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"You need to see someone, truly. I think it is the animancers in the Spire you're looking for," She taps her forehead three times and casts a glance back to her companions, "To help with your head!"</DefaultText>
+      <DefaultText>"Yeah, you do need to see someone, truly. I think it is the animancers in the Spire you're looking for," She taps her forehead three times and casts a glance back to her companions, "To help with your head!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ The aumaua cranes her thick neck to look along the hull of your ship. Her expres
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Tell me the real reason you are here or we must put you back on your ship and tug you out of the harbor. I do not think your ship could even sail beyond the reef in its current condition."</DefaultText>
+      <DefaultText>"Tell me the real reason you are here, or we'll put you back on your ship and tug you out of the harbor. I don't think your ship could even sail beyond the reef in its current condition."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Cutting through the din, you hear a familiar woman's voice speak. Each word come
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"I have heard enough of this foolishness. There is no room for you in the Neketaka harbor. Get back on your ship and head for open sea."</DefaultText>
+      <DefaultText>"I have heard enough. There is no room for you in Neketaka harbor. Get back on your ship and head back to open sea."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@ Cutting through the din, you hear a familiar woman's voice speak. Each word come
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"What?! Look, I've heard enough of this foolishness. If you value your life, get back on your ship and head for open sea."</DefaultText>
+      <DefaultText>"What?! Look, I've heard enough. If you value your life, get back on your ship and head for open sea."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

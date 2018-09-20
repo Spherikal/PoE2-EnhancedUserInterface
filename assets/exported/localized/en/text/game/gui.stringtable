@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4451</EntryCount>
+  <EntryCount>4528</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -13961,7 +13961,7 @@ Piety and prayer are the cornerstones of your public life, and you encourage the
     </Entry>
     <Entry>
       <ID>2924</ID>
-      <DefaultText>Streetwise covers the basic rules of &lt;xg&gt;survival&lt;/xg&gt; one learns on the streets and back allies of major cities. It includes urban readiness as well as appropriate etiquette for dealing with unsavory types.</DefaultText>
+      <DefaultText>Streetwise covers the basic rules of &lt;xg&gt;survival&lt;/xg&gt; one learns on the streets and back alleys of major cities. It includes urban readiness as well as appropriate etiquette for dealing with unsavory types.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22783,8 +22783,13 @@ You will have a chance to review the mod's Workshop page before making it visibl
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5014</ID>
+      <DefaultText>Length: Weapon Range</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5015</ID>
-      <DefaultText>[Temp] God Challenge</DefaultText>
+      <DefaultText>Eothas' Challenge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

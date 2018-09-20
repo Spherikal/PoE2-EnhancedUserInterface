@@ -38,6 +38,10 @@
 	"Nodes": [
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "4d487c2d-df1e-43f0-ad59-db7fa3b559a1",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",

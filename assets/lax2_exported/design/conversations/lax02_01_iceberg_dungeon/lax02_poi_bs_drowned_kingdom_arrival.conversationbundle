@@ -1,7 +1,7 @@
 {"Conversations": [
 {
 	"ID": "49e4b75a-286f-48af-a728-fe73d2dc2a91",
-	"Filename": "conversations/lax02_01_iceberg_dungeon/lax02_poi_bs_drowned_kingdom_arrival.conversation",
+	"Filename": "Conversations/LAX02_01_Iceberg_Dungeon/LAX02_POI_bs_drowned_kingdom_arrival.conversation",
 	"ConversationScriptNode": {
 		"RequiresValidChildNode": false,
 		"NotSkippable": false,
@@ -70,6 +70,10 @@
 	"Nodes": [
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "00000000-0000-0000-0000-000000000000",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -166,6 +170,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -218,6 +226,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "09b41c25-ce0a-4568-8f6b-2263f8a7493c",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -270,6 +282,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "f1504d00-eb4f-423a-9c9b-e71b5b23adcc",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -322,6 +338,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "688aa86c-fbe6-4a7f-9dd0-7ef3f8c943f4",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -374,6 +394,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "e41c506b-abcc-45f8-98ab-bba00a0ebc16",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -426,6 +450,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "b0f877d3-6fe5-4198-82a7-77d737ce2cb2",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -478,6 +506,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "a092c773-50f1-4bd8-9fb9-14233e891f72",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -604,6 +636,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -717,19 +753,6 @@
 					{
 						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
 						"Data": {
-							"FullName": "Boolean AlwaysFalse()",
-							"Parameters": [],
-							"Flags": "",
-							"UnrealCall": "",
-							"FunctionHash": 334029817,
-							"ParameterHash": 334029817
-						},
-						"Not": false,
-						"Operator": 0
-					},
-					{
-						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
-						"Data": {
 							"FullName": "Boolean IsCompanionActiveInParty(Guid)",
 							"Parameters": [
 								"b1a7e809-0000-0000-0000-000000000000"
@@ -767,6 +790,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -820,6 +847,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "5529e4b7-42dc-4895-b9f8-23375a945413",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -937,6 +968,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "09b41c25-ce0a-4568-8f6b-2263f8a7493c",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1038,6 +1073,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1091,6 +1130,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1144,6 +1187,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1229,6 +1276,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "5529e4b7-42dc-4895-b9f8-23375a945413",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1298,6 +1349,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "09b41c25-ce0a-4568-8f6b-2263f8a7493c",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1367,6 +1422,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1567,6 +1626,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1620,6 +1683,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1673,6 +1740,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "c9f4c0dd-9caa-4351-b008-ee8584e515b5",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -1709,6 +1780,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "6a99a109-0000-0000-0000-000000000000",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",

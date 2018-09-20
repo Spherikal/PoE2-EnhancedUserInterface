@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>59</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -257,6 +257,46 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>Begin the game with inherent bonuses to Might, Constitution, Dexterity, Intellect, Perception, and Resolve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Discount Craftsman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Crafting and enchanting currency costs are reduced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Loaded Pockets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Pockets are filled with more and rarer items.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Legendary Crew</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Three unique and veteran sailors become available for hire in the Kraken's Eye tavern (at a discount).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Mythical Discovery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>A mythical adra stone appears in the prologue armoire.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

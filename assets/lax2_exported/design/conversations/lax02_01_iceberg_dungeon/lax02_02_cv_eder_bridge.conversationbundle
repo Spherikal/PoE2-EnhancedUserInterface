@@ -38,6 +38,10 @@
 	"Nodes": [
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "00000000-0000-0000-0000-000000000000",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -91,6 +95,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -162,6 +170,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -215,6 +227,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -533,6 +549,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -569,6 +589,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",
@@ -605,6 +629,10 @@
 		},
 		{
 			"$type": "OEIFormats.FlowCharts.Conversations.TalkNode, OEIFormats",
+			"EmotionType": "",
+			"EmotionStrength": 0.5,
+			"PersistEmotion": true,
+			"EmotionDelay": 0.0,
 			"SpeakerGuid": "9c5f12c9-e93d-4952-9f1a-726c9498f8fb",
 			"ListenerGuid": "b1a8e901-0000-0000-0000-000000000000",
 			"ExternalVO": "",

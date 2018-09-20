@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>550</EntryCount>
+  <EntryCount>555</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1187,7 +1187,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Empowered Abilities with weapon apply Injury to target</DefaultText>
+      <DefaultText>Empowered Abilities with this weapon apply Injuries to uninjured targets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2502,7 +2502,7 @@
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>Souls returned to the wheel ({0:value:straight}/{0:triggercount})</DefaultText>
+      <DefaultText>Souls returned to the Wheel ({0:value:straight}/{0:triggercount})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2753,6 +2753,31 @@
     <Entry>
       <ID>669</ID>
       <DefaultText>Burn Damage retaliation Attack when Hit in melee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>{0:value} Accuracy against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>{0:value} Accuracy and {0:triggervalue} Defense against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>{0:value} Accuracy and {0:triggervalue:percent} Damage against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Prone on end</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>{0:value:percent} Chance to cast &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Withdraw&lt;/link&gt; or &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Recall Agony&lt;/link&gt; on owner when attacked while Near Death</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

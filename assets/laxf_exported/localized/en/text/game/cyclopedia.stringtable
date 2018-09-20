@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>This traveler's guide is circulated for the benefit of newcomers to the Deadfire Archipelago. One passage stands out:
+
+"AVOID AT ALL COSTS the spider Belranga. She is a menace to the isles, a poison-dripping terror of legendary proportions. Her RAVENOUS young swarm unwary travelers, and her rage is NIGH UNIMAGINABLE if a single broodling is harmed. Seek her out AT YOUR OWN PERIL. 
+
+The Deadfire Visitor's Preservation Society takes no responsibility for harm inflicted by knowing ignorance of the risks, and every effort has been made to keep travelers AWAY from the following coordinates: 8° 53' N 45° 25' E." 
+
+A map of Belranga's position is marked off with a wax seal in the shape of a skull. It points toward an island west of Ondra's Mortar. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

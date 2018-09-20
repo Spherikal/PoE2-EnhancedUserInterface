@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2899</EntryCount>
+  <EntryCount>2895</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2287,7 +2287,8 @@ If you are taking a quick trip, purchase a gift for someone you are visiting and
 
 If you are taking a longer trip, leave remembrances of your trip - no matter how well you know the road. Drop some pebbles along the way or tie ribbon to the tree branches. Mark your path away and you'll always have a safe and easy trip back.
 
-Evil spirits and dangerous creatures are everywhere in our world. If you decorate your cart with masks, they will scare away any danger that might otherwise approach. But you must decorate your cart anew every trim or the evil won't be fooled by your ruse!"</DefaultText>
+Evil spirits and dangerous creatures are everywhere in our world. If you decorate your cart with masks, they will scare away any danger that might otherwise approach. But you must decorate your cart anew every trip or the evil won't be fooled by your ruse!"
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4535,7 +4536,7 @@ Sincerest regards,
 Rowen Gjakon, shipping quartermaster, CaSC
 
 Dealer notes, if any:
-(not certain if vest went down with Henqua. Will make further inquiries.)"</DefaultText>
+(not certain if vest went down with Henqua. &lt;xg&gt;Will&lt;/xg&gt; make further inquiries.)"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7921,9 +7922,9 @@ This is a safe place. Certainly we will find no trouble here.</DefaultText>
     </Entry>
     <Entry>
       <ID>3371</ID>
-      <DefaultText>Wrought of fine steel and engraved with gilded Eld Aedyran runes that read MODWYR, this blade would have been a fashionable Dyrwoodan noble's favored accessory twenty years ago. Time has been rather unkind to it, however. The delicate filigree relief in its pommel has been scored by accident and violence, and the tightly-wound leather of its hilt is stained with patches of old blood. For all that, the blade itself is sharp and curiously warm to the touch, and the tongue of the soul inside it is sharper still.
+      <DefaultText>Wrought of fine steel and engraved with gilded Eld Aedyran runes that read MODWYR, this blade would have been a fashionable Dyrwoodan noble's favored accessory twenty years ago. Time has been rather unkind to it, however. The delicate filigree relief in its pommel has been scored by accident and violence, and the tightly wound leather of its hilt is stained with patches of old blood. For all that, the blade itself is sharp and curiously warm to the touch, and the tongue of the soul inside it is sharper still.
 
-Where it's from and who might have forged are mysteries the sword has little interest in illuminating, though it does speak with a lively Dyrwoodan twang - a fact that tells you more about its origins than it has any intention of doing itself.</DefaultText>
+Where it's from and who might have forged it are mysteries the sword has little interest in illuminating, though it does speak with a lively Dyrwoodan twang - a fact that tells you more about its origins than it has any intention of doing itself.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8869,7 +8870,7 @@ He was practiced at mutiny. He gathered a small group of dissatisfied collaborat
     </Entry>
     <Entry>
       <ID>3581</ID>
-      <DefaultText>Lovers Embrace</DefaultText>
+      <DefaultText>Lover's Embrace</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9160,7 +9161,7 @@ Further, remember that we are NOT here as looters. Anyone caught thieving will m
     </Entry>
     <Entry>
       <ID>3640</ID>
-      <DefaultText>While Kathrynn Vonn Kiliann the Kat is following you around, you gain a bonus to Intellect and your party receives a bonus to Will.</DefaultText>
+      <DefaultText>While Kathrynn Vonn Kiliann the Cat is following you around, you gain a bonus to Intellect and your party receives a bonus to Will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10179,7 +10180,7 @@ Long before the people of the Deadfire had access to advanced metalworking, weap
     </Entry>
     <Entry>
       <ID>3873</ID>
-      <DefaultText>An Effigy of Skaen is only brought into being by those who are so oppressed they are willing perform horrific, unspeakable acts to strike down their persecutors. The ritual requires a willing worshiper to submit to disfigurement, mutilation, and certain death. If the offering is accepted, Skaen manifests in the supplicant, transforming them into an unstoppable avatar of the god's will, and sets out to brutally slay the oppressors of the faithful. When the monster's bloodlust is sated, the effigy literally falls apart, its task fulfilled. 
+      <DefaultText>An Effigy of Skaen is only brought into being by those who are so oppressed they are willing to perform horrific, unspeakable acts to strike down their persecutors. The ritual requires a willing worshiper to submit to disfigurement, mutilation, and certain death. If the offering is accepted, Skaen manifests in the supplicant, transforming them into an unstoppable avatar of the god's will, and sets out to brutally slay the oppressors of the faithful. When the monster's bloodlust is sated, the effigy literally falls apart, its task fulfilled. 
 
 The remains of the creature are understandably avoided. They rot slowly, as even scavengers and vermin seem wary of touching such a carcass. It seems some daring or deranged tailor was not so discouraged. The stitching of this garment is rough but serviceable, and the mismatched patches of flesh have been treated with preserving oils. The macabre robe has the unmistakable stink of freshly tanned hide.</DefaultText>
       <FemaleText />
@@ -14017,7 +14018,7 @@ As a symbol of her new station, Pallegina was presented with this gleaming breas
     </Entry>
     <Entry>
       <ID>4721</ID>
-      <DefaultText>Deal {0} damage with Shredder powers</DefaultText>
+      <DefaultText>Deal {0} damage with Shred powers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14332,7 +14333,7 @@ He descended into a place known as the Endless Paths of Od Nua and was never hea
     </Entry>
     <Entry>
       <ID>4798</ID>
-      <DefaultText>Have 25 Strength</DefaultText>
+      <DefaultText>Have 25 Might</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15064,7 +15065,7 @@ Okaya</DefaultText>
     </Entry>
     <Entry>
       <ID>4974</ID>
-      <DefaultText>Being an account of the great Captain [Player Name]'s adventures in those most distant and perilous isles, as recounted by that same Captain to the author, Sanza of Biageppe</DefaultText>
+      <DefaultText>Being an account of the great Captain [Player Name]'s adventures in those most distant and perilous isles, as recounted by that same Captain to the author, Sanza of Biageppe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15448,7 +15449,7 @@ The vestment once carried a blessing, however, and some of the divine power rema
     </Entry>
     <Entry>
       <ID>5079</ID>
-      <DefaultText>This armor is made of cured dear leather of a most peculiar variety. A ranger harvested the skin from the carcass of a buck she discovered while poaching the woods of her lord's estate. The animal, quite dead, showed no signs of injury or disease. Grateful for her good fortune, the opportunistic ranger set about skinning and dressing it.
+      <DefaultText>This armor is made of cured deer leather of a most peculiar variety. A ranger harvested the skin from the carcass of a buck she discovered while poaching the woods of her lord's estate. The animal, quite dead, showed no signs of injury or disease. Grateful for her good fortune, the opportunistic ranger set about skinning and dressing it.
 
 This proved impossible, though. As the ranger separated hide and sinew, she observed the deer's skin growing back before her very eyes. The ranger skinned and cut, collecting enough material to cover half-a-dozen animals, yet the carcass always regenerated to a pristine state.
 
@@ -16142,7 +16143,7 @@ I'm free.</DefaultText>
     </Entry>
     <Entry>
       <ID>5191</ID>
-      <DefaultText>Wrought of fine steel and engraved with gilded Eld Aedyran runes that read MODWYR, this blade would have been a fashionable Dyrwoodan noble's favored accessory twenty years ago. Time has been rather unkind to it, however. The delicate filigree relief in its pommel has been scored by accident and violence, and the tightly-wound leather of its hilt is stained with patches of old blood. For all that, the blade itself is sharp, though what warmth it once held is gone.</DefaultText>
+      <DefaultText>Wrought of fine steel and engraved with gilded Eld Aedyran runes that read MODWYR, this blade would have been a fashionable Dyrwoodan noble's favored accessory twenty years ago. Time has been rather unkind to it, however. The delicate filigree relief in its pommel has been scored by accident and violence, and the tightly wound leather of its hilt is stained with patches of old blood. For all that, the blade itself is sharp, though what warmth it once held is gone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17371,6 +17372,26 @@ A dozen such cloaks were later found abandoned among a library's stacks of tomes
     <Entry>
       <ID>5597</ID>
       <DefaultText>This item saw too much use without being properly maintained.  It's broken beyond any hope of repair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5648</ID>
+      <DefaultText>Nebula</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5649</ID>
+      <DefaultText>While in combat, Nebula will periodically grant any one character an Inspiration. While you are Near Death and being attacked, Nebula also has a small chance to cast Withdraw or Recall Agony on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5705</ID>
+      <DefaultText>Spoiled Food</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5706</ID>
+      <DefaultText>[Temp] Description of generic "spoiled food" item. This could be any non-alcohol food item that was held by the player for too long.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

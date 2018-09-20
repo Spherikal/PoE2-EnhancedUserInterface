@@ -214,7 +214,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000002,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CriticalHit","Priority":40,"Cooldown":15,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"critical_hit"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CriticalHit","Priority":40,"Cooldown":35,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"critical_hit"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -276,7 +276,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000003,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CriticalMiss","Priority":65,"Cooldown":16,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"critical_miss"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CriticalMiss","Priority":65,"Cooldown":40,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"critical_miss"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -400,7 +400,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000005,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"HitByFriendlyFire","Priority":52,"Cooldown":3,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"hit_by_friendly_fire"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"HitByFriendlyFire","Priority":52,"Cooldown":25,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"hit_by_friendly_fire"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -848,7 +848,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000012,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"TargetImmune","Priority":93,"Cooldown":12,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"target_immune"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"TargetImmune","Priority":98,"Cooldown":25,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":10,"ChatterPrefix":"target_immune"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -910,7 +910,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000013,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"PartyAllyDeath","Priority":96,"Cooldown":3,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"party_ally_death"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"PartyAllyDeath","Priority":96,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":3,"ChatterPrefix":"party_ally_death"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1112,7 +1112,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000014,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AbilityCastInterrupted","Priority":90,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"ability_cast_interrupted"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AbilityCastInterrupted","Priority":90,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1,"ChatterPrefix":"ability_cast_interrupted"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1298,7 +1298,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000018,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Injured","Priority":86,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"injured"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Injured","Priority":86,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":5,"ChatterPrefix":"injured"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1422,7 +1422,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000020,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"LowHealth","Priority":94,"Cooldown":1,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"low_health"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"LowHealth","Priority":94,"Cooldown":10,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":7,"ChatterPrefix":"low_health"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1498,7 +1498,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000022,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CannotDo","Priority":100,"Cooldown":7,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"cannot_do"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CannotDo","Priority":100,"Cooldown":7,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":0,"ChatterPrefix":"cannot_do"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1704,7 +1704,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000026,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Immobilized","Priority":60,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"immobilized"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Immobilized","Priority":60,"Cooldown":20,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"immobilized"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1890,7 +1890,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000030,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant1","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant1"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant1","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant1"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1938,7 +1938,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000031,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant2","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant2"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant2","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant2"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -1986,7 +1986,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000032,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant3","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant3"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterChant3","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_chant3"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2034,7 +2034,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000033,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation1","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation1"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation1","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation1"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2082,7 +2082,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000034,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation2","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation2"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation2","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation2"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2130,7 +2130,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000035,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation3","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation3"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"ChanterInvocation3","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"chanter_invocation3"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2178,7 +2178,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000036,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CipherMindWhisper1","Priority":80,"Cooldown":5,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"cipher_mind_whisper1"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"CipherMindWhisper1","Priority":80,"Cooldown":5,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1,"ChatterPrefix":"cipher_mind_whisper1"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2226,7 +2226,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000037,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AttackGrunt","Priority":10,"Cooldown":17,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"attack"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AttackGrunt","Priority":10,"Cooldown":17,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"attack"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2302,7 +2302,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000038,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"DamagedGrunt","Priority":35,"Cooldown":19,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"damaged"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"DamagedGrunt","Priority":35,"Cooldown":19,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"damaged"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2378,7 +2378,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000039,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Death","Priority":100,"Cooldown":2,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"death"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Death","Priority":100,"Cooldown":2,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":0,"ChatterPrefix":"death"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2564,7 +2564,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000042,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast1","Priority":80,"Cooldown":4,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"generic_spell_cast1"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast1","Priority":80,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1.5,"ChatterPrefix":"generic_spell_cast1"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2612,7 +2612,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000043,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast2","Priority":80,"Cooldown":4,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"generic_spell_cast2"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast2","Priority":80,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1.5,"ChatterPrefix":"generic_spell_cast2"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2660,7 +2660,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000044,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast3","Priority":80,"Cooldown":4,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"generic_spell_cast3"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast3","Priority":80,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1.5,"ChatterPrefix":"generic_spell_cast3"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2708,7 +2708,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000045,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast4","Priority":80,"Cooldown":4,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"generic_spell_cast4"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast4","Priority":80,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1.5,"ChatterPrefix":"generic_spell_cast4"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2756,7 +2756,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000046,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast5","Priority":80,"Cooldown":4,"OnInterrupt":"PlaySimultaneously","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"generic_spell_cast5"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"GenericSpellCast5","Priority":80,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":1.5,"ChatterPrefix":"generic_spell_cast5"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -2852,7 +2852,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000048,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"KnockedOut","Priority":87,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"ko"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"KnockedOut","Priority":99,"Cooldown":4,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":3,"ChatterPrefix":"ko"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -3264,7 +3264,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000049,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"PartyAllyKnockOut","Priority":95,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"party_ally_ko"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"PartyAllyKnockOut","Priority":95,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":3,"ChatterPrefix":"party_ally_ko"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{
@@ -3452,7 +3452,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000050,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AllyDeathGeneric","Priority":89,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"ally_death_generic"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"AllyDeathGeneric","Priority":89,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":3,"ChatterPrefix":"ally_death_generic"}},
 			"ContainerNodeID": -1,
 			"Links": [],
 			"ClassExtender": {
@@ -8011,7 +8011,7 @@
 			"VOPositioning": 0,
 			"DisplayType": 0,
 			"NodeID": 1000001,
-			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Cower","Priority":84,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Discard","MaxWaitTime":0,"ChatterPrefix":"cower"}},
+			"Component": {"$type":"Game.GameData.ChatterEventOverridesComponent, Assembly-CSharp","Overrides":{"EventType":"Cower","Priority":84,"Cooldown":3,"OnInterrupt":"Interrupt","InterruptionLevel":"Character","OnQueued":"Queue","MaxWaitTime":2,"ChatterPrefix":"cower"}},
 			"ContainerNodeID": -1,
 			"Links": [
 				{

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\11_hasongo\11_si_cannon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -289,6 +289,30 @@ Serafen glances towards the tower.
       <DefaultText>[Specified 0] considers the target and ratchets the bombard back to what looks like a reasonable angle.
 
 Probably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Turn the bombard toward the rubble obstruction to the west.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Aim the bombard at the rubble obstruction.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>You estimate the distance to the western platform and consider what you know about ballistics and parabolic trajectories.
+
+After a few mental calculations, you ratchet the bombard into a suitable firing position. You're confident you can take out the rubble obstruction on the platform at this angle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Specified 0] estimates the distance to the western platform and ratchets the bombard into a suitable firing position. 
+
+[Specified 0] is confident you can take out the rubble obstruction on the platform at this angle.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

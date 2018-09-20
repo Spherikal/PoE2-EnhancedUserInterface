@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -87,6 +87,11 @@ Now I've no choice but to face the dragon that has blighted &lt;b&gt;Rymrgand's&
     <Entry>
       <ID>20000</ID>
       <DefaultText>I located &lt;b&gt;King Wingauro o Watūri I&lt;/b&gt; in the &lt;b&gt;Drowned Kingdom&lt;/b&gt; and forced him to face the consequences of his actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[Description of meeting with Vailian lost soul.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

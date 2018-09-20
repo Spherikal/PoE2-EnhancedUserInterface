@@ -106,7 +106,7 @@ He makes an exaggerated show of wringing water from the lower edge of his padded
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Course, it's surely pirate territory. They've a number of boltholes out this way. I'd nae be surprised if that cave up north is one of them. Could be they lie in wait for us even as we speak."
+      <DefaultText>"Course, it's surely pirate territory. They've a number of boltholes out this way. I'd &lt;xg&gt;nae&lt;/xg&gt; be surprised if that cave up north is one of them. Could be they lie in wait for us even as we speak."
 
 A twinkle in his eyes belies his foreboding tone.</DefaultText>
       <FemaleText />
@@ -180,7 +180,7 @@ Engrim's eye twitches as he flashes a smile notable for its extraordinary absenc
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"There's nae getting the ship back underway without repairs. Yonder road inland seems the best chance of that. 
+      <DefaultText>"There's &lt;xg&gt;nae&lt;/xg&gt; getting the ship back underway without repairs. Yonder road inland seems the best chance of that. 
 
 "Ye want to be kicking some the corpses afore ye go. See if some cry out. We need a crew if we're to set sail."</DefaultText>
       <FemaleText />
@@ -192,7 +192,7 @@ Engrim's eye twitches as he flashes a smile notable for its extraordinary absenc
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Oh, but I &lt;i&gt;am&lt;/i&gt;, captain. I pray for the dint to test ourselves anew against the pirates. We'll nae let them slip away a second time."</DefaultText>
+      <DefaultText>"Oh, but I &lt;i&gt;am&lt;/i&gt;, captain. I pray for the dint to test ourselves anew against the pirates. We'll &lt;xg&gt;nae&lt;/xg&gt; let them slip away a second time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@ His eyes grow wide in excitement.</DefaultText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"There is also the cave to the north. Even if it holds nae survivors, there could be shelter."</DefaultText>
+      <DefaultText>"There is also the cave to the north. Even if it holds &lt;xg&gt;nae&lt;/xg&gt; survivors, there could be shelter."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

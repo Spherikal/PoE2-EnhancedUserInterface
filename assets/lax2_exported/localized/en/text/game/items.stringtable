@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>128</EntryCount>
+  <EntryCount>123</EntryCount>
   <Entries>
     <Entry>
       <ID>4708</ID>
@@ -55,7 +55,7 @@ Though details of the battle are scarce, this is certain: after the explosion of
     </Entry>
     <Entry>
       <ID>4798</ID>
-      <DefaultText>Have 25 Strength</DefaultText>
+      <DefaultText>Have 25 Might</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,35 +379,6 @@ While followed by Frosty, you gain bonus Armor against Freeze damage and the par
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5355</ID>
-      <DefaultText>A mixture of rums (and any other strong spirit available) and tropical juices, Wael's Wind is a perennially popular drink during the brutally hot summer months in the Deadfire. Invented by the pirates of the Príncipi sen Patrena, the beverage is traditionally served in the halved shell of a coconut. 
-
-Wael's Wind earned its name from its legendary capacity for knocking imbibers flat on their backs and robbing them of their memories of the night before.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5357</ID>
-      <DefaultText>Ranging from clear to slightly cloudy white, this liquor is distilled from a mixture of two different rices (one short grain, the other long) in water from a mountain spring on the island of Osa. The strongest liquor native to the Deadfire, daibō is generally served warm and is particularly popular among the artisan caste. 
-
-Featured regularly in Huana popular culture, esp. plays and songs, daibō o Osa perennially shoulders the blame in discussions about what's "ruining" the Huana youth.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer Chiora</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5364</ID>
       <DefaultText>Rime Construct Fluid</DefaultText>
       <FemaleText />
@@ -439,7 +410,7 @@ Featured regularly in Huana popular culture, esp. plays and songs, daibō o Osa 
     </Entry>
     <Entry>
       <ID>5385</ID>
-      <DefaultText>The hilt of this pickaxe is wrapped in layers of heavily worn cloth, each older than the next. Etched along the wooden grip are dozens of tiny pictograms, tales of Enutanik dwarves from Naasitaq. Some of the carvings are neat and precise, others nearly indecipherable. They tell of long treks across frozen tundra, battles with massive beasts, and snow-covered adra pillars.
+      <DefaultText>The hilt of this pickaxe is wrapped in layers of heavily worn cloth, each older than the last. Etched along the wooden grip are dozens of tiny pictograms, tales of Enutanik dwarves from Naasitaq. Some of the carvings are neat and precise, others nearly indecipherable. They tell of long treks across frozen tundra, battles with massive beasts, and snow-covered adra pillars.
 
 The most recent images depict an island of ice, slowly expanding to the north of Naasitaq. </DefaultText>
       <FemaleText />
