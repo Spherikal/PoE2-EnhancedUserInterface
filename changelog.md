@@ -1,5 +1,6 @@
 ## CHANGELOG
-
+// TODO: Colorize all instances of "Empowered" //
+// TODO: Colorize all instance of "Hurt", "Wounded" and "Near Death" //
 ### Version 1.4.0
 - Updated all gui.stringtable files to use the standardized ID enumeration for new entries (i.e. `288327XXX`).
 - Harmonized all `manifest.json` files to display the same version number and max version number.
@@ -22,6 +23,8 @@
 *statuseffects.stringtable:*
 - Updated ID's: `3640`.
 - New ID's: `669`, `674`, `675`, `676`.
+**Added 2018-09-23 (or later)**
+- Slightly changed how the Health icon is displayed.
 
 ### Version 1.3.0
 - Added stylization to the `Petrified` and `Frozen` keywords.
