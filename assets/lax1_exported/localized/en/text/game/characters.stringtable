@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>97</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Nāga Warrior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Nāga Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Nāga Shaman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>Rathun Frostcaller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Rathun Rimeblade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>Yolatli the Elder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>Yolatli the Younger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>Dekebar Drakesdoom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>Armanso the Lightfooted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>Opheli the Rake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>Wise Aerlíf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>Tunako the Tanager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>Poison Nāga Warrior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1211</ID>
+      <DefaultText>Poison Nāga Shaman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1212</ID>
+      <DefaultText>Poison Nāga Skirmisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1237</ID>
+      <DefaultText>Grand Razorback</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1254</ID>
+      <DefaultText>Young Porokoa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1255</ID>
+      <DefaultText>Razorback Sow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1256</ID>
+      <DefaultText>Razorback Piglet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1257</ID>
+      <DefaultText>Cook Corrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1258</ID>
+      <DefaultText>Domenga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1259</ID>
+      <DefaultText>Winge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1260</ID>
+      <DefaultText>Neale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1261</ID>
+      <DefaultText>Caretta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1262</ID>
+      <DefaultText>[TEMP] Retrainer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1282</ID>
+      <DefaultText>Arena Warden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1291</ID>
+      <DefaultText>Fire Titan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1292</ID>
+      <DefaultText>Engari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1293</ID>
+      <DefaultText>Ash Skeleton</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1294</ID>
+      <DefaultText>Pipiltin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1298</ID>
+      <DefaultText>Humaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1299</ID>
+      <DefaultText>The Slaying Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1300</ID>
+      <DefaultText>The Seeking Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1301</ID>
+      <DefaultText>The Surviving Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText>Brother Druid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1304</ID>
+      <DefaultText>Baby Kraken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1309</ID>
+      <DefaultText>Hawk of Dawn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1311</ID>
+      <DefaultText>Krovix of the Deep</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1314</ID>
+      <DefaultText>Arc Grub</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1321</ID>
+      <DefaultText>Aexica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1322</ID>
+      <DefaultText>Erūke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1323</ID>
+      <DefaultText>Whehami</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1333</ID>
+      <DefaultText>[TEMP] Auruke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>Korgrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText>[TEMP] Windsong Leader</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>Ash Skeletal Sorcerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>Arcane Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText>Nature Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText>Akumeno Waidyo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText>Masumeno Waidyo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>Elder Drake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Caedric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Disruptor Coil Fuel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Disruptor Coil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>Research Notes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1537</ID>
+      <DefaultText>Vathor Cadhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText>The Changeling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>Shrew</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>Savage Broodmother</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>Savage Sidewinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>Savage Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Savage Ravager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>Royal Animat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>Royal Animat Skirmisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>Nightmare Shade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Savage Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Savage Panther</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Young Savage Panther</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Savage Xaurip Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Savage Xaurip Skirmisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Drago</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>Obelisk of Earth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Obelisk of Air</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Obelisk of Water</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Obelisk of Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Muātu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>Hateno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>Scibéal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Kazuwari Spirit-speaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Kazuwari Huntsman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Grog Strongjaw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Pike Trickfoot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>Percival de Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Scanlan Shorthalt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>Vax'ildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Vex'ahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Trinket</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Izzia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Soul Mirror</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Tyrant of Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Savage Ogre Deadeye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Savage Ogre Cutthroat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1734</ID>
+      <DefaultText>Spectator</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4528</EntryCount>
+  <EntryCount>4532</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22165,7 +22165,7 @@ Your visions finally put to rest, you retired to the castle of &lt;b&gt;Caed Nua
     </Entry>
     <Entry>
       <ID>4802</ID>
-      <DefaultText>Quest items can't be sold or be placed into containers.</DefaultText>
+      <DefaultText>Quest items can't be sold or placed into containers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22829,7 +22829,7 @@ You will have a chance to review the mod's Workshop page before making it visibl
     </Entry>
     <Entry>
       <ID>5035</ID>
-      <DefaultText>Recruit {0}?</DefaultText>
+      <DefaultText>Recruit {0} at Level {1}?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23163,16 +23163,6 @@ You will have a chance to review the character's Workshop page before making it 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5150</ID>
-      <DefaultText>Rymrgand's Challenge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5151</ID>
-      <DefaultText>Food items spoil after a certain amount of time.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5152</ID>
       <DefaultText>Spoils After</DefaultText>
       <FemaleText />
@@ -23180,6 +23170,36 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5153</ID>
       <DefaultText>Spoiled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText>Cannot export characters during combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText>Import Character</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText>Import</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText>Start from Scratch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>Choose a pre-made character to start with and modify it as you like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
+      <DefaultText>Create a brand-new character.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

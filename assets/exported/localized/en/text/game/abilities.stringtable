@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3359</EntryCount>
+  <EntryCount>3363</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -17198,8 +17198,28 @@ None.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5054</ID>
-      <DefaultText />
+      <ID>5065</ID>
+      <DefaultText>Accelerated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Bullish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>Hardened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>Prowling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Volatile</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Porokoa are among Eora's most impressive and tactical aquatic reptiles. They spend most of their days in stillness and observation, preserving their energy until vulnerable prey draws near. From there they explode into frenzied movement for a surprise kill. They frequently target isolated lagufaeth, especially broods of young, but have been known to go farther inland under the right weather or feeding conditions. Riverside communities learn from experience to look twice at any log that goes floating past, as it may be more than it seems. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Proving Stone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Unique to the Deadfire, a Proving Stone is a large, round slab of rock with a circle cut from the center, often etched with Huana pictograms. Ancient Huana culture ritually resolved tribal conflicts through these stones. A tribe would challenge a rival to carry the stone to a specific remote or hazardous location. While the bearer of the stone could be accompanied by others to protect her, only the champion could carry the stone.
+
+Over time, this became more of a political statement, eventually evolving into something of a practical joke. Tales of cleverly delivered Proving Stones can attain positions of prominence in Huana culture, and one such story, the farcical recounting of a Proving Stone left in a queen's bed as she sleeps, has become one of the Deadfire's most beloved comedies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>Though most plentiful in Eir Glanfath, the stelgaer adapt well to many environments, and the jungles of the Deadfire Archipelago are no exception. Capable of patience, aggression, and the cunning to know when to use either, the stelgaer is far deadlier than the panthers and ocelots to which it is related.
+
+The great stelgaer of Kazuwari are one of the largest known breeds of stelgaer. The animal carnage required to feed this predator means very few islands offer the sustenance for more than a pack or two of these rapacious hunters, but the verdant jungles of Kazuwari provide enough game for these beasts to thrive. Despite having the strength and stamina for a drawn-out tussle with nearly any beast, the great stelgaer is an ambush hunter that prefers to blend into its surroundings and strike with little warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Whether they worship him as Toamowhai or Galawain, the Lord of the Hunt's disciples understand their deity as having three equal - but not entirely aligned - facets: the Seeker, the Slayer, and the Survivor. 
+
+The Seeker aspect encompasses the part of the god obsessed with the pursuit, investigation, and the insatiable need to always be moving forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Whether they worship him as Toamowhai or Galawain, the Lord of the Hunt's disciples understand their deity as having three equal - but not entirely aligned - facets: the Seeker, the Slayer, and the Survivor. 
+
+The Slayer embodies the aspect of the god obsessed with the moment of the kill and the kinetic blur of motion preceding it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Whether they worship him as Toamowhai or Galawain, the Lord of the Hunt's disciples understand their deity as having three equal - but not entirely aligned - facets: the Seeker, the Slayer, and the Survivor. 
+
+The Survivor aspect represents the part of the god that acknowledges that every hunter is prey to something else - if a larger predator doesn't stop them, then hunger, hubris, or age someday will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>The Seeking Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>The Slaying Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>The Surviving Face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>Whenever the ambient soul fragments floating around the Shattered Realms gather in unwieldy quantities, Rymrgand deploys a Warden of Decay to tidy up. These mindless rifts are narrow in size but great in power, drawing soul essence into an unimaginably small space where it is either imprisoned, destroyed, or digested. No one knows for certain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>A Vailian word for "island." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2895</EntryCount>
+  <EntryCount>2897</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17020,7 +17020,7 @@ If you have any concerns or complaints about my service, please direct them to t
       <ID>5494</ID>
       <DefaultText>The origin of the Watcher's Blade is a mystery. No smith has ever claimed responsibility for its forging. Its metal is as smoky and indistinct as the In-Between, with no marking to suggest it has ever felt the kiss of a hammer - leaving many to believe that it assumed this form naturally.
 
-Artfully enfused with soul essence, the blade glows in a kinship response to those on familiar terms with death. Its uncanny balance is linked to its ethereal nature, as the blade never seems wholly present in tangible reality. At times it feels like less of a sword than an ideal expression of one, which is why many have mistaken its true nature. Compounding its mystery, ancient war epics have described mauls or daggers with the elusive properties of the Watcher's Blade. This has led some mystics to conclude that the sword is merely a sword in its current and unknowably long "lifetime," and that it could be something else entirely on the next turning of the Wheel.</DefaultText>
+Artfully infused with soul essence, the blade glows in a kinship response to those on familiar terms with death. Its uncanny balance is linked to its ethereal nature, as the blade never seems wholly present in tangible reality. At times it feels like less of a sword than an ideal expression of one, which is why many have mistaken its true nature. Compounding its mystery, ancient war epics have described mauls or daggers with the elusive properties of the Watcher's Blade. This has led some mystics to conclude that the sword is merely a sword in its current and unknowably long "lifetime," and that it could be something else entirely on the next turning of the Wheel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17346,6 +17346,16 @@ A dozen such cloaks were later found abandoned among a library's stacks of tomes
     <Entry>
       <ID>5706</ID>
       <DefaultText>[Temp] Description of generic "spoiled food" item. This could be any non-alcohol food item that was held by the player for too long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5757</ID>
+      <DefaultText>[TEMP] Enchanted Necklace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5758</ID>
+      <DefaultText>[TEMP] The Necklace can bring inanimate things to life under the command of the original spell's caster. The original caster of this spell died long ago, but if the it could be replaced with a new master it will follow their commands.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
