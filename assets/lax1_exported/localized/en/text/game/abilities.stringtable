@@ -5,438 +5,78 @@
   <EntryCount>87</EntryCount>
   <Entries>
     <Entry>
-      <ID>3974</ID>
-      <DefaultText>The wielder calls upon a powerful drake to fight for the party.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3975</ID>
-      <DefaultText>Drake Command</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>3989</ID>
-      <DefaultText>The wielder leaps at their prey, Immobilizing them and causing them to bleed over time.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3994</ID>
-      <DefaultText>Summon Lesser Bog Ooze</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4001</ID>
-      <DefaultText>Toxic Volley</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4002</ID>
-      <DefaultText>Envenomed Arrows</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4012</ID>
-      <DefaultText>Wire Weave</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4017</ID>
-      <DefaultText>Sweet Aroma</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;The wielder leaps at their prey, &lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Immobilizing&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; them and causing them to bleed over time.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4018</ID>
-      <DefaultText>A sweet aroma originating from the flail produces an aura that increases the Accuracy of nearby allies.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4019</ID>
-      <DefaultText>Entrancing Aroma</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A sweet aroma originating from the flail produces an aura that increases the &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; of nearby allies.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4020</ID>
-      <DefaultText>An entrancing aroma originating from the flail produces an aura that reduces the Will defense of nearby enemies.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4021</ID>
-      <DefaultText>Goring Sweep</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4022</ID>
-      <DefaultText>Trotter Kick</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4023</ID>
-      <DefaultText>Stampede</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4024</ID>
-      <DefaultText>Sickening Aroma</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;An entrancing aroma originating from the flail produces an aura that reduces the &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;/link&gt; defense of nearby enemies.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4025</ID>
-      <DefaultText>A sickening aroma originating from the flail produces an aura that reduces the Accuracy of nearby enemies.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4026</ID>
-      <DefaultText>Blind Rage</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4027</ID>
-      <DefaultText>Call the Sounder</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4032</ID>
-      <DefaultText>Hidden Predator</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4035</ID>
-      <DefaultText>Crippling Wounds</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4036</ID>
-      <DefaultText>Pounce</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4037</ID>
-      <DefaultText>Primal Roar</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4038</ID>
-      <DefaultText>Ravage</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4039</ID>
-      <DefaultText>Unrivaled</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4040</ID>
-      <DefaultText>Tail Whip</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4041</ID>
-      <DefaultText>Bile Spew</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4042</ID>
-      <DefaultText>Tear Flank</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4047</ID>
-      <DefaultText>Aspect of the Boar</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4048</ID>
-      <DefaultText>Boar's Endurance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4049</ID>
-      <DefaultText>Boar's Charge</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A sickening aroma originating from the flail produces an aura that reduces the &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; of nearby enemies.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4050</ID>
-      <DefaultText>The wielder draws his head back and headbutts an enemy. The enemy takes significant Crush Damage and is Stunned.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4053</ID>
-      <DefaultText>Drink of the Fallen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4054</ID>
-      <DefaultText>Liquid Adra</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4055</ID>
-      <DefaultText>The unstable liquid inside this vial is able to gather energy from the Crucible to replicate other magical potion effects.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4061</ID>
-      <DefaultText>Defensive Tentacles</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4065</ID>
-      <DefaultText>Stelgaer's Lunge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4066</ID>
-      <DefaultText>Spider's Flurry</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;The wielder draws his head back and headbutts an enemy. The enemy takes significant &lt;link="glossary://GlossaryEntry_Crushing"&gt;Crush&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/link&gt; damage and is &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Stunned&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4067</ID>
-      <DefaultText>The wielder rapidly stabs the area in front of them, dealing damage and applying Immobilized.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4068</ID>
-      <DefaultText>The wielder leaps forward, dealing heavy damage and knocking their foe prone.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4071</ID>
-      <DefaultText>Stelgaer's Independence</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4081</ID>
-      <DefaultText>Volt Shield</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4084</ID>
-      <DefaultText>Flurry of Arrows</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4086</ID>
-      <DefaultText>Final Shock</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4103</ID>
-      <DefaultText>Spider's Union</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4104</ID>
-      <DefaultText>Gain a bonus to attack speed when near the wielder's animal companion.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4105</ID>
-      <DefaultText>Shade Invincibility</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4106</ID>
-      <DefaultText>Healing Webs</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4109</ID>
-      <DefaultText>Acid Shield</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4120</ID>
-      <DefaultText>Fiery Aura</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4250</ID>
-      <DefaultText>Pelt of Many Kinds</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4251</ID>
-      <DefaultText>Summons a random non-combat beast of Galawain at the start of combat. Each beast has an aura that applies a bonus to all allies near it.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4252</ID>
-      <DefaultText>Lessons of the Changeling</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4253</ID>
-      <DefaultText>Transforms the wearer into one of the Changeling's forms.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;The wielder rapidly stabs the area in front of them, dealing damage and &lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Immobilizing&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; them.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4271</ID>
-      <DefaultText>(Flurry of Arrows) - Windsong's hits against Near Death targets have a chance to cause Distracted.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4358</ID>
-      <DefaultText>Fealty</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4477</ID>
-      <DefaultText>Mother's Recovery</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4497</ID>
-      <DefaultText>Arcane Ward</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4498</ID>
-      <DefaultText>Nature Ward</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4515</ID>
-      <DefaultText>Empowered by the Hunt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4531</ID>
-      <DefaultText>Disruptor Coil</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4537</ID>
-      <DefaultText>Seeker's Study</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4538</ID>
-      <DefaultText>Slayer's Lounge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4539</ID>
-      <DefaultText>Survivor's Den</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4544</ID>
-      <DefaultText>Burn Research Notes</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4545</ID>
-      <DefaultText>Archmage's Anger</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4649</ID>
-      <DefaultText>Reconstruction - Plate</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4691</ID>
-      <DefaultText>Contender's Form</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;(Flurry of Arrows) - Windsong's hits against Near Death targets have a chance to cause &lt;link="glossary://GlossaryEntry_Distracted"&gt;&lt;#ca58ff&gt;Distracted&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4749</ID>
-      <DefaultText>The wearer points at a foe, Dominating them for a short period of time.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;The wearer points at a foe, &lt;link="glossary://GlossaryEntry_Dominated"&gt;&lt;#00a4ff&gt;Dominating&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; them for a short period of time.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4852</ID>
-      <DefaultText>When not near allies, the wielder gains bonus Raw Damage to their weapon attacks.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4853</ID>
-      <DefaultText>The first time the wearer is Bloodied each combat, they rapidly heal for a short duration.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4854</ID>
-      <DefaultText>When knocked unconscious, the wearer channels the spirit of the Boar, reviving and removing all Injuries.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;When not near allies, the wielder gains bonus &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;Raw&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; Damage to their weapon attacks.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4867</ID>
-      <DefaultText>While Drago is following you around, you have increased Stride and your party has bonus Defenses against Disengagement attacks.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4903</ID>
-      <DefaultText>Kazuwari's Call</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4904</ID>
-      <DefaultText>The wielder challenges an enemy, gaining bonus damage against that enemy while receiving less damage from that enemy's attacks.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4905</ID>
-      <DefaultText>Backlash</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4916</ID>
-      <DefaultText>Bubbling Chalice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4917</ID>
-      <DefaultText>Rightful Vengeance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4991</ID>
-      <DefaultText>Muātu's Aid</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4992</ID>
-      <DefaultText>The wielder summons Muātu to their side. Muātu's attacks heal the wielder if they are nearby and become more powerful as he is empowered by the souls of the Crucible.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5027</ID>
-      <DefaultText>Berath's Gift</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;While Drago is following you around, you have increased Stride and your party has bonus Defenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) against Disengagement attacks.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5028</ID>
-      <DefaultText>Returning the soul of the Porokoa to the Wheel has increased the Watcher's favor with Berath, increasing the Watcher's Accuracy against Spirits.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Returning the soul of the Porokoa to the Wheel has increased the Watcher's favor with Berath, increasing the Watcher's &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Spirits.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5029</ID>
-      <DefaultText>(Rymrgand's Gift) - Destroying more of the souls further increases the Accuracy against Vessels.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5030</ID>
-      <DefaultText>Galawain's Gift</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;(Rymrgand's Gift) - Destroying more of the souls further increases the &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Vessels.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5031</ID>
-      <DefaultText>Giving the souls of the Crucible to Galawain has increased the Watcher's favor with Galawain, increasing the Watcher's Accuracy against Beasts.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Giving the souls of the Crucible to Galawain has increased the Watcher's favor with Galawain, increasing the Watcher's &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Beasts.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5032</ID>
-      <DefaultText>(Galawain's Gift) - Giving more souls to Galawain further increases the Accuracy against Beasts.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5033</ID>
-      <DefaultText>Rymrgand's Gift</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;(Galawain's Gift) - Giving more souls to Galawain further increases the &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Beasts.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5034</ID>
-      <DefaultText>Destroying the souls of the Crucible has increased the Watcher's favor with Rymrgand, increasing the Watcher's Accuracy against Vessels.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Destroying the souls of the Crucible has increased the Watcher's favor with Rymrgand, increasing the Watcher's &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Vessels.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
