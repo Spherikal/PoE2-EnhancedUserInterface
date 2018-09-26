@@ -1,6 +1,11 @@
 ## CHANGELOG
 // TODO: Colorize all instances of "Empowered" //
 // TODO: Colorize all instance of "Hurt", "Wounded" and "Near Death" //
+
+### Version 1.4.1
+- Fixed the cyclopedia entry for "Armor Rating", it now display the correct numbers for "under penetration".
+- All instances of &#160; has been replaced with a non-breaking space.
+
 ### Version 1.4.0
 **Bugs and fixes:**
 - Updated all gui.stringtable files to use the standardized ID enumeration for new entries (i.e. `288327XXX`).
