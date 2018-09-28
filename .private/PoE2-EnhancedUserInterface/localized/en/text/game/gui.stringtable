@@ -659,6 +659,18 @@ Between the Eyes - Ranged attack with a large &lt;link="glossary://GlossaryEntry
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2855</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Sneak Attack becomes more deadly and Recovery decreases when the street fighter is Flanked or &lt;link="gamedata://263e7951-2cef-42af-a717-05cb3a915576"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+
+Weapon Crit damage increases when the street fighter is both Flanked and &lt;link="gamedata://263e7951-2cef-42af-a717-05cb3a915576"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Recovery is slower when the street fighter is neither Flanked nor &lt;link="gamedata://263e7951-2cef-42af-a717-05cb3a915576"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2858</ID>
       <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Gain increased Power Level with Enchanting Spells.
@@ -723,32 +735,32 @@ Increased Recovery Time for Wizard Spells not of the Enchanting School.&lt;/line
     </Entry>
     <Entry>
       <ID>5005</ID>
-      <DefaultText>Armor Damaged!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Armor Damaged!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5006</ID>
-      <DefaultText>Armor Broken!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Armor Broken!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5007</ID>
-      <DefaultText>Weapon Damaged!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Weapon Damaged!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5008</ID>
-      <DefaultText>Weapon Broken!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Weapon Broken!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5009</ID>
-      <DefaultText>Shield Damaged!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Shield Damaged!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5010</ID>
-      <DefaultText>Shield Broken!</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Shield Broken!&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
