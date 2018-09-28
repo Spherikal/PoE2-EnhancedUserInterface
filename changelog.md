@@ -1,9 +1,8 @@
 ## CHANGELOG
-// TODO: Colorize all instances of "Empowered" //
-// TODO: Colorize all instance of "Hurt", "Wounded" and "Near Death" //
 
 ### Version 1.4.5-beta2
 - Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
+- Colorized “Mind Afflictions” (#b574d3) and “Body Afflictions” (#d39674).
 
 ### Version 1.4.5-beta1
 - Added icon and color to all instances of the keyword "Empowered".
