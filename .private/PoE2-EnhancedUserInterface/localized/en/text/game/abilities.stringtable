@@ -3250,11 +3250,6 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4034</ID>
-      <DefaultText>&lt;line-height=100%&gt;Call forth a divine weapon specific to your deity and &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;Empowered&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; by your faith.&lt;/line-height&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4050</ID>
       <DefaultText>&lt;line-height=100%&gt;The wielder draws his head back and headbutts an enemy. The enemy takes significant &lt;link="glossary://GlossaryEntry_Crushing"&gt;Crush&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/link&gt; damage and is &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Stunned&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
