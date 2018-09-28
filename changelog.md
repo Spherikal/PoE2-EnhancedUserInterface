@@ -2,6 +2,10 @@
 // TODO: Colorize all instances of "Empowered" //
 // TODO: Colorize all instance of "Hurt", "Wounded" and "Near Death" //
 
+### Version 1.4.5
+- Added icon and color to all instances of the keyword "Empowered".
+- Added icon and color to all instances of the keywords "Near Death", "Bloodied", "Hurt", "Healthy", and "Unharmed".
+
 ### Version 1.4.1
 - Fixed the cyclopedia entry for "Armor Rating", it now display the correct numbers for "under penetration".
 - All instances of &#160; has been replaced with a non-breaking space.
