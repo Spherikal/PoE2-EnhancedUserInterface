@@ -1167,7 +1167,7 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>&lt;line-height=100%&gt;While &lt;link="gamedata://905a9045-afbe-44c6-add2-a7ba3d1ed220"&gt;&lt;#ffd200&gt;Hurt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#ffd200FF&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; or better the barbarian gains resistance against &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;.
+      <DefaultText>&lt;line-height=100%&gt;While &lt;link="gamedata://905a9045-afbe-44c6-add2-a7ba3d1ed220"&gt;&lt;#ffd200&gt;Hurt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#ffd200FF&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; or better the barbarian gains resistance against &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity).
 &lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
@@ -2834,7 +2834,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>3512</ID>
-      <DefaultText>&lt;line-height=100%&gt;Aura grants &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; bonus against &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt; to all nearby allies.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Aura grants &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; bonus against &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve) to all nearby allies.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3271,7 +3271,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4092</ID>
-      <DefaultText>&lt;line-height=100%&gt;When the wearer becomes &lt;link="gamedata://263e7951-2cef-42af-a717-05cb3a915576"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;, they are granted a random &lt;link="glossary://GlossaryEntry_Mind_Inspiration"&gt;Mind Inspiration&lt;/link&gt; for a long duration.
+      <DefaultText>&lt;line-height=100%&gt;When the wearer becomes &lt;link="gamedata://263e7951-2cef-42af-a717-05cb3a915576"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;, they are granted a random &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Inspiration&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve) for a long duration.
 &lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
@@ -4043,8 +4043,8 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4910</ID>
-      <DefaultText>&lt;line-height=100%&gt;While affected by a &lt;link="glossary://GlossaryEntry_Mind_Inspiration"&gt;Mind Inspiration&lt;/link&gt;, spells cast more quickly.&lt;/line-height&gt;</DefaultText>
+      <ID>4910</ID>d39674
+      <DefaultText>&lt;line-height=100%&gt;While affected by a &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Inspiration&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve), spells cast more quickly.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

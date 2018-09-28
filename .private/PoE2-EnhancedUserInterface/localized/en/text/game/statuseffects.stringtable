@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>&lt;line-height=100%&gt;Only take {0:value:percent} Damage when Flanked or suffering from &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Only take {0:value:percent} Damage when Flanked or suffering from &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity)&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} chance random &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Affliction&lt;/link&gt; for {0:extravalue:duration} on target on Scoring Crit&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} chance random &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Affliction&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve) for {0:extravalue:duration} on target on Scoring Crit&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

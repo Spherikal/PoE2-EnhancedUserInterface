@@ -531,12 +531,12 @@ Each Inspiration is categorized by an Attribute, such as Might or Dexterity. Ins
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Intellect, Perception, and Resolve attributes are classified as &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Intellect, Perception, and Resolve attributes are classified as &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Might, Constitution, and Dexterity attributes are classified as &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Might, Constitution, and Dexterity attributes are classified as &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

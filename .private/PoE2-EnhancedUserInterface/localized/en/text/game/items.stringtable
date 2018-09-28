@@ -98,12 +98,12 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3154</ID>
-      <DefaultText>&lt;line-height=100%&gt;Invigorates the body, warding off the effects of &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;, reducing their potency.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Invigorates the body, warding off the effects of &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity), reducing their potency.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3156</ID>
-      <DefaultText>&lt;line-height=100%&gt;This potion clears distraction and fear from the mind, reducing the effectiveness of &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;This potion clears distraction and fear from the mind, reducing the effectiveness of &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@ While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armo
     </Entry>
     <Entry>
       <ID>5498</ID>
-      <DefaultText>&lt;line-height=100%&gt;Kill {0} enemies while suffering from a &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Kill {0} enemies while suffering from a &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
