@@ -3,6 +3,7 @@
 ### Version 1.4.5-beta2
 - Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
 - Colorized “Mind Afflictions” (#b574d3) and “Body Afflictions” (#d39674).
+- Fixed an issue with a <space> tag that wasn't displaying properly.
 
 ### Version 1.4.5-beta1
 - Added icon and color to all instances of the keyword "Empowered".

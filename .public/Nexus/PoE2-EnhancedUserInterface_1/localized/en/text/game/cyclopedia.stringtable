@@ -87,7 +87,7 @@ A &lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralyzed&lt;s
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Petrified/Frozen</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Petrified/Frozen&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,22 +203,22 @@ By default, only some attacks are capable of Grazing, unless an ability or effec
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>&lt;xg&gt;&lt;line-height=100%&gt;When an attack hits, there is one primary means of mitigating damage: &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;b&gt;Armor Rating&lt;/b&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt;.
+      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;When an attack hits, there is one primary means of mitigating damage: &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;b&gt;Armor Rating&lt;/b&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt;.
 
 Armor Rating value is usually derived from armor, but many creatures have natural AR or can raise it through the use of magic, Abilities, Talents, or other equipment.
 
 Armor Rating is compared against the &lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;b&gt;Penetration&lt;/b&gt;&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/link&gt; of oncoming attacks to determine the attack's overall effectiveness.
 
-&lt;margin=2em&gt;&lt;b&gt;Full Penetration&lt;/b&gt; (+30% Damage) - Penetration is twice the target's Armor Rating or more.
-&lt;b&gt;Penetration&lt;/b&gt; (Listed Damage) - Penetration meets or exceeds the target's Armor Rating.
-&lt;b&gt;Under Penetration&lt;/b&gt; (-25% Damage per point under the target's Armor, Max -75%) - Penetration is less than the target's Armor Rating.&lt;/margin&gt;
+&lt;margin=2em&gt;&lt;b&gt;Full Penetration&lt;/b&gt; (130% Damage) occurs when Penetration is twice the target's Armor Rating or more.
+&lt;b&gt;Partial Penetration&lt;/b&gt; (100% Damage) occurs when Penetration meets or exceeds the target's Armor Rating.
+&lt;b&gt;Under Penetration&lt;/b&gt; (-25% Damage per point under the target's Armor, Max -75%) occurs when Penetration is less than the target's Armor Rating.
 
-Many suits of armor and many creatures will grant different Armor Rating values against the different&lt;/xg&gt; Damage Types.&lt;xg&gt; Lower ARs protect less against that type of damage, making the target more vulnerable to attacks of that type.&lt;/xg&gt;&lt;/line-height&gt;</DefaultText>
+Note that many suits of armor and many creatures will grant different Armor Rating values against the different&lt;/xg&gt; Damage Types. &lt;xg&gt;Lower ARs protect less against that type of damage, making the target more vulnerable to attacks of that type.&lt;/xg&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.25em&gt; represents a character's short-term survivability.
+      <DefaultText>&lt;line-height=100%&gt;&lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.25em&gt; represents a character's short-term survivability.
 
 Damage that is not reduced by a character's &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Armor Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt; goes straight to their Health. Potions and healing magic (such as from a paladin, priest, or druid) can restore Health in combat.
 
@@ -315,8 +315,15 @@ A &lt;link="glossary://GlossaryEntry_Shaken"&gt;&lt;#30d3d5&gt;Shaken&lt;space=0
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>599</ID>
+      <DefaultText>&lt;line-height=100%&gt;Streetfighters excel when the odds are against them, becoming especially deadly when they are outnumbered and &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>609</ID>
-      <DefaultText>&lt;line-height=100%&gt;A conscious character that is &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;&lt;size=110%&gt;≤&lt;/size&gt; 25% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered "Near Death".&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A conscious character that is &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;&lt;size=110%&gt;≤&lt;/size&gt; 25% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Near Death&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#ff462dFF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#ff462dFF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,7 +444,7 @@ Each Inspiration is categorized by an Attribute, such as Might or Dexterity. Ins
     <Entry>
       <ID>723</ID>
       <DefaultText>&lt;line-height=100%&gt;&lt;voffset=0.5em&gt;&lt;size=95%&gt;&lt;link="glossary://GlossaryEntry_Inspirations_Constitution"&gt;&lt;#dac79c&gt;Constitution Inspiration&lt;/color&gt;&lt;/link&gt;&lt;/size&gt;&lt;/voffset&gt;
-&lt;link="glossary://GlossaryEntry_Robust"&gt;&lt;#f7b733&gt;Robust&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; characters have +5 Constitution, gain +2 &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Armor Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt;, and will regenerate &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.25em&gt; periodically.&lt;/line-height&gt;</DefaultText>
+&lt;link="glossary://GlossaryEntry_Robust"&gt;&lt;#f7b733&gt;Robust&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; characters have +5 Constitution, gain +2 &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Armor Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt;, and will regenerate &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt;&lt;space=-0.25em&gt; periodically.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,12 +531,12 @@ Each Inspiration is categorized by an Attribute, such as Might or Dexterity. Ins
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Intellect, Perception, and Resolve attributes are classified as &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Intellect, Perception, and Resolve attributes are classified as &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Might, Constitution, and Dexterity attributes are classified as &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Afflictions which affect the Might, Constitution, and Dexterity attributes are classified as &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,27 +546,31 @@ Each Inspiration is categorized by an Attribute, such as Might or Dexterity. Ins
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;25-50% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered "Bloodied".&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;25-50% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt;&lt;space=-0.5em&gt; is considered &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#e67d29&gt;Bloodied&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#e67d29FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;50-75% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered "Hurt".&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;50-75% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt;&lt;space=-0.5em&gt; is considered &lt;link="glossary://GlossaryEntry_Hurt"&gt;&lt;#ffd200&gt;Hurt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#ffd200FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;75-99% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered "Healthy".&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A character that is between &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;75-99% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt;&lt;space=-0.5em&gt; is considered &lt;link="glossary://GlossaryEntry_Healthy"&gt;&lt;#b5d925&gt;Healthy&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#b5d925FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>889</ID>
-      <DefaultText>&lt;line-height=100%&gt;A character that is at &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;100% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt; is considered "Unharmed".&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A character that is at &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;100% Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;&lt;space=-0.5em&gt;&lt;space=-0.5em&gt; is considered &lt;link="glossary://GlossaryEntry_Unharmed"&gt;&lt;#43e629&gt;Unharmed&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#83838397&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288372001</ID>
-      <DefaultText>The Wheel</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;The Wheel&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

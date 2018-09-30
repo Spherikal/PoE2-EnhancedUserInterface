@@ -98,12 +98,12 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3154</ID>
-      <DefaultText>&lt;line-height=100%&gt;Invigorates the body, warding off the effects of &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Body Afflictions&lt;/link&gt;, reducing their potency.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Invigorates the body, warding off the effects of &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;&lt;#d39674&gt;Body Afflictions&lt;/color&gt;&lt;/link&gt; (Might, Constitution, Dexterity), reducing their potency.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3156</ID>
-      <DefaultText>&lt;line-height=100%&gt;This potion clears distraction and fear from the mind, reducing the effectiveness of &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;This potion clears distraction and fear from the mind, reducing the effectiveness of &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,17 +453,17 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>4728</ID>
-      <DefaultText>Deal {0} &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;Raw&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; damage</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Deal {0} &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;Raw&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; damage&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4781</ID>
-      <DefaultText>Apply {0} &lt;link="glossary://GlossaryEntry_Inspirations_Perception"&gt;&lt;#ca58ff&gt;Perception Afflictions&lt;/color&gt;&lt;/link&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Apply {0} &lt;link="glossary://GlossaryEntry_Inspirations_Perception"&gt;&lt;#ca58ff&gt;Perception Afflictions&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4802</ID>
-      <DefaultText>Apply {0} &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellect Affliction&lt;/color&gt;&lt;/link&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Apply {0} &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellect Affliction&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,6 +479,11 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     <Entry>
       <ID>5137</ID>
       <DefaultText>&lt;line-height=100%&gt;Apply {0} &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity Afflictions &lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>&lt;line-height=100%&gt;Kill {0} enemies with &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;Empowered&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Attacks&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +505,7 @@ While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armo
     </Entry>
     <Entry>
       <ID>5498</ID>
-      <DefaultText>&lt;line-height=100%&gt;Kill {0} enemies while suffering from a &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Mind Afflictions&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Kill {0} enemies while suffering from a &lt;link="gamedata://9a2f5d84-96ef-453b-b52c-f698b2a0e8da"&gt;&lt;#b574d3&gt;Mind Afflictions&lt;/color&gt;&lt;/link&gt; (Perception, Intellect, and Resolve).&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,7 +520,8 @@ While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armo
     </Entry>
     <Entry>
       <ID>5649</ID>
-      <DefaultText>While in combat, Nebula will periodically grant any one character an Inspiration (&lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Strong&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.35em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Quick&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Insightful&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Smart&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Steadfast&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;). While you are Near Death and being attacked, Nebula also has a small chance to cast Withdraw or Recall Agony on you.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;While in combat, Nebula will periodically grant any one character an Inspiration (&lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Strong&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.35em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Quick&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Insightful&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Smart&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Steadfast&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;). While you are &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Near Death&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;#ff462dFF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#ff462dFF&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; and being attacked, Nebula also has a small chance to cast Withdraw or Recall Agony on you.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,17 +546,17 @@ While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armo
     </Entry>
     <Entry>
       <ID>5594</ID>
-      <DefaultText>Broken Armor</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Broken Armor&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5595</ID>
-      <DefaultText>Broken Shield</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Broken Shield&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5596</ID>
-      <DefaultText>Broken Weapon</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Broken Weapon&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
