@@ -1,8 +1,8 @@
 ## CHANGELOG
 
 ### Version 1.4.5-beta3
-- Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI. - Thanks to 'Zoinks!' for pointing this out!
-- Removed some "Defenses" stylization in the gui.stringtable file, it became too cluttered.
+- Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.
+- Removed some "Defenses" stylization in the gui.stringtable file (it became too cluttered).
 
 ### Version 1.4.5-beta2
 - Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
