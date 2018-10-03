@@ -1,5 +1,8 @@
 ## CHANGELOG
 
+### Version 1.4.5-beta4
+- Very minor changes to accommodate the upcoming patch (game version 3.0.1).
+
 ### Version 1.4.5-beta3
 - Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.
 - Removed some "Defenses" stylization in the gui.stringtable file (it became too cluttered).
