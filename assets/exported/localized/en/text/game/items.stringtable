@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2897</EntryCount>
+  <EntryCount>2895</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17345,17 +17345,7 @@ A dozen such cloaks were later found abandoned among a library's stacks of tomes
     </Entry>
     <Entry>
       <ID>5706</ID>
-      <DefaultText>[Temp] Description of generic "spoiled food" item. This could be any non-alcohol food item that was held by the player for too long.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5757</ID>
-      <DefaultText>[TEMP] Enchanted Necklace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5758</ID>
-      <DefaultText>[TEMP] The Necklace can bring inanimate things to life under the command of the original spell's caster. The original caster of this spell died long ago, but if the it could be replaced with a new master it will follow their commands.</DefaultText>
+      <DefaultText>This unrecognizable mush is the result of food spoilage. Beyond exuding the potent aroma of decomposition, the mush twitches slightly when it isn't closely observed. Not safe for ingestion. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

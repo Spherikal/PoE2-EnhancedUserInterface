@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax\lax_cv_craftsperson</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>85</EntryCount>
+  <EntryCount>86</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -454,6 +454,11 @@ She smiles cheerily and shrugs.</DefaultText>
       <ID>108</ID>
       <DefaultText>"Now try on that nice chain, I want to see how the light catches it!"</DefaultText>
       <FemaleText>"Now be a good lass and try on that nice chain, I want to see how the light catches it!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>A hand on her hip, she cocks her head as she waits for you to speak.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
