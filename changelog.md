@@ -1,18 +1,12 @@
 ## CHANGELOG
 
-### Version 1.4.5-beta4
+### Version 1.4.5
 - Very minor changes to accommodate the upcoming patch (game version 3.0.1).
-
-### Version 1.4.5-beta3
 - Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.
 - Removed some "Defenses" stylization in the gui.stringtable file (it became too cluttered).
-
-### Version 1.4.5-beta2
 - Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
 - Colorized “Mind Afflictions” (#b574d3) and “Body Afflictions” (#d39674).
 - Fixed an issue with a <space> tag that wasn't displaying properly.
-
-### Version 1.4.5-beta1
 - Added icon and color to all instances of the keyword "Empowered".
 - Added icon and color to all instances of the keywords "Near Death", "Bloodied", "Hurt", "Healthy", and "Unharmed".
 
