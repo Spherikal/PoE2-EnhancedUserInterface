@@ -2,8 +2,28 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>13</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Merge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4800</ID>
+      <DefaultText>Covalent Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Corrosive Solvent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4806</ID>
+      <DefaultText>Symbiote</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4836</ID>
       <DefaultText>Shattering Screech</DefaultText>
@@ -30,13 +50,23 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4857</ID>
+      <DefaultText>Merge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>The wielder merges with target Ally, granting them a huge bonus to both Power Level and Health, but removing the wielder from combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4861</ID>
       <DefaultText>Petrifying Venom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4862</ID>
-      <DefaultText>Venom from the mandible enters the target's body, Petryifying them. If the target dies while Petrified, Crystal-Eater Spiderlings burst from their body and join the party for a time.</DefaultText>
+      <DefaultText>Venom from the mandible enters the target's body, Petrifying them. If the target dies while Petrified, Crystal-Eater Spiderlings burst from their body and join the party for a time.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

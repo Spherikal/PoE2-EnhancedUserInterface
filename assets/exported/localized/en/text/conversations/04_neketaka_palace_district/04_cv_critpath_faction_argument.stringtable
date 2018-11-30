@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_critpath_faction_argument</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>152</EntryCount>
+  <EntryCount>154</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -890,6 +890,18 @@ Nirro waves airily.</FemaleText>
     <Entry>
       <ID>235</ID>
       <DefaultText>"You are making a mistake, Watcher. In times like these, trustworthy allies are the most valuable asset of all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"There's no time for this! Eothas went to the Ashen Maw, in Magran's Teeth, so I must follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Silence descends on the hall. Courtiers and delegates eye one another, seemingly gauging which of them will be first to laugh. 
+
+A stern look from Queen Onekaza turns every questioning glance to stone.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

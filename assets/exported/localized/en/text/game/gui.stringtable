@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4532</EntryCount>
+  <EntryCount>4555</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23163,6 +23163,16 @@ You will have a chance to review the character's Workshop page before making it 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5150</ID>
+      <DefaultText>Rymrgand's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>Food items spoil after a certain amount of time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5152</ID>
       <DefaultText>Spoils After</DefaultText>
       <FemaleText />
@@ -23170,6 +23180,11 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5153</ID>
       <DefaultText>Spoiled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Hylea's Challenge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23200,6 +23215,106 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5165</ID>
       <DefaultText>Create a brand-new character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5182</ID>
+      <DefaultText>Pet Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5183</ID>
+      <DefaultText>Pet Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5184</ID>
+      <DefaultText>Pets Available for Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5185</ID>
+      <DefaultText>Pets Available for Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5186</ID>
+      <DefaultText>Drag in Pet to Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5187</ID>
+      <DefaultText>Look to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5188</ID>
+      <DefaultText>Bonuses to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5189</ID>
+      <DefaultText>Drag in a Pet Sleeve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Drag in Pet for Bonuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5191</ID>
+      <DefaultText>Sacrifice Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5192</ID>
+      <DefaultText>Create Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5193</ID>
+      <DefaultText>Vela follows the Watcher and must be kept alive or the game ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5194</ID>
+      <DefaultText>Combat Tooltip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5196</ID>
+      <DefaultText>Ne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5197</ID>
+      <DefaultText>Lady of Lament</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5209</ID>
+      <DefaultText>Your cloud storage is full. Delete some saved games or exported characters, then try again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5210</ID>
+      <DefaultText>Space Available</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5211</ID>
+      <DefaultText>The preview image is larger than 1 MB.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5212</ID>
+      <DefaultText>Ondra Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5214</ID>
+      <DefaultText>Mythic</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

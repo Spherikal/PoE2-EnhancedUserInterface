@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_cv_degnos</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>71</EntryCount>
+  <EntryCount>72</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -379,6 +379,11 @@ He grabs your hands in his own clammy ones and shakes like a leaf in a gale.</De
     <Entry>
       <ID>114</ID>
       <DefaultText>He pales, glancing left and right with alarm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He bites his lower lip, uncertain whether or not to take your words at face value.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

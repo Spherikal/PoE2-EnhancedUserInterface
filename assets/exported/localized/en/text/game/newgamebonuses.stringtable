@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>59</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -260,6 +260,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>51</ID>
+      <DefaultText>Infamous Past</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Begin with the Infamous Captain passive (as if you had survived a mutiny).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>53</ID>
       <DefaultText>Discount Craftsman</DefaultText>
       <FemaleText />
@@ -287,6 +297,16 @@
     <Entry>
       <ID>58</ID>
       <DefaultText>Three unique and veteran sailors become available for hire in the Kraken's Eye tavern (at a discount).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>...Can I Pet Him Anyway?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Edér unlocks the pet slot.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

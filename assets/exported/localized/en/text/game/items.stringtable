@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2895</EntryCount>
+  <EntryCount>2896</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17346,6 +17346,11 @@ A dozen such cloaks were later found abandoned among a library's stacks of tomes
     <Entry>
       <ID>5706</ID>
       <DefaultText>This unrecognizable mush is the result of food spoilage. Beyond exuding the potent aroma of decomposition, the mush twitches slightly when it isn't closely observed. Not safe for ingestion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5747</ID>
+      <DefaultText>Empower {0} abilities</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

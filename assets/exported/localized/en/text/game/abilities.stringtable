@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3363</EntryCount>
+  <EntryCount>3360</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11572,7 +11572,7 @@ All Wound abilities cost +1 Wound.</DefaultText>
     </Entry>
     <Entry>
       <ID>3371</ID>
-      <DefaultText>Hurl Stone</DefaultText>
+      <DefaultText>Tentacle Barb</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16838,43 +16838,8 @@ None.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4807</ID>
-      <DefaultText>Colossal Strength</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4808</ID>
-      <DefaultText>Encumbered</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4809</ID>
-      <DefaultText>Atonement</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4818</ID>
-      <DefaultText>Grieving</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4819</ID>
       <DefaultText>Magma Emerge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4820</ID>
-      <DefaultText>Guilt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4823</ID>
-      <DefaultText>Veil Cleave</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4824</ID>
-      <DefaultText>Martyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17188,6 +17153,18 @@ None.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4939</ID>
+      <DefaultText>Spell Shaping</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4940</ID>
+      <DefaultText>While casting targeted area of effect spells, gain the ability to increase or decrease the size of the area at the cost or benefit of Power Level.
+
+(Use Zoom Controls while targeting a spell to shape it, note some spells may not be shaped)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5025</ID>
       <DefaultText>While in combat, Nebula will periodically grant any one character an Inspiration. While you are Near Death and being attacked, Nebula also has a small chance to cast Withdraw or Recall Agony on you.</DefaultText>
       <FemaleText />
@@ -17195,6 +17172,11 @@ None.</DefaultText>
     <Entry>
       <ID>5026</ID>
       <DefaultText>Nebula's Blessing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Afraid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17220,6 +17202,11 @@ None.</DefaultText>
     <Entry>
       <ID>5069</ID>
       <DefaultText>Volatile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Ondra's Favor</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

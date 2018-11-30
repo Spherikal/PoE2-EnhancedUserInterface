@@ -1,5 +1,10 @@
 ## CHANGELOG
 
+### Version 1.5.0
+- Removed stylization of some UI elements (abilities.stringtable).
+
+
+
 ### Version 1.4.5
 - Very minor changes to accommodate the upcoming patch (game version 3.0.1).
 - Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.

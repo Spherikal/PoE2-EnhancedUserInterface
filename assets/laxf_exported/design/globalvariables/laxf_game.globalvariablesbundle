@@ -2,6 +2,12 @@
 {
 	"GlobalVariables": [
 		{
+			"ID": "00000000-0000-0000-0000-000000000000",
+			"Tag": "b_mountainous_ooze_defeated",
+			"InitialValue": 0
+		},
+		{
+			"ID": "00000000-0000-0000-0000-000000000000",
 			"Tag": "b_spider_queen_defeated",
 			"InitialValue": 0
 		}
