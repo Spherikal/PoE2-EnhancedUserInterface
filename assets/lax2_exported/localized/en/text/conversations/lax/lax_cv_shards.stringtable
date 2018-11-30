@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax\lax_cv_shards</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>15</EntryCount>
+  <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -51,11 +51,6 @@ You recover quickly. The moment passes. </DefaultText>
     <Entry>
       <ID>27</ID>
       <DefaultText>The pulse is coming from the Chain of Rightful Authority and the Tooth of Toamowhai. </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>28</ID>
-      <DefaultText>The reactions stops as soon as you</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

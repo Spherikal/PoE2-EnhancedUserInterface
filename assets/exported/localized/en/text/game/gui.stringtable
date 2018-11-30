@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4555</EntryCount>
+  <EntryCount>4547</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -13916,7 +13916,7 @@ Piety and prayer are the cornerstones of your public life, and you encourage the
     </Entry>
     <Entry>
       <ID>2915</ID>
-      <DefaultText>The Explosives improves the accuracy, damage and effectiveness of bombs, noisemakers, and similar devices.</DefaultText>
+      <DefaultText>Explosives improves the accuracy, damage and effectiveness of bombs, noisemakers, and similar devices.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19998,7 +19998,7 @@ Would you like to enable telemetry at this time?</DefaultText>
     </Entry>
     <Entry>
       <ID>4321</ID>
-      <DefaultText>Silent Dhrwgas</DefaultText>
+      <DefaultText>Silent Dhwrgas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23218,61 +23218,6 @@ You will have a chance to review the character's Workshop page before making it 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5182</ID>
-      <DefaultText>Pet Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5183</ID>
-      <DefaultText>Pet Creation</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5184</ID>
-      <DefaultText>Pets Available for Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5185</ID>
-      <DefaultText>Pets Available for Creation</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5186</ID>
-      <DefaultText>Drag in Pet to Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5187</ID>
-      <DefaultText>Look to be Added</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5188</ID>
-      <DefaultText>Bonuses to be Added</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5189</ID>
-      <DefaultText>Drag in a Pet Sleeve</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5190</ID>
-      <DefaultText>Drag in Pet for Bonuses</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5191</ID>
-      <DefaultText>Sacrifice Pet</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5192</ID>
-      <DefaultText>Create Pet</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5193</ID>
       <DefaultText>Vela follows the Watcher and must be kept alive or the game ends.</DefaultText>
       <FemaleText />
@@ -23309,12 +23254,27 @@ You will have a chance to review the character's Workshop page before making it 
     </Entry>
     <Entry>
       <ID>5212</ID>
-      <DefaultText>Ondra Challenge</DefaultText>
+      <DefaultText>Ondra's Challenge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5214</ID>
       <DefaultText>Mythic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5220</ID>
+      <DefaultText>Cannot use non-spell abilites</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5224</ID>
+      <DefaultText>Woedica's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5225</ID>
+      <DefaultText>Prepared Meal</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,10 @@
 
 ### Version 1.5.0
 - Removed stylization of some UI elements (abilities.stringtable).
-
+- Changed how damage sates are displayed (Unharmed, Hurt, Near Death etc.).
+- Slightly changed the text color of the "Raw" keyword.
+- Added color to all weapon dmg types (Blunt, Slash and Pierce now has a brown coloration).
+- Added color to the "Armor Rating" and "Penetration" keywords.
 
 
 ### Version 1.4.5
