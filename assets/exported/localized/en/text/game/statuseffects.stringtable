@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>553</EntryCount>
+  <EntryCount>554</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Gain {0:value:straight} Concentration every 6 seconds when 4m or farther away from nearest ally</DefaultText>
+      <DefaultText>Gain {0:value:straight} Concentration (if 0) every {0:extravalue:duration} when 4m or farther away from nearest ally</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>5 Raw bleed Damage per 3.0 sec for 9.0 sec on scoring Crit </DefaultText>
+      <DefaultText>{0:value:straight} Raw Damage per {0:triggervalue:duration} for {0:extravalue:duration} on scoring Crit </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>{0:value:percent} chance to become Invisible for 8.0 sec on scoring Critical Hit</DefaultText>
+      <DefaultText>{0:value:percent} chance to become Invisible for {0:extravalue:duration} on scoring Critical Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance to inflict Hobbled, Knockdown, Raw Damage over time for 12.0 sec, or -25% Action Speed on target on scoring Crit</DefaultText>
+      <DefaultText>Chance to inflict Hobbled, Knockdown, Raw Damage over time for {0:extravalue:duration}, or -25% Action Speed on target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>{0:value:percent} chance to Stun attacker for {0:extravalue:duration} when Hit with a melee weapon.</DefaultText>
+      <DefaultText>{0:value:percent} chance to Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1332,7 +1332,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Raw bleed Damage over time for 12.0 sec on target on scoring Crit</DefaultText>
+      <DefaultText>Raw bleed Damage over time for {0:extravalue:duration} on target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2768,6 +2768,11 @@
     <Entry>
       <ID>697</ID>
       <DefaultText>{0:value:percent} Chance to cast &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Withdraw&lt;/link&gt; or &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Recall Agony&lt;/link&gt; on owner when attacked while Near Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>41</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
@@ -207,6 +207,11 @@
     <Entry>
       <ID>671</ID>
       <DefaultText>Windsong's weapon proficiency modal has a {0:extravalue:percent} chance to apply Distracted to Near Death enemies for {0:value:duration} on scoring Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} Initiative per {0:skill} skill</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

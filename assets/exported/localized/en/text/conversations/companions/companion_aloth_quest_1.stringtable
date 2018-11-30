@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_aloth_quest_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>212</EntryCount>
+  <EntryCount>213</EntryCount>
   <Entries>
     <Entry>
       <ID>4</ID>
@@ -1112,6 +1112,11 @@ He scratches the back of his head.
 
 Serafen winces.
 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"You stood with me through more than anyone I've ever known." He clasps his hands together, working his fingers into a tight knot.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,16 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\11_hasongo\11_si_luminous_adra_vein</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>170</EntryCount>
+  <EntryCount>168</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
       <DefaultText>The luminous adra continues to glow brightly. Though it is warm to the touch, you no longer feel any strange sensations while in contact with it.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>"Hsssss!" The nāga's hiss cuts through the air like an angry steam kettle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -727,11 +722,6 @@ You are back in the lighthouse. No longer dim, the luminous adra beside you is f
     <Entry>
       <ID>156</ID>
       <DefaultText>"Throughout history, societies have called Watchers frauds and madmen, prophets and oracles. I have never known one to take on the burden of arbitration between mortals and gods."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>157</ID>
-      <DefaultText>"Do not profane the adra with your touch!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_mid_ukaizo_gods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>99</EntryCount>
+  <EntryCount>94</EntryCount>
   <Entries>
     <Entry>
       <ID>47</ID>
@@ -409,23 +409,8 @@ She speaks to you openly, plainly, an expression almost like tenderness turning 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>328</ID>
-      <DefaultText>[Choose a different response.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>329</ID>
-      <DefaultText>"Well, Watcher, you know where we stand. What do you believe?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>330</ID>
       <DefaultText>[Say nothing.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>331</ID>
-      <DefaultText>[Go back to other responses.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,16 +532,6 @@ She speaks to you openly, plainly, an expression almost like tenderness turning 
       <DefaultText>"Magran is blinded by her affection for mortals. She does not see that entropy is the destiny of all things.
 
 "If Eothas were wise, he would destroy everything. End life, end reincarnation, end &lt;i&gt;death&lt;/i&gt;."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>357</ID>
-      <DefaultText>"Well, Watcher, you know where we stand. What do you believe?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>358</ID>
-      <DefaultText>"Well, Watcher, you know where we stand. What do you believe?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

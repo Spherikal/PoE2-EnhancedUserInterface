@@ -1,6 +1,7 @@
 ## CHANGELOG
 
 ### Version 1.5.0
+- Updated the mod for game version 4.0.
 - Removed stylization of some UI elements (abilities.stringtable).
 - Changed how damage sates are displayed (Unharmed, Hurt, Near Death etc.).
 - Slightly changed the text color of the "Raw" keyword.

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4555</EntryCount>
+  <EntryCount>4557</EntryCount>
   <Entries>
     <Entry>
       <ID>126</ID>
@@ -751,6 +751,96 @@ Increased Recovery Time for Wizard Spells not of the Enchanting School.&lt;/line
     <Entry>
       <ID>5010</ID>
       <DefaultText>&lt;line-height=100%&gt;Shield Broken!&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5028</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Restore Discipline when successfully Interrupting an enemy action.
+
+Gain &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;&lt;link="glossary://GlossaryEntry_Brilliant"&gt;&lt;#00a4ff&gt;Brilliant&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Tactician&lt;/link&gt;.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;#57baff&gt;Penetration&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; is reduced when attacking a target that is not being attacked by an ally.
+
+Gain &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Tactical Dilemma&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5030</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Gain &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Shape Ward: Frenzy&lt;/link&gt; at Power Level 1.
+
+Gain &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Shape Ward: Fear&lt;/link&gt; at Power Level 4.
+
+Gain &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Shape Ward: Blood&lt;/link&gt; at Power Level 8.
+
+Gain bonus &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against spirits.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+If a Ward is destroyed, take immediate &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;Raw&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; Damage and a Power Level penalty until combat ends.
+
+&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;/link&gt; is reduced.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5038</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Gain significant Hit to Crit against &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;Charmed&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; targets.
+
+Gain &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Roguish &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;Charm&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/link&gt; ability.
+
+Gain Hit to Graze against attacks when not affected by any afflictions.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Cannot Engage.
+
+Gain &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Cowardice&lt;/link&gt; ability.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5041</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Imbue spell effects gain increased &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; from Arcana skill.
+
+Gain &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Imbue: Missiles&lt;/link&gt; at Power Level 1.
+
+Gain &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Imbue: Web&lt;/link&gt; at Power Level 3.
+
+Gain &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Imbue: Fireball&lt;/link&gt; at Power Level 5.
+
+Gain &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Imbue: Eora&lt;/link&gt; at Power Level 7.
+
+Gain &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Imbue: Death&lt;/link&gt; at Power Level 9.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Receive a penalty to &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; with attacks not of the following traits: Imbue, Elements, Fire, Frost, Acid, Electricity, and Spell.
+
+Max &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; is reduced.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5044</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Gain Wounds and &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; when Hostile effects expire.
+
+Gain &lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;Forbidden Fist&lt;/link&gt; ability.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+No longer gain Wounds from damage received.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Gain &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Blood Sacrifice&lt;/link&gt; ability.
+
+Gain passive &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; regeneration.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Unable to use Empower.
+
+All Defenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) against &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; attackers are reduced.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

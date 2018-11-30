@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4547</EntryCount>
+  <EntryCount>4557</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22550,7 +22550,7 @@ Your visions finally put to rest, you retired to the castle of &lt;b&gt;Caed Nua
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Any party member Knocked Out for 6 seconds is Killed</DefaultText>
+      <DefaultText>Any party member Knocked Out for 10 seconds is Killed</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23268,6 +23268,16 @@ You will have a chance to review the character's Workshop page before making it 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5221</ID>
+      <DefaultText>Storms in the Deadfire are numerous and more dangerous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5222</ID>
+      <DefaultText>Ships in the Deadfire are more experienced and sail faster in pursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5224</ID>
       <DefaultText>Woedica's Challenge</DefaultText>
       <FemaleText />
@@ -23275,6 +23285,46 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5225</ID>
       <DefaultText>Prepared Meal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5226</ID>
+      <DefaultText>Per Encounter resources become Per Rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5227</ID>
+      <DefaultText>Party health no longer regenerates between combats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5228</ID>
+      <DefaultText>While camping, only "Prepared Meals" will recover health, injuries, and resources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5238</ID>
+      <DefaultText>Wael's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5242</ID>
+      <DefaultText>Almost all numbers and stats are hidden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5283</ID>
+      <DefaultText>Harbor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5284</ID>
+      <DefaultText>The Forgotten Sanctum - Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5285</ID>
+      <DefaultText>The Forgotten Sanctum - Not Installed</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

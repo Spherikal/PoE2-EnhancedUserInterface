@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_aloth_hub</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>138</EntryCount>
+  <EntryCount>141</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -730,6 +730,23 @@ He takes a deep breath, thinking.</DefaultText>
     <Entry>
       <ID>158</ID>
       <DefaultText>"I'd offer you the same peace of mind now." He looks back at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I've been thinking. Let's take it slow and go back to being just shipmates." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Whatever works for you, I suppose." He frowns in confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Still, I don't regret any time we've shared, [Player Name]. 
+
+"I'm glad we spoke of this." His smile only flickers briefly before he turns away.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

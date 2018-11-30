@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>Those who can rally their wit in the heat of battle are known as "Tacticians." These warriors see all forms of combat as only pieces moving in play. Frequently assuming leadership positions within a structured military, Tacticians weaponize cleverness and sharpen experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>Furyshapers carry a burden of trauma in their past lives, suffering when those emotions inexplicably bleed into their current psyche. These rare individuals can manifest their emotions in a physical form, inflicting their rage, terror, or madness onto the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>As charming as they are devious, these rogues use cleverness and diplomacy to achieve their goals. Often acting only in self-interest, they have been known to contract high-society thefts, unveil scandals, or even perform the occasional white-glove assassination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>The Steel Garrote is a feared paladin order dedicated to Woedica. They work with powerful individuals and business interest to hunt down those who violate contracts, especially if said contracts were endorsed by a priestess of the Exiled Queen. They were founded in the Aedyr Empire and are active throughout the region - branching out as far as the Dyrwood and the Vailian Republics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>A rare few find themselves gifted in both physical ability and the more cerebral, arcane talents. Arcane Archers are among those few, and apply their innate aptitude with magic by temporarily infusing spells into their projectiles. More commonly seen among traveling performers or during archery contests, these skilled individuals are both admired and reviled for their abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>Followers of cryptic teachings rooted in a dark past, these monks are among the few granted - or cursed - with knowledge of forbidden techniques. Their martial prowess was said to corrupt the very soul of the wielder.  Believing that great and terrible events justify their use, these monks travel Eora weighing the balance between the purity of their soul and the necessity of conflict.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>Bellowers are often found in communities steeped in hardship, particularly among those that have experienced recent misfortune. Their tales better resemble a collections of ramblings and gibberish than coherent stories. Their name stems from the rare, violent, empassioned outbursts of fearsome magic. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>Priests and Priestesses of the Exiled Queen express their faith as lawyers and judges in towns and urban centers. The most prominent among them have served as advisers in royal court. They are of particular importance in the Empire of Aedyr, where business contracts require their endorsement. Woedica's devotees are typically found in the upper classes, but any tradition-minded person who longs for a vanished past will find a place in her faith. "When Woedica takes back her throne" is a common saying amongst her followers, signifying a utopian future when society will be properly ordered once again, and she will take her rightful place as ruler of the gods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Psions are quite rare, often beginning as prodigal young minds that slowly unlock secrets deemed incomprehensible to even the wisest scholars. Their powers require intense meditation, but can allow them to manipulate the conscious mind or move objects with incredible force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>Devoted to the belief that blood fuels the power of the soul, Blood Mages walk a painful and self-destructive path to arcane mastery. Though reputable animancers have discredited their beliefs, those few that have witnessed blood magic cannot deny that gratuitous self-harm can indeed preface unbelievable - often terrible - magical events.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Not all Ancients are venerable in form, but many have walked Eora for hundreds of years. Primal in nature, these zealots of Galawain tend to keep to themselves in forests and extreme environments, warding off would-be travelers and conjuring untamed magics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText>This traveler's guide is circulated for the benefit of newcomers to the Deadfire Archipelago. One passage stands out:
+
+"Animancers visiting from afar- do NOT seek out Dorudugan, the iron TYRANT, for academic research. DEATH will surely follow.
+
+Whoever created this FIRE-SPITTING BEHEMOTH is responsible for the CALAMITOUS INFERNO it has wrought on the isles. The Society is unaware if the ironclad's creator died at its hands, but JUSTICE itself would demand that they be vaporized by the very flames they so RECKLESSLY stoked.
+
+The Deadfire Visitor's Preservation Society takes no responsibility for harm inflicted by knowing ignorance of the risks, and every effort has been made to keep travelers AWAY from the following coordinates: 38° 37' S 31° 21' E." 
+
+A map of the Helfire Colossus' position is marked off with a wax seal in the shape of a skull. It points toward a desert wasteland in the southwestern corner of the Deadfire Archipelago. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

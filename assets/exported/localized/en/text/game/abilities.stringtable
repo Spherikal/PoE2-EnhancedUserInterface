@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3361</EntryCount>
+  <EntryCount>3362</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -14707,17 +14707,17 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4133</ID>
-      <DefaultText>Gain Concentration every few seconds while there are no nearby allies.</DefaultText>
+      <DefaultText>Gain Concentration intermittently while there are no nearby allies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4134</ID>
-      <DefaultText>Grants a chance to launch a small blast of cold around the caster upon receiving a Critical hit, dealing Freeze damage to nearby enemies, so long as there are no nearby allies. Gain Concentration every few seconds when far from any allies.</DefaultText>
+      <DefaultText>Grants a chance to launch a small blast of cold around the caster upon receiving a Critical hit, dealing Freeze damage to nearby enemies, so long as there are no nearby allies. Gain Concentration intermittently when far from any allies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4135</ID>
-      <DefaultText>Casts Chill Fog around the caster when they are defeated, so long as there are no nearby allies. Gain Concentration every few seconds while far from any allies.</DefaultText>
+      <DefaultText>Casts Chill Fog around the caster when they are defeated, so long as there are no nearby allies. Gain Concentration intermittently while far from any allies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15312,7 +15312,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4334</ID>
-      <DefaultText>They never found the body after all. If defeated within 10 seconds of using Squid's Escape, revive and become Invisible.</DefaultText>
+      <DefaultText>They never found the body after all. If defeated within a short time of using Squid's Escape, revive and become Invisible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17212,6 +17212,17 @@ None.</DefaultText>
     <Entry>
       <ID>5134</ID>
       <DefaultText>Self-Destruct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5168</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Start with an additional Weapon Set and Weapon Proficiency.
+
+Switching weapons is a Free Action.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Constant &lt;xg&gt;Recovery&lt;/xg&gt; is less effective.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
