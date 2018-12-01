@@ -4018,6 +4018,18 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4895</ID>
+      <DefaultText>Increases the wearer's Hit to Crit Chance based on the party's current wealth.
+
+&lt;b&gt;Effect&lt;/b&gt;
+10,000-24,999 Gold:&lt;indent=40em&gt;+3% Hit to Crit Chance&lt;/indent&gt;
+25,000-49,999 Gold:&lt;indent=40em&gt;+6% Hit to Crit Chance&lt;/indent&gt;
+50,000-99,999 Gold:&lt;indent=40em&gt;+9% Hit to Crit Chance&lt;/indent&gt;
+100,000-199,999 Gold:&lt;indent=40em&gt;+12% Hit to Crit Chance&lt;/indent&gt;
+200,000+ Gold:&lt;indent=40em&gt;+15% Hit to Crit Chance&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4896</ID>
       <DefaultText>&lt;line-height=100%&gt;Lash out with a rear tail attack, dealing high &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#dd8546&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage to those caught in the area.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
