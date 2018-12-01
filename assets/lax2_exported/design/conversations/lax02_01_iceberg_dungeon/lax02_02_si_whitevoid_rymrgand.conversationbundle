@@ -1389,23 +1389,6 @@
 						"Data": {
 							"FullName": "Boolean IsGlobalValue(String, Operator, Int32)",
 							"Parameters": [
-								"LAX2_n_huana_wandering_soul_state",
-								"EqualTo",
-								"6"
-							],
-							"Flags": "",
-							"UnrealCall": "",
-							"FunctionHash": 901380568,
-							"ParameterHash": -1784595321
-						},
-						"Not": false,
-						"Operator": 0
-					},
-					{
-						"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
-						"Data": {
-							"FullName": "Boolean IsGlobalValue(String, Operator, Int32)",
-							"Parameters": [
 								"LAX2_n_waidwen_soul_state",
 								"EqualTo",
 								"3"
@@ -1434,6 +1417,46 @@
 						},
 						"Not": false,
 						"Operator": 0
+					},
+					{
+						"$type": "OEIFormats.FlowCharts.ConditionalExpression, OEIFormats",
+						"Operator": 0,
+						"Components": [
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsGlobalValue(String, Operator, Int32)",
+									"Parameters": [
+										"LAX2_n_huana_wandering_soul_state",
+										"EqualTo",
+										"6"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 901380568,
+									"ParameterHash": -1784595321
+								},
+								"Not": false,
+								"Operator": 1
+							},
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsGlobalValue(String, Operator, Int32)",
+									"Parameters": [
+										"LAX2_n_huana_wandering_soul_state",
+										"EqualTo",
+										"9"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 901380568,
+									"ParameterHash": -1784595312
+								},
+								"Not": false,
+								"Operator": 0
+							}
+						]
 					}
 				]
 			},

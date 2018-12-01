@@ -10168,6 +10168,23 @@
 						"Operator": 0,
 						"Components": []
 					}
+				},
+				{
+					"Data": {
+						"FullName": "Void SetGlobalValue(String, Int32)",
+						"Parameters": [
+							"LAX2_b_Player_Told_Brythe_They_Killed_Sister",
+							"1"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 1935477378,
+						"ParameterHash": 2050426160
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": []
+					}
 				}
 			],
 			"OnExitScripts": [],

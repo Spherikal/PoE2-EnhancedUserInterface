@@ -2355,6 +2355,40 @@
 						"Operator": 0,
 						"Components": []
 					}
+				},
+				{
+					"Data": {
+						"FullName": "Void ActivateObject(Guid, Boolean)",
+						"Parameters": [
+							"512516f2-6ab7-4f42-9e90-cff2201eb16c",
+							"True"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 359725028,
+						"ParameterHash": -196905616
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": [
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsInScene(Guid, Guid)",
+									"Parameters": [
+										"b1a8e901-0000-0000-0000-000000000000",
+										"688a7afe-14db-4d07-8203-4571fc77a01c"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 940969680,
+									"ParameterHash": -584827363
+								},
+								"Not": false,
+								"Operator": 0
+							}
+						]
+					}
 				}
 			],
 			"OnExitScripts": [],
@@ -4626,6 +4660,40 @@
 						"Operator": 0,
 						"Components": []
 					}
+				},
+				{
+					"Data": {
+						"FullName": "Void ActivateObject(Guid, Boolean)",
+						"Parameters": [
+							"512516f2-6ab7-4f42-9e90-cff2201eb16c",
+							"True"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 359725028,
+						"ParameterHash": -196905616
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": [
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsInScene(Guid, Guid)",
+									"Parameters": [
+										"b1a8e901-0000-0000-0000-000000000000",
+										"688a7afe-14db-4d07-8203-4571fc77a01c"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 940969680,
+									"ParameterHash": -584827363
+								},
+								"Not": false,
+								"Operator": 0
+							}
+						]
+					}
 				}
 			],
 			"OnExitScripts": [],
@@ -4809,6 +4877,40 @@
 						"Operator": 0,
 						"Components": []
 					}
+				},
+				{
+					"Data": {
+						"FullName": "Void ActivateObject(Guid, Boolean)",
+						"Parameters": [
+							"512516f2-6ab7-4f42-9e90-cff2201eb16c",
+							"True"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 359725028,
+						"ParameterHash": -196905616
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": [
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsInScene(Guid, Guid)",
+									"Parameters": [
+										"b1a8e901-0000-0000-0000-000000000000",
+										"688a7afe-14db-4d07-8203-4571fc77a01c"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 940969680,
+									"ParameterHash": -584827363
+								},
+								"Not": false,
+								"Operator": 0
+							}
+						]
+					}
 				}
 			],
 			"OnExitScripts": [],
@@ -4991,6 +5093,40 @@
 					"Conditional": {
 						"Operator": 0,
 						"Components": []
+					}
+				},
+				{
+					"Data": {
+						"FullName": "Void ActivateObject(Guid, Boolean)",
+						"Parameters": [
+							"512516f2-6ab7-4f42-9e90-cff2201eb16c",
+							"True"
+						],
+						"Flags": "",
+						"UnrealCall": "",
+						"FunctionHash": 359725028,
+						"ParameterHash": -196905616
+					},
+					"Conditional": {
+						"Operator": 0,
+						"Components": [
+							{
+								"$type": "OEIFormats.FlowCharts.ConditionalCall, OEIFormats",
+								"Data": {
+									"FullName": "Boolean IsInScene(Guid, Guid)",
+									"Parameters": [
+										"b1a8e901-0000-0000-0000-000000000000",
+										"688a7afe-14db-4d07-8203-4571fc77a01c"
+									],
+									"Flags": "",
+									"UnrealCall": "",
+									"FunctionHash": 940969680,
+									"ParameterHash": -584827363
+								},
+								"Not": false,
+								"Operator": 0
+							}
+						]
 					}
 				}
 			],
