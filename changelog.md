@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### Version 1.5.0-beta5
+- Slightly changed the color of Slash, Pierce, and Crush damage.
+- Added some missing stylization of the "Armor Rating" keyword.
+- Removed a wrongly stylized cyclopeida entry (Panthers).
 ### Version 1.5.0-beta4
 - Removed stylization from health levels in status effects due to text alpha levels breaking the UI (statuseffects.stringtable).
 - Added colorization to the keyword "Pierce" (statuseffects.stringtable).

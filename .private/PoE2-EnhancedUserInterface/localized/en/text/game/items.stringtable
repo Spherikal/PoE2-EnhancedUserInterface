@@ -78,7 +78,7 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3122</ID>
-      <DefaultText>&lt;line-height=100%&gt;An alchemical device of devastating power. Lost whispers emanate from deep within, singing of &lt;xg&gt;crushing&lt;/xg&gt; darkness. When the charge detonates, a rift forms, pulling all within towards the black horizon, dealing &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#dd8546&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;An alchemical device of devastating power. Lost whispers emanate from deep within, singing of &lt;xg&gt;crushing&lt;/xg&gt; darkness. When the charge detonates, a rift forms, pulling all within towards the black horizon, dealing &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,12 +178,12 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3410</ID>
-      <DefaultText>&lt;line-height=100%&gt;Conjures an enormous stag horn to attack the first target it hits, causing &lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#dd8546&gt;Piercing&lt;/color&gt;&lt;space=0.7em&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;/color&gt;&lt;/link&gt; damage and inflicting a penalty to &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Conjures an enormous stag horn to attack the first target it hits, causing &lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;Piercing&lt;/color&gt;&lt;space=0.2em&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; damage and inflicting a penalty to &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3411</ID>
-      <DefaultText>&lt;line-height=100%&gt;Sends two deadly boulders flying out from the reader's position, dealing &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#dd8546&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage to anyone in their path and exploding on contact with a solid surface, causing the fragments to &lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#dd8546&gt;Pierce&lt;/color&gt;&lt;space=0.7em&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;/color&gt;&lt;/link&gt; anyone nearby.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Sends two deadly boulders flying out from the reader's position, dealing &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage to anyone in their path and exploding on contact with a solid surface, causing the fragments to &lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;Pierce&lt;/color&gt;&lt;space=0.2em&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; anyone nearby.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,12 +198,12 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3414</ID>
-      <DefaultText>&lt;line-height=100%&gt;Creates a beam of &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#dd8546&gt;Crushing&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; force, &lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Staggering&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; the target and anyone caught in the beam.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Creates a beam of &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;Crushing&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; force, &lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Staggering&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EBGaramond-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; the target and anyone caught in the beam.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3415</ID>
-      <DefaultText>&lt;line-height=100%&gt;Fires several missiles of pure force at the target, causing a shockwave of &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#dd8546&gt;Crushing&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage to foes close to the impact.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Fires several missiles of pure force at the target, causing a shockwave of &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;Crushing&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; damage to foes close to the impact.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>3419</ID>
-      <DefaultText>&lt;line-height=100%&gt;A trio of stone claws erupt from the ground, turning flesh to stone, &lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralyzing&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; and inflicting &lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#dd8546&gt;Slash&lt;/color&gt;&lt;space=0.7em&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;/color&gt;&lt;/link&gt; damage on everyone caught in the area.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;A trio of stone claws erupt from the ground, turning flesh to stone, &lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralyzing&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; and inflicting &lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#bc8a66&gt;Slash&lt;/color&gt;&lt;space=0.7em&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;/color&gt;&lt;/link&gt; damage on everyone caught in the area.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ This crude spear is decorated with feathers and beads.&lt;/line-height&gt;</Defa
     </Entry>
     <Entry>
       <ID>4456</ID>
-      <DefaultText>&lt;line-height=100%&gt;While the Baby Boar is following you around your melee weapon attacks have a chance to interrupt and your party deals bonus &lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#dd8546&gt;Slash&lt;/color&gt;&lt;space=0.7em&gt;&lt;#c57943&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;/color&gt;&lt;/link&gt; damage.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;While the Baby Boar is following you around your melee weapon attacks have a chance to interrupt and your party deals bonus &lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#bc8a66&gt;Slash&lt;/color&gt;&lt;space=0.7em&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;/color&gt;&lt;/link&gt; damage.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
