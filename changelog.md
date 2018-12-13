@@ -1,15 +1,11 @@
 ## CHANGELOG
 
-### Version 1.5.0-beta5
-- Slightly changed the color of Slash, Pierce, and Crush damage.
+### Version 1.5.0
+- Updated the mod for game version 4.0 and the latest DLC “The Forgotten Sanctum”.
 - Added some missing stylization of the "Armor Rating" keyword.
 - Removed a wrongly stylized cyclopeida entry (Panthers).
-### Version 1.5.0-beta4
 - Removed stylization from health levels in status effects due to text alpha levels breaking the UI (statuseffects.stringtable).
-- Added colorization to the keyword "Pierce" (statuseffects.stringtable).
 - The "Ring of Prosperity's Fortune" description now includes how much Hit to Crit bonus you get based on the amount of gold you carry.
-### Version 1.5.0-beta3
-- Updated the mod for game version 4.0.
 - Removed stylization of some UI elements (abilities.stringtable).
 - Changed how damage sates are displayed (Unharmed, Hurt, Near Death etc.).
 - Slightly changed the text color of the "Raw" keyword.

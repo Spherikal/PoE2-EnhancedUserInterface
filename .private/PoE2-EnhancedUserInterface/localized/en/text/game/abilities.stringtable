@@ -3963,6 +3963,11 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4850</ID>
+      <DefaultText>&lt;line-height=100%&gt;The wearer gains a substantial bonus to &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;/link&gt; at the start of combat, but slowly loses &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;/link&gt; over time.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4852</ID>
       <DefaultText>&lt;line-height=100%&gt;When not near allies, the wielder gains bonus &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;Raw&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; damage to their weapon attacks.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
@@ -4282,6 +4287,86 @@ After use, wizard spells will receive a bonus to Power Level for a short time.&l
     <Entry>
       <ID>5034</ID>
       <DefaultText>&lt;line-height=100%&gt;Destroying the souls of the Crucible has increased the Watcher's favor with Rymrgand, increasing the Watcher's &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; against Vessels.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>&lt;line-height=100%&gt;The wielder overcharges the focus, increasing the radius of the shield and granting a &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; bonus to other nearby allies.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>&lt;line-height=100%&gt;(Varied Enlarge Shield) - Allies now gain a bonus to all Defenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Fortitude&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Will&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) instead of just &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>&lt;line-height=100%&gt;(Strengthened Enlarge Shield) - The &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; granted to allies is increased.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>&lt;line-height=100%&gt;Each encounter, the wearer has a chance to enter a frenzied state after being Critically Hit. The wearer gains the &lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Strong&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; inspirations as well as an Action Speed bonus. While frenzied the wearer receives a &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; penalty.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Lucero is following the party, you have Resistence to &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, and the party has reduced recovery time after using &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Quick&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Items.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Blinky is following the party, you have Resistence to &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Perception&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, and the party has increased Melee &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Retina is following the party, an additional enemy is required to Flank you, and the party has increased Ranged &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Giftwrapper is following the party, you gain additional &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;Armor Rating&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, and the party recieves healing over time.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Amanita is following the party, you gain a chance to charm enemies when being attacked, and the party deals additional &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; damage.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>&lt;line-height=100%&gt;Creates small orbs of pure chaos in the user's hand. When thrown, the orb bounces between enemies, dealing damage and inflicting a variety of negative Afflictions including &lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Staggered&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Sickened&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Hobbled"&gt;&lt;#72da26&gt;Hobbled&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Distracted"&gt;&lt;#ca58ff&gt;Distracted&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Confused&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Shaken"&gt;&lt;#30d3d5&gt;Shaken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>&lt;line-height=100%&gt;Summons a single, massive tentacle that is immobile, but deals &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; damage to nearby characters and can grapple kith enemies.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>&lt;line-height=100%&gt;A bolt of celestial energies bounces between allies, granting them a random Inspiration including &lt;link="glossary://GlossaryEntry_Tenacious"&gt;&lt;#ff4800&gt;Tenacious&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Hardy"&gt;&lt;#f7b733&gt;Hardy&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Nimble"&gt;&lt;#72da26&gt;Nimble&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Aware"&gt;&lt;#ca58ff&gt;Aware&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Acute"&gt;&lt;#00a4ff&gt;Acute&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, or &lt;link="glossary://GlossaryEntry_Resolute"&gt;&lt;#30d3d5&gt;Resolute&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>&lt;line-height=100%&gt;The user releases spirits held in the Starmetal. Whenever one of these spirits is killed, the wielder receives a random Inspiration including &lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Strong&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Quick&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Insightful&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Smart&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, or &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Steadfast&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>&lt;line-height=100%&gt;A putrid liquid erupts from the vial, clinging to all in the area. Those covered are periodically &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Stunned&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Boras is following the party, you gain bonuses to History and Metaphysics skills while the party has increased &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; with Spells.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Lucero is following the party, you have Resistence to &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, and the party has reduced Initiative after using &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Quick&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Items.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
