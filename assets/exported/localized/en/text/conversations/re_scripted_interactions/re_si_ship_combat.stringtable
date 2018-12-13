@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>173</EntryCount>
+  <EntryCount>180</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
@@ -938,6 +938,45 @@ A rowdy cheer goes up from [ShipDuel_Opponent]'s crew. [ShipDuel_OpponentShip] p
     <Entry>
       <ID>324</ID>
       <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>[Close To Board] "Give no Quarter! Charge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>The crew mutters nervously as you give the order to charge. [ShipDuel_PlayerShip] will be exposed to raking fire and the risk of casualties:
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>[Continue sailing onward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"On second thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[Attempt Retreat] "Fall back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>You order your crew to flee with all possible haste.
+
+The enemy vessel recedes behind you until, finally, it disappears from the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Retreat Failed</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

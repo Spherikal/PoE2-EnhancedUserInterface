@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Llengrath is an archmage known for her defensive spells. She is not the first to hold to title 'Llengrath,' nor will she be the last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Llengrath is an archmage known for her defensive spells. She is not the first to hold to title 'Llengrath,' nor will she be the last. You made a bargain with her at Mowrghek Îen after your encounter with the lich Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Llengrath is an archmage known for her defensive spells. She is not the first to hold to title 'Llengrath,' nor will she be the last. You killed her at Mowrghek Îen after your encounter with the lich Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

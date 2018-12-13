@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>87</EntryCount>
+  <EntryCount>89</EntryCount>
   <Entries>
     <Entry>
       <ID>3974</ID>
@@ -390,6 +390,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4938</ID>
+      <DefaultText>Soul Crush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4991</ID>
       <DefaultText>Muātu's Aid</DefaultText>
       <FemaleText />
@@ -437,6 +442,11 @@
     <Entry>
       <ID>5034</ID>
       <DefaultText>Destroying the souls of the Crucible has increased the Watcher's favor with Rymrgand, increasing the Watcher's Accuracy against Vessels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Supreme Fealty</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

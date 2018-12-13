@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2896</EntryCount>
+  <EntryCount>2897</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17351,6 +17351,11 @@ A dozen such cloaks were later found abandoned among a library's stacks of tomes
     <Entry>
       <ID>5747</ID>
       <DefaultText>Empower {0} abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5938</ID>
+      <DefaultText>As loud and stubby as its owner, this hand mortar marries the short, wide barrel of a blunderbuss to the lightness of a pistol. True hand mortars launch grenades and are unpopular shipboard (and elsewhere) due to the ridiculous danger of igniting one explosive to propel another.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

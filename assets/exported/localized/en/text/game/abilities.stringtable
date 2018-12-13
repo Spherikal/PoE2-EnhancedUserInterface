@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3362</EntryCount>
+  <EntryCount>3361</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -4622,7 +4622,7 @@
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>A ghostly, skeletal hand rakes across the area, doing Freeze damage to enemies within, leaving them Weakened and Hobbled.</DefaultText>
+      <DefaultText>A ghostly, skeletal hand rakes across the area, doing Freeze damage to all those within, leaving them Weakened and Hobbled.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6532,7 +6532,7 @@ Summon Invocations cost +1 Phrases.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Offensive Invocations cost -1 Phrase.
 
-Weapon Critical Hits have a 50% chance to grant a phrase.
+Melee Weapon Critical Hits have a 50% chance to grant a phrase.
 
 &lt;b&gt;Penalty&lt;/b&gt;
 Non-Offensive Invocations cost +1 Phrase to cast.</DefaultText>
@@ -17212,17 +17212,6 @@ None.</DefaultText>
     <Entry>
       <ID>5134</ID>
       <DefaultText>Self-Destruct</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5168</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Start with an additional Weapon Set and Weapon Proficiency.
-
-Switching weapons is a Free Action.
-
-&lt;b&gt;Penalty&lt;/b&gt;
-Constant &lt;xg&gt;Recovery&lt;/xg&gt; is less effective.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

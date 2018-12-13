@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>Combine Crown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Queen's Vindication</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina - Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina - Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina - Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina - Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina - Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina - Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>Forgotten Sanctum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4932</ID>
+      <DefaultText>Erudite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4968</ID>
+      <DefaultText>Pious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5019</ID>
+      <DefaultText>&lt;b&gt;The Forgotten Sanctum&lt;/b&gt; has been installed. You will automatically begin the first quest of this adventure when you receive a visitor upon the high seas after having progressed far enough through Pillars of Eternity II: Deadfire to access the Forgotten Sanctum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5024</ID>
+      <DefaultText>To Temple of Revelation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5033</ID>
+      <DefaultText>To the Scriptorium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5034</ID>
+      <DefaultText>To the Collections</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>To the Quarantined Stacks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5047</ID>
+      <DefaultText>To the Restricted Section</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5048</ID>
+      <DefaultText>To the Oratory of Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5049</ID>
+      <DefaultText>Alchemical Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5050</ID>
+      <DefaultText>Passage to the Depths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5051</ID>
+      <DefaultText>Celestial Remnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5052</ID>
+      <DefaultText>Observation Center</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5053</ID>
+      <DefaultText>Memory Siphon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5054</ID>
+      <DefaultText>Archives Subbasement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5055</ID>
+      <DefaultText>Excavation Site</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>To the Archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5060</ID>
+      <DefaultText>Incinerator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5061</ID>
+      <DefaultText>Heldr's Inheritance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Lectern of Obfuscation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5076</ID>
+      <DefaultText>Screaming Pit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5079</ID>
+      <DefaultText>Wizard Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5080</ID>
+      <DefaultText>Spore Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5081</ID>
+      <DefaultText>Sailor Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5082</ID>
+      <DefaultText>Mênpŵgra Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5083</ID>
+      <DefaultText>Dreambeast Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5084</ID>
+      <DefaultText>Xaurip Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5121</ID>
+      <DefaultText>Spider Hatchery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5128</ID>
+      <DefaultText>To the Assembly of Echoes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>Bloody Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5156</ID>
+      <DefaultText>Waiting Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5157</ID>
+      <DefaultText>Alcove of Incision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5158</ID>
+      <DefaultText>Flesh Management</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5160</ID>
+      <DefaultText>To the Titan Below</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5166</ID>
+      <DefaultText>Burrowed Hole</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5167</ID>
+      <DefaultText>To the Central Stacks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5172</ID>
+      <DefaultText>To Hall of the Unseen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5182</ID>
+      <DefaultText>Creature Division</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5183</ID>
+      <DefaultText>Creature Assembly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5184</ID>
+      <DefaultText>Pets Available for Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5185</ID>
+      <DefaultText>Pets Available for Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5186</ID>
+      <DefaultText>Drag in Pet to Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5187</ID>
+      <DefaultText>Look to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5188</ID>
+      <DefaultText>Bonuses to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5189</ID>
+      <DefaultText>Drag in a Pet Sleeve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Drag in Pet for Bonuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5191</ID>
+      <DefaultText>Sacrifice Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5192</ID>
+      <DefaultText>Create Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5198</ID>
+      <DefaultText>Combine Missives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5204</ID>
+      <DefaultText>Fungal Growth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5213</ID>
+      <DefaultText>A lethargic, misshapen bird drops a damp missive onto the deck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5215</ID>
+      <DefaultText>Rathun Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5216</ID>
+      <DefaultText>Vailian Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5217</ID>
+      <DefaultText>Roparu Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5218</ID>
+      <DefaultText>Mataru Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5219</ID>
+      <DefaultText>Empty Enclosure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5223</ID>
+      <DefaultText>Confiscated Sundries</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

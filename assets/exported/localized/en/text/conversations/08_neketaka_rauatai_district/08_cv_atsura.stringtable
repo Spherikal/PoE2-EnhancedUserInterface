@@ -2235,7 +2235,7 @@ Then he's quiet, awaiting your response.</DefaultText>
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>"A great injustice plagues the archipelago [Player Name]. And we have an opportunity to end it."</DefaultText>
+      <DefaultText>"A great injustice plagues the archipelago, [Player Name]. And we have an opportunity to end it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
