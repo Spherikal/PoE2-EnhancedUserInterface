@@ -5,16 +5,20 @@
 ### Credits
 &nbsp;&nbsp;**Spherikal**\
 &nbsp;&nbsp;<sup>Editor and Concept Designer</sup>\
-&nbsp;&nbsp;**Xaratatas**\
+&nbsp;&nbsp;**Xaratatas**
 &nbsp;&nbsp;<sup>Programmer and Translator (German)</sup>\
 &nbsp;&nbsp;**Kilay**\
 &nbsp;&nbsp;<sup>Tech Support and Translator (Italian)</sup>\
+&nbsp;&nbsp;**Ethics Gradient**\
+&nbsp;&nbsp;<sup>Writer</sup>\
 &nbsp;&nbsp;**commonterry**\
 &nbsp;&nbsp;<sup>Writer</sup>\
-&nbsp;&nbsp;**Xinkle**\
-&nbsp;&nbsp;<sup>Translator (Korean)</sup>\
+&nbsp;&nbsp;**peardox**\
+&nbsp;&nbsp;<sup>Programmer</sup>\
 &nbsp;&nbsp;**phenomenum**\
-&nbsp;&nbsp;<sup>Translator (Russian)</sup>
+&nbsp;&nbsp;<sup>Translator (Russian)
+&nbsp;&nbsp;**Xinkle**\</sup>\
+&nbsp;&nbsp;<sup>Translator (Korean)
 
 ***
 
