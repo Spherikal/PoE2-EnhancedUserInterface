@@ -869,7 +869,7 @@ The enemy vessel recedes behind you until, finally, it disappears from the horiz
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Surrender.]</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Surrender"&gt;&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Surrender.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -942,19 +942,19 @@ A rowdy cheer goes up from [ShipDuel_Opponent]'s crew. [ShipDuel_OpponentShip] p
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>[Close To Board] "Give no Quarter! Charge!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; "Give no Quarter! Charge!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>The crew mutters nervously as you give the order to charge. [ShipDuel_PlayerShip] will be exposed to raking fire and the risk of casualties:
+      <DefaultText>The crew mutters nervously as you give the order to charge. [ShipDuel_PlayerShip] will be exposed to raking fire:
 
 [ShipDuel_CloseToBoardCost]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>[Continue sailing onward.]</DefaultText>
+      <DefaultText>"Charge!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -964,7 +964,7 @@ A rowdy cheer goes up from [ShipDuel_Opponent]'s crew. [ShipDuel_OpponentShip] p
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>[Attempt Retreat] "Fall back!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Flee"&gt;&lt;sprite="Inline" name="action_flee" tint=1&gt;&lt;/link&gt; "Retreat!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@ The enemy vessel recedes behind you until, finally, it disappears from the horiz
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Retreat Failed</DefaultText>
+      <DefaultText>Your crew misjudges the wind's direction, failing to pick up enough speed to escape. The ship's sails abruptly flutter loose on their masts.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

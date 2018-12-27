@@ -1,1 +1,42 @@
-﻿{"GameDataObjects":[{"$type":"Game.GameData.KeywordGameData, Assembly-CSharp","DebugName":"Deranged_Wizard_Sigil_Keyword","ID":"a878781f-ed4a-444f-baa5-9c22401b074a","Components":[{"$type":"Game.GameData.KeywordComponent, Assembly-CSharp","GuiDisplayString":-1,"AbilitiesDisplayString":-1,"Description":-1,"OverridePluralEffect":-1,"Icon":"","TintableIcon":""}]},{"$type":"Game.GameData.KeywordGameData, Assembly-CSharp","DebugName":"Empress_Consume_Keyword","ID":"dae75de1-309a-44e3-beed-c9f8f2c269d8","Components":[{"$type":"Game.GameData.KeywordComponent, Assembly-CSharp","GuiDisplayString":-1,"AbilitiesDisplayString":-1,"Description":-1,"OverridePluralEffect":-1,"Icon":"","TintableIcon":""}]},{"$type":"Game.GameData.KeywordGameData, Assembly-CSharp","DebugName":"Ooze_Merge_Keyword","ID":"64197c2d-8b87-4a7c-8be2-ceb63594b695","Components":[{"$type":"Game.GameData.KeywordComponent, Assembly-CSharp","GuiDisplayString":-1,"AbilitiesDisplayString":-1,"Description":-1,"OverridePluralEffect":-1,"Icon":"","TintableIcon":""}]}]}
+﻿{
+    "GameDataObjects": [{
+        "$type": "Game.GameData.KeywordGameData, Assembly-CSharp",
+        "DebugName": "Deranged_Wizard_Sigil_Keyword",
+        "ID": "a878781f-ed4a-444f-baa5-9c22401b074a",
+        "Components": [{
+            "$type": "Game.GameData.KeywordComponent, Assembly-CSharp",
+            "GuiDisplayString": -1,
+            "AbilitiesDisplayString": -1,
+            "Description": -1,
+            "OverridePluralEffect": -1,
+            "Icon": "",
+            "TintableIcon": ""
+        }]
+    }, {
+        "$type": "Game.GameData.KeywordGameData, Assembly-CSharp",
+        "DebugName": "Empress_Consume_Keyword",
+        "ID": "dae75de1-309a-44e3-beed-c9f8f2c269d8",
+        "Components": [{
+            "$type": "Game.GameData.KeywordComponent, Assembly-CSharp",
+            "GuiDisplayString": -1,
+            "AbilitiesDisplayString": -1,
+            "Description": -1,
+            "OverridePluralEffect": -1,
+            "Icon": "",
+            "TintableIcon": ""
+        }]
+    }, {
+        "$type": "Game.GameData.KeywordGameData, Assembly-CSharp",
+        "DebugName": "Ooze_Merge_Keyword",
+        "ID": "64197c2d-8b87-4a7c-8be2-ceb63594b695",
+        "Components": [{
+            "$type": "Game.GameData.KeywordComponent, Assembly-CSharp",
+            "GuiDisplayString": -1,
+            "AbilitiesDisplayString": -1,
+            "Description": -1,
+            "OverridePluralEffect": -1,
+            "Icon": "",
+            "TintableIcon": ""
+        }]
+    }]
+}

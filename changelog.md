@@ -12,7 +12,6 @@
 - Added color to all weapon dmg types (Blunt, Slash and Pierce now has a brown coloration).
 - Added color to the "Armor Rating" and "Penetration" keywords.
 
-
 ### Version 1.4.5
 - Very minor changes to accommodate the upcoming patch (game version 3.0.1).
 - Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.

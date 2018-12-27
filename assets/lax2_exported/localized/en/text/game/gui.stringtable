@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>74</EntryCount>
+  <EntryCount>75</EntryCount>
   <Entries>
     <Entry>
       <ID>4295</ID>
@@ -382,6 +382,11 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
     <Entry>
       <ID>5017</ID>
       <DefaultText>&lt;b&gt;Beast of Winter&lt;/b&gt; has been installed. You will automatically begin the first quest of this adventure when you receive a missive from the frozen south after having progressed far enough through Pillars of Eternity II: Deadfire to access the Dead Floe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5298</ID>
+      <DefaultText>Gandhur</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

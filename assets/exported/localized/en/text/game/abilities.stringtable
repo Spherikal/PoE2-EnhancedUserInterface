@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3361</EntryCount>
+  <EntryCount>3362</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -16232,7 +16232,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>4564</ID>
-      <DefaultText>Everyone in your party receives an additional skill bonus from their class or classes.</DefaultText>
+      <DefaultText>Everyone in your party receives double the normal skill bonus from their class.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17212,6 +17212,11 @@ None.</DefaultText>
     <Entry>
       <ID>5134</ID>
       <DefaultText>Self-Destruct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Cannot Move</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
