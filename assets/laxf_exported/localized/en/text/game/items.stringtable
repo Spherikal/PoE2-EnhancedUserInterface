@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Guardian's Plate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5522</ID>
+      <DefaultText>When a group of oozes gathers into one distinct entity, their metabolism sublimates the indigestible bones, dirt, and debris of their travels into a slimy byproduct reminiscent of a pearl. These items tend to dissolve with the death of their host, but in rare cases they can be recovered whole and put on display as trophies. In even rarer cases, an ooze pearl will absorb some latent quality of their host, allowing those who carry such objects to manifest some objectively horrifying talents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5523</ID>
+      <DefaultText>Mountainous Ooze Droppings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5524</ID>
+      <DefaultText>Spider Empress' Mandibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5525</ID>
+      <DefaultText>These hairy mandibles drip with a continuous trail of sticky venom. Either the glands producing this viscous substance haven't caught wind of the empress' demise or they are naturally expected to function after death. The venom incapacitates the prey, but also taps into a secondary reservoir containing a bulging sac of dormant spider eggs. The implications of this fastened-together biological system are unpleasant to consider and unforgettable to those who have witnessed it in action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5582</ID>
+      <DefaultText>Pitfalls of the Deadfire Vol. 1 - The Crystal Empress</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5583</ID>
+      <DefaultText>This traveler's guide is circulated for the benefit of newcomers to the Deadfire Archipelago. One passage stands out:
+
+"AVOID AT ALL COSTS the spider Belranga. She is a menace to the isles, a poison-dripping terror of legendary proportions. Her RAVENOUS young swarm unwary travelers, and her rage is NIGH UNIMAGINABLE if a single broodling is harmed. Seek her out AT YOUR OWN PERIL. 
+
+The Deadfire Visitor's Preservation Society takes no responsibility for harm inflicted by knowing ignorance of the risks, and every effort has been made to keep travelers AWAY from the following coordinates: 8° 53' N 45° 25' E." 
+
+A map of Belranga's position is marked off with a wax seal in the shape of a skull. It points toward an island west of Ondra's Mortar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5584</ID>
+      <DefaultText>Pitfalls of the Deadfire Vol. 2 - The Voracious Mountain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5585</ID>
+      <DefaultText>This traveler's guide is circulated for the benefit of newcomers to the Deadfire Archipelago. One passage stands out:
+
+"Do NOT dispose of sick livestock by feeding them to Hauani O Whe. That PRIMORDIAL ABOMINATION has grown to the size of a mountain already thanks to misguided pilgrims worshipping it as a god.
+
+A DIRE warning - Hauani O Whe vomits forth a symbiote that &lt;i&gt;injures&lt;/i&gt; a motionless host and &lt;i&gt;reproduces&lt;/i&gt; on a moving one. Simply AVOIDING the creature at all costs will prevent GRAVE PERIL, &lt;i&gt;INFESTATION,&lt;/i&gt; AND PROBABLE DEATH. 
+
+As always, the Deadfire Visitor's Preservation Society takes no responsibility for harm inflicted by knowing ignorance of the risks, and every effort has been made to keep travelers AWAY from the following coordinates: 25° 52' S 34° 22' E." 
+
+A map of Hauani O Whe's position is marked off with a wax seal in the shape of a skull. It points toward a lagoon south of Dunnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

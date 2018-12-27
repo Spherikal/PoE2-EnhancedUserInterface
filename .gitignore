@@ -6,7 +6,8 @@ backup/
 *.los
 *.globalvariablesbundle
 *.questbundle
-assets/**/design
+*.gitignore
+assets/**/design/
 file_association/
 docs/
 screenshots/

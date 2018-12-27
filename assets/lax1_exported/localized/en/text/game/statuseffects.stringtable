@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Increases Might and Resolve by {0:triggervalue:straight} until the end of combat each time a party member is knocked out (Stacks {0:value:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Charm nearby Beasts for {0:extravalue:duration} on scoring Beast Kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>{0:value:percent} chance when Hit by a Melee weapon to deal Pierce Damage to the attacker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>{0:value:straight} Burn Damage to everyone around the target on scoring Hit (Scales with {0:skill} skill)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>{0:value:percent} chance when Crit by Melee weapons to change the attacker's Penetration by {0:extravalue}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>{0:triggervalue:bonuspercentbonus} Action Speed and Weapon Damage for each enemy Engaging the wearer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Might Inspirations applied to the wielder are increased by 1 Tier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>{0:extravalue:percentbonus} Recovery per {0:skill} skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>{0:value} Armor Rating. Increases with Athletics skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Can't be affected by a Nature Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Can't be affected by an Arcane Ward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Deals Shock Damage and causes Stunned for {0:extravalue:duration} to everyone near the wearer on Unconscious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Gain a random Inspiration for {0:extravalue:duration} after using an Empowered Spell or Ability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Corrode Damage retaliation when Hit in Melee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>{0:value:percent} chance on scoring Crit to summon {0:extravalue:straight} Wurms for {0:triggervalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>{0:value:percent} chance to gain Strong for {0:extravalue:duration} each time the wearer scores a Hit while Spiritshifted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Incoming Melee attacks that target Deflection and Miss have a {0:value:percent} chance of allowing an instant Primary Attack Riposte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze Damage to enemies in a line</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Loose the Wind now applies Hobbled to enemies for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Loose the Wind's damage is increased by {0:value:percentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>{0:statuseffects} for {0:value:duration} on scoring Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>{0:value:percent} chance on scoring Kill to apply Sickened to nearby enemies for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>{0:value:percent} chance on scoring Kill to apply Terrified to nearby enemies for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>{0:value:percent} chance on scoring Hit with Unarmed attacks to apply {0:extravalue} Deflection for {0:triggervalue:duration} (Stacks {0:triggercount} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>{0:value:percent} chance on scoring Crit with Unarmed attacks to apply {0:extravalue} Armor Rating for {0:triggervalue:duration} (Stacks {0:triggercount} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>{0:value:percent} chance when Crit by a Melee weapon to deal {0:extravalue:straight} Raw bleed Damage per {0:interval} for {0:triggervalue:duration} to the attacker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Restores {0:extravalue:straight} Health on scoring Kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Deals Raw Damage to nearby enemies on scoring Kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>{0:value:percent} chance when Hit to gain {0:extravalue} Penetration for {0:triggervalue:duration} (Stacks {0:triggercount} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Deals Raw Damage per {0:interval} for {0:extravalue:duration} on scoring Crit (Damage scales with Cipher's current Focus)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Gain {0:extravalue:percentbonus} Stride for {0:triggervalue:duration} after attacking from Stealth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>After applying a Dexterity Affliction, become Immune to Engagement for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>{0:value:percent} chance to cause Distracted to nearby enemies for {0:extravalue:duration} after using a Chanter Invocation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>On scoring Hits with Carnage against Beast targets, gain {0:value:percentbonus} Action Speed for {0:extravalue:duration} (Stacks {0:triggercount} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>{0:value:percent} chance on scoring Hit to Immoblize enemies for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>{0:value:percent} chance on scoring Hit with a weapon against Beast targets to cause Shaken for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>{0:value:percentbonus} Damage against the challenged enemy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>{0:value:percentbonus} Damage against the challenger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>This shield can be used as a weapon to deal Pierce/Crush damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Gain the effects of a random Potion or Unguent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Windsong's weapon proficiency modal has a {0:extravalue:percent} chance to apply Distracted to Near Death enemies for {0:value:duration} on scoring Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} Initiative per {0:skill} skill</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

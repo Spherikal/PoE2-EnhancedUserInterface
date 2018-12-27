@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>134</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Movement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>To move selected characters, click on any open space on the map. All selected characters will move to their position in your current formation. Characters cannot move to any location where the cursor is a red circle with a slash through it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Click on highlighted objects to interact with them. Each type of object has its own type of basic interaction. Doors will open or close, locked objects will be unlocked, items will be picked up, people in the world will speak with you, and enemies will be attacked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Interact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Inventory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Press the &lt;sprite="Inline" name="ico_inventory" tint=1&gt; button in the lower center of screen, or use the [I] key, to open the inventory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>If you click on an item in your inventory to pick it up, you can place it in any highlighted slot to equip it. You can also double-click items to automatically equip them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Equipping Items</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Combat Introduction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Characters with a red selection circle are hostile to you. To attack an enemy with your currently equipped weapon, click their selection circle.
+
+You can also select the &lt;sprite="Inline" name="ico_attack" tint=1&gt; button in the lower center of the screen to put the cursor into the attack state. This will allow you to attack anyone, even friendly characters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dispositions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You have gained a reputation in a Disposition. Dispositions represent how people perceive your personality throughout the world. Even seemingly nasty reputations will be favored by some people, and benign reputations sometimes bring out the worst in certain people. No Disposition is inherently good or bad in Pillars of Eternity II: Deadfire.
+
+To see icons for the effects of dialogue decisions on Disposition, enable the "Show Personality/Reputation" option in Difficulty Settings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dispositions - Paladin and Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You have gained a reputation in a Disposition. Dispositions represent how people perceive your personality throughout the world. Even seemingly nasty reputations will be favored by some people, and benign reputations sometimes bring out the worst in certain people. No Disposition is inherently good or bad in Pillars of Eternity II: Deadfire.
+
+Even so, because your Watcher is a priest or paladin, you must be careful not to misalign their Dispositions with what is favored by their deity or order, respectively. Dispositions will modify the effects of Holy Radiance (for priests) and Faith and Conviction (for paladins) for the Watcher only.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Quest Journal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you receive quests, your Journal will update with relevant information. If you are ever stuck, open it to review your notes by pressing the &lt;sprite="Inline" name="ico_journal" tint=1&gt; button in the lower center of the screen or the [J] key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Dialogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Click on the selection circles of friendly and neutral characters in the world to start dialogue with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Selecting Characters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>To select a party member, click on their selection circle, their portrait, or press the number button that corresponds to their position in the party, starting with 1 at the left. 
+
+To select multiple party members, click and hold anywhere on the screen and drag the marquee over the circles of the party members you'd like to include.
+
+To select the entire party, press the &lt;sprite="Inline" name="ico_selectall" tint=1&gt; button in the lower center of the screen or the [Backspace] key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bestiary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Defeating creatures will progressively unlock their entries in the Bestiary. As you unlock more information in the Bestiary, you will be rewarded more experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Combat Attack Results</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>All characters in the game have four defenses against attacks: Deflection, Fortitude, Reflex, and Will. These defenses are based on their Attributes, level, items, and other effects. The more powerful the character, the higher their defenses will be and the harder they will be to hit or affect with abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The attack roll is a random number between 1 and 100, to which is added the difference between the attack's Accuracy &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; and the targeted defense &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;. &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. If Accuracy is less than the defense, the attack roll suffers a penalty. If Accuracy is greater than the defense, the attack roll gains a bonus.
+
+A higher final attack roll is always better. 0-24 = Miss, 24-49 = Graze, 50-99 = Hit, 100+ = Crit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>A Miss has no effect. A Hit has the standard listed effect. A Graze does less damage and has a shorter duration (for effects). A Crit does more damage, has higher Penetration &lt;sprite="Inline" name="cs_penetration" tint=1&gt; and a longer duration (for effects).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Quick Items</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Utility items like potions, scrolls, explosives, traps, and magical figurines are equipped in a character's Quick Item slots. These items are accessible during combat when hovering over the &lt;sprite="Inline" name="quickitems_s" tint=1&gt; icon on the character's hotbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Companion Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Press the &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; button in the lower center of the screen, or use the [C] key, to bring up the Character Sheet. Select the Reputation tab and then select any companion portrait to see their relationships with other party members.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The Watcher's Reputations, Dispositions, and Relationships are displayed via the Reputation Wheel.
+
+A companion's Reputation wheel displays their relationships with other party members and any biases they have.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Stealth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Press the &lt;sprite="Inline" name="ico_stealth" tint=1&gt; button in the lower center of the screen, or use the [Alt] key, to have the selected characters enter or exit Stealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Stealth Detection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>When a character in Stealth enters the hearing radius or vision cone of a bystander, the bystander will start to detect them. The rate of detection is determined by the character's Stealth skill and the level of the bystander, and it is faster in the vision cone than in the hearing radius. You can hover your cursor over any character while in Stealth to see their hearing radius and vision cone.
+
+Some items, such as Noisemakers, can be used to distract and move bystanders while you explore in Stealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Traps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Traps and other hidden items can be discovered while exploring. A character's ability to discover hidden items is tied to their Perception and their ability to disarm a detected trap is based on their Mechanics skill.
+
+Any character (including enemies) can trigger a trap. Once activated, traps cause Injuries to any character hit by them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Each character has their own Ability Bar that holds all of their active abilities (including spells, powers, invocations, etc.). To use an ability, click it. Some abilities automatically target the user, but most require you to specify a target by clicking on it.
+
+Some abilities target an area of effect (AoE). The most common area of effect is a circle. If your area of effect is displayed as two circles, one larger than the other, friendly characters caught in the margin between the circles will &lt;i&gt;never&lt;/i&gt; be harmed by it. It is always a safe zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Most abilities draw power from a resource unique to each character class. Barbarian, fighter, monk, paladin, ranger, and rogue abilities draw from a pool that is full at the start of every combat. Each ability subtracts a cost from that resource until it is entirely exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Unlike barbarians and fighters, druids, priests, and wizards do &lt;i&gt;not&lt;/i&gt; have a common resource pool for all of their abilities. Instead, in each fight, they can cast a number of spells from each spell level they have access to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Chanters, ciphers, and monks start with a fraction of their total resource pool and must build it up over time in each fight. Each class gains their resource in a different way. Unlike all other classes, they can continue to replenish their resources throughout a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Armor and Penetration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Characters have Armor Ratings &lt;sprite="Inline" name="cs_ar" tint=1&gt; that represent their ability to resist Penetration &lt;sprite="Inline" name="cs_penetration" tint=1&gt; from different damage types. Attacks that cause damage have a Penetration value that is used to determine how easily they can overcome the target's Armor Rating.
+
+If an attack's Penetration is equal to or higher than the target's Armor Rating of the corresponding damage type, it does full damage. If the attack's Penetration is lower than the target's Armor Rating, it will do less damage for each point of difference. If an attack's Penetration is at least double the target's Armor Rating, it gains a bonus to damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Engagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>One of your characters has been Engaged in melee. If an Engaged character moves away from the character Engaging them, they will provoke a Disengagement Attack.
+
+An Interrupt, such as the fighter's Knockdown, can break Engagement to allow a safe exit. Some abilities, such as the rogue's Escape, allow a character to get away without provoking a Disengagement Attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Interrupt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Some abilities specify that they can Interrupt a character. When a character is hit with an Interrupt, their current action is lost, along with any resources (including Quick Items) they were using.
+
+Interrupts can be blocked by Concentration. If a character with Concentration is hit by an Interrupt, they lose their Concentration, but are not Interrupted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Injuries and Rest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Triggering a trap or being knocked out during combat will apply an Injury to that character. Injuries remain on a character until they use food or drink while resting, or by resting at an inn. Press the &lt;sprite="Inline" name="ico_rest" tint=1&gt; button in the lower center of the screen, or use the [R] key, to Rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Rest Bonuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>A party member has gained a rest bonus. These bonuses are acquired by resting at an inn or by using food or drink while resting in other locations. Rest bonuses always last until the next time the character rests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Level Up</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Your character has earned enough experience to advance a level. Click the + icon on their portrait to level them up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You can now Empower &lt;sprite="Inline" name="empowered" tint=1&gt; your abilities or yourself. Once per fight, you can use Empower on an active ability to make it much stronger. Alternately, you can use Empower on yourself to replenish a portion of your ability resources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Empower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Chants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>When you have a Chanter selected, clicking on &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; on their hotbar will allow you to create Chants. Chants are the battle songs Chanters use to strengthen their friends and diminish their foes.
+
+Clicking on a Chant will show the Phrases it uses. Phrases selected on the left panel will be added to the selected Chant. To remove a Phrase, just click on the Phrase in the selected Chant.
+
+An active Chant will automatically play through each Phrase in order and loop back to the beginning when it reaches the end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>World Map</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Clicking on the World Map will have your party navigate to the selected location. To toggle on/off the camera automatically following the party, click the Follow Camera On option in the bottom right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Press the &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; button in the lower center of the screen, or use the [C] key, to bring up the Character Sheet. Select the Reputation tab to view your character's earned faction and community Reputations.
+
+Factions will display how much positive reputation you have with a blue bar and how much negative reputation with a red bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Crew members are needed for your ship. You can recruit crew members at most inns in port cities. Click &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt; to view the available crew members available at an inn.
+
+Once you hire a crew member, you have to assign them to an active position on your ship. Crew members that are not placed on your ship are not active and will cost no food, drink, or wages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Grimoires allow wizards to cast spells they have not yet learned. To cast the spells in a grimoire, it must be equipped in the wizard's grimoire slot. A wizard can quickly switch between grimoires in combat by placing additional grimoires in their Quick Item slots.
+
+To view spells included in a grimoire, right-click on it or click the ? icon in inventory, then click on the grimoire. Note that although grimoires give access to many powerful spells, a wizard cannot cast a spell out of a grimoire if they are not high enough level to access spells of that level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ingredients</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You have found an ingredient. Ingredients can be used to enchant unique weapons, armor, and shields as well as to craft food, scrolls, potions, and other items.
+
+Select &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; in the Party Stash to view your Ingredients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Enchanting</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Unique (with a gold border) weapons, armor, and shields can be enchanted to further increase their potency. Each enchanting recipe requires a number of specific ingredients. When you have the ingredients to perform an enchantment on an item, it will display a + in the upper left corner of the item's icon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Hidden Objects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Hidden objects can be discovered while exploring. A character's ability to discover hidden items is tied to their Perception.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Counters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>A Counter is any ability or effect that removes or prevents another category of effects when applied. There are two types of Counters: Inspirations and Keywords.
+
+Inspirations are grouped by Attribute (e.g. Dexterity, Perception) and automatically counter and remove or prevent the application of the corresponding group of Afflictions for that Attribute. Afflictions may also be used in the same way to remove Inspirations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Party AI</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>If you would like your party members to perform actions automatically in combat, you can select AI behaviors for them. Each class has multiple behaviors to choose from based on different roles they can fulfill.
+
+You also have the ability to fully customize or create new behaviors by opening the Behavior Editor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Embark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>While on the deck of your ship, you can select &lt;sprite="Inline" name="citymapicon_setsail"&gt; to access the World Map.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ship's Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The Watcher is the ship's captain. Like other members of the crew, they gain Sailor Experience, but the captain's Sailor Experience always advances their Captain rank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ship UI</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>There are several jobs on the ship that the crew needs to fill while sailing. Every ship needs deckhands, cannoneers, and a helmsman and all ships benefit from having a cook, surgeon, and navigator on board. The larger ships even require a boatswain to keep the deckhands in order.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>To place a new sailor on the ship, you must be in a port. Click an available sailor from the Known Sailors section and move them to an open role on the ship. Note that each sailor has different talents. Not all sailors will be well-suited for a given job. Filter through the Known Sailor job types to see who excels at each role.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Your crew consumes both food and drink while adventuring. The type of food and drink you feed them will adjust their morale. More expensive provisions make them happier. Cheap food and drink will lower their morale over time.
+
+Even so, few things will impact your crew's morale as badly as letting them starve. A starving crew with low morale may mutiny. If neglected for long enough, some may even die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>There are several jobs on a ship.
+
+The captain determines how likely the ship is to gain advantage (first move and other bonuses) in ship-to-ship combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Deckhands are required to perform any maneuvers in ship-to-ship combat. If a ship does not have enough deckhands, it will move more slowly on the World Map. The more skilled deckhands a ship has, the faster it will move in combat.
+
+The boatswain counts as a deckhand, but is more important for their ability to accelerate the completion of special events (such as putting out a deck fire) on the ship by coordinating their actions.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>A helmsman is required for turning and jibe actions in ship-to-ship combat. More experienced helmsmen make the ship harder to hit after performing turn and jibe actions.
+
+Cannons cannot fire without a cannoneer assigned to them. The more experienced a cannoneer, the more accurate their fire.
+
+The surgeon increases the rate of healing for injured crew members in Reserve, both in combat and while traveling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Two jobs have no combat roles, but may be called upon to resolve ship events.
+
+The navigator increases speed on the World Map and the cook reduces food consumption while traveling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Sea Navigation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Click on the Known Locations dropdown list to bring up a list of places you have discovered. You can also search for a location by name. Ships travel faster in deep water, slower in shallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Low Rations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Food and water are consumed per day by your crew. You will need to replenish these resources by finding or purchasing them.
+
+Press the &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt; button to manage your ship. Restock your food and drink by purchasing those supplies and placing them in the appropriate queue. Provisions are always consumed from left to right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>No Rations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Traveling without food or drink will starve your crew, lowering their morale and eventually causing them to die or mutiny against you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Low Morale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>If your crew has very low morale, it may eventually lead to a mutiny. You can improve your crew's morale by feeding them more expensive provisions, by defeating enemy ships, and by sharing the spoils of those victories with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Ship-to-Ship Combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>In Deadfire, not every ship on the sea is friendly. Hostile ships can attempt to engage you in ship-to-ship combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>During ship combat, distance and orientation to the enemy are vital to your success. Distance determines if the enemy is in range of your cannons (or if you are in range of theirs). Orientation determines what cannons (if any) you can fire, as well as how easily your ship may be hit. Turning your side to the enemy may allow you to fire the most cannons, but it makes you an easier target.
+
+Each ship must maintain its Sails and Hull. Damaged Sails limit the speed of a ship. If a Hull is destroyed, the ship will sink. A ship's cannons are also limited by how much Ammunition the ship is carrying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>When two ships get close to each other, they can board or ram. Boarding locks the two ships together and transitions to a deck-to-deck fight between the two ship crews. A ramming attack does damage to the Hulls of both ships. If one does not sink, the battle transitions to a deck-to-deck battle.
+
+Once you have victoriously sunk the other ship or defeated them in deck-to-deck combat, you can plunder what remains. Plunder typically includes ship resources, treasure, and occasionally the unique triumph of a noteworthy enemy captain. Coins can be shared with the crew to improve morale and triumphs are always flown from your ship's rigging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Crew Injuries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Injuries can occur during ship battles and encounters at sea. They limit the abilities of crew members. During combat, you can use the Report to... command to move an injured crew member to the Reserve to be healed by the ship's surgeon. They cannot perform their job during a battle while injured unless the surgeon attends to them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Sailor Experience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Completing encounters and defeating enemy captains at sea earns Sailor Experience for the crew and captain. Acquiring Sailor Experience will increase the ranks of a crew member's current job. Crew members can &lt;i&gt;only&lt;/i&gt; increase ranks in jobs they already have at least one rank in. The captain always advances their Captain rank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Sailor Traits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Crew members naturally progress in their assigned jobs when they earn Sailor Experience. Crew members can only advance in jobs they have at least one rank in. Ordinary crew jobs have a maximum of 4 ranks. The Watcher gains ranks as the captain, up to a maximum of 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>While on a city map, you can select &lt;sprite="Inline" name="citymapicon_supplies"&gt; to use the Port Shop and resupply your ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Port Shop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Near Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>A party member has three Injuries. If they gain a fourth Injury, they will die. Heal Injuries by using food or drink while resting or by resting at an inn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>A party member has died. Party members can die from receiving four Injuries without healing them or by being hit with a powerful destruction effect. Heal injuries by using food or drink while resting or by resting at an inn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Companion Conversations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>One of your companions wants to talk. To initiate conversation with a companion, select them and then click &lt;sprite="Inline" name="ico_talk" tint=1&gt; on the ability bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The Watcher's Reputations and Dispositions are displayed on the Reputation Wheel.
+
+A companion's Reputation Wheel displays their reputations with other party members and any biases they might have.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Reputation UI</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Hiring Crew</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Ship Events</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sometimes, an attack on your ship will cause a ship event. This is an ongoing problem that you must assign crew members to deal with. Use the Report to... command to assign crew members to an event. The more crew members assigned to the event, the faster the event will be resolved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Sidekicks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Sidekicks start out as unique NPCs integral to specific quests, complete with their own personalities and looks, and they may offer to join your party as a reward for completing their quest. Just like companions, these new characters have a custom portrait and voice sound-set. However, unlike companions, they do not have their own vision quest and will not participate in the companion relationship system.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Keywords are descriptors like Water, Fire, and Frost. The relationship between Keywords is two way, so Fire counters Water and Water counters Fire.
+
+E.g. a character is under the effect of a Flame Shield with the Fire keyword. An enemy hits them with an Overwhelming Wave that has the Water keyword. The full effects of the Overwhelming Wave are negated and the Flame Shield is removed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Some of the quests you receive may be challenging until your character has achieved a higher level. A quest that is beyond your character's current level will be marked in your journal with one, two, or three skulls - one for every level. If a quest is more than three levels above your character's current level, then the skulls will appear red.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>To Empower an ability, click &lt;sprite="Inline" name="empowered" tint=1&gt; on your Action Bar and then select the ability you want to Empower. To restore resources, click &lt;sprite="Inline" name="empowered" tint=1&gt; and then click your character's portrait or selection circle.
+
+You can only use Empower once per fight and a limited number of times between rests. Resting at an inn or using food or drink while resting at other locations will restore all of a character's Empower points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>On the World Map, forcing a crew member to work with an injury has a severe impact on morale. Crew members can still be healed by the ship's surgeon as long as they are placed in a Reserve slot.
+
+Whether on the World Map or in a battle, if a crew member sustains four injuries (even if attended to by the surgeon), they will die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Certain attacks and abilities generate noise that NPCs can react to. Guards will investigate the sound and start to patrol the area they are actively guarding.
+
+The explosive Sparkcrackers, which can be crafted, will cause any NPC in range to investigate the noise. This can open up opportunities for your characters to stealth past patrolling enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The Behavior Editor allows you to create new behaviors for your party members. Each behavior consists of action sets that dictate what your party member does in combat.
+
+An action set is a list of actions that have conditionals, targets, and cooldowns. Each class has several example action sets. You can duplicate an existing action set for a starting point on creating your own custom action set.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Each suit of armor has a base Armor Rating which shows its general resistance against all damage types. The "Versus Damage Type" field displays the specific damage types that the armor is better or worse at resisting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Inns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Inns serve multiple purposes and can be found throughout the Deadfire. At any inn, you can access a store, rent a room, recruit adventurers and crew members, retrain characters, and manage your party.
+
+Certain rooms will give a resting bonus that applies to the entire party and lasts until your party rests again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Recruiting an adventurer goes through the full character creation process. The cost of the adventurer increases with the level you recruit them at.
+
+Retraining a character resets them to level 1 and allows you to go through any level-ups they had accumulated.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

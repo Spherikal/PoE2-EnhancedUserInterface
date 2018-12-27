@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>123</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Apply {0} Might Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Cast {0} Chanter invocations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Deal {0} Raw damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Receive {0} Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Blackened and scored, this heavy plate bears the mark of a master metalworker of New Dunryd, the name of the Dyrwoodan capital of Defiance Bay prior to the revolution that freed it from the Aedyrans. The symbol of Magran's flame graces the breastplate and pauldrons, barely visible under the wear the steel has suffered.
+
+The youngest of the Dozen, Ysly of Baelreach had served the duc for five years and her erl back home for a decade before that. A deft hand with a blade and a fervent believer in the ideals of Magran, Ysly seemed an obvious choice when she volunteered to help hold the bridge. The duc granted her a small panoply for the encounter, including a battle-worn suit of plate that had been gathering dust in the Shrine of Magran.
+
+Though details of the battle are scarce, this is certain: after the explosion of the Godhammer, nothing of Ysly or her armor remained.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>One Dozen Stood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText>Apply {0} Perception Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Grant {0} Inspirations to Party Members</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Kill {0} Beasts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Have 25 Might</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>It becomes easy to forget that one wears the armor. Easy, indeed, to forget many things. Memories, regrets, abstract philosophies, these things have little place in the great hunt, those infinitely interconnected trials that define every action in Eora. Life's focus tightens for those who allow it, to this challenge, to the next, to the struggle that gives each context.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Apply {0} Intellect Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Cast {0} Druid Beasts Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Ceremonial Obsidian Knife</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Chain of Rightful Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>This necklace is the yield of combining a pair of bizarre artifacts into an elegant piece of jewelry. Though recovered worlds apart from each other, the pieces shared a common shape and aura of power. Separately, they thrummed with heat and bottled energy. Fused together, they feel somehow stronger than the sum of their parts. Distortions in the metal are likely the result of a fire.
+
+A section of the metal shows signs of a third piece missing, either melted or snapped free of its sister parts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4865</ID>
+      <DefaultText>Eye of Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4866</ID>
+      <DefaultText>This gem feels like a lump of polished ice. A flaw just beneath the surface seems to follow you the longer you handle it. Tales woven around the so-called "Eye of Rymrgand" all share a central theme: that no one carries it for long. Every legend involving an intrepid hero falling into possession of the gem invariably ends with a tragic disappearance or doomed sea voyage. Some theories posit that the gem was snapped from an icicle in Rymrgand's White Void, and that its tireless search to return home draws mortals to the same dark fate. No matter the truth of such stories, the gem has a potent influence over the bearer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4867</ID>
+      <DefaultText>Detonator Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4868</ID>
+      <DefaultText>This piece of the Godhammer Bomb hums with divine power. Its existence is something of a paradox, as the bomb it belonged to successfully detonated in 2808 AI. The combination of Magran's blessing and historic significance make this trinket a rare find. Even though this catalyst never technically triggered the explosion on Evon Dewr Bridge, it thrums with the fire of the Godhammer and seems eager to fulfill its promise of destruction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4875</ID>
+      <DefaultText>Whispers of Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4876</ID>
+      <DefaultText>This snapped blade has had many names over the years, but the stain of betrayal has never been wiped clean. Long ago, it was a gladiator's weapon wielded in the slave pits. The fighter who carried it bought his freedom by plunging it into the back of his master, earning it the name Liberator. Later it hung on the walls of a wealthy estate where a maid butchered the family, earning it the name Decency. It isn't known how or when it broke, but the blade's persistent symbol as a deliverer of justice and condemner of the wicked made it a favorite among Skaenites, who sacrificed generously to imbue it with their patron's blessing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>Reflected Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Ring of Entropic Reflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Waidwen's Sundial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>Sundials like this are used by shepherds or farmers who spend most of their day outdoors. Time is measured by rotating the central axis to align with a month and allowing the sun to shine down a pinprick-sized hole, which points down toward a row of numbers engraved on the ring's inner circumference. 
+
+Waidwen must have carried this item during the Saint's War, because the air around it trembles with power. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>The Twin Eels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>A Kuaru smith forged his masterpiece, which he dubbed Tangaloa, claiming it would send any enemy to the great eel's maw. After touting his craftsmanship to all who would listen Rikuhu spoke to him while he slumbered, expressing disappointment for not honoring both aspects of the deity. Equal parts humbled and terrified, the smith forged the counterpart Kohopa to abide the god's bidding. He bound the two weapons, twisting their blades together. 
+
+He then sold the sword as quickly as possible and never forged a weapon in the gods' names again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Current's Rush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>According to legend, an ancient watershaper of Ukaizo forged this scepter upon the ocean's floor. They carved the shaft from the finest sandalwood. For the tip, they sought a rare pearl shaped within a skiff-sized mollusk over a thousand years. Only through Ondra's blessings was the watershaper able to pluck it from the creature without being consumed whole.
+
+The scepter is said to be part of a ritual for pleasing Ngati, though the details of this lecherous affair are lost to time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Brooch of Inevitable Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>The tarnished metal of this ox-headed pendant has abandoned all but the last of its luster. It weighs heavily upon the breast, its chill biting any flesh it happens to brush. The gems set into the aurochs' eyes pulse faintly with blue light, and a quiet breeze occasionally whispers at the edge of the wearer's hearing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>Finality's Claim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>The deeper one stares into the seductively shining depths of this ring, the more it pulls at their very being, like tendrils tugging at the wearer's soul. Hours may slip past as one stares into its recesses, and even after pulling away the world seems darker.
+
+The ring seems to hunger for Void Shards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Footsteps of the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5070</ID>
+      <DefaultText>Cobbled in the likeness of cloven hooves, these boots blight the earth they tread. The Glamfellen who crafted them offered the unusual footwear to his clan's priestess, who blessed them in Rymrgand's name. She then gifted these boots to the clan's bravest champion, to be worn in the Beast of Winter's honor.
+
+Though it took months of training before the warrior was able to exhibit any grace in the boots, she eventually - perhaps inevitably - became a scourge upon the battlefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>High Harbinger's Robes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Though similar to the other Harbingers' robes, these furs bear one pungent difference: the putrid stench that hangs about them like an aura. This makes it nearly impossible for anyone besides Vatnir to wear them unless they lack faculties of taste and smell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Horns of the Aurochs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>An infamous aumaua raider came across a small forge of Abydon's servants and slaughtered them all - save one smith, who hid amongst a crate of supplies. The dwarf called out to the aumaua, offering an exchange. She would craft the finest helm the raider had ever seen if he would spare her life. The raider granted her one week and demanded that the armor honor his patron - the Beast of Winter. 
+
+The smith toiled endlessly until the last evening, when she set the helm just outside the forge's unbarred door. The helm was gone the following dawn, and the sanctum to Abydon never plundered again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Corroded Vambraces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Under the waves of the Deadfire lurks a massive crustacean creature with a carapace harder than any kith-forged steel. It waits among the shoals and preys upon unsuspecting vessels foolish enough to venture near its shell. These gauntlets, formed from the shed carapace of the beast, are both light and surprisingly durable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Wax-Sealed Letter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>This missive, written in what looks like dried blood on a slice of tanned leather, came to you rolled and sealed with the mark of the aurochs. The lettering, spidery and sharp, suggests the sender may have been shivering as they composed it.
+
+&lt;i&gt;"Most Glorious Watcher of Caed Nua,
+
+I cordially invite you to a feast to be held in your honor. A community of like minds has congregated at Harbingers' Watch, a small outpost located in the southern Deadfire Sea, to witness the Dead Floe's rapid expansion.
+
+Soon ice shall consume all, and Rymrgand's dominion over dead Eora be unchallenged.
+
+We eagerly anticipate hosting your magnificence. 
+
+With admiration for your many accomplishments,
+
+Vatnir, High Harbinger of Dusk"&lt;/i&gt;
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Vatnir's Icepicks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>A pair of simple iron icepicks with wooden grips used for climbing frozen surfaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Betrayal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Ice Hammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Charm of Lost Voyages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Guardian's Plate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Though likely a thousand years have passed since the Glamfellen crafted this armor, it seems impeccably cared for - at least until it spent four centuries frozen to a corpse. The magic of the Vytmádh has permanently altered the armor, encasing it in jagged spurs of ice.
+
+Whether the armor bore these blessings of the White Void when worn by the temple guardians of centuries' past remains unclear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Reforge the soul of a follower of Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Collect the rest of the Rynhaedr's Equipment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5323</ID>
+      <DefaultText>Kaihōa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5324</ID>
+      <DefaultText>This ancient trumpet, or Kaihōa, was much prized by the Watershapers of old Ukaizo for its unique ability to direct the flow of water through music. Huana legend says that the instrument was created by the goddess Ngati as a gift to the Huana people so that they might sing in harmony with the voice of their land. One traditional Huana tale tells of a river whose course was redirected by a chorus of Kaihōa played by master Watershapers. Crafted from the wood of the strangle vine, Kaihōa produce a small range of deep, rich notes. It is warm and smooth in your hands, remarkably untouched by time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5331</ID>
+      <DefaultText>Rymsjódda Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5332</ID>
+      <DefaultText>A sweet, light brown beer brewed from barley and aged in caves along the northern shores of the White that Wends, rymsjódda (literally "frost shield" in the Ordhjóma tongue) is prized among the less nomadic coastal communities of that continent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5333</ID>
+      <DefaultText>Ekkevít</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5334</ID>
+      <DefaultText>This dry liqueur, distilled from mjünberries and lightly spiced, boasts the pale pink of raw salmon. Rare even in the White that Wends and a favorite at Glamfellen festivities, few bottles leave that frigid land. 
+
+Some extremist Glamfellen save a bottle from each year, collecting them for the final celebration, the coming of the Beast of Winter, and the ending of all things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5335</ID>
+      <DefaultText>Glacial Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5336</ID>
+      <DefaultText>Identifiable by the black lines that run the length of its body, this saltwater fish's white flesh is a traditional staple of Glamfellen and Enutanik diets alike. Though often consumed broiled shortly after being caught, smoked or dried ysae keeps for long periods, making it invaluable for long journeys across the White.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5344</ID>
+      <DefaultText>Brew Battered Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5345</ID>
+      <DefaultText>Referred to as a "diplomatic delicacy," this recipe blends the cuisine of the Aptapo and Enutanik dwarves. Though by no means common in Naasitaq owing to the scarcity of flour, this meal remains a favorite of the Enutanik during celebrations. Traditionally fried in whale oil, these thick, flaky fillets of fish are crusted in a light, crunchy batter and served with pickled seaweed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5346</ID>
+      <DefaultText>Permafrost Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5347</ID>
+      <DefaultText>On rare occasions, ice blights will collapse into themselves, entering a form of hibernation. Druids and wizards have developed rituals to induce blights into this state and seal them there. When released, the blights rage blindly at their captivity, providing a ready-made distraction or ally to turn the tide of battle.
+
+In their sealed form, the blights resemble a clear, crystalline shard - unmelting but cold to the touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5348</ID>
+      <DefaultText>Frosty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5349</ID>
+      <DefaultText>Small and cold to the touch, this construct may have been a prototype. Or the product of tinkering. Or a toy.
+
+While followed by Frosty, you gain bonus Armor against Freeze damage and the party's Freeze attacks benefit from improved Accuracy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5364</ID>
+      <DefaultText>Rime Construct Fluid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5365</ID>
+      <DefaultText>The color of this thick, green ooze seems like it should be luminescent, but it does not, in fact, glow in the dark. With a consistency like the phlegm of a dying man and an acidity that corrodes anything organic, this viscous goo should almost certainly never be ingested by anyone ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5366</ID>
+      <DefaultText>Harbinger's Hood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5367</ID>
+      <DefaultText>A filthy, rough-hemmed hood of burlap and leather.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5373</ID>
+      <DefaultText>Stone Idol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5374</ID>
+      <DefaultText>A simple statue depicting the Beast of Winter. There's no obvious enchantment or blessing, so its value is either spiritual or ornamental in nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5385</ID>
+      <DefaultText>The hilt of this pickaxe is wrapped in layers of heavily worn cloth, each older than the last. Etched along the wooden grip are dozens of tiny pictograms, tales of Enutanik dwarves from Naasitaq. Some of the carvings are neat and precise, others nearly indecipherable. They tell of long treks across frozen tundra, battles with massive beasts, and snow-covered adra pillars.
+
+The most recent images depict an island of ice, slowly expanding to the north of Naasitaq. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5386</ID>
+      <DefaultText>Glacierbane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5388</ID>
+      <DefaultText>Frostfall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5389</ID>
+      <DefaultText>Though the head of this mace is not chiseled from a single solid chunk of enchanted ice, one could be forgiven for thinking it so. Instead, the frosted-over steel contains a small but terribly potent shard of essence, imparting upon the weapon a cold, aching hunger that can never be sated. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5390</ID>
+      <DefaultText>Helm of the White Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5391</ID>
+      <DefaultText>The shards of ice crowning this helm radiate a malignant chill, utterly resisting the glare of the Deadfire sun. It smells musty within, as if worn for centuries by the frozen corpse of a pale elf.
+
+Too cold for comfort on even the hottest days, the helm plagues the wearer with endless whispers at the edge of hearing.
+
+Strangely, this helm looks far more like something you'd expect of Engwith than of the White that Wends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5392</ID>
+      <DefaultText>Wintertide Bulwark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5393</ID>
+      <DefaultText>This massive, rime-crusted tower shield is crafted in a manner that blends the styles of Engwith with those of the White that Wends. The long, convex surface radiates excruciating chill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5394</ID>
+      <DefaultText>Frostfur Mantle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5395</ID>
+      <DefaultText>Thickened with ice and essence, this scrap of hide feels unexpectedly warm and heavy when donned. Those around the wearer, however, experience a sharp decline in air temperature and a near-constant chill breeze.
+
+The matted fur reeks of decay, and the shards of hoarfrost coating it ring quietly against one another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5398</ID>
+      <DefaultText>The dragon Neriscyrlas clung to life with stubborn persistence, struggling against the decay that wore down her flesh, bones, and soul. Apparently not even death could stand in the path of a will so motivated. The dragon's skull is as hollow and lifeless as a chunk of pitted driftwood, but every so often the whisper of some distant voice echoes from its depths, begging to be cradled in battle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5431</ID>
+      <DefaultText>Ice Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5432</ID>
+      <DefaultText>Fortune Seeker's Journal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5433</ID>
+      <DefaultText>The last pages of the journal are smudged with blood. 
+
+"Slipped on the ice and broke my legs. Maybe it's just the White Void affecting my mind, but I don't have a single regret. A lot of pain, but no regrets. 
+
+Learn a trade, they said. Open a shop, they said. Invest in a wagon, they said. Plant parsnips, they said. 
+
+Which just goes to show you that the type of person who wants to die in their sleep lacks imagination. I'd rather die screaming on top of the world than whimpering at the bottom. So let the screaming begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5437</ID>
+      <DefaultText>Neriscyrlas' Hope</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5438</ID>
+      <DefaultText>This misshapen shard of metal pulses with barely-contained power. It radiates heat, as well, and is almost too hot to hold barehanded. Though clearly not born of the White Void, little by way of markings identify this object's origin or why it would resist the entropic forces of Rymrgand's demesne.
+
+Neriscyrlas placed her ambitions in it, along with her soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5441</ID>
+      <DefaultText>Memory of Magranite Incantations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5442</ID>
+      <DefaultText>This text of collected incantations is blurry to the point of illegibility, as if the White Void had stripped the ink of any meaning. It might still mean something to one of the denizens of Rymrgand's realm. 
+
+A short passage scribbled in the margins stands out with clarity:
+
+"Let the scholars bicker over how we crammed a piece of Waidwen's soul into the bomb. A little uncertainty never hurt anyone. I only care that the damn thing goes off on time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5443</ID>
+      <DefaultText>Evon Dewr Tower Key</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5444</ID>
+      <DefaultText>Although this key is a part of the same suspended moment as the rest of Evon Dewr Bridge, it feels solid enough to function as expected. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5448</ID>
+      <DefaultText>Mote of Conviction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5449</ID>
+      <DefaultText>This small yet potent fragment of soul essence radiates cold surety in one's actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5450</ID>
+      <DefaultText>This small yet potent fragment of soul essence pulses with ill-contained aggression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5451</ID>
+      <DefaultText>Mote of Hostility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5452</ID>
+      <DefaultText>Mote of Regret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5453</ID>
+      <DefaultText>This small yet potent fragment of soul essence weeps thin wisps of guilt and remorse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5464</ID>
+      <DefaultText>Oathbreaker's End</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5465</ID>
+      <DefaultText>An Aedyran lord who controlled a small keep in the Dyrwood had this axe forged to ward against any who would undermine his authority. When the War of Defiance spread across the young nation, the lord used this opportunity to consecrate the blade in the name of Woedica, beheading all those suspected of breaking fealty and supporting the rebellion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5472</ID>
+      <DefaultText>Void Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5473</ID>
+      <DefaultText>This cold, black sphere is formed of essence broken down and condensed within the White Void. Touching it with bare skin is ill-advised. Licking it more so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5474</ID>
+      <DefaultText>Harbinger's Robes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5475</ID>
+      <DefaultText>These layered hides and skins are held together with thick leather stitching. They include fasteners of bone and ivory, and steel symbols of the aurochs grace the arms and chest. 
+
+Crafted for the more temperate weather of Harbingers' Watch, these clothes are lighter and far less bulky than the traditional clothing of the White that Wends. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5476</ID>
+      <DefaultText>Unstable Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5477</ID>
+      <DefaultText>As soul energy collects, it can become volatile over time. The charge of the various constituent souls are so disparate that the faintest touch can collapse it, resulting in an explosion of essence.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5478</ID>
+      <DefaultText>Corrosive Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5479</ID>
+      <DefaultText>Particularly spiteful kith are thought to produce equally corrosive soul essence. Their misdeeds in life tarnished their souls, leaving only caustic remnants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5480</ID>
+      <DefaultText>Compassionate Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5481</ID>
+      <DefaultText>This essence is derived from kith whose benevolent actions bolstered their spirits. Upon consuming it, the user becomes incorporeal, granting them the protection of the Veil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5486</ID>
+      <DefaultText>&lt;i&gt;"The frostkin came with the first snow. We'd only just celebrated the feast of the season's last whale - a wallhead, a true prize, brought to shore by our harpooners. We'd cut free thick slabs of meat and blubber, salting much, frying some, potting a portion to age. All the time - as we toiled and as we ate - we sang songs to its spirit, to thank it for its sacrifice and ease its return to the sea of souls. 
+
+"How well we ate! How deeply we drank! How loudly we sang! But as the snow fell, so too fell our voices. So too our spirits. For with the first frost comes the Horned One, and from its trail of cloven hoof prints rise its children."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5487</ID>
+      <DefaultText>&lt;i&gt;"Siluq vanished first. The snow had fallen for days without sign of frostkin. Some began to whisper that this would be a good year. That we'd not be harried for every step we took north. We'd begun to relax. 
+
+"But Siluq vanished. None heard or saw it happen. He'd not gone hunting or left the trail to empty himself. He'd been ahead of Puniki - no weak-eyed huntress! - and she'd lost him for the merest moment to the white winds. When they subsided, he no longer was. His tracks ended.
+
+"The snow was stone solid aside the path."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5488</ID>
+      <DefaultText>&lt;i&gt;"None called me mad when I returned. None labeled me a liar. We'd lost three more, each as silently stolen as the first. For all of that we'd seen only one of the frostkin - a corpse, gaunt and white, the empty cavities of its face caked with frozen blood.
+
+"When we reached the Shellstone Expanse, we sent scouts each way. I drew the westerly stone and set forth with bow and axe. I'd return with word of safe trails or word of danger, or I'd not return at all. Either way, I served the Enutanik.
+
+"I saw it upon cresting the tumbledown boulders we name the Chieftain's Braid. So white it was, so very like the snow - I'd not have seen it were the sun not behind it, outlining it in orange and violet. It rose above the pines, the tallest of those trees not reaching its shoulders. Its horns scraped the clouds, tearing them open, and snow spilled from the rents. The frostkin flittered like snowflakes about its legs, each as long and sharp as ice, their boney hands grasping spears and shields shrouded in rime.
+
+"I lingered less than a moment. We would travel east. To the west lay only our end."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5489</ID>
+      <DefaultText>He knew the Land only as stories. A vast white emptiness, like the blue sea around the temple, but cold and hard. He imagined the snow bears, great white masses of fur and muscle, and the walruses, with their spear-like tusks raking the ice for food, and dreamt of sledding across the ragged, frozen land.
+
+He would never set eyes upon them. His place was here, in this ancient temple, watching over the White Maw, protecting it from those who would despoil it and casting away the tools and weapons of the lesser divines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5490</ID>
+      <DefaultText>Rynhaedr took him aside one afternoon, after their exercises. The chosen of Rymrgand had only a few winters on him, but she'd been personally tapped by Winter to stand watch at the gate to his dominion. She wore that authority like a mantle, shoulders squared, chin raised. Confident.
+
+She sent him from the isle then - to the Land. To know the Land, she explained, was to know Winter. There could be no understanding of one without understanding of the other, and a guardian must know Winter as they know themselves.
+
+So he found himself, heart near to bursting within his chest, bundled against the cold on the next supply ship, its prow pointed south.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5491</ID>
+      <DefaultText>He returned a hard man to a frozen home.
+
+The Land had forged him anew of hoarfrost and rime - once-soft hands now hard as ice, formerly-lanky arms now bulging with muscle, clean face now boasting a beard as full and white as a snow bear's pelt.
+
+But all were dead. Some had been torn apart, their limbs scattered and ribs opened. Others stood frozen at their stations.  Rynhaedr herself held the opened Maw, vigilant even in demise.
+
+He felt no sadness, no pulsing fear. He understood the Land, and so he understood Winter. When the growl rose from the Maw, he knew it for an interloper. He took up his spear and his shield, and he strode into the Void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5495</ID>
+      <DefaultText>Fjord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5496</ID>
+      <DefaultText>This rambunctious snow bear cub can often be caught chasing seagulls and chewing on your spare boots. He'll eat whatever's on hand, but he shows a strong preference for frozen ysae and chunks of rotten shark meat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>Precise Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>This letter has been folded into a square with clean, diligent creases. 
+
+"[Player Name] walks the Deadfire carrying shards of heat-scorched metal. The significance of these items can't have escaped you, though the timing is a surprise to us all. 
+
+We should grasp this opportunity. Kill [Player Name]. Do not hide your act, for we work under the auspices of law. See to it that the metal gets into Izzia's hands. She wastes her potential in Periki's Overlook. 
+
+Praise the Exiled Queen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>Hastily-Written Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>This missive is speckled with coal dust and candle wax. 
+
+"These are words I never wished to write. The blackened shards have been recovered, and [Player Name] carries them - I pray out of ignorance or coincidence.
+
+We can get ahead of this if we act with haste. The Watcher may have already suffer the witch's corruption without realizing it. Let no thoughts of mercy stay your sword. 
+
+Once you recover the shards, &lt;i&gt;under no circumstances are they to be kept together.&lt;/i&gt; After you report in, they will be placed in separate vaults and bound in magic for as long as we endure. 
+
+See too that they are kept far from Periki's Overlook. Our enemies mutter about the craftswoman Izzia as if she has an air of destiny about her.
+
+For peace and Magran's honor, may you succeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Soul Collector</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Rime Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Hoarfrost Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>Warden of Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>Scourge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText>Beast of Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1547</ID>
+      <DefaultText>Harbinger Hafjórn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1548</ID>
+      <DefaultText>Vatnir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>Rynhaedr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText>Harbinger Brythe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText>Harbinger Envoy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>Wahaki Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText>Wandering Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
+      <DefaultText>Harbinger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1586</ID>
+      <DefaultText>Harbinger Leksi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>Harbinger Nyvardir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>King Wingauro o Watūri I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>Harbinger Karlódh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>Harbinger Valbrendhür</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>Frosty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1593</ID>
+      <DefaultText>Shattered Realms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>Shambling Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1596</ID>
+      <DefaultText>Harbinger Devotee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1597</ID>
+      <DefaultText>Harbinger Acolyte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1598</ID>
+      <DefaultText>Harbinger Ehrys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>Waidwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1600</ID>
+      <DefaultText>Ghostly Aumaua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1604</ID>
+      <DefaultText>Frightened Aumaua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Shackled Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText>Inquisitor Naxiva</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText>The Accused</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Witness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1609</ID>
+      <DefaultText>Burning Soldier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1610</ID>
+      <DefaultText>Strangled Convict</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+      <DefaultText>Drowned Watershaper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+      <DefaultText>Naxiva ix Kirent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Inquisitor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Strangled Cipher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Strangled Arcanist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Drowned Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Drowned Stormspeaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Burning Cleric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Burning Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Frozen Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Glamfellen Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Pilgrim Savage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Pilgrim Celebrant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Pilgrim Hierophant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Pilgrim Shadowdancer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Champion-Ascendant Grymgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Pilgrim Ehrys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Kuaru Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>The Messenger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Snow Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Damaged Rime Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Mama Snow Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Papa Snow Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText>Fjord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Izzia</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
