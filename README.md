@@ -41,9 +41,10 @@ Pillars of Eternity II
          │           ├─ cyclopedia.stringtable
          │           ├─ gui.stringtable
          │           ├─ items.stringtable
-         │           ├─ recipes.stringtable
          │           └─ statuseffects.stringtable
-         ├─ EnhancedUI-NewKeywords.gamedatabundle
+         ├─ EnhancedUI-DamageTypes.gamedatabundle
+         ├─ EnhancedUI-TheWheel.gamedatabundle
          ├─ manifest.json
+         ├─ steam-thumb.jpg
          └─ thumb.png
 ```
