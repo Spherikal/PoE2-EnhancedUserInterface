@@ -16,9 +16,9 @@
 &nbsp;&nbsp;**peardox**\
 &nbsp;&nbsp;<sup>Programmer</sup>\
 &nbsp;&nbsp;**phenomenum**\
-&nbsp;&nbsp;<sup>Translator (Russian)
-&nbsp;&nbsp;**Xinkle**\</sup>\
-&nbsp;&nbsp;<sup>Translator (Korean)
+&nbsp;&nbsp;<sup>Translator (Russian)</sup>\
+&nbsp;&nbsp;**Xinkle**\
+&nbsp;&nbsp;<sup>Translator (Korean)</sup>\
 
 ***
 
