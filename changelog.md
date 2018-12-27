@@ -3,7 +3,7 @@
 ### Version 1.5.1
 - Updated <EntryCount> in all *.stringtable files to match patch 4.0.1.
 - Added the new "DescriptionTactical" tag to custom cyclopeida entries in all *.gamedatabundle files.
-- Added missing translation files (only updated for game version 3.0.2)
+- Added missing translation files (only updated for game version 3.0.2).
 
 ### Version 1.5.0
 - Updated the mod for game version 4.0 and the latest DLC “The Forgotten Sanctum”.

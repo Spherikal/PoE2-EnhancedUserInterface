@@ -18,7 +18,7 @@
 &nbsp;&nbsp;**phenomenum**\
 &nbsp;&nbsp;<sup>Translator (Russian)</sup>\
 &nbsp;&nbsp;**Xinkle**\
-&nbsp;&nbsp;<sup>Translator (Korean)</sup>\
+&nbsp;&nbsp;<sup>Translator (Korean)</sup>
 
 ***
 
