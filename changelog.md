@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### Version 1.6.0
+- Updated the mod for the new "Turn Based" game mode.
+- Fixed the manifest file that might have caused some errors.
+
 ### Version 1.5.3
 - Minor fixes to some ability descriptions (abilities.stringtable).
 - Updated for the mod for game version 4.1.

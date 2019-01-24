@@ -564,5 +564,10 @@ While followed by Frosty, you gain bonus &lt;link="glossary://GlossaryEntry_Armo
       <DefaultText>&lt;line-height=100%&gt;Broken Weapon&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>5933</ID>
+      <DefaultText>&lt;line-height=100%&gt;While Lucero is following the party, you have Resistance to Dexterity Afflictions, and the party has reduced Initiative after using Quick Items.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>
