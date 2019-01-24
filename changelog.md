@@ -1,5 +1,14 @@
 ## CHANGELOG
 
+### Version 1.5.3
+- Minor fixes to some ability descriptions (abilities.stringtable).
+- Updated for the mod for game version 4.1.
+
+### Version 1.5.2
+- Fixed en Version
+- Updated to Game Version 4.0.0
+- Removed IT, KO, RU
+
 ### Version 1.5.1
 - Updated <EntryCount> in all *.stringtable files to match patch 4.0.1.
 - Added the new "DescriptionTactical" tag to custom cyclopeida entries in all *.gamedatabundle files.

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4557</EntryCount>
+  <EntryCount>4558</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23325,6 +23325,11 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5285</ID>
       <DefaultText>The Forgotten Sanctum - Not Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

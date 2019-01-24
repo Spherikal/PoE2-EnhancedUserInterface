@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2897</EntryCount>
+  <EntryCount>2898</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7018,7 +7018,7 @@ The acolyte's body was found frozen stiff the next morning. He stood, hatchet in
     </Entry>
     <Entry>
       <ID>3184</ID>
-      <DefaultText>Aamiina of the Blue Water tribe, daughter of the revered Ajamuut, carried on her mother’s duties after the death of the matron huntress. To secure her status as the successor of her foremother, Aamiina enrolled in the challenge of Ongitok Angunisaq. Far from a game, this trial pitted the young dwarf against all the dangers of Naasitaq. She spent three weeks in the wild, battling endless blizzards and voracious beasts. Her bow was her only means defense and subsistence.
+      <DefaultText>Aamiina of the Blue Water tribe, daughter of the revered Ajamuut, carried on her mother’s duties after the death of the matron huntress. To secure her status as the successor of her foremother, Aamiina enrolled in the challenge of Ongitok Angunisaq. Far from a game, this trial pitted the young dwarf against all the dangers of Naasitaq. She spent three weeks in the wild, battling endless blizzards and voracious beasts. Her bow was her only means of defense and subsistence.
 
 Her trial complete, Aamiina was trekking for home when she happened across a hungry frost drake stalking towards Blue Water village, using the storm to hide its approach. With no consideration for her own safety, Aamiina raised her horn and trumpeted a warning to the Blue Water warriors, who mobilized in time to fend off the beast.
 
@@ -8454,7 +8454,7 @@ It sounds too ridiculous to believe, does it not? And yet, I wonder."</DefaultTe
     </Entry>
     <Entry>
       <ID>3496</ID>
-      <DefaultText>The product of a wizard who considered himself an engineer, this arbalest has been modified to fire larger, thicker bolts. This provided no shortage of obstacles in its initial construction. The wizard found he need to strengthen the bow lathes to accommodate the oversized bolts. Thus, a heavier string was required. As a result, the retaining nut had to be reinforced. Even a customized, enchanted windlass was needed to span the blasted thing. The stock itself was initially too weak for the whole operation and the wizard, ever a pragmatist, found structural enchantments were required to keep the weapon from snapping in two once armed. 
+      <DefaultText>The product of a wizard who considered himself an engineer, this arbalest has been modified to fire larger, thicker bolts. This provided no shortage of obstacles in its initial construction. The wizard found he needed to strengthen the bow lathes to accommodate the oversized bolts. Thus, a heavier string was required. As a result, the retaining nut had to be reinforced. Even a customized, enchanted windlass was needed to span the blasted thing. The stock itself was initially too weak for the whole operation and the wizard, ever a pragmatist, found structural enchantments were required to keep the weapon from snapping in two once armed. 
 
 Runes etched into the massive, spearlike bolts helped them fly true and gave them the punch to puncture steel and flesh. However, the wizard found it took considerable expenditures of his own arcane powers to make them do so. In the end, the weapon, while powerful, seemed only of use to those with sufficient knowledge of arcana. As such, the wizard abandoned his plans to produce similar weapons en masse and kept this prototype for his personal use.</DefaultText>
       <FemaleText />
@@ -8877,7 +8877,7 @@ He was practiced at mutiny. He gathered a small group of dissatisfied collaborat
       <ID>3583</ID>
       <DefaultText>This club originates from the little-known sacking of Munga Waikinga, an obscure Rauataian village. The villagers were taken by complete surprise when a band of slavers descended on them. The slavers quickly overwhelmed the few guards and set to work rounding up the terrified people and killing those too old, too young, or too weak to fetch a good price at auction.
 
-One teenage girl, Lula Ko was not about allow the villains to harm her infant brother or enfeebled grandmother. Resolved not to surrender without a fight, she broke into the chapel of Woedica in the village common and plucked a torch from above the alter. She dipped it in pitch and smashed the priest's reflecting mirror, creating a club crowned in jagged glass. She prayed forgiveness from Woedica for her sacrilege and went out to confront the slavers. 
+One teenage girl, Lula Ko was not about to allow the villains to harm her infant brother or enfeebled grandmother. Resolved not to surrender without a fight, she broke into the chapel of Woedica in the village common and plucked a torch from above the altar. She dipped it in pitch and smashed the priest's reflecting mirror, creating a club crowned in jagged glass. She prayed forgiveness from Woedica for her sacrilege and went out to confront the slavers. 
 
 The girl's boldness surprised the slaver captain and he was only able to laugh before Lula Ko killed him with a single blow to his head. The villagers, inspired by Lula Ko's bravery, revolted against their captors - winning the day against all odds. The people of Munga Waikinga forever honored the warrior-child, as she and her sacred weapon were surely blessed by Woedica.</DefaultText>
       <FemaleText />
@@ -10112,7 +10112,7 @@ Assured that her enemy was dead, Rekvu tore off her other gauntlet and used its 
     </Entry>
     <Entry>
       <ID>3853</ID>
-      <DefaultText>Once wielded by the Death Guard Yseyr in the Hanging Sepulchers below Neketaka, this flail radiates a palpable sensation of dread. The death’s head is forged of solid iron and is much heavier than it looks.</DefaultText>
+      <DefaultText>Once wielded by the &lt;xg&gt;Death&lt;/xg&gt; Guard Yseyr in the Hanging Sepulchers below Neketaka, this flail radiates a palpable sensation of dread. The death’s head is forged of solid iron and is much heavier than it looks.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10155,7 +10155,7 @@ Armed with the knowledge and courage he had gained on his journeys with the Watc
       <ID>3861</ID>
       <DefaultText>You pried this obsidian club from the dead hands of the captain of the fearsome Black Isle Bastards. How a band of loathsome pirates came about such an ancient weapon is unknown, though they were surely attracted to its gleaming surface of volcanic glass. Buccaneers are often drawn to shiny objects.
 
-Long before the people of the Deadfire had access to advanced metalworking, weapons and tools were often made of obsidian - which can be knapped to razor sharpness. Many aumaua warriors wielded obsidian clubs similar to this, which require considerable strength to swing with any accuracy. If the markings etched into the weapon are any indication, this bludgeon was the personal weapon of a grand champion. The glyphs tell of glorious battles against numerous foes.</DefaultText>
+Long before the people of the Deadfire had access to advanced metalworking, weapons and &lt;xg&gt;tools&lt;/xg&gt; were often made of obsidian - which can be knapped to razor sharpness. Many aumaua warriors wielded obsidian clubs similar to this, which require considerable strength to swing with any accuracy. If the markings etched into the weapon are any indication, this bludgeon was the personal weapon of a grand champion. The glyphs tell of glorious battles against numerous foes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12500,6 +12500,12 @@ You're not sure where the eye patch came from, but it reeks of rum.
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4351</ID>
+      <DefaultText>Once common among the most experienced fishermen and shark hunters of the Huana tribes, cloaks like this were stitched together from layers of vellum-thick seal hide and oiled against the elements. They not only served the practical purpose of keeping the wearer relatively warm and dry while protecting them from snapping teeth and lashing tentacles, but also denoted status; an individual draped in these hides willingly braved Ngati's unforgiving domain to support the tribe. This particular cloak bears the signs of years of hard use, its stitching frayed and edges ragged. Despite the obvious wear, the mantle's hardy construction continues to ward off water and chill alike.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4353</ID>
       <DefaultText>Horns</DefaultText>
       <FemaleText />
@@ -14490,7 +14496,7 @@ Salvagers later discovered the Claret floating adrift. The headless bodies of bo
     </Entry>
     <Entry>
       <ID>4832</ID>
-      <DefaultText>This sabre's origins are unknown, though it steel composition suggests it may have been forged in the White March. A retired Aedyran privateer named Tarn Baeris discovered the blade by happenstance in a ruined watchtower on his estate in the Eastern Reach. When the emperor recalled Tarn to service during the War of Defiance, he took the weapon with him.
+      <DefaultText>This sabre's origins are unknown, though its steel composition suggests it may have been forged in the White March. A retired Aedyran privateer named Tarn Baeris discovered the blade by happenstance in a ruined watchtower on his estate in the Eastern Reach. When the emperor recalled Tarn to service during the War of Defiance, he took the weapon with him.
 
 Tarn, no longer a young man, was not enthusiastic about returning to sea, but he served the empire resolutely. He was tasked with interdicting Vailian corsairs who were shipping supplies to rebels in the Dyrwood. An honorable man, Tarn elected to spare the ships and crews he captured after relieving them of their cargo. As such, he rarely found a cause to draw his blade.
 
@@ -14908,7 +14914,7 @@ Bruno was murdered in his bed. As a warning, his killers left the weapon that di
       <ID>4950</ID>
       <DefaultText>This elegant great sword is of Aedyran manufacture. Emissaries from the Aedyr Empire presented it, along with seven similar weapons, to the first duc of the Free Palatinate of Dyrwood upon the conclusion of the War of Defiance. Intended as a gesture of peace, such a gift also signified de facto recognition of the Free Palatinate. The duc, pleased by acknowledgment of his rule, accepted.
 
-As a gesture of solidarity with those who fought for Dyrwoodan independence, the duc distributed six of the weapons to his erls. The two Cavalier blades went to Helsgate and Coldwater. The Grasp and Norwaech received the Tower hammers. To Ashfall and Tenferths went the Abbot staves 
+As a gesture of solidarity with those who fought for Dyrwoodan independence, the duc distributed six of the weapons to his erls. The two Cavalier blades went to Helsgate and Coldwater. The Grasp and Norwaech received the Tower hammers. To Ashfall and Tenferths went the Abbot staves.
 
 The two remaining great swords, Queen's Rule and King's Wrath, the duc ordered smelted down. In his words, the Free Palatinate no longer had any use for royalty. It seems this weapon was saved from the fire, though it has had a long fall from grace.</DefaultText>
       <FemaleText />
@@ -15425,7 +15431,7 @@ The letter goes on like this for some time. It is signed, "Lord Raedric VII, Tha
     </Entry>
     <Entry>
       <ID>5075</ID>
-      <DefaultText>The outlaw hero Magnera Freetrader wore this suit of mail when she mounted her legendary assault on the prison in Helsgate to rescue her imprisoned husband from the clutches of a corrupt Dyrwoodan bailiff. Magnera faced the entirety of the prison garrison, fighting her way from the gates to the dungeon tower where the bailiff himself stood between the her and her husband's cell.
+      <DefaultText>The outlaw hero Magnera Freetrader wore this suit of mail when she mounted her legendary assault on the prison in Helsgate to rescue her imprisoned husband from the clutches of a corrupt Dyrwoodan bailiff. Magnera faced the entirety of the prison garrison, fighting her way from the gates to the dungeon tower where the bailiff himself stood between her and her husband's cell.
 
 The two engaged in a ferocious duel of sabres. The warden, though skilled, was no match for Magnera. His many glancing blows failed to penetrate her chainmail. He could do nothing more than curse the outlaw's name as she cut him down.</DefaultText>
       <FemaleText />
@@ -15510,7 +15516,7 @@ Don't. Touch. Nothing."</DefaultText>
     </Entry>
     <Entry>
       <ID>5088</ID>
-      <DefaultText>Beza was a senior member of the Colligia me Definsia Mutio a prestigious Vailian dueling society. The club's standard duel for members of equal standing was single blade against single blade, fought until first blood was drawn. The duelists wore leather armor, padded doublets, and masks - enough to prevent a minor strike from becoming a lethal blow. Beza had a blade constructed that proved extremely effective at biting through such protection. Her fellow duelists came to fear her and her jagged sabre.</DefaultText>
+      <DefaultText>Beza was a senior member of the Colligia me Definsia Mutio, a prestigious Vailian dueling society. The club's standard duel for members of equal standing was single blade against single blade, fought until first blood was drawn. The duelists wore leather armor, padded doublets, and masks - enough to prevent a minor strike from becoming a lethal blow. Beza had a blade constructed that proved extremely effective at biting through such protection. Her fellow duelists came to fear her and her jagged sabre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15960,7 +15966,7 @@ Hazanui Sesquo</DefaultText>
     </Entry>
     <Entry>
       <ID>5173</ID>
-      <DefaultText>"...and let it be known be that all who assume the position of Magistrate of the Court of the Empire of Aedyr shall be given at their start of term the enclosed cudgel bearing the grave visage of our most beloved Ferscönyng (LMHR), and that all in possession of the aforementioned cudgel shall have, by divine authority, leave to enact justice upon the face of the petitioners in their court..."</DefaultText>
+      <DefaultText>"...and let it be known be that all who assume the position of Magistrate of the Court of the Empire of Aedyr shall be given at their start of term the enclosed cudgel bearing the grave visage of our most beloved Fercönyng (LMHR), and that all in possession of the aforementioned cudgel shall have, by divine authority, leave to enact justice upon the face of the petitioners in their court..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15970,14 +15976,14 @@ Hazanui Sesquo</DefaultText>
     </Entry>
     <Entry>
       <ID>5175</ID>
-      <DefaultText>"..and let it be known, finally, that the Magistrate and their staff are strictly forbidden use of the cudgel for unsanctioned acts, and that no exceptions shall be made except at the sole discretion of our most beloved Ferscönyng (LMHR)..."</DefaultText>
+      <DefaultText>"..and let it be known, finally, that the Magistrate and their staff are strictly forbidden use of the cudgel for unsanctioned acts, and that no exceptions shall be made except at the sole discretion of our most beloved Fercönyng (LMHR)..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5176</ID>
       <DefaultText>Excerpt from &lt;i&gt;Charter Regarding The Establishment Of Municipal Domains And The Appointment Of Their Respective Magisters, Under The Right And Natural Guidance Of The Fercönyng, Divinely Appointed Ruler Of The Empire of Aedyr And Beloved Of Woedica, Long May He Reign&lt;/i&gt;, penned by Cwinwytha Cynmaerdu, agent of the Court:
 
-"Let it be known that enclosed with this document bearing the seal of the beloved Ferscönyng (LMHR) is the instrument of which the document speaks. In light of the recent, misguided rebellion of the Dyrwoodan colony, the Imperial Ministry sees fit to coalesce the functions of the colonial court of judges into a single office. Hereto, the officer of the court shall, with the full authority of the Imperial Ministry, assume the rank and privileges of Magistrate of the Court for a term of office to be determined by said Ministry..."</DefaultText>
+"Let it be known that enclosed with this document bearing the seal of the beloved Fercönyng (LMHR) is the instrument of which the document speaks. In light of the recent, misguided rebellion of the Dyrwoodan colony, the Imperial Ministry sees fit to coalesce the functions of the colonial court of judges into a single office. Hereto, the officer of the court shall, with the full authority of the Imperial Ministry, assume the rank and privileges of Magistrate of the Court for a term of office to be determined by said Ministry..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

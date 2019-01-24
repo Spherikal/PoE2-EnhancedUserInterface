@@ -4128,7 +4128,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>This spell conjures a powerful quarterstaff that adds Deflection and pushes enemies away with a Hobbled effect on each successful attack. The summoning of the staff itself also pushes everyone (including allies) away from the caster.</DefaultText>
+      <DefaultText>This spell conjures a powerful quarterstaff that pushes enemies away with a Hobbled effect on each successful attack. The summoning of the staff itself also pushes everyone (including allies) away from the caster.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5735,7 +5735,7 @@ One-Handed: Raw Damage over time</DefaultText>
     </Entry>
     <Entry>
       <ID>2051</ID>
-      <DefaultText>(Ring the Bell) - One-Handed damage over time effect now lasts twice as long.</DefaultText>
+      <DefaultText>(Ring the Bell) - One-Handed damage over time effect now lasts longer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
