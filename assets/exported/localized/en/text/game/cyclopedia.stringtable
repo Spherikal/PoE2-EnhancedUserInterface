@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>905</EntryCount>
+  <EntryCount>906</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -494,7 +494,7 @@ When an attack is made, the Accuracy is compared to a corresponding defense (Def
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>A Crit is any attack roll that is 100 or above. A Crit that does damage increases the total damage done by 25% and the Penetration of the attack by 50%. A Crit on effects with a duration (typically afflictions like Sickened or Paralyzed) will increase the duration by 25%.</DefaultText>
+      <DefaultText>A Crit is any attack roll that is [Crit Min Roll] or above. A Crit that does damage increases the total damage done by 25% and the Penetration of the attack by 50%. A Crit on effects with a duration (typically afflictions like Sickened or Paralyzed) will increase the duration by 25%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,7 +504,7 @@ When an attack is made, the Accuracy is compared to a corresponding defense (Def
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>A Graze is any attack roll that is between 25 and 50. A Graze reduces damage and duration by 50%.</DefaultText>
+      <DefaultText>A Graze is any attack roll that is between [Graze Min Roll] and [Graze Max Roll]. A Graze reduces damage and duration by 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,7 +514,7 @@ When an attack is made, the Accuracy is compared to a corresponding defense (Def
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>A Hit is any attack roll that is between 50 and 99. When an attack scores a Hit, it does standard damage and has a standard duration.</DefaultText>
+      <DefaultText>A Hit is any attack roll that is between [Hit Min Roll] and [Hit Max Roll]. When an attack scores a Hit, it does standard damage and has a standard duration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@ E.g. wood elves have Resistance to Dexterity Afflictions. A wood elf hit by an I
       <ID>154</ID>
       <DefaultText>All attacks in Pillars of Eternity compare the attacker's Accuracy value to one of four defenses: Deflection (direct melee and ranged attacks), Fortitude (body system attacks like poison and disease), Reflex (area of effect damage attacks), and Will (mental attacks). 
 
-A number between 1 and 100 is generated and added to the difference between Accuracy and defense to determine the attack results. Less than 25 = Miss, 25-49 = Graze, 50-99 = Hit, greater than 99 = Crit. 
+A number between 1 and 100 is generated and added to the difference between Accuracy and defense to determine the attack results. Less than [Graze Min Roll] = Miss, [Graze Min Roll]-[Graze Max Roll] = Graze, [Hit Min Roll]-[Hit Max Roll] = Hit, greater than [Hit Max Roll] = Crit. 
 
 In a balanced Attack and defense scenario, the majority of attacks wind up being Hits or Misses. When Accuracy is superior to defense, more Crits are likely. When defense is superior to Accuracy, more Misses are likely.
 
@@ -4877,6 +4877,11 @@ A lagufaeth redfin is a dominant, mature lagufaeth. They may be male or female. 
     <Entry>
       <ID>1112</ID>
       <DefaultText>Mind Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>A Graze is any attack roll that is between 1 and 50. A Graze reduces damage and duration by 50%.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

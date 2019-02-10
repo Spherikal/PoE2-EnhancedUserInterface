@@ -2,43 +2,154 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>54</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>5251</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
-Sneak Attack becomes more deadly and Initiative decreases when the street fighter is Flanked or &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Sneak Attack becomes more deadly and Initiative decreases when the street fighter is Flanked or Bloodied.
 
-Weapon Crit damage increases when the street fighter is both Flanked and &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+Weapon Crit damage increases when the street fighter is both Flanked and Bloodied.
 
 &lt;b&gt;Penalty&lt;/b&gt;
-Initiative is penalized when the street fighter is neither Flanked nor &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.&lt;/line-height&gt;</DefaultText>
+Initiative is penalized when the street fighter is neither Flanked nor Bloodied.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5252</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Bonus Hit to Crit conversion when attacking targets greater than 4m away.
 
-Bonus &lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;#57baff&gt;Penetration&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/color&gt;&lt;/link&gt; when attacking targets 4m or closer.
+Bonus Penetration when attacking targets 4m or closer.
 
 &lt;b&gt;Penalty&lt;/b&gt;
 Penalized Initiative.
 
-Lower &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;Deflection&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+Lower Deflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5253</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Conjuration Spells.
+
+Gain "Conjure Familiar" spell: Summons a helpful creature to aid the wizard. Familiars are poor at combat, but provide passive bonuses to their master.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Evocation and Illusion schools.
+Increased Initiative for Wizard Spells not of the Conjuration School.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5254</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gain increased Power Level with Enchanting Spells.
 
-Gain "Free Action" passive: Once per encounter, when the wizard is affected by a &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity&#160;Affliction&#160;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, they will clear that effect and become temporarily immune to &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Dexterity&#160;Afflictions&#160;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.
+Gain "Free Action" passive: Once per encounter, when the wizard is affected by a Dexterity Affliction, they will clear that effect and become temporarily immune to Dexterity Afflictions.
 
 &lt;b&gt;Penalty&lt;/b&gt;
 Lose access to spells from Illusion and Transmutation schools.
 
-Increased Initiative for Wizard Spells not of the Enchanting School.&lt;/line-height&gt;</DefaultText>
+Increased Initiative for Wizard Spells not of the Enchanting School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5255</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Evocation Spells.
+
+Your evocation spells have a small chance to "Doublecast", reapplying their damage and effects to their targets again, instantly.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Transmutation and Conjuration schools.
+
+Increased Initiative for Wizard Spells not of the Evocation School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5256</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Illusion Spells.
+
+Gain "Reflexive Mirror" passive: Once per encounter, when first attacked, automatically gain the effects of the spell "Mirrored Image".
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Conjuration and Enchanting schools.
+
+Increased Initiative for Wizard Spells not of the Illusion School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5257</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Transmutation Spells.
+
+Gain "Form of the Fearsome Brute" spell: Transforms the wizard into an Ogre. While in this form, spells are disabled, but physical attributes are increased.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Enchanting and Evocation schools.
+
+Increased Initiative for Wizard Spells not of the Transmutation School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5267</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Duration of hostile effects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5268</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Duration of Beneficial Effects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5269</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} {0:AfflictionType} affliction duration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5280</ID>
+      <DefaultText>In turn-based mode, party turns pass automatically after {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5304</ID>
+      <DefaultText>Delay Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Not Your Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Center on Enemy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Center the camera on party members when their turn starts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5309</ID>
+      <DefaultText>Center the camera on enemies when their turn starts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5310</ID>
+      <DefaultText>Center on Friendly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5311</ID>
+      <DefaultText>Center the camera on friendly characters when their turn starts.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
