@@ -208,7 +208,7 @@ By default, only some attacks are capable of Grazing, unless an ability or effec
 
 Armor Rating value is usually derived from armor, but many creatures have natural AR or can raise it through the use of magic, Abilities, Talents, or other equipment.
 
-Armor Rating is compared against the  of oncoming attacks to determine the attack's overall effectiveness. &lt;margin=2em&gt;&lt;b&gt;Full Penetration&lt;/b&gt; (130% Damage) occurs when Penetration is twice the target's Armor Rating or more.
+Armor Rating is compared against the of oncoming attacks to determine the attack's overall effectiveness. &lt;margin=2em&gt;&lt;b&gt;Full Penetration&lt;/b&gt; (130% Damage) occurs when Penetration is twice the target's Armor Rating or more.
 &lt;b&gt;Partial Penetration&lt;/b&gt; (100% Damage) occurs when Penetration meets or exceeds the target's Armor Rating.
 &lt;b&gt;Under Penetration&lt;/b&gt; (-25% Damage per point under the target's Armor, Max -75%) occurs when Penetration is less than the target's Armor Rating.
 
@@ -279,7 +279,7 @@ A Distracted character has -5 Perception and is considered Flanked.&lt;/line-hei
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>&lt;line-height=100%&gt;When a damaging attack hits a target, the attack's &lt;b&gt;Penetration&lt;/b&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt; is compared to the target's  to determine how much Damage gets through.
+      <DefaultText>&lt;line-height=100%&gt;When a damaging attack hits a target, the attack's &lt;b&gt;Penetration&lt;/b&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt; is compared to the target's to determine how much Damage gets through.
 
 Penetration comes from the weapon or spell that is being used, but can be raised through the use of magic, Abilities, Talents, or weapon enchantments. Penetration is compared to the Armor Rating&lt;sprite="Inline" name="cs_ar" tint=1&gt; of the attack's Damage type. E.g. A Fireball will always check Penetration against Burn Armor Rating.
 
@@ -311,7 +311,7 @@ A Shaken character suffers -5 Resolve and -3 Power Level.&lt;/line-height&gt;</D
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>A conscious character that is  is considered Near Death.</DefaultText>
+      <DefaultText>A conscious character that is is considered Near Death.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
