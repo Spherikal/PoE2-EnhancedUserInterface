@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>556</EntryCount>
+  <EntryCount>557</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Casts Woodskin when the wielder first becomes &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;/color&gt;&lt;/link&gt;</DefaultText>
+      <DefaultText>Casts Woodskin when the wielder first becomes &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
