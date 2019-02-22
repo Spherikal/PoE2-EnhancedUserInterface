@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4559</EntryCount>
+  <EntryCount>4560</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -19903,7 +19903,7 @@ Would you like to enable telemetry at this time?</DefaultText>
     </Entry>
     <Entry>
       <ID>4302</ID>
-      <DefaultText>{0:Value} max Power Pool</DefaultText>
+      <DefaultText>{0:Value} Max Power Pool</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23335,6 +23335,11 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5312</ID>
       <DefaultText>{0}% Action Speed, {2}% Stride, and {1} Reflex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5313</ID>
+      <DefaultText>Place how many {0}?</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

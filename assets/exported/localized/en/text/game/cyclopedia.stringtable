@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>906</EntryCount>
+  <EntryCount>907</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4882,6 +4882,11 @@ A lagufaeth redfin is a dominant, mature lagufaeth. They may be male or female. 
     <Entry>
       <ID>1116</ID>
       <DefaultText>A Graze is any attack roll that is between 1 and 50. A Graze reduces damage and duration by 50%.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Ship defenders will help fend off opponents that attempt to engage in deck to deck combat.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

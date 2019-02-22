@@ -1,5 +1,13 @@
 ## CHANGELOG
 
+### Version 1.6.2
+- Updated the mod for game version 4.1.2.
+- Minor changes to the code.
+
+### Version 1.6.1
+- Updated the mod for game version 4.1.1.
+- Edited a cyclopedia entry to reflect the changes to the Graze mechanic that was implemented in game version 4.1.1 (cyclopedia.stringtables).
+
 ### Version 1.6.0
 - Updated the mod for the new "Turn Based" game mode.
 - Fixed the manifest file that might have caused some errors.
