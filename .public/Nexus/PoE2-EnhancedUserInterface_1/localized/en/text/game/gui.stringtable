@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4558</EntryCount>
+  <EntryCount>4560</EntryCount>
   <Entries>
     <Entry>
       <ID>126</ID>
@@ -878,6 +878,11 @@ Gain "Free Action" passive: Once per encounter, when the wizard is affected by a
 Lose access to spells from Illusion and Transmutation schools.
 
 Increased Initiative for Wizard Spells not of the Enchanting School.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5312</ID>
+      <DefaultText>&lt;line-height=100%&gt;{0}% Action Speed, {2}% Stride, and {1} &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflex&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

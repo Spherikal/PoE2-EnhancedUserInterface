@@ -2,6 +2,7 @@
 
 ### Version 1.6.2
 - Updated the mod for game version 4.1.2.
+- Fixed a few spelling errors in a couple ability descriptions.
 - Minor changes to the code.
 
 ### Version 1.6.1
