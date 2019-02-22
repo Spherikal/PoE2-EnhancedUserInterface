@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Weapon Accuracy, Damage, and Penetration increase with wielder's level</DefaultText>
+      <DefaultText>Weapon Accuracy, damage, and Penetration increase with wielder's level</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Scoring a Hit on a Near Death target also damages nearby enemies</DefaultText>
+      <DefaultText>Scoring a Hit on a Near Death target also damages nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>{0:value:straight} Raw Damage per {0:triggervalue:duration} for {0:extravalue:duration} on scoring Critical Hit</DefaultText>
+      <DefaultText>{0:value:straight} Raw damage per {0:triggervalue:duration} for {0:extravalue:duration} on scoring Critical Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Incoming weapon Damage is reduced as Health is lost. (Max {0:value:percentbonus} Damage reduction)</DefaultText>
+      <DefaultText>Incoming weapon damage is reduced as Health is lost. (Max {0:value:percentbonus} damage reduction)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,12 +206,12 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Wielder receives {0:value:percent} Damage dealt back as Raw damage</DefaultText>
+      <DefaultText>Wielder receives {0:value:percent} damage dealt back as Raw damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Wielder receives {0:value:percent} Damage dealt back as Corrode damage</DefaultText>
+      <DefaultText>Wielder receives {0:value:percent} damage dealt back as Corrode damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>{0:extravalue:percentbonus} Damage taken (improves as wearer loses Health)</DefaultText>
+      <DefaultText>{0:extravalue:percentbonus} damage taken (improves as wearer loses Health)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>While above {0:triggervalue:percent} Health, {0:extravalue:percent} chance incoming Ranged weapon attacks inflict {0:value:percent} Damage</DefaultText>
+      <DefaultText>While above {0:triggervalue:percent} Health, {0:extravalue:percent} chance incoming Ranged weapon attacks inflict {0:value:percent} damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>All Damage from Acid or Poison attacks has a {0:extravalue:percent} chance to be converted into {0:value:percent} Health for the wearer</DefaultText>
+      <DefaultText>All damage from Acid or Poison attacks has a {0:extravalue:percent} chance to be converted into {0:value:percent} Health for the wearer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,17 +281,17 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} Damage from Fire keyword attacks to Health</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} damage from Fire keyword attacks to Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Only take {0:value:percent} Damage when Flanked or suffering from Body Afflictions (Might, Constitution, Dexterity)</DefaultText>
+      <DefaultText>Only take {0:value:percent} damage when Flanked or suffering from Body Afflictions (Might, Constitution, Dexterity)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} Damage from Water keyword attacks to Health</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} damage from Water keyword attacks to Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Grants Ability upon becoming Near Death.</DefaultText>
+      <DefaultText>Grants Ability upon becoming Near Death.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>{0:value:percent} of {0:damagetype} Damage as Raw damage over time</DefaultText>
+      <DefaultText>{0:value:percent} of {0:damagetype} damage as Raw damage over time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,12 +346,12 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>{0:value} Accuracy and {0:extravalue:percentbonus} Damage to Flanked targets</DefaultText>
+      <DefaultText>{0:value} Accuracy and {0:extravalue:percentbonus} damage to Flanked targets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Ability granted when the wearer is Near Death</DefaultText>
+      <DefaultText>Ability granted when the wearer is Near Death</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Ability triggers when wearer is Near Death</DefaultText>
+      <DefaultText>Ability triggers when wearer is Near Death</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +376,12 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>When Bloodied or Near Death, wearer is immune to Corrode damage</DefaultText>
+      <DefaultText>When Bloodied or Near Death, wearer is immune to Corrode damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Wielder takes {0:value:percent} Damage dealt as Raw damage to self</DefaultText>
+      <DefaultText>Wielder takes {0:value:percent} damage dealt as Raw damage to self</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>{0:value:percentbonus} Damage from weapons. Bonus increases as wielder loses Health.</DefaultText>
+      <DefaultText>{0:value:percentbonus} damage from weapons. Bonus increases as wielder loses Health.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>{0:triggervalue} Accuracy and {0:extravalue:percentbonus} weapon Damage when below 50% Health</DefaultText>
+      <DefaultText>{0:triggervalue} Accuracy and {0:extravalue:percentbonus} weapon damage when below 50% Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor grant {0:value:percent} Damage as Burn and {0:extravalue:percent} Action Speed (Stacks {0:triggervalue:straight} times)</DefaultText>
+      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor grant {0:value:percent} damage as Burn and {0:extravalue:percent} Action Speed (Stacks {0:triggervalue:straight} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,12 +611,12 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>{0:triggercount} Raw bleed Damage per {0:value:duration} for {0:extravalue:duration} to target on scoring Crit</DefaultText>
+      <DefaultText>{0:triggercount} Raw bleed damage per {0:value:duration} for {0:extravalue:duration} to target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0:triggercount} Corrode damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill Near Death target on tick)</DefaultText>
+      <DefaultText>{0:triggercount} Corrode damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill Near Death target on tick)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +626,7 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>{0:extravalue:percent} Damage as Shock for each held Chanter Phrase</DefaultText>
+      <DefaultText>{0:extravalue:percent} damage as Shock for each held Chanter Phrase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,7 +691,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Hits with this weapon cause {0:value:percent} Damage as Raw damage over time</DefaultText>
+      <DefaultText>Hits with this weapon cause {0:value:percent} damage as Raw damage over time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,7 +736,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Raw bleed Damage over time for {0:extravalue:duration} on target on scoring Crit</DefaultText>
+      <DefaultText>Raw bleed damage over time for {0:extravalue:duration} on target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>+10% Melee Damage and +5 Deflection when Engaged. Stacks 3 times</DefaultText>
+      <DefaultText>+10% Melee damage and +5 Deflection when Engaged. Stacks 3 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,7 +786,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>For {0:value:duration} after launching attack, return {0:extravalue:percent} incoming Melee Damage to attacker as Raw damage</DefaultText>
+      <DefaultText>For {0:value:duration} after launching attack, return {0:extravalue:percent} incoming Melee damage to attacker as Raw damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Melee Weapon Damage increases as wearer loses Health (Max {0:extravalue:percent} Damage)</DefaultText>
+      <DefaultText>Melee Weapon damage increases as wearer loses Health (Max {0:extravalue:percent} damage)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Ranged gains {0:value} Penetration and {0:extravalue:percentbonus} Bonus Damage</DefaultText>
+      <DefaultText>Ranged gains {0:value} Penetration and {0:extravalue:percentbonus} Bonus damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,7 +886,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>{0:value:percent} of Damage Dealt is Applied to Self as Raw damage</DefaultText>
+      <DefaultText>{0:value:percent} of damage Dealt is Applied to Self as Raw damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10% Damage added as Corrode until combat ends on scoring Crit. Stacks 10 times</DefaultText>
+      <DefaultText>+10% damage added as Corrode until combat ends on scoring Crit. Stacks 10 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>+{0:value:percent} Damage dealt as Burn when above {0:extravalue:percent} Health and +{0:value:percent} Damage dealt as Freeze when below {0:extravalue:percent} Health</DefaultText>
+      <DefaultText>+{0:value:percent} damage dealt as Burn when above {0:extravalue:percent} Health and +{0:value:percent} damage dealt as Freeze when below {0:extravalue:percent} Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,7 +1241,7 @@
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Ability activates when Near Death</DefaultText>
+      <DefaultText>Ability activates when Near Death</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>{0:extravalue:percentbonus} Damage done with weapons (increases as wearer loses Health)</DefaultText>
+      <DefaultText>{0:extravalue:percentbonus} damage done with weapons (increases as wearer loses Health)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,12 +1396,12 @@
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>{0:value:percent} of Damage dealt with this weapon restores Health to the wielder</DefaultText>
+      <DefaultText>{0:value:percent} of damage dealt with this weapon restores Health to the wielder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Scoring a Critical Hit causes the target to take {0:value:straight} Raw damage per {0:interval} for {0:extravalue:duration} (Duration increases when the target deals Damage)</DefaultText>
+      <DefaultText>Scoring a Critical Hit causes the target to take {0:value:straight} Raw damage per {0:interval} for {0:extravalue:duration} (Duration increases when the target deals damage)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1436,7 +1436,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>{0:value:percent} chance on scoring a Critical Hit to launch an interrupting and Immobilizing attack, dealing Crush AOE Damage to the target and nearby enemies</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring a Critical Hit to launch an interrupting and Immobilizing attack, dealing Crush AOE damage to the target and nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1556,7 +1556,7 @@
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>{0:value:percent} chance when Crit by a Melee weapon to deal {0:extravalue:straight} Raw bleed Damage per {0:interval} for {0:triggervalue:duration} to the attacker</DefaultText>
+      <DefaultText>{0:value:percent} chance when Crit by a Melee weapon to deal {0:extravalue:straight} Raw bleed damage per {0:interval} for {0:triggervalue:duration} to the attacker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1576,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Deals Raw damage per {0:interval} for {0:extravalue:duration} on scoring Crit (Damage scales with Cipher's current Focus)</DefaultText>
+      <DefaultText>Deals Raw damage per {0:interval} for {0:extravalue:duration} on scoring Crit (damage scales with Cipher's current Focus)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1611,7 +1611,7 @@
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Windsong's weapon proficiency modal has a {0:extravalue:percent} chance to apply Distracted to Near Death enemies for {0:value:duration} on scoring Hit</DefaultText>
+      <DefaultText>Windsong's weapon proficiency modal has a {0:extravalue:percent} chance to apply Distracted to Near Death enemies for {0:value:duration} on scoring Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,7 +1626,7 @@
     </Entry>
     <Entry>
       <ID>676</ID>
-      <DefaultText>{0:value} Accuracy and {0:triggervalue:percent} Damage against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
+      <DefaultText>{0:value} Accuracy and {0:triggervalue:percent} damage against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1661,12 +1661,12 @@
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>Variable Raw Damage to self to restore a proportional level wizard spell resource</DefaultText>
+      <DefaultText>Variable Raw damage to self to restore a proportional level wizard spell resource</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>{0:value:percent} Chance to cast Withdraw or Recall Agony on owner when attacked while Near Death</DefaultText>
+      <DefaultText>{0:value:percent} Chance to cast Withdraw or Recall Agony on owner when attacked while Near Death</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to deal Raw Damage to nearby enemies after a short delay</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Raw damage to nearby enemies after a short delay</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to leave a seal that deals Raw Damage to enemies</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to leave a seal that deals Raw damage to enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1721,7 +1721,7 @@
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Fires 3 projectiles but has decreased Damage and Penetration</DefaultText>
+      <DefaultText>Fires 3 projectiles but has decreased damage and Penetration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>{0:value:percent} chance to deal minor Crush Damage and Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
+      <DefaultText>{0:value:percent} chance to deal minor Crush damage and Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
