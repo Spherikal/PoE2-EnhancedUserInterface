@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>{0:value:percent} Chance to launch a Freeze damage cone attack on Crit</DefaultText>
+      <DefaultText>{0:value:percent} Chance to launch a Freeze Damage cone attack on Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Deals Raw damage and attacks more quickly than a standard blade</DefaultText>
+      <DefaultText>Deals Raw Damage and attacks more quickly than a standard blade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Weapon Accuracy, damage, and Penetration increase with wielder's level</DefaultText>
+      <DefaultText>Weapon Accuracy, Damage, and Penetration increase with wielder's level</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>{0:value:percent} chance for wielder to suffer {0:extravalue:straight} Burn damage on launching attack</DefaultText>
+      <DefaultText>{0:value:percent} chance for wielder to suffer {0:extravalue:straight} Burn Damage on launching attack</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Scoring a Hit on a Near Death target also damages nearby enemies</DefaultText>
+      <DefaultText>Scoring a Hit on a Near Death target also Damages nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,17 +106,17 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{0:value:percentbonus} Freeze damage for {0:extravalue:duration} on Hit (stacks {0:triggercount} times)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Freeze Damage for {0:extravalue:duration} on Hit (stacks {0:triggercount} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Basic attacks deal best of Pierce or Slash damage in a small AoE</DefaultText>
+      <DefaultText>Basic attacks deal best of Pierce or Slash Damage in a small AoE</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>{0:value:percentbonus} Corrode damage for {0:extravalue:duration} on Hit (stacks {0:triggercount} times)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Corrode Damage for {0:extravalue:duration} on Hit (stacks {0:triggercount} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,17 +136,17 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Stealth attacks cause the target to bleed for Raw damage until the end of combat.</DefaultText>
+      <DefaultText>Stealth attacks cause the target to bleed for Raw Damage until the end of combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>{0:value:straight} Raw damage per {0:triggervalue:duration} for {0:extravalue:duration} on scoring Critical Hit</DefaultText>
+      <DefaultText>{0:value:straight} Raw Damage per {0:triggervalue:duration} for {0:extravalue:duration} on scoring Critical Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Incoming weapon damage is reduced as Health is lost. (Max {0:value:percentbonus} damage reduction)</DefaultText>
+      <DefaultText>Incoming weapon Damage is reduced as Health is lost. (Max {0:value:percentbonus} Damage reduction)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>{0:triggercount} Raw damage per {0:value:duration} for {0:extravalue:duration} on scoring Hit on Flanked target</DefaultText>
+      <DefaultText>{0:triggercount} Raw Damage per {0:value:duration} for {0:extravalue:duration} on scoring Hit on Flanked target</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>{0:triggercount} Corrode damage per {0:value:duration} for {0:extravalue:duration} on Hit</DefaultText>
+      <DefaultText>{0:triggercount} Corrode Damage per {0:value:duration} for {0:extravalue:duration} on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,12 +191,12 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Hits twice, but with reduced damage (Sun adds {0:value:percent} Burn damage) (Moon adds {0:value:percent} Freeze damage)</DefaultText>
+      <DefaultText>Hits twice, but with reduced Damage (Sun adds {0:value:percent} Burn Damage) (Moon adds {0:value:percent} Freeze Damage)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Basic attack deals lesser Raw damage</DefaultText>
+      <DefaultText>Basic attack deals lesser Raw Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,22 +206,22 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Wielder receives {0:value:percent} damage dealt back as Raw damage</DefaultText>
+      <DefaultText>Wielder receives {0:value:percent} Damage dealt back as Raw Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Wielder receives {0:value:percent} damage dealt back as Corrode damage</DefaultText>
+      <DefaultText>Wielder receives {0:value:percent} Damage dealt back as Corrode Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>{0:value:percent} chance to deal Pierce damage to self or nearby ally on launching attack</DefaultText>
+      <DefaultText>{0:value:percent} chance to deal Pierce Damage to self or nearby ally on launching attack</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance to inflict Hobbled, Knockdown, Raw damage over time for {0:extravalue:duration}, or -25% Action Speed on target on scoring Crit</DefaultText>
+      <DefaultText>Chance to inflict Hobbled, Knockdown, Raw Damage over time for {0:extravalue:duration}, or -25% Action Speed on target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>{0:extravalue:percentbonus} damage taken (improves as wearer loses Health)</DefaultText>
+      <DefaultText>{0:extravalue:percentbonus} Damage taken (improves as wearer loses Health)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>While above {0:triggervalue:percent} Health, {0:extravalue:percent} chance incoming Ranged weapon attacks inflict {0:value:percent} damage</DefaultText>
+      <DefaultText>While above {0:triggervalue:percent} Health, {0:extravalue:percent} chance incoming Ranged weapon attacks inflict {0:value:percent} Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,12 +256,12 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>{0:value:percent} Chance to launch a Shock damage attack at target on scoring a melee weapon Crit</DefaultText>
+      <DefaultText>{0:value:percent} Chance to launch a Shock Damage attack at target on scoring a melee weapon Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Receiving Shock damage grants the wearer's attacks additional Shock damage for a brief time</DefaultText>
+      <DefaultText>Receiving Shock Damage grants the wearer's attacks additional Shock Damage for a brief time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>All damage from Acid or Poison attacks has a {0:extravalue:percent} chance to be converted into {0:value:percent} Health for the wearer</DefaultText>
+      <DefaultText>All Damage from Acid or Poison attacks has a {0:extravalue:percent} chance to be converted into {0:value:percent} Health for the wearer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,17 +281,17 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} damage from Fire keyword attacks to Health</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} Damage from Fire keyword attacks to Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Only take {0:value:percent} damage when Flanked or suffering from Body Afflictions (Might, Constitution, Dexterity)</DefaultText>
+      <DefaultText>Only take {0:value:percent} Damage when Flanked or suffering from Body Afflictions (Might, Constitution, Dexterity)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} damage from Water keyword attacks to Health</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance to convert {0:value:percent} Damage from Water keyword attacks to Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,32 +306,32 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Shock damage AoE when Knocked Out</DefaultText>
+      <DefaultText>Shock Damage AoE when Knocked Out</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Melee weapon attacks from stealth inflict Raw damage over time on target</DefaultText>
+      <DefaultText>Melee weapon attacks from stealth inflict Raw Damage over time on target</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{0:value:percent} chance to cast interrupting Crush damage AoE when Critically Hit in melee</DefaultText>
+      <DefaultText>{0:value:percent} chance to cast interrupting Crush Damage AoE when Critically Hit in melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Raw damage retaliation Attack when Critically Hit in Melee</DefaultText>
+      <DefaultText>Raw Damage retaliation Attack when Critically Hit in Melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Convert {0:value:percent} Burn damage to Health.</DefaultText>
+      <DefaultText>Convert {0:value:percent} Burn Damage to Health.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>{0:value:percent} of {0:damagetype} damage as Raw damage over time</DefaultText>
+      <DefaultText>{0:value:percent} of {0:Damagetype} Damage as Raw Damage over time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>{0:value} Accuracy and {0:extravalue:percentbonus} damage to Flanked targets</DefaultText>
+      <DefaultText>{0:value} Accuracy and {0:extravalue:percentbonus} Damage to Flanked targets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +376,12 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>When Bloodied or Near Death, wearer is immune to Corrode damage</DefaultText>
+      <DefaultText>When Bloodied or Near Death, wearer is immune to Corrode Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Wielder takes {0:value:percent} damage dealt as Raw damage to self</DefaultText>
+      <DefaultText>Wielder takes {0:value:percent} Damage dealt as Raw Damage to self</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>{0:value:percentbonus} damage from weapons. Bonus increases as wielder loses Health.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Damage from weapons. Bonus increases as wielder loses Health.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Deals {0:value} Shock damage to target on Critical Hit</DefaultText>
+      <DefaultText>Deals {0:value} Shock Damage to target on Critical Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,12 +431,12 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Deals best of Crush or Slash damage</DefaultText>
+      <DefaultText>Deals best of Crush or Slash Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>{0:value:percent} chance to cast Crush damage water wave at target on Hit</DefaultText>
+      <DefaultText>{0:value:percent} chance to cast Crush Damage water wave at target on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>{0:triggervalue} Accuracy and {0:extravalue:percentbonus} weapon damage when below 50% Health</DefaultText>
+      <DefaultText>{0:triggervalue} Accuracy and {0:extravalue:percentbonus} weapon Damage when below 50% Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Launches Raw damage AoE on scoring {0:value:straight} consecutive Hits on target</DefaultText>
+      <DefaultText>Launches Raw Damage AoE on scoring {0:value:straight} consecutive Hits on target</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Casts Ghost Blades on Kill and returns Health based on damage dealt</DefaultText>
+      <DefaultText>Casts Ghost Blades on Kill and returns Health based on Damage dealt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Freeze/Slash damage AoE at target location on scoring Crit</DefaultText>
+      <DefaultText>Freeze/Slash Damage AoE at target location on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,12 +551,12 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Gain +3% Freeze damage on Hit. Effect stacks 20 times</DefaultText>
+      <DefaultText>Gain +3% Freeze Damage on Hit. Effect stacks 20 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Gain +3% Corrode damage on Hit. Effect stacks 20 times</DefaultText>
+      <DefaultText>Gain +3% Corrode Damage on Hit. Effect stacks 20 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,22 +576,22 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor deal Burn damage to nearby enemies</DefaultText>
+      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor deal Burn Damage to nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>{0:triggercount} Burn damage per {0:extravalue:duration} for {0:value:duration} to target on scoring Crit</DefaultText>
+      <DefaultText>{0:triggercount} Burn Damage per {0:extravalue:duration} for {0:value:duration} to target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>{0:value:percent} of Burn damage dealt by &lt;xg&gt;Magran's&lt;/xg&gt; Favor Heals the wielder</DefaultText>
+      <DefaultText>{0:value:percent} of Burn Damage dealt by &lt;xg&gt;Magran's&lt;/xg&gt; Favor Heals the wielder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor grant {0:value:percent} damage as Burn and {0:extravalue:percent} Action Speed (Stacks {0:triggervalue:straight} times)</DefaultText>
+      <DefaultText>Kills with &lt;xg&gt;Magran's&lt;/xg&gt; Favor grant {0:value:percent} Damage as Burn and {0:extravalue:percent} Action Speed (Stacks {0:triggervalue:straight} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,27 +606,27 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Moderate Raw damage over time to Flanked target on Hit</DefaultText>
+      <DefaultText>Moderate Raw Damage over time to Flanked target on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>{0:triggercount} Raw bleed damage per {0:value:duration} for {0:extravalue:duration} to target on scoring Crit</DefaultText>
+      <DefaultText>{0:triggercount} Raw bleed Damage per {0:value:duration} for {0:extravalue:duration} to target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0:triggercount} Corrode damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill Near Death target on tick)</DefaultText>
+      <DefaultText>{0:triggercount} Corrode Damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill Near Death target on tick)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>{0:triggercount} Corrode damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to Paralyze target on tick)</DefaultText>
+      <DefaultText>{0:triggercount} Corrode Damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to Paralyze target on tick)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>{0:extravalue:percent} damage as Shock for each held Chanter Phrase</DefaultText>
+      <DefaultText>{0:extravalue:percent} Damage as Shock for each held Chanter Phrase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Reflect 20% Burn damage from Fire attacks to attacker</DefaultText>
+      <DefaultText>Reflect 20% Burn Damage from Fire attacks to attacker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,7 +691,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Hits with this weapon cause {0:value:percent} damage as Raw damage over time</DefaultText>
+      <DefaultText>Hits with this weapon cause {0:value:percent} Damage as Raw Damage over time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,17 +706,17 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>{0:value:percent} Burn damage from weapon returns Health</DefaultText>
+      <DefaultText>{0:value:percent} Burn Damage from weapon returns Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Freeze damage from weapon reduces target Max Health by {0:extravalue:percent} of damage dealt</DefaultText>
+      <DefaultText>Freeze Damage from weapon reduces target Max Health by {0:extravalue:percent} of Damage dealt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Modifies Imbued Ammunition with {0:value:percent} on scoring Hit to add Burn damage over time</DefaultText>
+      <DefaultText>Modifies Imbued Ammunition with {0:value:percent} on scoring Hit to add Burn Damage over time</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,12 +731,12 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>If target has Resolve Affliction , {0:triggercount} Raw damage per {0:extravalue:duration} for {0:value:duration} on scoring Crit</DefaultText>
+      <DefaultText>If target has Resolve Affliction , {0:triggercount} Raw Damage per {0:extravalue:duration} for {0:value:duration} on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Raw bleed damage over time for {0:extravalue:duration} on target on scoring Crit</DefaultText>
+      <DefaultText>Raw bleed Damage over time for {0:extravalue:duration} on target on scoring Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,27 +771,27 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>{0:value:percent} chance to cast Crush damage Water AoE on target on scoring Hit</DefaultText>
+      <DefaultText>{0:value:percent} chance to cast Crush Damage Water AoE on target on scoring Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>+10% Melee damage and +5 Deflection when Engaged. Stacks 3 times</DefaultText>
+      <DefaultText>+10% Melee Damage and +5 Deflection when Engaged. Stacks 3 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Raw damage over time for 18.0 sec on target below 25% Health on Hit</DefaultText>
+      <DefaultText>Raw Damage over time for 18.0 sec on target below 25% Health on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>For {0:value:duration} after launching attack, return {0:extravalue:percent} incoming Melee damage to attacker as Raw damage</DefaultText>
+      <DefaultText>For {0:value:duration} after launching attack, return {0:extravalue:percent} incoming Melee Damage to attacker as Raw Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>{0:value:percent} chance to Slash attack enemy when Hit with Slash damage in melee</DefaultText>
+      <DefaultText>{0:value:percent} chance to Slash attack enemy when Hit with Slash Damage in melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,7 +801,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Hostile-only Raw damage AoE on Unconscious</DefaultText>
+      <DefaultText>Hostile-only Raw Damage AoE on Unconscious</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Melee Weapon damage increases as wearer loses Health (Max {0:extravalue:percent} damage)</DefaultText>
+      <DefaultText>Melee Weapon Damage increases as wearer loses Health (Max {0:extravalue:percent} Damage)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Ranged gains {0:value} Penetration and {0:extravalue:percentbonus} Bonus damage</DefaultText>
+      <DefaultText>Ranged gains {0:value} Penetration and {0:extravalue:percentbonus} Bonus Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,7 +886,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>{0:value:percent} of damage Dealt is Applied to Self as Raw damage</DefaultText>
+      <DefaultText>{0:value:percent} of Damage Dealt is Applied to Self as Raw Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,12 +896,12 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Health to wielder and Raw damage to target on receiving Hit</DefaultText>
+      <DefaultText>Health to wielder and Raw Damage to target on receiving Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10% damage added as Corrode until combat ends on scoring Crit. Stacks 10 times</DefaultText>
+      <DefaultText>+10% Damage added as Corrode until combat ends on scoring Crit. Stacks 10 times</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,12 +936,12 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>{0:value:percent} chance when Hit by a Melee weapon to deal Pierce damage to the attacker</DefaultText>
+      <DefaultText>{0:value:percent} chance when Hit by a Melee weapon to deal Pierce Damage to the attacker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>{0:value:straight} Burn damage to everyone around the target on scoring Hit (Scales with {0:skill} skill)</DefaultText>
+      <DefaultText>{0:value:straight} Burn Damage to everyone around the target on scoring Hit (Scales with {0:skill} skill)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,12 +991,12 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>{0:value:percent} of received damage is reapplied as Raw damage</DefaultText>
+      <DefaultText>{0:value:percent} of received Damage is reapplied as Raw Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Deals Pierce/Slash damage</DefaultText>
+      <DefaultText>Deals Pierce/Slash Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>{0:value:percent} chance to cast Burn damage AoE on Hit with Marux Amanth.</DefaultText>
+      <DefaultText>{0:value:percent} chance to cast Burn Damage AoE on Hit with Marux Amanth.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,7 +1106,7 @@
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>{0:value:percent} chance to cast Corrode damage cone AoE from self and Hobble target on attack</DefaultText>
+      <DefaultText>{0:value:percent} chance to cast Corrode Damage cone AoE from self and Hobble target on attack</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,7 +1116,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>On Hit, applies a stacking effect to an enemy. On Crit, all enemies in an AoE will lose all stacks and take {0:extravalue} Shock damage for every stack.</DefaultText>
+      <DefaultText>On Hit, applies a stacking effect to an enemy. On Crit, all enemies in an AoE will lose all stacks and take {0:extravalue} Shock Damage for every stack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>+{0:value:percent} damage dealt as Burn when above {0:extravalue:percent} Health and +{0:value:percent} damage dealt as Freeze when below {0:extravalue:percent} Health</DefaultText>
+      <DefaultText>+{0:value:percent} Damage dealt as Burn when above {0:extravalue:percent} Health and +{0:value:percent} Damage dealt as Freeze when below {0:extravalue:percent} Health</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,12 +1156,12 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>On Hit or Crit, the wearer's next successful attack does additional Freeze damage</DefaultText>
+      <DefaultText>On Hit or Crit, the wearer's next successful attack does additional Freeze Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>The wearer's next successful attack does additional Freeze damage</DefaultText>
+      <DefaultText>The wearer's next successful attack does additional Freeze Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1206,17 +1206,17 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>{0:extravalue:percent} chance to resist Slash damage attacks</DefaultText>
+      <DefaultText>{0:extravalue:percent} chance to resist Slash Damage attacks</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>{0:extravalue:percent} chance to resist Crush damage attacks</DefaultText>
+      <DefaultText>{0:extravalue:percent} chance to resist Crush Damage attacks</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>{0:extravalue:percent} chance to resist Pierce damage attacks</DefaultText>
+      <DefaultText>{0:extravalue:percent} chance to resist Pierce Damage attacks</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Deals Shock damage and causes Stunned for {0:extravalue:duration} to everyone near the wearer on Unconscious</DefaultText>
+      <DefaultText>Deals Shock Damage and causes Stunned for {0:extravalue:duration} to everyone near the wearer on Unconscious</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,12 +1326,12 @@
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>Corrode damage retaliation when Hit in Melee</DefaultText>
+      <DefaultText>Corrode Damage retaliation when Hit in Melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>{0:extravalue:percentbonus} damage done with weapons (increases as wearer loses Health)</DefaultText>
+      <DefaultText>{0:extravalue:percentbonus} Damage done with weapons (increases as wearer loses Health)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,17 +1341,17 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>20% chance to deal additional Burn damage on Hit</DefaultText>
+      <DefaultText>20% chance to deal additional Burn Damage on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>20% chance to deal additional Burn damage in AoE on Hit</DefaultText>
+      <DefaultText>20% chance to deal additional Burn Damage in AoE on Hit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>{0:value} Penetration after taking Freeze damage (Stacks {0:extravalue:straight} times)</DefaultText>
+      <DefaultText>{0:value} Penetration after taking Freeze Damage (Stacks {0:extravalue:straight} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1366,12 +1366,12 @@
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze/Pierce damage to enemies around the target</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze/Pierce Damage to enemies around the target</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Large Shield Weapon Proficiency now grants a {0:value:percent} chance to deal Freeze damage when Missed by a Melee Weapon</DefaultText>
+      <DefaultText>Large Shield Weapon Proficiency now grants a {0:value:percent} chance to deal Freeze Damage when Missed by a Melee Weapon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,17 +1396,17 @@
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>{0:value:percent} of damage dealt with this weapon restores Health to the wielder</DefaultText>
+      <DefaultText>{0:value:percent} of Damage dealt with this weapon restores Health to the wielder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Scoring a Critical Hit causes the target to take {0:value:straight} Raw damage per {0:interval} for {0:extravalue:duration} (Duration increases when the target deals damage)</DefaultText>
+      <DefaultText>Scoring a Critical Hit causes the target to take {0:value:straight} Raw Damage per {0:interval} for {0:extravalue:duration} (Duration increases when the target deals Damage)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Enemies killed while under the effects of Scales of Justice deal {0:value:straight} Raw damage to nearby enemies</DefaultText>
+      <DefaultText>Enemies killed while under the effects of Scales of Justice deal {0:value:straight} Raw Damage to nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} chance to deal {0:extravalue:straight} Corrode damage  per {0:interval} for {0:triggervalue:duration} when Hit with Weapons</DefaultText>
+      <DefaultText>{0:value:percent} chance to deal {0:extravalue:straight} Corrode Damage  per {0:interval} for {0:triggervalue:duration} when Hit with Weapons</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,12 +1431,12 @@
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>{0:value:percent} chance to launch an interrupting Crush damage AoE on scoring a Crit</DefaultText>
+      <DefaultText>{0:value:percent} chance to launch an interrupting Crush Damage AoE on scoring a Crit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>{0:value:percent} chance on scoring a Critical Hit to launch an interrupting and Immobilizing attack, dealing Crush AOE damage to the target and nearby enemies</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring a Critical Hit to launch an interrupting and Immobilizing attack, dealing Crush AOE Damage to the target and nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1446,7 +1446,7 @@
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>When the wearer is knocked Unconscious, they deal significant Burn damage to nearby enemies</DefaultText>
+      <DefaultText>When the wearer is knocked Unconscious, they deal significant Burn Damage to nearby enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,7 +1501,7 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze damage to enemies in a line</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Freeze Damage to enemies in a line</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1516,7 +1516,7 @@
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder (Enemies under {0:triggervalue:straight} Health are killed instantly)</DefaultText>
+      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon Damage in an area around the wielder (Enemies under {0:triggervalue:straight} Health are killed instantly)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,12 +1526,12 @@
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>{0:value:percent} Chance when receiving damage to grant Steadfast to nearby allies</DefaultText>
+      <DefaultText>{0:value:percent} Chance when receiving Damage to grant Steadfast to nearby allies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>642</ID>
-      <DefaultText>{0:value:percent} Chance when receiving damage to grant Steadfast, Resolute, or Courageous to nearby allies</DefaultText>
+      <DefaultText>{0:value:percent} Chance when receiving Damage to grant Steadfast, Resolute, or Courageous to nearby allies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1556,7 +1556,7 @@
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>{0:value:percent} chance when Crit by a Melee weapon to deal {0:extravalue:straight} Raw bleed damage per {0:interval} for {0:triggervalue:duration} to the attacker</DefaultText>
+      <DefaultText>{0:value:percent} chance when Crit by a Melee weapon to deal {0:extravalue:straight} Raw bleed Damage per {0:interval} for {0:triggervalue:duration} to the attacker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1566,7 +1566,7 @@
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Deals Raw damage to nearby enemies on scoring Kill</DefaultText>
+      <DefaultText>Deals Raw Damage to nearby enemies on scoring Kill</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1576,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Deals Raw damage per {0:interval} for {0:extravalue:duration} on scoring Crit (damage scales with Cipher's current Focus)</DefaultText>
+      <DefaultText>Deals Raw Damage per {0:interval} for {0:extravalue:duration} on scoring Crit (Damage scales with Cipher's current Focus)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1596,17 +1596,17 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>This shield can be used as a weapon to deal Pierce/Crush damage.</DefaultText>
+      <DefaultText>This shield can be used as a weapon to deal Pierce/Crush Damage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>{0:value:percent} Chance to gain the Brilliant Inspiration when receiving damage</DefaultText>
+      <DefaultText>{0:value:percent} Chance to gain the Brilliant Inspiration when receiving Damage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>Burn damage retaliation Attack when Hit in melee</DefaultText>
+      <DefaultText>Burn Damage retaliation Attack when Hit in melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,7 +1626,7 @@
     </Entry>
     <Entry>
       <ID>676</ID>
-      <DefaultText>{0:value} Accuracy and {0:triggervalue:percent} damage against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
+      <DefaultText>{0:value} Accuracy and {0:triggervalue:percent} Damage against target Race (Stacks {0:extravalue:straight} times)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1661,7 +1661,7 @@
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>Variable Raw damage to self to restore a proportional level wizard spell resource</DefaultText>
+      <DefaultText>Variable Raw Damage to self to restore a proportional level wizard spell resource</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,12 +1676,12 @@
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to deal Raw damage to nearby enemies after a short delay</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to deal Raw Damage to nearby enemies after a short delay</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>When taking damage, gain {0:value} Armor Rating against that damage type for {0:extravalue:duration} (Removes all other bonuses from Memory Material)</DefaultText>
+      <DefaultText>When taking Damage, gain {0:value} Armor Rating against that Damage type for {0:extravalue:duration} (Removes all other bonuses from Memory Material)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>{0:value:percent} chance on scoring Crit to leave a seal that deals Raw damage to enemies</DefaultText>
+      <DefaultText>{0:value:percent} chance on scoring Crit to leave a seal that deals Raw Damage to enemies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1721,7 +1721,7 @@
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Fires 3 projectiles but has decreased damage and Penetration</DefaultText>
+      <DefaultText>Fires 3 projectiles but has decreased Damage and Penetration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>{0:value:percent} chance to deal minor Crush damage and Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
+      <DefaultText>{0:value:percent} chance to deal minor Crush Damage and Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
