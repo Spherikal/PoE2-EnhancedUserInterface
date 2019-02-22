@@ -153,7 +153,7 @@ Weakened characters are at -5 Con and all incoming healing is reduced by half.&l
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>A Crit is any attack roll that is [Crit Min Roll] or above. A Crit that does damage increases the total damage done by 25% and the Penetration of the attack by 50%. A Crit on effects with a duration (typically afflictions like Sickened or Paralyzed) will increase the duration by 25%.</DefaultText>
+      <DefaultText>A Crit is any attack roll that is [Crit Min Roll] or above. A Crit that does Damage increases the total Damage done by 25% and the Penetration of the attack by 50%. A Crit on effects with a duration (typically afflictions like Sickened or Paralyzed) will increase the duration by 25%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@ E.g. wood elves have Resistance to Dexterity Afflictions. A wood elf hit by an 
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>&lt;line-height=100%&gt;All attacks in Pillars of Eternity compare the attacker's Accuracy value to one of four defenses: Deflection (direct melee and ranged attacks), Fortitude (body system attacks like poison and disease), Reflex (area of effect damage attacks), and Will (mental attacks).
+      <DefaultText>&lt;line-height=100%&gt;All attacks in Pillars of Eternity compare the attacker's Accuracy value to one of four defenses: Deflection (direct melee and ranged attacks), Fortitude (body system attacks like poison and disease), Reflex (area of effect Damage attacks), and Will (mental attacks).
 
 A number between 1 and 100 is generated and added to the difference between Accuracy and defense to determine the attack results. Less than [Graze Min Roll] = Miss, [Graze Min Roll]-[Graze Max Roll] = Graze, [Hit Min Roll]-[Hit Max Roll] = Hit, greater than [Hit Max Roll] = Crit.
 
@@ -203,7 +203,7 @@ By default, only some attacks are capable of Grazing, unless an ability or effec
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;When an attack hits, there is one primary means of mitigating damage: .
+      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;When an attack hits, there is one primary means of mitigating Damage: .
 
 Armor Rating value is usually derived from armor, but many creatures have natural AR or can raise it through the use of magic, Abilities, Talents, or other equipment.
 
@@ -213,7 +213,7 @@ Armor Rating is compared against the  of oncoming attacks to determine the attac
 &lt;b&gt;Partial Penetration&lt;/b&gt; (100% Damage) occurs when Penetration meets or exceeds the target's Armor Rating.
 &lt;b&gt;Under Penetration&lt;/b&gt; (-25% Damage per point under the target's Armor, Max -75%) occurs when Penetration is less than the target's Armor Rating.
 
-Note that many suits of armor and many creatures will grant different Armor Rating values against the different&lt;/xg&gt; Damage Types. &lt;xg&gt;Lower ARs protect less against that type of damage, making the target more vulnerable to attacks of that type.&lt;/xg&gt;&lt;/line-height&gt;</DefaultText>
+Note that many suits of armor and many creatures will grant different Armor Rating values against the different&lt;/xg&gt; Damage Types. &lt;xg&gt;Lower ARs protect less against that type of Damage, making the target more vulnerable to attacks of that type.&lt;/xg&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,9 +239,9 @@ Modal abilities should be changed based on the tactical needs of a combat. For e
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>&lt;line-height=100%&gt;There are eight damage types in Pillars of Eternity: Slash, Pierce, Crush, Burn, Shock, Corrode, Freezing, and Raw. Damage types are used to determine how easily a target resists damage of that type based on their Armor Rating. A creature or suit of armor may be very resistant to one type of damage but quite vulnerable to another.
+      <DefaultText>&lt;line-height=100%&gt;There are eight Damage types in Pillars of Eternity: Slash, Pierce, Crush, Burn, Shock, Corrode, Freezing, and Raw. Damage types are used to determine how easily a target resists Damage of that type based on their Armor Rating. A creature or suit of armor may be very resistant to one type of Damage but quite vulnerable to another.
 
-Some weapons or attacks may do multiple damage types or list an "or" between their damage types. When an "or" is listed, the attack will always do the damage type that the target is most vulnerable to. Raw damage is the only damage type that ignores all Armor Rating and is generally associated with poisons and similar effects. &lt;/line-height&gt;</DefaultText>
+Some weapons or attacks may do multiple Damage types or list an "or" between their Damage types. When an "or" is listed, the attack will always do the Damage type that the target is most vulnerable to. Raw Damage is the only Damage type that ignores all Armor Rating and is generally associated with poisons and similar effects. &lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,11 +280,11 @@ A Distracted character has -5 Perception and is considered Flanked.&lt;/line-hei
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>&lt;line-height=100%&gt;When a damaging attack hits a target, the attack's &lt;b&gt;Penetration&lt;/b&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt; is compared to the target's  to determine how much damage gets through.
+      <DefaultText>&lt;line-height=100%&gt;When a damaging attack hits a target, the attack's &lt;b&gt;Penetration&lt;/b&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt; is compared to the target's  to determine how much Damage gets through.
 
-Penetration comes from the weapon or spell that is being used, but can be raised through the use of magic, Abilities, Talents, or weapon enchantments. Penetration is compared to the Armor Rating&lt;sprite="Inline" name="cs_ar" tint=1&gt; of the attack's damage type. E.g. A Fireball will always check Penetration against Burn Armor Rating.
+Penetration comes from the weapon or spell that is being used, but can be raised through the use of magic, Abilities, Talents, or weapon enchantments. Penetration is compared to the Armor Rating&lt;sprite="Inline" name="cs_ar" tint=1&gt; of the attack's Damage type. E.g. A Fireball will always check Penetration against Burn Armor Rating.
 
-Raw damage bypasses all armor and does not need to penetrate.
+Raw Damage bypasses all armor and does not need to penetrate.
 
 &lt;margin=2em&gt;&lt;b&gt;Full Penetration&lt;/b&gt; (+30% Damage) - Penetration is twice the target's Armor Rating or more.
 &lt;b&gt;Penetration&lt;/b&gt; (Listed Damage) - Penetration meets or exceeds the target's Armor Rating.
