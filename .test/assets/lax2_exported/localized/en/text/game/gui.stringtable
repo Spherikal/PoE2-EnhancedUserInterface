@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>Combine Crown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Soul Collector</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4431</ID>
+      <DefaultText>Warden of Decay</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4454</ID>
+      <DefaultText>Beast of Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4523</ID>
+      <DefaultText>You have received a missive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4524</ID>
+      <DefaultText>You have received a curious message from Harbinger Vatnir. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Queen's Vindication</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4658</ID>
+      <DefaultText>Fishing Hole</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4659</ID>
+      <DefaultText>Sanctuary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4660</ID>
+      <DefaultText>Secret Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4661</ID>
+      <DefaultText>Ice Sculpture</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4662</ID>
+      <DefaultText>Erstwhile Sculpture</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4663</ID>
+      <DefaultText>Harbingers' Retreat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4664</ID>
+      <DefaultText>Brewmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4665</ID>
+      <DefaultText>Frozen Fishery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4722</ID>
+      <DefaultText>Sickly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina - Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina - Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina - Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina - Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina - Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina - Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>The Beast of Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>Vytmádh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4738</ID>
+      <DefaultText>Pile of Parts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4739</ID>
+      <DefaultText>Altar of Decline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4740</ID>
+      <DefaultText>Rope to Harbingers' Watch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4741</ID>
+      <DefaultText>Use the Relic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4742</ID>
+      <DefaultText>Activate Constructs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4766</ID>
+      <DefaultText>The touch of Rymrgand can leave a kith's soul a source of disease and decay. Sometimes referred to as endings godlike, these unfortunates find the power bestowed by their divine patron attacking not only their own body but the bodies of others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4767</ID>
+      <DefaultText>Endings Godlike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Mikeke the Temperate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Pool of Lost Memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Portal to the Shattered Passage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Throne of Rising Tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4800</ID>
+      <DefaultText>The King's Levy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4834</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4835</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Priests of Rymrgand automatically learn the following spells at the appropriate Power Level:
+1. Touch of Rot
+2. Blizzard
+3. Spreading Plague
+4. Noxious Burst
+5. Blast of Frost
+6. Ninagauth's Freezing Pillar
+7. Death Ring
+8. Symbol of &lt;xg&gt;Rymrgand&lt;/xg&gt;
+9. Call of &lt;xg&gt;Rymrgand&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4882</ID>
+      <DefaultText>Harbingers' Watch Descent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4883</ID>
+      <DefaultText>The Rimebound Temple Descent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4884</ID>
+      <DefaultText>Pilgrims' Camp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4885</ID>
+      <DefaultText>Shrine to Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4890</ID>
+      <DefaultText>The Icewall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4899</ID>
+      <DefaultText>Combine Shards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4901</ID>
+      <DefaultText>Combine Shard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4905</ID>
+      <DefaultText>Finality's Claim has been improved and added to the Stash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Execution Posts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4919</ID>
+      <DefaultText>The Drowned Kingdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4920</ID>
+      <DefaultText>The Bridge Ablaze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4921</ID>
+      <DefaultText>The Endless Queries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4922</ID>
+      <DefaultText>Neriscyrlas' Lair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4923</ID>
+      <DefaultText>Altar of Decline</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4924</ID>
+      <DefaultText>Largesse of the Drowned Kingdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4925</ID>
+      <DefaultText>Godsend of the Bridge Ablaze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4926</ID>
+      <DefaultText>Advantage of the Endless Queries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4928</ID>
+      <DefaultText>Workshop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4929</ID>
+      <DefaultText>Rimebound Crypt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>Snow Bear Den</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4931</ID>
+      <DefaultText>Vatnir's Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4933</ID>
+      <DefaultText>Tip of the Iceberg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4938</ID>
+      <DefaultText>Ascent to Outcrop on High</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4944</ID>
+      <DefaultText>Thaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4945</ID>
+      <DefaultText>Void Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4946</ID>
+      <DefaultText>Godhammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>Iovara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4948</ID>
+      <DefaultText>Maerwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4954</ID>
+      <DefaultText>Harbingers' Dwelling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>Ordhjóma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4960</ID>
+      <DefaultText>The Dead Floe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4961</ID>
+      <DefaultText>Welcome to Harbingers' Watch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Hájo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5017</ID>
+      <DefaultText>&lt;b&gt;Beast of Winter&lt;/b&gt; has been installed. You will automatically begin the first quest of this adventure when you receive a missive from the frozen south after having progressed far enough through Pillars of Eternity II: Deadfire to access the Dead Floe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5298</ID>
+      <DefaultText>Gandhur</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

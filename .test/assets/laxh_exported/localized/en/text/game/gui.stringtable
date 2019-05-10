@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>End Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Action Used</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>{0} per round</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5174</ID>
+      <DefaultText>Action Type</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText>Free</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5177</ID>
+      <DefaultText>Cast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5178</ID>
+      <DefaultText>Turn-Based Mode</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5179</ID>
+      <DefaultText>Free Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5180</ID>
+      <DefaultText>Standard Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5181</ID>
+      <DefaultText>Cast Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5195</ID>
+      <DefaultText>No Movement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Select Game Mode</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5200</ID>
+      <DefaultText>Real-Time with Pause Mode</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5201</ID>
+      <DefaultText>Turn-Based Mode</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5202</ID>
+      <DefaultText>Turn-Based Mode provides an alternate form of play where characters act on their turn during each round of combat.
+
+•&lt;indent=2.5em&gt;Alternate mode of play.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Highlights tactical combat elements.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Provides a comfortably paced experience.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recommended for players that enjoy turn-based games.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5203</ID>
+      <DefaultText>Real-Time with Pause is the classic Deadfire game mode where combat progresses in real-time.
+
+•&lt;indent=2.5em&gt;Classic mode of play.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Faster action-oriented combat.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Pause is available at any time to assist with pacing.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recommended for players that enjoy classic RTwP experiences.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Available Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5206</ID>
+      <DefaultText>Available Movement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5207</ID>
+      <DefaultText>Current Round</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5208</ID>
+      <DefaultText>Next Round</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5229</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5230</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative with ranged weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5231</ID>
+      <DefaultText>{0:Value:InvertPercentBonus} Ranged Initiative when moving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5232</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative with items</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5233</ID>
+      <DefaultText>{0:Value:PercentBonus} Weapon Initiative when dual-wielding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5234</ID>
+      <DefaultText>{0} Reload Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5235</ID>
+      <DefaultText>Choose Real-Time with Pause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5236</ID>
+      <DefaultText>Choose Turn-Based</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5237</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5239</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Characters can only act on their turns.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recovery Time becomes “Initiative” – Lower Initiative means acting earlier in a round.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Reload Time modifies “Initiative” and these weapons will reload between turns.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Spells with longer cast times will complete their cast at a later point in the turn order.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Dual Wield auto-attacks are now Full-Attacks and no longer affect Recovery Time.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Durations are converted to last number of “rounds”.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Effects that tick, pulse, or occur over time have had their potency scaled to match a per-round value.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Magran’s Challenge adds a time limit to turns instead of limiting pausing.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Party Member AI and Re-targeting are disabled.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5240</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Characters can all act simultaneously.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Pause is available to give more time for difficult decisions.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Recovery Time mechanic dictates how frequently characters can perform actions.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Durations of effects count down in real-time.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Party Member AI is available to help automate character actions.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Re-Targeting option is available to change the target location of a spell or ability after it has begun.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5241</ID>
+      <DefaultText>Toggle End Turn After Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5243</ID>
+      <DefaultText>{0} • {1} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5244</ID>
+      <DefaultText>Enemy Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5245</ID>
+      <DefaultText>Your Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5246</ID>
+      <DefaultText>Friendly Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5247</ID>
+      <DefaultText>Clear next Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5248</ID>
+      <DefaultText>Switching weapon sets is a Free Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5250</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Start with an additional Weapon Set and Weapon Proficiency.
+
+Switching weapons is a Free Action.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Constant &lt;xg&gt;Recovery&lt;/xg&gt; is less effective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5251</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Sneak Attack becomes more deadly and Initiative decreases when the street fighter is Flanked or Bloodied.
+
+Weapon Crit damage increases when the street fighter is both Flanked and Bloodied.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Initiative is penalized when the street fighter is neither Flanked nor Bloodied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5252</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Bonus Hit to Crit conversion when attacking targets greater than 4m away.
+
+Bonus Penetration when attacking targets 4m or closer.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Penalized Initiative.
+
+Lower Deflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5253</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Conjuration Spells.
+
+Gain "Conjure Familiar" spell: Summons a helpful creature to aid the wizard. Familiars are poor at combat, but provide passive bonuses to their master.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Evocation and Illusion schools.
+Increased Initiative for Wizard Spells not of the Conjuration School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5254</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Enchanting Spells.
+
+Gain "Free Action" passive: Once per encounter, when the wizard is affected by a Dexterity Affliction, they will clear that effect and become temporarily immune to Dexterity Afflictions.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Illusion and Transmutation schools.
+
+Increased Initiative for Wizard Spells not of the Enchanting School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5255</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Evocation Spells.
+
+Your evocation spells have a small chance to "Doublecast", reapplying their damage and effects to their targets again, instantly.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Transmutation and Conjuration schools.
+
+Increased Initiative for Wizard Spells not of the Evocation School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5256</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Illusion Spells.
+
+Gain "Reflexive Mirror" passive: Once per encounter, when first attacked, automatically gain the effects of the spell "Mirrored Image".
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Conjuration and Enchanting schools.
+
+Increased Initiative for Wizard Spells not of the Illusion School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5257</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain increased Power Level with Transmutation Spells.
+
+Gain "Form of the Fearsome Brute" spell: Transforms the wizard into an Ogre. While in this form, spells are disabled, but physical attributes are increased.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Lose access to spells from Enchanting and Evocation schools.
+
+Increased Initiative for Wizard Spells not of the Transmutation School.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5267</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Duration of hostile effects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5268</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Duration of Beneficial Effects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5269</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} {0:AfflictionType} affliction duration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5280</ID>
+      <DefaultText>In turn-based mode, party turns pass automatically after {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5304</ID>
+      <DefaultText>Delay Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Not Your Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Center on Enemy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Center the camera on party members when their turn starts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5309</ID>
+      <DefaultText>Center the camera on enemies when their turn starts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5310</ID>
+      <DefaultText>Center on Friendly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5311</ID>
+      <DefaultText>Center the camera on friendly characters when their turn starts.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

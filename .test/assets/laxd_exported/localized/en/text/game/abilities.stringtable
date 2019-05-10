@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4644</ID>
+      <DefaultText>Saving Fate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4646</ID>
+      <DefaultText>Many Formed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4647</ID>
+      <DefaultText>At the start of each combat, the Necklace of Unlocked Possibilities morphs and transforms into random magical weapon, replacing the wearer's primary weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4650</ID>
+      <DefaultText>The Power of Money</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4651</ID>
+      <DefaultText>Linked in Flames</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4652</ID>
+      <DefaultText>Roll the Bones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4653</ID>
+      <DefaultText>Lockdown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4654</ID>
+      <DefaultText>The prisoner is isolated from the world, leaving them unable to act, but also unable to be affected by outside parties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4655</ID>
+      <DefaultText>Village Fool</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4656</ID>
+      <DefaultText>The wearer invites laughter from all around them, granting all friends and foes immunity to Resolve afflictions but also reducing their Deflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4657</ID>
+      <DefaultText>Dawn's Reflection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4658</ID>
+      <DefaultText>The colors of the collar shine brightly, granting the wearer a chance to reflect spells during the day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4660</ID>
+      <DefaultText>Midnight Wish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4661</ID>
+      <DefaultText>Lone Traveler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4662</ID>
+      <DefaultText>When not near allies, the wearer gains a bonus to all Defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4663</ID>
+      <DefaultText>Impoverished</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4664</ID>
+      <DefaultText>Sun's Blessing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4666</ID>
+      <DefaultText>Vial of Starlight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4668</ID>
+      <DefaultText>Child's Knight Doll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4670</ID>
+      <DefaultText>Deck of Endless Possibilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4688</ID>
+      <DefaultText>Time is rewound, allowing the wearer to revive from unconsciousness without injury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4757</ID>
+      <DefaultText>Shadow Form</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4758</ID>
+      <DefaultText>The wearer's killing blows cause them to become invisible for a short duration, granting them a means to escape or strike again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4895</ID>
+      <DefaultText>Increases the wearer's Hit to Crit Chance based on the party's current wealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4897</ID>
+      <DefaultText>Increases the wearer's Resolve when the party has little currency.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4146</ID>
+      <DefaultText>Protection of the Godhammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>While Near Death, the wearer gains bonus Armor and deals Burn Damage to melee attackers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Fealty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4372</ID>
+      <DefaultText>Life Through Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4373</ID>
+      <DefaultText>Final Flame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4374</ID>
+      <DefaultText>Quick to Rebel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Corrosive Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4457</ID>
+      <DefaultText>Absorb Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4459</ID>
+      <DefaultText>Soul Shred</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4460</ID>
+      <DefaultText>Release Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4461</ID>
+      <DefaultText>Release Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4462</ID>
+      <DefaultText>Creeping Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4463</ID>
+      <DefaultText>Icy Shards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4464</ID>
+      <DefaultText>Shatter Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Chilling Mist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>Frozen Blast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4471</ID>
+      <DefaultText>Deep Freeze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4472</ID>
+      <DefaultText>Breath of the Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>Oblivion's Call</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4479</ID>
+      <DefaultText>Time Dilation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>Consuming Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4484</ID>
+      <DefaultText>Tear Reality</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>Glimpse the Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Crushing Demise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4490</ID>
+      <DefaultText>Demolish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4491</ID>
+      <DefaultText>Violent Collapse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Oblivion's Grasp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4499</ID>
+      <DefaultText>Call to Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4500</ID>
+      <DefaultText>Winter's Chill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4501</ID>
+      <DefaultText>Footsteps of the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4508</ID>
+      <DefaultText>Heat Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4513</ID>
+      <DefaultText>Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4526</ID>
+      <DefaultText>Scatter Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4540</ID>
+      <DefaultText>Immunity: Acid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4541</ID>
+      <DefaultText>Reconstruct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4565</ID>
+      <DefaultText>Reconstruction - Cloth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4585</ID>
+      <DefaultText>Lost in Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Reconstruction - Plate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4675</ID>
+      <DefaultText>Entropy Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4676</ID>
+      <DefaultText>Ice seals the joints of the armor, granting the wearer a bonus to Armor but Immobilizing them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4677</ID>
+      <DefaultText>Adrenaline Rush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4678</ID>
+      <DefaultText>Spread Chaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4692</ID>
+      <DefaultText>Blessing of the Shattered Realms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4693</ID>
+      <DefaultText>Rymsjódda Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4694</ID>
+      <DefaultText>Ekkevít</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4695</ID>
+      <DefaultText>Glacial Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4696</ID>
+      <DefaultText>Brew Battered Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4697</ID>
+      <DefaultText>While followed by Frosty, you gain bonus Freeze Armor and the party's Frost attacks are more accurate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4698</ID>
+      <DefaultText>Shard of Permafrost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Chains of the Shattered Realms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Torrent of the Shattered Realms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Plagued Strength</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4716</ID>
+      <DefaultText>Frostbitten Palisades</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>(Frostbitten Palisades) Enemy misses against the wielder have a chance to trigger a retaliation Freeze attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4718</ID>
+      <DefaultText>Rymrgand's Protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Increases the wielder's Deflection, but also increases the duration of any hostile effects on the wielder. Can only be used while suffering from a hostile effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Glacial Momentum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>While the wielder is Afflicted, the Wintertide Bulwark hardens, increasing the chance that enemy Grazes becomes Misses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4722</ID>
+      <DefaultText>Chaos Strike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>The wielder channels Rymrgand's energy into a single attack, applying a random Affliction to themselves and the target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4724</ID>
+      <DefaultText>Paralyzed (Frozen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4725</ID>
+      <DefaultText>The wearer is infused with Rymrgand's energy, gaining a bonus to all Defenses while Afflicted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Shambling Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Soul Infused</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>While Afflicted, the wearer's defenses are increased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Spirit Latch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Fireside Bed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Winter's Veil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>The user and their allies become shrouded by the Eye of Rymrgand, granting them Veil-Touched. They take less damage from and can't be critically hit by attacks without the Veil-Piercing keyword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>The user creates a powerful explosion of fire at a location. Enemies caught in the blast take Burn Damage immediately and over time. Allies in the blast are healed immediately and over time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4734</ID>
+      <DefaultText>The user channels, absorbing the defenses of all enemies in an area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>The user traps an enemy in time while speeding time up for themselves. The enemy is locked in place, making them untargetable, while also granting the user a large bonus to Recovery and Stride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>The user inspires rebellion in the enemies around them. These enemies are Charmed for a short duration and have their Might, Constitution, and Dexterity increased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>Never-Ending Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4738</ID>
+      <DefaultText>White Winds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4745</ID>
+      <DefaultText>Plague Host</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4746</ID>
+      <DefaultText>Off-putting to others at the best of times, a wounded endings godlike radiates a miasma of pain and revulsion, Sickening their enemies when bloodied or near death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4747</ID>
+      <DefaultText>Endings godlike suffer constantly under a range of maladies throughout their lives. As a result, they are less impacted by the Afflictions their enemies attempt to inflict on them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4748</ID>
+      <DefaultText>Child of the Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>The wearer points at a foe, Dominating them for a short period of time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>Entropic Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4760</ID>
+      <DefaultText>Unstable Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4761</ID>
+      <DefaultText>Upon detonation, soul energy is violently released, healing all in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4762</ID>
+      <DefaultText>Corrosive Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4763</ID>
+      <DefaultText>Compassionate Soul Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>God of entropy, cold, winter, bad luck, famine, and natural disasters. Manifests as a giant albino aurochs, moving amidst a great blizzard, and in the plodding footsteps of Rymrgand come death and disintegration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4766</ID>
+      <DefaultText>Call of Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4767</ID>
+      <DefaultText>The priest calls upon Rymrgand, creating an opening to the White Void. The area pulses periodically, drawing in all nearby while dealing Freeze Damage and lowering the duration of all beneficial effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText>Symbol of Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
+      <DefaultText>Emblazons the ground with the symbol of Rymrgand, periodically causing Freeze damage to enemies and leaving them Frightened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4770</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Priests of Rymrgand automatically learn the following spells at the appropriate Power Level:
+1. Touch of Rot
+2. Blizzard
+3. Spreading Plague
+4. Noxious Burst
+5. Blast of Frost
+6. Ninagauth's Freezing Pillar
+7. Death Ring
+8. Symbol of &lt;xg&gt;Rymrgand&lt;/xg&gt;
+9. Call of &lt;xg&gt;Rymrgand&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>The user unleashes the corrosive breath of Neriscyrlas, dealing Corrode Damage and causing Frightened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>The user releases a blast of acid, dealing Corrode damage and causing Frightened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4784</ID>
+      <DefaultText>Upon falling Unconscious, the wearer revives and is healed. The amount healed increases with the wielder's Religion skill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4785</ID>
+      <DefaultText>Beast of Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4786</ID>
+      <DefaultText>The wearer's footsteps leave the ground icy beneath them, Hobbling enemies who enter the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4787</ID>
+      <DefaultText>The wearer channels any latent energy, gaining a bonus to Action Speed, but also gaining Weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4788</ID>
+      <DefaultText>While suffering from an Affliction, the wearer heals slowly over time and receives a bonus to their Might, Constitution, and Dexterity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4789</ID>
+      <DefaultText>Time Dilation I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4790</ID>
+      <DefaultText>While engaged, everyone around the wearer is slowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4791</ID>
+      <DefaultText>Time Dilation II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4792</ID>
+      <DefaultText>(Time Dilation II) Everyone around the wearer is slowed by a greater amount.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4793</ID>
+      <DefaultText>Time Dilation III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4794</ID>
+      <DefaultText>(Time Dilation III) Everyone around the wearer is slowed by an even greater amount.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>Glacial Swipe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Snow Maul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Fur of Frost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Whiteout Roar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4825</ID>
+      <DefaultText>While Fjord is following the party, you have increased Constitution and the party deals additional Frost Damage with each melee attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Rightful Vengeance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Supreme Fealty</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
