@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>32</EntryCount>
+  <EntryCount>33</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
@@ -162,6 +162,11 @@
     <Entry>
       <ID>722</ID>
       <DefaultText>{0:value:percent} chance when Hit with a weapon to receive a random Tier 1 Inspiration for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Stunned for {0:extravalue:duration} every {0:interval}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

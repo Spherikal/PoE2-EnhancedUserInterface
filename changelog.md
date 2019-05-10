@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### Version 1.6.5
+- Updated the mod for game version 5.0.
+- Fixed an graphical glitch with the Health icons. They *should* work properly now but please let me know if you run into any issues.
+
 ### Version 1.6.2
 - Updated the mod for game version 4.1.2.
 - Fixed a few spelling errors in a couple ability descriptions.

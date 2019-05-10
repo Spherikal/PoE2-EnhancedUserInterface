@@ -589,7 +589,7 @@ By default, only some attacks are capable of Grazing, unless an ability or effec
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>A Miss is any attack roll below 25. A Miss does no damage and inflicts no status effects or afflictions.</DefaultText>
+      <DefaultText>A Miss is any attack roll below [Graze Min Roll]. A Miss does no damage and inflicts no status effects or afflictions.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

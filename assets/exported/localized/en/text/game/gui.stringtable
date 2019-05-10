@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4560</EntryCount>
+  <EntryCount>4561</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23340,6 +23340,17 @@ You will have a chance to review the character's Workshop page before making it 
     <Entry>
       <ID>5313</ID>
       <DefaultText>Place how many {0}?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5314</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Linger for Phrases is increased significantly.
+
+Gain "Brisk Recitation" modal that increases the rate that phrases accumulate, but removes the linger.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+All Invocations cost +1 Phrase to cast.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5249</ID>
+      <DefaultText>Open the Book</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5258</ID>
+      <DefaultText>View Details</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5259</ID>
+      <DefaultText>Close Details</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5260</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt; {0}. Parley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5261</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt; {0}. Board</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5262</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_fire" tint=1&gt; {0}. Naval Combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5263</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt; {0}. Intimidate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5264</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt; {0}. Leave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5265</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt; {0}. Attempt to Flee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5266</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; {0}. Surrender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5270</ID>
+      <DefaultText>You Are In Pursuit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5271</ID>
+      <DefaultText>You Are Being Pursued</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5272</ID>
+      <DefaultText>As you ready your ship, a cloaked figure mounts the gangplank and roughly forces a burned book into your hands. They turn and depart without a word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5273</ID>
+      <DefaultText>Request parley and open trade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5274</ID>
+      <DefaultText>Board the enemy ship and engage them in deck-to-deck combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5275</ID>
+      <DefaultText>Engage in naval combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5276</ID>
+      <DefaultText>Success = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}        Failure = &lt;sprite="Inline" name="action_board" tint=1&gt;Board</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5277</ID>
+      <DefaultText>Peacefully go your separate ways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5278</ID>
+      <DefaultText>Attempt to escape. Failure will result in naval combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5279</ID>
+      <DefaultText>The enemy allows you to leave, but for a price.  -&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  -&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   -&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5281</ID>
+      <DefaultText>{0} Chance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5282</ID>
+      <DefaultText>Success!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5287</ID>
+      <DefaultText>The Ultimate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5288</ID>
+      <DefaultText>{0} Surrenders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5289</ID>
+      <DefaultText>You gained:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5290</ID>
+      <DefaultText>Failure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5291</ID>
+      <DefaultText>Your attempt to intimidate has failed! The enemy ship prepares for deck-to-deck combat!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5292</ID>
+      <DefaultText>Success!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5293</ID>
+      <DefaultText>You have successfully escaped your pursuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5294</ID>
+      <DefaultText>Failure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5295</ID>
+      <DefaultText>Your attempt to flee has failed! The enemy ship prepares for naval combat!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5296</ID>
+      <DefaultText>Flee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5297</ID>
+      <DefaultText>For your surrender, [ShipDuel_Opponent] demands:
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5299</ID>
+      <DefaultText>Activates all challenges and disables cheats, mods, and Berath's Blessings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5300</ID>
+      <DefaultText>Requires Beast of Winter/Seeker Slayer Survivor/Forgotten Sanctum to enable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5301</ID>
+      <DefaultText>Must defeat all major enemies and bosses in battle or the game ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5302</ID>
+      <DefaultText>Retreat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5303</ID>
+      <DefaultText>Surrender</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

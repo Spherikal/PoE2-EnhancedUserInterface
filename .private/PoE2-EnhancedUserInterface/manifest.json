@@ -1,18 +1,16 @@
 {
 	"Title": {
-		"en": "Enhanced User Interface",
-		"de": "Enhanced User Interface"
+		"en": "Enhanced User Interface"
 	},
 	"Description": {
-		"en": "This mod makes game mechanics easier to understand by adding color, icons and rank indicators to different parts of the UI.",
-		"de": "This mod makes game mechanics easier to understand by adding color, icons and rank indicators to different parts of the UI."
+		"en": "This mod makes game mechanics easier to understand by adding color, icons and rank indicators to different parts of the UI."
 	},
 	"Author": "Spherikal",
-	"ModVersion": "1.6.2",
+	"ModVersion": "1.6.5",
 	"Url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1510650230",
 	"SteamItemID": 1510650230,
 	"SupportedGameVersion": {
 		"Min": "1.0",
-		"Max": "4.1"
+		"Max": "5.0"
 	}
 }

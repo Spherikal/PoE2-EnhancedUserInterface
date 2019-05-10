@@ -138,7 +138,7 @@ To select the entire party, press the &lt;sprite="Inline" name="ico_selectall" t
       <ID>24</ID>
       <DefaultText>The attack roll is a random number between 1 and 100, to which is added the difference between the attack's Accuracy &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; and the targeted defense &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;. &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. If Accuracy is less than the defense, the attack roll suffers a penalty. If Accuracy is greater than the defense, the attack roll gains a bonus.
 
-A higher final attack roll is always better. 0-24 = Miss, 24-49 = Graze, 50-99 = Hit, 100+ = Crit.</DefaultText>
+A higher final attack roll is always better. [Miss Max Roll] or less = Miss, [Graze Min Roll]-[Graze Max Roll] = Graze, [Hit Min Roll]-[Hit Max Roll] = Hit, [Crit Min Roll]+ = Crit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
