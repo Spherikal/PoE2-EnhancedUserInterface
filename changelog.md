@@ -1,5 +1,11 @@
 ## CHANGELOG
 
+### Version 1.6.6-b1
+- Removed colorization of some text elements (health numbers).
+- Fixed a few spelling mistakes (the paladin/fighter becomes resistant to...)
+- Increased the distance slightly between the health icon and the text that comes after.
+- Removed stylization of "Brilliant Tactician" and "Roguish Charm".
+
 ### Version 1.6.5
 - Updated the mod for game version 5.0.
 - Fixed an graphical glitch with the Health icons. They *should* work properly now but please let me know if you run into any issues.

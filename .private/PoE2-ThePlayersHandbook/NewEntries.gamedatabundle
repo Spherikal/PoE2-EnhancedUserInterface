@@ -5,16 +5,17 @@
         "ID": "ff993339-8db3-4c08-914a-e30f39278fd0",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386380,
+            "TermCyclopedia": 10380,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386381,
+            "DescriptionCyclopedia": 10381,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -22,16 +23,17 @@
         "ID": "6b01e16b-1da7-421b-94b2-849a39677041",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386380,
+            "TermCyclopedia": 10380,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386382,
+            "DescriptionCyclopedia": 10382,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -39,10 +41,11 @@
         "ID": "ad918ee9-8a71-4c59-9562-3728039df3c7",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386383,
+            "TermCyclopedia": 10383,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386384,
+            "DescriptionCyclopedia": 10384,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -56,16 +59,17 @@
         "ID": "5e9bf428-188d-4389-bd08-e4efa75a2a31",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386383,
+            "TermCyclopedia": 10383,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386385,
+            "DescriptionCyclopedia": 10385,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -73,10 +77,11 @@
         "ID": "2b8787f3-2758-4209-99b0-209dc5c80086",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386386,
+            "TermCyclopedia": 10386,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386387,
+            "DescriptionCyclopedia": 10387,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -90,16 +95,17 @@
         "ID": "38dec120-e45a-44e5-8ffe-8f64cb9a1f4c",
         "Components": [{
             "$type": "Game.GameData.GlossaryEntryComponent, Assembly-CSharp",
-            "TermCyclopedia": 322386386,
+            "TermCyclopedia": 10386,
             "TermGui": -1,
-            "DescriptionCyclopedia": 322386388,
+            "DescriptionCyclopedia": 10388,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -111,12 +117,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -128,12 +135,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -145,6 +153,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -162,12 +171,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -179,6 +189,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -196,12 +207,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -213,12 +225,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "false",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -230,12 +243,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -247,6 +261,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -264,12 +279,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -281,6 +297,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -298,12 +315,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -315,6 +333,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -332,12 +351,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -349,6 +369,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -366,12 +387,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -383,6 +405,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -400,12 +423,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }, {
         "$type": "Game.GameData.GlossaryEntryGameData, Assembly-CSharp",
@@ -417,6 +441,7 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "true",
             "CaseSensitive": "false",
@@ -434,12 +459,13 @@
             "TermGui": -1,
             "DescriptionCyclopedia": 0,
             "DescriptionGui": -1,
+            "DescriptionTactical": -1,
             "CategoryID": "6adab416-a5b0-44ac-94ca-5ef64a41c93b",
             "ShowInJournal": "false",
             "CaseSensitive": "false",
             "AutomaticallyAddLinks": "true",
             "LinkedEntriesIDs": [],
-            "ParentObjectID": "333941f1-615c-4493-b7ab-010c00ac3cb6"
+            "ParentObjectID": "103941f1-615c-4493-b7ab-010c00ac3cb6"
         }]
     }]
 }
