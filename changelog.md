@@ -10,6 +10,7 @@
 - Removed alpha levels of the Health icon because it currently breaks the UI.
 - Fixed the item/ability description of Nebula to look a bit better.
 - Fixed two instances of using the wrong code for a non-breaking space.
+- Removed some stylization of an ability due to the text being too crowded.
 
 ### Version 1.6.5
 - Updated the mod for game version 5.0.
