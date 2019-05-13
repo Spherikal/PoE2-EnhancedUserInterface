@@ -1,12 +1,14 @@
 ## CHANGELOG
 
-### Version 1.6.6-b1
+### Version 1.6.6-b3
 - Removed colorization of some text elements (health numbers).
 - Fixed a few spelling mistakes (the paladin/fighter becomes resistant to...)
 - Increased the distance slightly between the health icon and the text that comes after.
 - Removed stylization of "Brilliant Tactician" and "Roguish Charm".
 - Fixed two cases of unclosed <line-height> tags.
 - Fixed two cases of using "<" instead of ">".
+- Removed alpha levels of the Health icon because it currently breaks the UI.
+- Fixed the item/ability description of Nebula to look a bit better.
 
 ### Version 1.6.5
 - Updated the mod for game version 5.0.
