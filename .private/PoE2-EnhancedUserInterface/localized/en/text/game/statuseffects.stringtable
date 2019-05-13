@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>&lt;line-height=100%&gt;Ability triggers when wearer becomes &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;/color&gt;&lt;/link&gt;</DefaultText>
+      <DefaultText>Ability triggers when wearer becomes &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Bloodied&lt;/color&gt;&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0:triggercount} &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Near Death&lt;/color&gt;&lt;/link&gt; target on tick)</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;{0:triggercount} &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; damage per {0:value:duration} for {0:triggervalue:duration} on Hit ({0:extravalue:percent} chance to kill &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Near Death&lt;/color&gt;&lt;/link&gt; target on tick)&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

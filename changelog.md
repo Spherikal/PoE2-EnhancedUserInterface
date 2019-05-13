@@ -5,6 +5,8 @@
 - Fixed a few spelling mistakes (the paladin/fighter becomes resistant to...)
 - Increased the distance slightly between the health icon and the text that comes after.
 - Removed stylization of "Brilliant Tactician" and "Roguish Charm".
+- Fixed two cases of unclosed <line-height> tags.
+- Fixed two cases of using "<" instead of ">".
 
 ### Version 1.6.5
 - Updated the mod for game version 5.0.
