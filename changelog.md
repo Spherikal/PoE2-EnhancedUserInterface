@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### Version 1.6.6-b3
+### Version 1.6.6-b4
 - Removed colorization of some text elements (health numbers).
 - Fixed a few spelling mistakes (the paladin/fighter becomes resistant to...)
 - Increased the distance slightly between the health icon and the text that comes after.
