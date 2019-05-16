@@ -3,14 +3,15 @@
 ### Version 1.6.6-b5
 - Removed colorization of some text elements (health numbers).
 - Fixed a few spelling mistakes (the paladin/fighter becomes resistant to...)
-- Increased the distance slightly between the health icon and the text that comes after.
-- Removed stylization of "Brilliant Tactician" and "Roguish Charm".
+- Increased the distance slightly between the text and the health icon.
+- Removed erroneous stylization of "Brilliant Tactician" and "Roguish Charm".
 - Fixed two cases of unclosed <line-height> tags.
 - Fixed two cases of using "<" instead of ">".
 - Removed alpha levels of the Health icon because it currently breaks the UI.
 - Fixed the item/ability description of Nebula to look a bit better.
 - Fixed two instances of using the wrong code for a non-breaking space.
-- Removed some stylization of an ability due to the text being too crowded.
+- Removed some stylization of an ability due to the text being "too crowded".
+- Added a missing "<" in two entries, should fix a issue with the "Blind" and "Disoriented" affliction tooltips.
 
 ### Version 1.6.5
 - Updated the mod for game version 5.0.
