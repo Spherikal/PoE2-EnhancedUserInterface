@@ -4094,7 +4094,7 @@ Priests of Rymrgand automatically learn the following spells at the appropriate 
       <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Restore Discipline when successfully Interrupting an enemy action.
 
-Gain Brilliant Tactician.
+Gain &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brilliant Tactician&lt;/link&gt;.
 
 &lt;b&gt;Penalty&lt;/b&gt;
 &lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;#57baff&gt;Penetration&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Accuracy&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt; is reduced when attacking a target that is not threatened by an ally.
