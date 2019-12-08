@@ -1,4 +1,27 @@
-## CHANGELOG
+# CHANGELOG
+
+## Version 1.7.0
+- Possibly fixed an issue causing the alpha levels of the "Bloodied" keyword to spill over in unintended parts of the UI.
+
+### Version 1.7.1
+- Added links to the ability "Soul Annihilation".
+
+## Version 1.6.0
+- Updated the mod for the new "Turn Based" game mode.
+- Fixed the manifest file that might have caused some errors.
+
+### Version 1.6.1
+- Updated the mod for game version 4.1.1.
+- Edited a cyclopedia entry to reflect the changes to the Graze mechanic that was implemented in game version 4.1.1 (cyclopedia.stringtables).
+
+### Version 1.6.2
+- Updated the mod for game version 4.1.2.
+- Fixed a few spelling errors in a couple ability descriptions.
+- Minor changes to the code.
+
+### Version 1.6.5
+- Updated the mod for game version 5.0.
+- Fixed an graphical glitch with the Health icons. They *should* work properly now but please let me know if you run into any issues.
 
 ### Version 1.6.6-b5
 - Removed colorization of some text elements (health numbers).
@@ -13,38 +36,7 @@
 - Removed some stylization of an ability due to the text being "too crowded".
 - Added a missing "<" in two entries, should fix a issue with the "Blind" and "Disoriented" affliction tooltips.
 
-### Version 1.6.5
-- Updated the mod for game version 5.0.
-- Fixed an graphical glitch with the Health icons. They *should* work properly now but please let me know if you run into any issues.
-
-### Version 1.6.2
-- Updated the mod for game version 4.1.2.
-- Fixed a few spelling errors in a couple ability descriptions.
-- Minor changes to the code.
-
-### Version 1.6.1
-- Updated the mod for game version 4.1.1.
-- Edited a cyclopedia entry to reflect the changes to the Graze mechanic that was implemented in game version 4.1.1 (cyclopedia.stringtables).
-
-### Version 1.6.0
-- Updated the mod for the new "Turn Based" game mode.
-- Fixed the manifest file that might have caused some errors.
-
-### Version 1.5.3
-- Minor fixes to some ability descriptions (abilities.stringtable).
-- Updated for the mod for game version 4.1.
-
-### Version 1.5.2
-- Fixed en Version
-- Updated to Game Version 4.0.0
-- Removed IT, KO, RU
-
-### Version 1.5.1
-- Updated <EntryCount> in all *.stringtable files to match patch 4.0.1.
-- Added the new "DescriptionTactical" tag to custom cyclopeida entries in all *.gamedatabundle files.
-- Added missing translation files (only updated for game version 3.0.2).
-
-### Version 1.5.0
+## Version 1.5.0
 - Updated the mod for game version 4.0 and the latest DLC “The Forgotten Sanctum”.
 - Added some missing stylization of the "Armor Rating" keyword.
 - Removed a wrongly stylized cyclopeida entry (Panthers).
@@ -56,21 +48,21 @@
 - Added color to all weapon dmg types (Blunt, Slash and Pierce now has a brown coloration).
 - Added color to the "Armor Rating" and "Penetration" keywords.
 
-### Version 1.4.5
-- Very minor changes to accommodate the upcoming patch (game version 3.0.1).
-- Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.
-- Removed some "Defenses" stylization in the gui.stringtable file (it became too cluttered).
-- Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
-- Colorized “Mind Afflictions” (#b574d3) and “Body Afflictions” (#d39674).
-- Fixed an issue with a <space> tag that wasn't displaying properly.
-- Added icon and color to all instances of the keyword "Empowered".
-- Added icon and color to all instances of the keywords "Near Death", "Bloodied", "Hurt", "Healthy", and "Unharmed".
+### Version 1.5.1
+- Updated <EntryCount> in all *.stringtable files to match patch 4.0.1.
+- Added the new "DescriptionTactical" tag to custom cyclopeida entries in all *.gamedatabundle files.
+- Added missing translation files (only updated for game version 3.0.2).
 
-### Version 1.4.1
-- Fixed the cyclopedia entry for "Armor Rating", it now display the correct numbers for "under penetration".
-- All instances of &#160; has been replaced with a non-breaking space.
+### Version 1.5.2
+- Fixed en Version
+- Updated to Game Version 4.0.0
+- Removed IT, KO, RU
 
-### Version 1.4.0
+### Version 1.5.3
+- Minor fixes to some ability descriptions (abilities.stringtable).
+- Updated for the mod for game version 4.1.
+
+## Version 1.4.0
 **Bugs and fixes:**
 - Updated all gui.stringtable files to use the standardized ID enumeration for new entries (i.e. `288327XXX`).
 - Harmonized all `manifest.json` files to display the same version number and max version number.
@@ -87,7 +79,21 @@
 **Visual:**
 - Slightly changed how the Health icon is displayed.
 
-### Version 1.3.0
+### Version 1.4.1
+- Fixed the cyclopedia entry for "Armor Rating", it now display the correct numbers for "under penetration".
+- All instances of &#160; has been replaced with a non-breaking space.
+
+### Version 1.4.5
+- Very minor changes to accommodate the upcoming patch (game version 3.0.1).
+- Fixed an issue that was causing the "Near Death" color to bleed into other parts of the UI.
+- Removed some "Defenses" stylization in the gui.stringtable file (it became too cluttered).
+- Removed incorrectly stylized keyword ID 4034 (abilities.stringtable).
+- Colorized “Mind Afflictions” (#b574d3) and “Body Afflictions” (#d39674).
+- Fixed an issue with a <space> tag that wasn't displaying properly.
+- Added icon and color to all instances of the keyword "Empowered".
+- Added icon and color to all instances of the keywords "Near Death", "Bloodied", "Hurt", "Healthy", and "Unharmed".
+
+## Version 1.3.0
 - Added stylization to the `Petrified` and `Frozen` keywords.
 - Added stylization of `Burn Armor Rating` and `Freeze Armor Rating`.
 - Added non-breaking spaces to all instances of the `Armor Rating` keyword.
@@ -106,22 +112,7 @@
 - Lots and lots of bug fixes.
 - Added a few entries not in use at the moment but that might be used by the mod in the near future...
 - Remvoed a few unused cyclopedia entries.
-- Updated the UUID of glossary entry "The Wheel" to fit our new enumeration policy.
-
-### Version 1.2.4
-- Changed all custom entry ID's to something less likely to cause conflicts with other mods.
-- Updated the mod for game version 2.0.1.
-
-### Version 1.2.2
-- Fixed a problem that could prevent any other mods than EnhUI to load properly.
-
-### Version 1.2.1
-- Changed the color of Corrode damage (both icon and text have new colors):
-  `&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;`
-- The cyclopedia entry for "The Wheel" has been re-written by the excellent @commonterry, a huge thanks to him!
-- Fixed a issue that was causing the new damage type cyclopedia entries not to show properly.
-
-### Version 1.2.0
+- Updated the UUID of glossary entry "The Wheel" to fit our new enumeration policy.## Version 1.2.0
 **Aesthetics**
 - Removed all instances of the <b> tag from the mod.
 - Colorized all defense keyword texts to match the color of their icons (Will, Fortitude, Deflection and Reflex).
@@ -150,22 +141,35 @@
 - Added new linked keywords to the cyclopedia entry Berath's Wheel.
 - Linked multiple keywords to the cyclopedia entries The Beyond and In-Between.
 
-### Version 1.1.5
-- Updated German localization for game version 2.0.
-- Updated Italian localization for game version 2.0.
+### Version 1.2.1
+- Changed the color of Corrode damage (both icon and text have new colors):
+  `&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;Corrode&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;`
+- The cyclopedia entry for "The Wheel" has been re-written by the excellent @commonterry, a huge thanks to him!
+- Fixed a issue that was causing the new damage type cyclopedia entries not to show properly.
 
-### Version 1.1.0
-- New icon for the "Health" keyword! All instances of the keyword "Health" should now have a icon next to it's name.
-- Fixed a issue that was causing the game to give a "Version Warning" message when no such warning was warranted.
-- Fixed multiple keyword stylization that were incorrectly applied to entries in abilities.stringtable.
+### Version 1.2.2
+- Fixed a problem that could prevent any other mods than EnhUI to load properly.
+
+### Version 1.2.4
+- Changed all custom entry ID's to something less likely to cause conflicts with other mods.
+- Updated the mod for game version 2.0.1.
+
+### Version 1.0
+- Updated for game version 2.0 among other things.
 
 ### Version 1.0.1
 - Centralized the logo on the thumb.png file.
 - Fixed a few missing entries that were added with the Beast of Winter DLC patch.
 - Added missing italian translation of mod description in the manifest.json file. -Thank you Kilay!
 
-### Version 1.0
-- Updated for game version 2.0 among other things.
+### Version 1.1.0
+- New icon for the "Health" keyword! All instances of the keyword "Health" should now have a icon next to it's name.
+- Fixed a issue that was causing the game to give a "Version Warning" message when no such warning was warranted.
+- Fixed multiple keyword stylization that were incorrectly applied to entries in abilities.stringtable.
+
+### Version 1.1.5
+- Updated German localization for game version 2.0.
+- Updated Italian localization for game version 2.0.
 
 ***
 
