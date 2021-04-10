@@ -2,9 +2,14 @@
 
 ## Version 1.7.0
 - Possibly fixed an issue causing the alpha levels of the "Bloodied" keyword to spill over in unintended parts of the UI.
+- Fixed a entry with some missing text.
 
 ### Version 1.7.1
-- Added links to the ability "Soul Annihilation".
+- Fixed an entry that was added to the wrong file (abilities.stringtable instead of gui.stringtable).
+- Added links to the "Soul Annihilation" ability.
+
+### Version 1.7.2
+- Fixed a bug that was casuing some Perception resistances to somehow show up as Resolve resistances in ability descriptions. The affected ablity descriptions were Pallegina's racial ability "Vigilant Quarry", and Rangers "Faithful Companion" ability. (Thank you V.K. over at Steam for pointing this out.)
 
 ## Version 1.6.0
 - Updated the mod for the new "Turn Based" game mode.
