@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. Download [the latest version](releases) of the mod and find the  `PoE2-EnhancedUserInterface` folder in the .zip file.
+1. Download [the latest version](/releases) of the mod and find the  `PoE2-EnhancedUserInterface` folder in the .zip file.
 2. Go to your `Pillars of Eternity II\PillarsOfEternityII_Data\` directory.
 3. Look for (or create) an `override` folder in your `PillarsOfEternityII_Data` directory.
 The correct file path should look like this: `Pillars of Eternity II\PillarsOfEternityII_Data\override`
