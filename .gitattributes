@@ -6,10 +6,10 @@
 changelog.md export-ignore
 README.md export-ignore
 # other files
-.git/ export-ignore
-.private/ export-ignore
-.public/ export-ignore
-docs/ export-ignore
-game-files/ export-ignore
-images/ export-ignore
+.git/** export-ignore
+.private/** export-ignore
+.public/** export-ignore
+docs/** export-ignore
+game-files/** export-ignore
+images/** export-ignore
 
