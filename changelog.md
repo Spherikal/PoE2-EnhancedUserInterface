@@ -1,6 +1,6 @@
-# CHANGELOG
+## CHANGELOG
 
-## Version 1.7.0
+# Version 1.7.0
 - Possibly fixed an issue causing the alpha levels of the "Bloodied" keyword to spill over in unintended parts of the UI.
 - Fixed a entry with some missing text.
 
@@ -11,7 +11,7 @@
 ### Version 1.7.2
 - Fixed a bug that was casuing some Perception resistances to somehow show up as Resolve resistances in ability descriptions. The affected ablity descriptions were Pallegina's racial ability "Vigilant Quarry", and Rangers "Faithful Companion" ability. (Thank you V.K. over at Steam for pointing this out.)
 
-## Version 1.6.0
+# Version 1.6.0
 - Updated the mod for the new "Turn Based" game mode.
 - Fixed the manifest file that might have caused some errors.
 
@@ -41,7 +41,7 @@
 - Removed some stylization of an ability due to the text being "too crowded".
 - Added a missing "<" in two entries, should fix a issue with the "Blind" and "Disoriented" affliction tooltips.
 
-## Version 1.5.0
+# Version 1.5.0
 - Updated the mod for game version 4.0 and the latest DLC “The Forgotten Sanctum”.
 - Added some missing stylization of the "Armor Rating" keyword.
 - Removed a wrongly stylized cyclopeida entry (Panthers).
@@ -67,7 +67,7 @@
 - Minor fixes to some ability descriptions (abilities.stringtable).
 - Updated for the mod for game version 4.1.
 
-## Version 1.4.0
+# Version 1.4.0
 **Bugs and fixes:**
 - Updated all gui.stringtable files to use the standardized ID enumeration for new entries (i.e. `288327XXX`).
 - Harmonized all `manifest.json` files to display the same version number and max version number.
@@ -98,7 +98,7 @@
 - Added icon and color to all instances of the keyword "Empowered".
 - Added icon and color to all instances of the keywords "Near Death", "Bloodied", "Hurt", "Healthy", and "Unharmed".
 
-## Version 1.3.0
+# Version 1.3.0
 - Added stylization to the `Petrified` and `Frozen` keywords.
 - Added stylization of `Burn Armor Rating` and `Freeze Armor Rating`.
 - Added non-breaking spaces to all instances of the `Armor Rating` keyword.
@@ -159,7 +159,7 @@
 - Changed all custom entry ID's to something less likely to cause conflicts with other mods.
 - Updated the mod for game version 2.0.1.
 
-### Version 1.0
+# Version 1.0
 - Updated for game version 2.0 among other things.
 
 ### Version 1.0.1
