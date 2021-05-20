@@ -4,11 +4,12 @@
 .gitignore export-ignore
 # markdown files
 changelog.md export-ignore
-readme.md export-ignore
+README.md export-ignore
 # other files
-LICENSE export-ignore
-images/ export-ignore
-exported/ export-ignore
-readme2.md export-ignore
-accuracy.md export-ignore
-live/ export-ignore
+.git/
+.private/
+.public/
+docs/
+game-files/
+images/
+
