@@ -24,19 +24,19 @@
 
 ## Installation
 
-1. Download the `v1.0.zip` or `v1.0.tar.gz` file over [here](releases).
+1. Download the latest version of the mod and find the  `PoE2-EnhancedUserInterface
 2. Go to your `Pillars of Eternity II\PillarsOfEternityII_Data\` directory.
 3. Look for (or create) an `override` folder in your `PillarsOfEternityII_Data` directory.
 The correct file path should look like this: `Pillars of Eternity II\PillarsOfEternityII_Data\override`
-4. Extract the `PoE2-EnhancedUserInterface-1.0` folder into your `override` folder.
-6. All done, you can now safely launch the game.
+4. Extract the `PoE2-EnhancedUserInterface` folder into your `override` folder.
+5. All done, the mod should now show up in your mod list in-game.
 
 Once extracted the folder structure should look like this:
 ```
 Pillars of Eternity II
 └─ PillarsOfEternityII_Data
    └─ override
-      └─ PoE2-EnhancedUserInterface-1.0
+      └─ PoE2-EnhancedUserInterface
          ├─ localized
          │  └─ en
          │     └─ text
