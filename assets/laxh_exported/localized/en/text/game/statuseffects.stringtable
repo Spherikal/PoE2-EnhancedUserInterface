@@ -5,18 +5,108 @@
   <EntryCount>21</EntryCount>
   <Entries>
     <Entry>
+      <ID>724</ID>
+      <DefaultText>Scoring Hits with this weapon grants a stacking {0:value:percentbonus} Initiative for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Scoring Hits with this weapon grants a stacking {0:value:percentbonus} Initiative with Melee weapons for {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>{0:value:percentbonus} Initiative on attacker (stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>{0:value:percentbonus} Initiative (stacks {0:extravalue:straight} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} Initiative per {0:skill} skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>729</ID>
-      <DefaultText>&lt;line-height=100%&gt;2 &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; per {0:triggervalue:duration} for {0:extravalue:duration} when Critically Hit (Healing increases as wearer loses &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;#80e27e&gt;Health&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#80e27eEE&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;sprite="Inline" name="cs_health" tint=1 color=#4caf50CC&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt;)&lt;/line-height&gt;</DefaultText>
+      <DefaultText>2 Health per {0:triggervalue:duration} for {0:extravalue:duration} when Critically Hit (Healing increases as wearer loses Health)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} chance to deal minor &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;Crush&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; Damage and &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Stun&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; attacker for {0:extravalue:duration} when Hit with a melee weapon&lt;/line-height&gt;</DefaultText>
+      <DefaultText>{0:value:percent} chance to deal minor Crush Damage and Stun attacker for {0:extravalue:duration} when Hit with a melee weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Gain 6% Hit to Crit every {0:interval} (Effect resets on scoring Crit)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>{0:value:percent} chance to clear Initiative for 2 rounds on scoring Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>{0:value:percent} chance to clear Initiative on scoring Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>{0:value:percentbonus} Initiative with two-handed Melee weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>After Empowering an ability, the wielder's Initiative is cleared</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>{0:value} Resource Cost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Reduces Initiative penalty for armor (varies by Armor Type)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Duration of &lt;xg&gt;Death&lt;/xg&gt; of 1,000 Cuts effects</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>&lt;line-height=100%&gt;Randomly grants {0:value} Armor, {0:value} Bonus &lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;#57baff&gt;Penetration&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, or {0:extravalue:percentbonus} Initiative for a short duration when engaging an enemy.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>Randomly grants {0:value} Armor, {0:value} Bonus Penetration, or {0:extravalue:percentbonus} Initiative for a short duration when engaging an enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>{0:value:percent} Chance for Initiative to be immediately cleared on scoring Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>{0:value:percent} Chance for Initiative to be immediately cleared on scoring Crit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>{0:value:percentbonus} Phrase Linger time</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
