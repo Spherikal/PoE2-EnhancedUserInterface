@@ -4,7 +4,7 @@
 
 ### Credits
 &nbsp;&nbsp;**Spherikal**\
-&nbsp;&nbsp;<sup>Editor and Concept Designer</sup>\
+&nbsp;&nbsp;<sup>Founder and Mod Creator</sup>\
 &nbsp;&nbsp;**Xaratatas**\
 &nbsp;&nbsp;<sup>Programmer and Translator (German)</sup>\
 &nbsp;&nbsp;**Kilay**\
