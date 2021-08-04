@@ -5,7 +5,7 @@
 ### Credits
 &nbsp;&nbsp;**Spherikal**\
 &nbsp;&nbsp;<sup>Editor and Concept Designer</sup>\
-&nbsp;&nbsp;**Xaratatas**
+&nbsp;&nbsp;**Xaratatas**\
 &nbsp;&nbsp;<sup>Programmer and Translator (German)</sup>\
 &nbsp;&nbsp;**Kilay**\
 &nbsp;&nbsp;<sup>Tech Support and Translator (Italian)</sup>\
