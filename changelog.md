@@ -11,6 +11,12 @@
 ### Version 1.7.2
 - Fixed a bug that was casuing some Perception resistances to somehow show up as Resolve resistances in ability descriptions. The affected ablity descriptions were Pallegina's racial ability "Vigilant Quarry", and Rangers "Faithful Companion" ability. (Thank you V.K. over at Steam for pointing this out.)
 
+### Version 1.7.3
+- Fixed a missing colorized keyword in entry 5014 in abilities.stringtable ("Empowered"), thank you 
+Omno25 at NexusMods for pointing this out.
+- Fixed a spelling error in entry 1342 in abilities.stringtables (double usage of the word "Inspiration"), thank you 
+Omno25 at NexusMods for pointing this out.
+
 # Version 1.6.0
 - Updated the mod for the new "Turn Based" game mode.
 - Fixed the manifest file that might have caused some errors.
