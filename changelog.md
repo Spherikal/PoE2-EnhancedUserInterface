@@ -17,6 +17,9 @@ Omno25 at NexusMods for pointing this out.
 - Fixed a spelling error in entry 1342 in abilities.stringtables (double usage of the word "Inspiration"), thank you 
 Omno25 at NexusMods for pointing this out.
 
+### Version 1.7.4
+- Fixed missing </line-height> tag in entry 2291 in gui.stringtable. (Thank you pokara06 for pointing this out!)
+
 # Version 1.6.0
 - Updated the mod for the new "Turn Based" game mode.
 - Fixed the manifest file that might have caused some errors.
